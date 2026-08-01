@@ -250,6 +250,7 @@ export function switchMode(modeId) {
   els.shuffleBtn.classList.toggle('is-hidden', !c.shuffle);
   els['exam-scoreboard'].classList.toggle('is-visible', c.scoreboard);
   els.audioPlayerContainer.classList.toggle('is-hidden', !c.player);
+  syncPlayerGap();
   els.shuffleBtn.setAttribute('aria-pressed', 'false');
 
   els.expandAllBtn.textContent = (modeId === 'mcq' || (modeId === 'mixed-topic' && ui.mixedOptionsVisible))
@@ -383,9 +384,19 @@ function toggleMenu(btn) {
   if (!willOpen) return;
 
   menu.classList.add('show');
+  menu.classList.remove('drop-up');
   btn.setAttribute('aria-expanded', 'true');
   const card = menu.closest('.card');
   if (card) card.classList.add('menu-open');
+
+  // For a card near the bottom of a long list, opening downward would run
+  // the menu off the bottom of the screen. Flip it above the button instead.
+  // (getBoundingClientRect() is 0 in non-layout test environments, which
+  // harmlessly evaluates to "fits" and leaves the menu opening downward.)
+  const rect = menu.getBoundingClientRect();
+  if (rect.bottom > window.innerHeight && rect.height > 0) {
+    menu.classList.add('drop-up');
+  }
 }
 
 async function copyCard(card) {
@@ -783,6 +794,42 @@ function toggleAudioPlayer() {
   body.classList.toggle('show', open);
   btn.classList.toggle('active', open);
   btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+  syncPlayerGap();
+}
+
+/* --------------------------------------------------------------------------
+   Live-site bug: the audio player is `position: fixed`, and the body only
+   ever reserved space for its COLLAPSED height (`--player-height`, a static
+   68px guess). Opening the expanded drawer, or the drawer simply rendering
+   taller than that guess on some device/font-size, made it float on top of
+   whatever card happened to be underneath instead of the page making room.
+
+   Rather than guess a bigger constant, measure the player's real on-screen
+   height and publish it as `--live-player-gap`; base.css takes whichever of
+   that or the static gap is larger. Re-measured on every toggle, resize,
+   orientation change and mode switch, so it tracks reality on any device,
+   font size or text length instead of drifting out of sync again.
+   -------------------------------------------------------------------------- */
+function syncPlayerGap() {
+  const container = els.audioPlayerContainer;
+  if (!container) return;
+
+  if (container.classList.contains('is-hidden')) {
+    document.documentElement.style.setProperty('--live-player-gap', '0px');
+    return;
+  }
+
+  // getBoundingClientRect() on the fixed container itself would NOT include
+  // an absolutely-positioned child (player-body) that extends above it —
+  // out-of-flow descendants don't grow their containing block's own box.
+  // Measure whichever element is currently the topmost visible edge.
+  const topmost = els.playerBody.classList.contains('show') ? els.playerBody : container;
+  const rect = topmost.getBoundingClientRect();
+  // Clamped: environments with no real layout engine (e.g. the jsdom test
+  // suite) report an all-zero rect, which would otherwise publish a bogus
+  // gap the size of the whole viewport.
+  const gap = Math.min(600, Math.max(0, Math.ceil(window.innerHeight - rect.top)) + 16);
+  document.documentElement.style.setProperty('--live-player-gap', `${gap}px`);
 }
 
 /* --- The three delegated listeners --------------------------------------- */
@@ -866,6 +913,16 @@ function wireEvents() {
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'hidden' && !player.playing) releaseAudio();
   });
+
+  // Re-measure the reserved player space on anything that can change it:
+  // rotating the phone, the on-screen keyboard resizing the viewport, a
+  // font-size / zoom change, or text wrapping differently at a new width.
+  let resizeRaf = null;
+  window.addEventListener('resize', () => {
+    if (resizeRaf) cancelAnimationFrame(resizeRaf);
+    resizeRaf = requestAnimationFrame(syncPlayerGap);
+  });
+  window.addEventListener('orientationchange', () => requestAnimationFrame(syncPlayerGap));
 
   on('cloud-updated', handleCloudUpdate);
   on('sync-status', handleSyncStatus);

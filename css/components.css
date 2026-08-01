@@ -333,7 +333,16 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   /* An open card menu must sit above neighbouring cards. */
   z-index: var(--z-base);
 }
-.card.menu-open { z-index: var(--z-card-menu); }
+/* Live-site bug: `content-visibility: auto` implies paint containment, which
+   clips any descendant that paints outside the card's own box — exactly what
+   the absolutely-positioned `.menu-dropdown` does on a short card. Raising
+   z-index alone can't fix that; it's clipping, not stacking order. Cancelling
+   containment on the open card (content-visibility: visible) lets the dropdown
+   paint past the card edge again, on top of every sibling. */
+.card.menu-open {
+  z-index: var(--z-card-menu);
+  content-visibility: visible;
+}
 
 .card-header {
   padding: var(--sp-6);
@@ -560,11 +569,20 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   border-radius: var(--r-lg);
   box-shadow: var(--sh-menu);
   width: min(240px, calc(100vw - 60px));
+  max-height: min(360px, calc(100vh - 90px));
+  overflow-y: auto;
   z-index: var(--z-dropdown);
-  overflow: hidden;
   animation: fadeInUp var(--dur-med) ease-out;
 }
 .menu-dropdown.show { display: block; }
+/* JS flips the menu to open upward (toggleMenu, app.js) when there isn't
+   room below it — e.g. the last few cards in a long list. */
+.menu-dropdown.drop-up { top: auto; bottom: 44px; }
+
+/* Corner rounding moved from the (now scrollable) container onto the first/
+   last item, since `overflow-y: auto` replaced `overflow: hidden` above. */
+.menu-item:first-child { border-top-left-radius: var(--r-lg); border-top-right-radius: var(--r-lg); }
+.menu-item:last-child { border-bottom-left-radius: var(--r-lg); border-bottom-right-radius: var(--r-lg); }
 
 .menu-item {
   padding: var(--sp-4) var(--sp-6);
@@ -997,17 +1015,37 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   background: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: var(--r-3xl);
-  margin-bottom: var(--sp-5);
-  padding: var(--sp-6);
+  margin-bottom: var(--sp-4);
+  /* Bug: this panel was noticeably taller than the persistent bar below it
+     (18px padding + a 12px inter-row gap + a 56px main button, vs. the
+     persistent bar's 10px padding around 44px buttons). Tightened to the
+     same visual rhythm without shrinking any control below the 44px tap
+     target minimum. */
+  padding: var(--sp-4) var(--sp-6);
   flex-direction: column;
-  gap: var(--sp-4);
+  gap: var(--sp-3);
   box-shadow: var(--sh-menu);
 }
 .player-body.show { display: flex; animation: fadeInUp var(--dur-med); }
 
-.player-row { display: flex; justify-content: space-between; align-items: center; width: 100%; gap: var(--sp-2); }
-.player-row--center { justify-content: center; gap: var(--sp-7); }
-.player-status { font-size: var(--fs-xs); color: var(--text-muted); }
+.player-row {
+  display: flex;
+  flex-wrap: nowrap; /* a wrapped status line would silently inflate the panel */
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  gap: var(--sp-2);
+}
+.player-row--center { justify-content: center; gap: var(--sp-6); }
+.player-status {
+  font-size: var(--fs-xs);
+  color: var(--text-muted);
+  min-width: 0;
+  flex: 1 1 auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
 .player-jump { display: flex; gap: var(--sp-2); align-items: center; }
 
 .player-input {
@@ -1045,9 +1083,13 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
 .p-btn-main {
   background: linear-gradient(135deg, var(--accent), var(--accent-dark));
   border: none;
-  width: 56px;
-  height: 56px;
-  font-size: 20px;
+  /* Was 56px — the single biggest contributor to the upper panel's extra
+     height. 52px keeps it clearly the primary action (bigger than the 44px
+     prev/next/stop buttons) while trimming the imbalance. Still well above
+     the WCAG 44px tap-target minimum. */
+  width: 52px;
+  height: 52px;
+  font-size: 19px;
   box-shadow: 0 4px 15px rgba(var(--accent-rgb), 0.6);
   transition: all var(--dur-slow) var(--ease-pop);
 }

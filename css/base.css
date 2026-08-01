@@ -21,15 +21,18 @@ body {
   background-attachment: fixed;
   color: var(--text-main);
   margin: 0;
-  padding: var(--sp-5) var(--sp-5) var(--content-bottom-gap) var(--sp-5);
+  padding: var(--sp-5) var(--sp-5) max(var(--content-bottom-gap), var(--live-player-gap)) var(--sp-5);
   line-height: 1.6;
   -webkit-overflow-scrolling: touch;
   -webkit-font-smoothing: antialiased;
   overscroll-behavior-y: none;
+  transition: padding-bottom var(--dur-slow) ease;
 }
 
 /* The player is hidden in Study Material mode, so the reserved gap shrinks.
-   Replaces the four imperative `document.body.style.paddingBottom` writes.  */
+   Replaces the four imperative `document.body.style.paddingBottom` writes.
+   `--live-player-gap` is reset to 0 whenever the player is hidden (app.js),
+   so this static value always wins here via max(). */
 body[data-mode='material'] {
   padding-bottom: calc(var(--safe-bottom) + 110px);
 }
@@ -107,7 +110,7 @@ h1 {
 .toast-host {
   position: fixed;
   left: 50%;
-  bottom: calc(var(--player-height) + var(--safe-bottom) + var(--sp-8));
+  bottom: max(calc(var(--player-height) + var(--safe-bottom) + var(--sp-8)), calc(var(--live-player-gap) + var(--sp-4)));
   transform: translateX(-50%);
   z-index: var(--z-toast);
   display: flex;

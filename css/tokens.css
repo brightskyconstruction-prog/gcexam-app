@@ -125,5 +125,13 @@
   /* Consumed by body padding so content never hides behind the player.
      Bug #55: the old code set 90/180/240px imperatively from JS.           */
   --content-bottom-gap: calc(var(--player-height) + var(--safe-bottom) + var(--sp-8));
+  /* Live-site bug: the static gap above only ever covered the COLLAPSED
+     player pill. Opening the expanded drawer (player-body) made it float
+     over whatever card happened to be on screen, since no extra space was
+     ever reserved for it. app.js measures the player's actual on-screen
+     height (collapsed or expanded, on every toggle/resize) and writes it
+     here; base.css takes whichever of the two gaps is taller. Defaults to
+     0 so nothing shifts before JS has run a single measurement. */
+  --live-player-gap: 0px;
   --tap-min: 44px; /* WCAG 2.5.5 minimum touch target (bug #72)             */
 }

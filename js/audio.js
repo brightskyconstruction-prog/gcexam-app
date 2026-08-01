@@ -178,20 +178,69 @@ function splitLongText(text) {
   return out;
 }
 
-/* Chrome pauses long queues when the tab loses focus; a periodic
-   resume() keeps the engine alive while we are playing. */
-let keepAlive = null;
+/* --------------------------------------------------------------------------
+   Live-site bug: playback would stop partway through a card while the Play
+   button kept showing "playing". Root cause has two parts:
 
-function startKeepAlive() {
-  stopKeepAlive();
-  keepAlive = setInterval(() => {
-    if (!player.playing || player.paused) return;
-    if (synth && synth.speaking && !synth.paused) { synth.pause(); synth.resume(); }
-  }, 10000);
+   1. This module used to call `synth.pause(); synth.resume();` on a blind
+      10-second interval as a workaround for a documented DESKTOP Chrome bug
+      (long queues silently pausing after ~15s). On Android/mobile Chrome,
+      forcing a pause+resume on a utterance that is already speaking is
+      considerably less reliable and can itself drop the utterance — which
+      lines up with reports of playback dying "after a short time" (close to
+      that 10s mark). It has been replaced with a *read-only* guard below
+      that never calls pause() itself, only resume() and only when the
+      browser reports it already paused unexpectedly.
+
+   2. There was no way to notice the engine had gone silent without firing
+      `onend`/`onerror` at all — a real, widely-reported SpeechSynthesis
+      failure mode (screen lock, the OS reclaiming the native TTS service,
+      audio focus loss from another app, etc). Every utterance now carries
+      its own watchdog timeout sized to its own text; if it fires, we know
+      something went wrong even though the browser never told us, and we
+      recover instead of leaving the UI stuck. A circuit breaker stops
+      playback with a clear message after repeated failures so a genuinely
+      broken engine can't retry forever.
+   -------------------------------------------------------------------------- */
+
+let stallCount = 0;
+const MAX_CONSECUTIVE_STALLS = 3;
+
+/* Module-scoped (not per-closure) so stopAudio()/pauseAudio() can always
+   cancel whatever watchdog is outstanding, instead of leaving a harmless but
+   pointless timer to fire on its own up to 30s later. Only one speech chain
+   is ever active at a time (the `speechToken` guard enforces that), so a
+   single shared reference is safe. */
+let activeWatchdog = null;
+function clearActiveWatchdog() {
+  if (activeWatchdog) { clearTimeout(activeWatchdog); activeWatchdog = null; }
 }
 
-function stopKeepAlive() {
-  if (keepAlive) { clearInterval(keepAlive); keepAlive = null; }
+/* Read-only nudge for the desktop "silently paused itself" bug. Never calls
+   pause() — only resumes a browser-initiated pause we didn't ask for. */
+let watchGuard = null;
+
+function startWatchGuard() {
+  stopWatchGuard();
+  watchGuard = setInterval(() => {
+    if (!player.playing || player.paused || !synth) return;
+    if (synth.paused) {
+      try { synth.resume(); } catch (_) {}
+    }
+  }, 5000);
+}
+
+function stopWatchGuard() {
+  if (watchGuard) { clearInterval(watchGuard); watchGuard = null; }
+}
+
+/* How long to wait for onend/onerror before assuming the engine stalled.
+   Generous on purpose — this only ever fires on a genuine failure, so a
+   false trigger (cutting off real speech) is far worse than firing late. */
+function stallTimeoutFor(text, rate) {
+  const perChar = 180; // ms/char at 1x, comfortably slower than any real voice
+  const estimate = 4000 + (String(text).length * perChar) / Math.max(0.25, rate || 1);
+  return Math.min(30000, estimate);
 }
 
 function speakChunks(chunks, token, onComplete) {
@@ -208,7 +257,7 @@ function speakChunks(chunks, token, onComplete) {
 
   function next() {
     if (!player.playing || token !== speechToken) return;
-    if (i >= queue.length) { onComplete(); return; }
+    if (i >= queue.length) { stallCount = 0; onComplete(); return; }
 
     const chunk = queue[i];
     const u = new SpeechSynthesisUtterance(chunk.text + '.');
@@ -219,6 +268,13 @@ function speakChunks(chunks, token, onComplete) {
     if (chunk.type === 'a' && chunk.text.length > 60) rate = Math.max(0.25, ui.speechRate * 0.9);
     u.rate = rate;
 
+    const advance = (pause) => {
+      clearActiveWatchdog();
+      stallCount = 0; // a clean completion resets the failure count
+      i += 1;
+      setTimeout(next, pause);
+    };
+
     u.onend = () => {
       if (!player.playing || token !== speechToken) return;
       let pause = 300;
@@ -226,8 +282,7 @@ function speakChunks(chunks, token, onComplete) {
       else if (chunk.type === 'lead') pause = 100;
       else if (chunk.type === 'a') pause = 1500;       // time to memorise the answer
       else if (chunk.type === 'src') pause = 1000;
-      i += 1;
-      setTimeout(next, pause);
+      advance(pause);
     };
 
     /* Bug (audit note on 19184): synth.cancel() fires onerror for every queued
@@ -236,8 +291,7 @@ function speakChunks(chunks, token, onComplete) {
     u.onerror = (event) => {
       if (!player.playing || token !== speechToken) return;
       if (event && (event.error === 'canceled' || event.error === 'interrupted')) return;
-      i += 1;
-      setTimeout(next, 100);
+      advance(100);
     };
 
     const shown = player.index + 1;
@@ -245,7 +299,33 @@ function speakChunks(chunks, token, onComplete) {
     else if (chunk.type === 'src') setStatus(`Q${shown}: Source...`);
     else setStatus(`Reading Q${shown} (${formatRate(ui.speechRate)})`);
 
-    try { synth.speak(u); } catch (err) { console.error('speak failed', err); }
+    clearActiveWatchdog();
+    activeWatchdog = setTimeout(() => {
+      // onend/onerror never fired — the engine went silent without telling
+      // us. Recover instead of leaving `player.playing` (and the Play
+      // button) stuck showing "playing" forever.
+      if (!player.playing || token !== speechToken) return;
+      stallCount += 1;
+      console.warn(`[audio] speech stalled on "${chunk.text.slice(0, 40)}…" (attempt ${stallCount})`);
+
+      if (stallCount > MAX_CONSECUTIVE_STALLS) {
+        stopAudio();
+        toast('Playback was interrupted and could not continue. Press Play to try again.', 'error', 4500);
+        return;
+      }
+
+      try { synth.cancel(); } catch (_) {}
+      // Retry the same chunk rather than skipping content the user hasn't
+      // actually heard yet.
+      setTimeout(next, 250);
+    }, stallTimeoutFor(chunk.text, rate));
+
+    try {
+      synth.speak(u);
+    } catch (err) {
+      console.error('speak failed', err);
+      advance(200);
+    }
   }
 
   next();
@@ -317,9 +397,25 @@ export function playAudio() {
   if (player.paused && synth.paused) {
     player.paused = false;
     player.playing = true;
+    const resumeToken = speechToken; // still the same chain — not bumped
     synth.resume();
     setPlayButton(true);
-    startKeepAlive();
+    startWatchGuard();
+
+    // Some engines silently fail to actually resume a paused utterance (the
+    // documented root cause of bug #16) — synth.paused stays stuck `true`
+    // even though we just asked it to resume. If that's still the case a
+    // moment later, treat it as a stall and recover by re-reading the
+    // current card, rather than leaving the UI showing "playing" over
+    // silence indefinitely.
+    setTimeout(() => {
+      if (!player.playing || player.paused || speechToken !== resumeToken) return;
+      if (synth.paused) {
+        console.warn('[audio] resume() did not restart speech — re-reading the current card');
+        speechToken += 1;
+        readAt(player.index, speechToken);
+      }
+    }, 2500);
     return;
   }
 
@@ -329,10 +425,11 @@ export function playAudio() {
 
   player.playing = true;
   player.paused = false;
+  stallCount = 0;
   setPlayButton(true);
   speechToken += 1;
   synth.cancel();
-  startKeepAlive();
+  startWatchGuard();
   readAt(player.index, speechToken);
 }
 
@@ -343,7 +440,8 @@ export function pauseAudio() {
   try { synth.pause(); } catch (_) {}
   setPlayButton(false);
   setStatus('Paused');
-  stopKeepAlive();
+  stopWatchGuard();
+  clearActiveWatchdog();
 }
 
 export function togglePlay() {
@@ -359,7 +457,9 @@ export function stopAudio() {
   setPlayButton(false);
   clearHighlight();
   setStatus('Stopped');
-  stopKeepAlive();
+  stallCount = 0;
+  stopWatchGuard();
+  clearActiveWatchdog();
 }
 
 /** Bug #32: skipping back from the first card is a no-op with feedback. */
@@ -372,6 +472,7 @@ export function skip(dir) {
   if (next >= items.length) { stopAudio(); toast('Reached the end of the list.'); return; }
 
   speechToken += 1;
+  stallCount = 0;
   if (synth) { try { synth.cancel(); } catch (_) {} }
   player.index = next;
   player.paused = false;
@@ -409,6 +510,7 @@ export function jumpToNumber(rawValue) {
   player.paused = false;
   setPlayButton(true);
   speechToken += 1;
+  startWatchGuard(); // stopAudio() above stopped it; jumping resumes playback
   readAt(player.index, speechToken);
 }
 
