@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<!-- Bug #68: pinch-zoom restored (WCAG 1.4.4). viewport-fit powers the
+     env(safe-area-inset-*) values used by the player and modals. -->
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Study companion for the Georgia general contractor licence exam: 2,498 questions across book topics, MCQs, mixed topics, key tables and your own notes.">
+<meta name="theme-color" content="#0f172a">
+<meta name="color-scheme" content="dark">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="GC Exam">
+<meta name="mobile-web-app-capable" content="yes">
+
+<title>GC Exam Master</title>
+
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+
+<link rel="stylesheet" href="css/tokens.css">
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/components.css">
+</head>
+<body data-mode="flashcard">
+
+<div class="container">
+  <header>
+    <h1>GC Exam Master</h1>
+    <p class="subtitle">S2 Edition</p>
+    <p class="sync-status" id="syncStatus" data-state="connecting" role="status" aria-live="polite">⏳ Connecting…</p>
+  </header>
+
+  <section id="exam-scoreboard" aria-labelledby="scoreTitle">
+    <h2 class="score-title" id="scoreTitle">Exam Performance</h2>
+    <p class="score-value" id="scoreValue" aria-live="polite">0 / 0 correct (0%)</p>
+    <p class="score-progress" id="scoreProgress">0 of 0 answered</p>
+    <p class="level-badge" id="levelBadge" data-level="none">Ready to Start</p>
+  </section>
+
+  <div class="top-controls">
+    <!-- ============ Mode bar ============ -->
+    <nav class="control-row control-row--modes" aria-label="Study mode">
+      <button type="button" class="btn primary" id="btn-flash"     data-action="switch-mode" data-mode="flashcard"        aria-pressed="true">📖 Book Topics QA</button>
+      <button type="button" class="btn"         id="btn-mcq-study" data-action="switch-mode" data-mode="mcq-study"        aria-pressed="false">📖 Study QA</button>
+      <button type="button" class="btn mixed"   id="btn-mixed"     data-action="switch-mode" data-mode="mixed-topic"      aria-pressed="false">📑 Mixed Topic</button>
+      <button type="button" class="btn"         id="btn-mcq"       data-action="switch-mode" data-mode="mcq"              aria-pressed="false">📝 MCQ</button>
+      <button type="button" class="btn material" id="btn-material" data-action="switch-mode" data-mode="material"         aria-pressed="false">📚 Study Material</button>
+      <button type="button" class="btn"         id="btn-latest"    data-action="switch-mode" data-mode="latest-important" aria-pressed="false">⭐ Latest Important</button>
+      <button type="button" class="btn"         id="btn-tables"    data-action="switch-mode" data-mode="key-tables"       aria-pressed="false">📊 Key Tables</button>
+      <button type="button" class="btn sfx"     id="btn-sfx"       data-action="toggle-sfx" aria-pressed="true" aria-label="Sound effects on">🔊</button>
+    </nav>
+
+    <!-- ============ Study controls ============ -->
+    <div id="flashcard-controls">
+      <label class="visually-hidden" for="searchInput">Search questions</label>
+      <input type="search" id="searchInput" class="search-box" placeholder="Search questions..." autocomplete="off">
+
+      <div class="filter-scroll" id="flagChips" role="group" aria-label="Filter by flag">
+        <button type="button" class="filter-chip active" data-type="all" data-action="apply-filter" aria-pressed="true">📂 All</button>
+        <button type="button" class="filter-chip" data-type="1" data-action="apply-filter" aria-pressed="false">🚩 Review</button>
+        <button type="button" class="filter-chip" data-type="2" data-action="apply-filter" aria-pressed="false">⚠️ Errors</button>
+        <button type="button" class="filter-chip" data-type="3" data-action="apply-filter" aria-pressed="false">ℹ️ More Info</button>
+        <button type="button" class="filter-chip" data-type="4" data-action="apply-filter" aria-pressed="false">📖 Chapter</button>
+        <button type="button" class="filter-chip" data-type="5" data-action="apply-filter" aria-pressed="false">📊 Diagram</button>
+        <button type="button" class="filter-chip" data-type="6" data-action="apply-filter" aria-pressed="false">🔗 Similar</button>
+      </div>
+
+      <div class="filter-dual-row">
+        <label class="visually-hidden" for="bookFilter">Filter by book</label>
+        <select id="bookFilter" class="folder-select" data-action="book-change">
+          <option value="all">📚 All Books</option>
+        </select>
+
+        <label class="visually-hidden" for="chapterFilter">Filter by chapter</label>
+        <select id="chapterFilter" class="folder-select" data-action="chapter-change" disabled>
+          <option value="all">📖 All Chapters</option>
+        </select>
+      </div>
+
+      <div class="control-row control-row--tools">
+        <label class="visually-hidden" for="rangeSelect">Question range</label>
+        <select id="rangeSelect" class="folder-select" data-action="range-change">
+          <option value="all">All Questions</option>
+        </select>
+        <button type="button" id="shuffleBtn" class="btn shuffle" data-action="toggle-shuffle" aria-pressed="false">🔀 Shuffle</button>
+        <button type="button" id="expandAllBtn" class="btn expand" data-action="toggle-expand-all" aria-pressed="false">🔽 Expand All</button>
+      </div>
+    </div>
+
+    <!-- ============ Mixed-topic controls ============ -->
+    <div id="mixed-topic-controls" class="is-hidden">
+      <div class="filter-scroll filter-scroll--mixed" role="group" aria-label="Filter by topic">
+        <button type="button" class="filter-chip topic-chip active" data-topic="all"        data-action="filter-topic" aria-pressed="true">📚 All Topics</button>
+        <button type="button" class="filter-chip topic-chip" data-topic="Roofing"    data-action="filter-topic" aria-pressed="false">🏠 Roofing</button>
+        <button type="button" class="filter-chip topic-chip" data-topic="Foundation" data-action="filter-topic" aria-pressed="false">🏗️ Foundation</button>
+        <button type="button" class="filter-chip topic-chip" data-topic="Floor"      data-action="filter-topic" aria-pressed="false">🪵 Floor</button>
+        <button type="button" class="filter-chip topic-chip" data-topic="Framing"    data-action="filter-topic" aria-pressed="false">🔨 Framing</button>
+        <button type="button" class="filter-chip topic-chip" data-topic="Bearing"    data-action="filter-topic" aria-pressed="false">🧱 Bearing</button>
+      </div>
+      <div class="control-row">
+        <button type="button" id="mixedModeToggleBtn" class="btn expand" data-action="toggle-mixed-options" aria-pressed="false">👁️ Show Options</button>
+      </div>
+    </div>
+  </div>
+
+  <main>
+    <div id="quiz-list"></div>
+    <div id="mcq-view"></div>
+  </main>
+</div>
+
+<!-- ============ Audio player ============ -->
+<div class="audio-player" id="audioPlayerContainer" role="region" aria-label="Reading controls">
+  <div class="player-body" id="playerBody">
+    <div class="player-row">
+      <span class="player-status" id="statusDisplay" role="status" aria-live="polite">Ready</span>
+      <button type="button" class="p-btn p-btn-stop" data-action="player-stop">⏹ Stop</button>
+    </div>
+    <div class="player-row player-row--center">
+      <button type="button" class="p-btn" data-action="player-prev" aria-label="Previous question">⏮</button>
+      <button type="button" class="p-btn p-btn-main" id="playPauseBtn" data-action="player-play" aria-label="Start reading" aria-pressed="false">▶</button>
+      <button type="button" class="p-btn" data-action="player-next" aria-label="Next question">⏭</button>
+    </div>
+  </div>
+
+  <div class="player-persistent">
+    <button type="button" class="toggle-btn" data-action="scroll-top" aria-label="Scroll to top">⬆️</button>
+    <button type="button" class="toggle-btn speed-btn" id="speedBtn" data-action="player-speed" aria-label="Reading speed 1×. Tap to change.">1×</button>
+    <span class="spacer"></span>
+    <div class="player-jump">
+      <!-- type="text", not "number": Mixed Topic / Latest Important / Key Tables
+           print prefixed numbers (M12, L4, T7) and the field must accept them. -->
+      <label class="visually-hidden" for="jumpInput">Jump to question number</label>
+      <input type="text" id="jumpInput" class="player-input" placeholder="#" inputmode="numeric" autocomplete="off" autocapitalize="characters" size="4">
+      <button type="button" class="p-btn p-btn-go" data-action="player-jump">Go</button>
+    </div>
+    <button type="button" id="playerToggleBtn" class="toggle-btn" data-action="player-toggle" aria-expanded="false" aria-controls="playerBody">🎵 Audio</button>
+  </div>
+</div>
+
+<!-- ============ Full-screen image viewer ============ -->
+<div id="fsModal" class="fs-modal" role="dialog" aria-modal="true" aria-label="Full screen image" aria-hidden="true">
+  <button type="button" class="fs-close" data-action="close-fullscreen" aria-label="Close image">&times;</button>
+  <img class="fs-img" id="fsImage" alt="">
+</div>
+
+<!-- ============ Note editor ============ -->
+<div id="noteModal" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modalTitle" aria-hidden="true">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h2 id="modalTitle">Add New Note</h2>
+      <button type="button" class="icon-btn" data-action="close-note-modal" aria-label="Close note editor">✕</button>
+    </div>
+
+    <div class="modal-field">
+      <label class="visually-hidden" for="modalNoteText">Note text</label>
+      <textarea id="modalNoteText" class="material-input modal-note-text" placeholder="Write your note content here..."></textarea>
+    </div>
+
+    <div class="modal-row">
+      <label class="visually-hidden" for="modalNoteLink">Web link (optional)</label>
+      <input type="url" id="modalNoteLink" class="material-input" placeholder="Web Link (Optional)">
+
+      <label class="visually-hidden" for="modalNoteImgUrl">Image link (optional)</label>
+      <input type="url" id="modalNoteImgUrl" class="material-input" placeholder="🔗 Paste Image Link">
+
+      <label class="upload-btn-wrapper">
+        📷 Img
+        <input type="file" id="modalNoteImg" accept="image/*" data-action="modal-image" aria-label="Upload an image for this note">
+      </label>
+    </div>
+
+    <div id="modalImgPreview" class="modal-preview"></div>
+
+    <button type="button" class="btn primary modal-save" data-action="save-note">💾 Save Note</button>
+  </div>
+</div>
+
+<!-- ============ Confirm / prompt dialog ============ -->
+<div id="confirmModal" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="confirmText" aria-hidden="true">
+  <div class="modal-content confirm-box">
+    <p id="confirmText">Are you sure?</p>
+    <label class="visually-hidden" for="confirmInput">Value</label>
+    <input type="text" id="confirmInput" class="material-input is-hidden">
+    <div class="confirm-actions">
+      <button type="button" class="btn" id="confirmCancel" data-action="confirm-cancel">Cancel</button>
+      <button type="button" class="btn primary" id="confirmOk" data-action="confirm-ok">Confirm</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast-host" id="toastHost" aria-live="polite"></div>
+
+<noscript>
+  <p class="empty-state">GC Exam Master needs JavaScript to run. Please enable it and reload.</p>
+</noscript>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

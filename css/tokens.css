@@ -1,0 +1,129 @@
+/* ===========================================================================
+   tokens.css — single source of truth for every design value.
+   Replaces the ad-hoc hexes / spacings / radii scattered through the original
+   stylesheet and JS template strings (analysis.md bugs #56, #57, #58, #62).
+   =========================================================================== */
+
+:root {
+  /* ---- Surfaces ------------------------------------------------------- */
+  --bg:            #0f172a;
+  --bg-elevated:   #151e2e;   /* was hardcoded #151e2e (answer box)        */
+  --bg-sunken:     #0b1120;   /* was hardcoded #0b1120 (workspace editor)  */
+  --card-bg:       #1e293b;
+  --surface:       #334155;
+  --surface-hi:    #3f4f68;
+  --input-bg:      #020617;
+  --scroll-thumb:  #475569;
+
+  /* Bug #56: --border used to equal --surface, so every .btn / .filter-chip
+     border was invisible. Lightened here; --border-subtle keeps the old,
+     quieter look where a hairline really is wanted.                        */
+  --border:        #4a5b73;
+  --border-subtle: #334155;
+  --border-strong: #64748b;
+
+  /* ---- Text ------------------------------------------------------------ */
+  --text-main:  #f8fafc;
+  /* Bug #73: #94a3b8 on --surface was ~4.3:1. Muted text that sits on a
+     coloured surface now uses --text-muted (raised); --text-dim is reserved
+     for large / decorative text on the page background only.               */
+  --text-muted: #cbd5e1;
+  --text-dim:   #94a3b8;
+  --text-on-accent: #ffffff;
+  --text-on-light:  #0b1120;
+
+  /* ---- Brand / semantic ------------------------------------------------ */
+  --accent:       #3b82f6;
+  --accent-rgb:   59, 130, 246;
+  --accent-dark:  #2563eb;
+  --accent-glow:  rgba(var(--accent-rgb), 0.5);
+
+  --success:      #10b981;
+  --success-rgb:  16, 185, 129;
+  --success-dark: #059669;
+  --warning:      #f59e0b;
+  --warning-rgb:  245, 158, 11;
+  --warning-dark: #d97706;
+  --danger:       #ef4444;
+  --danger-rgb:   239, 68, 68;
+  --info:         #06b6d4;
+  --info-rgb:     6, 182, 212;
+
+  --flag-chapter: #8b5cf6;
+  --flag-chapter-rgb: 139, 92, 246;
+  --flag-diagram: #ec4899;
+  --flag-similar: #6366f1;
+  --flag-similar-dark: #4f46e5;
+
+  /* --folder-color used to duplicate --warning exactly; it is now an alias. */
+  --folder-color: var(--warning);
+
+  --level-good:   #22c55e;
+  --level-mid:    #facc15;
+
+  /* ---- Spacing scale --------------------------------------------------- */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 10px;
+  --sp-4: 12px;
+  --sp-5: 15px;
+  --sp-6: 18px;
+  --sp-7: 20px;
+  --sp-8: 25px;
+  --sp-9: 32px;
+
+  /* ---- Radius scale ---------------------------------------------------- */
+  --r-xs:   4px;
+  --r-sm:   6px;
+  --r-md:   8px;
+  --r-lg:   10px;
+  --r-xl:   12px;
+  --r-2xl:  16px;
+  --r-3xl:  20px;
+  --r-pill: 999px;
+  --r-full: 50%;
+
+  /* ---- Shadow scale ---------------------------------------------------- */
+  --sh-xs: 0 2px 5px rgba(0, 0, 0, 0.2);
+  --sh-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --sh-md: 0 8px 32px rgba(0, 0, 0, 0.2);
+  --sh-lg: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+  --sh-xl: 0 15px 40px rgba(0, 0, 0, 0.7);
+  --sh-menu: 0 10px 30px rgba(0, 0, 0, 0.5);
+
+  /* ---- Type scale ------------------------------------------------------ */
+  --fs-xs:  0.75rem;
+  --fs-sm:  0.85rem;
+  --fs-md:  0.95rem;
+  --fs-base: 1rem;
+  --fs-lg:  1.05rem;
+  --fs-xl:  1.25rem;
+  --fs-2xl: 1.8rem;
+  --fs-3xl: 2rem;
+
+  /* ---- Motion ---------------------------------------------------------- */
+  --dur-fast: 0.12s;
+  --dur-med:  0.2s;
+  --dur-slow: 0.3s;
+  --ease-out: cubic-bezier(0.25, 0.8, 0.25, 1);
+  --ease-pop: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+
+  /* ---- Z-index ladder (bug #62 — was undocumented and collision-prone) -- */
+  --z-base:     0;
+  --z-card-menu: 30;   /* a card raised because its dropdown is open        */
+  --z-dropdown: 40;
+  --z-fab:      500;
+  --z-player:   900;
+  --z-fs-modal: 1000;
+  --z-modal:    1100;
+  --z-toast:    1200;
+
+  /* ---- Layout ---------------------------------------------------------- */
+  --container-max: 900px;
+  --player-height: 68px;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  /* Consumed by body padding so content never hides behind the player.
+     Bug #55: the old code set 90/180/240px imperatively from JS.           */
+  --content-bottom-gap: calc(var(--player-height) + var(--safe-bottom) + var(--sp-8));
+  --tap-min: 44px; /* WCAG 2.5.5 minimum touch target (bug #72)             */
+}

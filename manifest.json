@@ -1,0 +1,25 @@
+{
+  "name": "GC Exam Master",
+  "short_name": "GC Exam",
+  "description": "Study companion for the Georgia general contractor licence exam: book topics, MCQs, mixed topics, key tables and your own notes.",
+  "start_url": "./",
+  "scope": "./",
+  "id": "/gcexam/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icons/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "MCQ practice", "short_name": "MCQ", "url": "./?mode=mcq" },
+    { "name": "Study Material", "short_name": "Notes", "url": "./?mode=material" }
+  ]
+}
