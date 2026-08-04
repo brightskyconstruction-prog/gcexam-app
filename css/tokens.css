@@ -120,7 +120,25 @@
 
   /* ---- Layout ---------------------------------------------------------- */
   --container-max: 900px;
-  --player-height: 68px;
+  /* Static fallback only — app.js measures the player's real height and
+     overrides the reserved space via --live-player-gap below. Kept in sync
+     with the collapsed bar's actual height so the very first paint (before
+     JS runs) doesn't jump. */
+  --player-height: 56px;
+  /* The player's OWN buttons (scroll-top/speed/Go/Audio toggle, and the
+     prev/play/next/stop row) use this instead of the sitewide --tap-min.
+     40px sits comfortably above WCAG 2.5.8's 24px AA minimum (with generous
+     inter-button spacing) while trimming real height off a control cluster
+     that's on screen in every mode — --tap-min (44px, the stricter AAA
+     target) stays untouched everywhere else: form fields, MCQ options, menu
+     items, folder cards. */
+  --player-btn: 40px;
+  /* Shared by the collapsed pill and the expanded drawer so they read as one
+     component. Auto-clamps to half the box height in the browser when it
+     would otherwise exceed it, so this stays a deliberate, moderate curve
+     rather than a full stadium — which is what was letting the rightmost
+     button's square corner visually collide with the pill's edge. */
+  --r-player: 22px;
   --safe-bottom: env(safe-area-inset-bottom, 0px);
   /* Consumed by body padding so content never hides behind the player.
      Bug #55: the old code set 90/180/240px imperatively from JS.           */

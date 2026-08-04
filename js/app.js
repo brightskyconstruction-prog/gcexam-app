@@ -794,6 +794,11 @@ function toggleAudioPlayer() {
   body.classList.toggle('show', open);
   btn.classList.toggle('active', open);
   btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+  // The drawer now sits flush on top of the pill with no gap (so they read
+  // as one shape). Squaring the pill's top corners while it's open removes
+  // the small step where a rounded corner would otherwise peek out from
+  // under the drawer's square bottom edge.
+  els.audioPlayerContainer.classList.toggle('drawer-open', open);
   syncPlayerGap();
 }
 

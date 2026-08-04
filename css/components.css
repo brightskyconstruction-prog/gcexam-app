@@ -976,7 +976,7 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
 
 .audio-player {
   position: fixed;
-  bottom: calc(var(--safe-bottom) + var(--sp-7));
+  bottom: calc(var(--safe-bottom) + var(--sp-5));
   left: 50%;
   transform: translateX(-50%);
   width: 92%;
@@ -985,17 +985,28 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border: 1px solid rgba(255, 255, 255, 0.18);
-  border-radius: 40px;
-  padding: var(--sp-3) var(--sp-7);
+  /* Was a hardcoded 40px — on a ~64px-tall bar the browser auto-clamps that
+     to a full stadium (radius = half the box height), which left almost no
+     vertical clearance around a 44px button flush against the padding edge.
+     That's what let the Audio button's square corner visually collide with
+     the curve. --r-player is shared with the expanded panel below (bug:
+     "should feel like one component") and, at 22px on a ~52px bar, actually
+     leaves room for the curve to resolve before it reaches a button. */
+  border-radius: var(--r-player);
+  padding: var(--sp-2) var(--sp-5);
   box-shadow: var(--sh-xl);
   z-index: var(--z-player);
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: var(--sp-3);
+  gap: var(--sp-2);
   transition: opacity var(--dur-slow) ease, transform var(--dur-slow) ease;
 }
 .audio-player.is-hidden { display: none; }
+/* Set by app.js while the drawer is open — see player-body's flush mount
+   below. Keeps the two panels reading as one continuous rounded shape
+   instead of a rounded corner peeking out from under a square one. */
+.audio-player.drawer-open { border-top-left-radius: 0; border-top-right-radius: 0; }
 
 .player-persistent {
   display: flex;
@@ -1004,26 +1015,28 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   flex: 1;
   justify-content: space-between;
   width: 100%;
+  min-width: 0; /* lets the middle controls shrink instead of pushing Audio out */
 }
 
 .player-body {
   display: none;
   position: absolute;
-  bottom: 110%;
+  /* Sits flush on top of the pill (no gap, square bottom corners below) so
+     the two read as one continuous shape instead of two floating cards. */
+  bottom: 100%;
   left: 0;
   right: 0;
   background: var(--card-bg);
   border: 1px solid var(--border);
-  border-radius: var(--r-3xl);
-  margin-bottom: var(--sp-4);
-  /* Bug: this panel was noticeably taller than the persistent bar below it
-     (18px padding + a 12px inter-row gap + a 56px main button, vs. the
-     persistent bar's 10px padding around 44px buttons). Tightened to the
-     same visual rhythm without shrinking any control below the 44px tap
-     target minimum. */
-  padding: var(--sp-4) var(--sp-6);
+  border-top-left-radius: var(--r-player);
+  border-top-right-radius: var(--r-player);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom: none;
+  margin-bottom: -1px; /* swallow the seam between the two borders */
+  padding: var(--sp-3) var(--sp-5);
   flex-direction: column;
-  gap: var(--sp-3);
+  gap: var(--sp-2);
   box-shadow: var(--sh-menu);
 }
 .player-body.show { display: flex; animation: fadeInUp var(--dur-med); }
@@ -1036,7 +1049,7 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   width: 100%;
   gap: var(--sp-2);
 }
-.player-row--center { justify-content: center; gap: var(--sp-6); }
+.player-row--center { justify-content: center; gap: var(--sp-5); }
 .player-status {
   font-size: var(--fs-xs);
   color: var(--text-muted);
@@ -1046,11 +1059,11 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-.player-jump { display: flex; gap: var(--sp-2); align-items: center; }
+.player-jump { display: flex; gap: var(--sp-1); align-items: center; flex-shrink: 0; }
 
 .player-input {
-  width: 56px;
-  height: 40px;
+  width: 48px;
+  height: var(--player-btn);
   font-size: var(--fs-md);
   text-align: center;
   border-radius: var(--r-2xl);
@@ -1067,13 +1080,13 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   border: 1px solid rgba(255, 255, 255, 0.15);
   color: #fff;
   border-radius: var(--r-full);
-  width: var(--tap-min);
-  height: var(--tap-min);
+  width: var(--player-btn);
+  height: var(--player-btn);
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 15px;
   font-family: inherit;
   transition: transform var(--dur-med) ease, background var(--dur-med) ease;
   flex-shrink: 0;
@@ -1083,13 +1096,12 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
 .p-btn-main {
   background: linear-gradient(135deg, var(--accent), var(--accent-dark));
   border: none;
-  /* Was 56px — the single biggest contributor to the upper panel's extra
-     height. 52px keeps it clearly the primary action (bigger than the 44px
-     prev/next/stop buttons) while trimming the imbalance. Still well above
-     the WCAG 44px tap-target minimum. */
-  width: 52px;
-  height: 52px;
-  font-size: 19px;
+  /* Deliberately bigger than the 40px secondary buttons so Play/Pause
+     still reads as the primary action, without repeating the old 56px
+     panel-inflating size. */
+  width: 46px;
+  height: 46px;
+  font-size: 18px;
   box-shadow: 0 4px 15px rgba(var(--accent-rgb), 0.6);
   transition: all var(--dur-slow) var(--ease-pop);
 }
@@ -1103,22 +1115,22 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
 .p-btn-stop {
   border-radius: var(--r-lg);
   width: auto;
-  padding: 0 var(--sp-4);
-  font-size: var(--fs-sm);
-  height: var(--tap-min);
+  padding: 0 var(--sp-3);
+  font-size: var(--fs-xs);
+  height: var(--player-btn);
   background: rgba(var(--danger-rgb), 0.15);
   color: var(--danger);
   border: 1px solid var(--danger);
 }
-.p-btn-go { width: auto; padding: 0 var(--sp-4); border-radius: var(--r-lg); }
+.p-btn-go { width: auto; padding: 0 var(--sp-3); border-radius: var(--r-lg); }
 
 .toggle-btn {
   width: auto;
   border-radius: var(--r-2xl);
-  padding: 0 var(--sp-4);
-  height: var(--tap-min);
-  min-width: var(--tap-min);
-  font-size: var(--fs-sm);
+  padding: 0 var(--sp-3);
+  height: var(--player-btn);
+  min-width: var(--player-btn);
+  font-size: var(--fs-xs);
   font-weight: 600;
   font-family: inherit;
   color: #fff;
@@ -1131,7 +1143,7 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   flex-shrink: 0;
 }
 .toggle-btn.active { background: var(--accent); color: #fff; border-color: transparent; }
-.speed-btn { min-width: 56px; }
+.speed-btn { min-width: 44px; }
 
 /* ==========================================================================
    11. RESPONSIVE (bug #54 — the original had a single 600px breakpoint)
@@ -1142,10 +1154,10 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   body { padding-left: var(--sp-4); padding-right: var(--sp-4); }
   .audio-player {
     width: 94%;
-    bottom: calc(var(--safe-bottom) + var(--sp-4));
-    padding: var(--sp-3) var(--sp-5);
-    border-radius: 35px;
+    bottom: calc(var(--safe-bottom) + var(--sp-3));
+    padding: var(--sp-2) var(--sp-4);
   }
+  .player-body { padding: var(--sp-3) var(--sp-4); }
   .card-header { padding: var(--sp-5); }
   .answer-box > .ans-content,
   .card.revealed .answer-box > .ans-content { padding-left: var(--sp-5); padding-right: var(--sp-5); }
