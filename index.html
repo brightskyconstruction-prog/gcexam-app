@@ -113,16 +113,15 @@
 
 <!-- ============ Audio player ============ -->
 <div class="audio-player" id="audioPlayerContainer" role="region" aria-label="Reading controls">
+  <!-- Single-row transport: Prev -> Play/Pause -> Next -> Status (flexible,
+       truncates with an ellipsis) -> Stop. One row instead of two so this
+       panel's height matches the collapsed bar below it. -->
   <div class="player-body" id="playerBody">
-    <div class="player-row">
-      <span class="player-status" id="statusDisplay" role="status" aria-live="polite">Ready</span>
-      <button type="button" class="p-btn p-btn-stop" data-action="player-stop">⏹ Stop</button>
-    </div>
-    <div class="player-row player-row--center">
-      <button type="button" class="p-btn" data-action="player-prev" aria-label="Previous question">⏮</button>
-      <button type="button" class="p-btn p-btn-main" id="playPauseBtn" data-action="player-play" aria-label="Start reading" aria-pressed="false">▶</button>
-      <button type="button" class="p-btn" data-action="player-next" aria-label="Next question">⏭</button>
-    </div>
+    <button type="button" class="p-btn" data-action="player-prev" aria-label="Previous question">⏮</button>
+    <button type="button" class="p-btn p-btn-main" id="playPauseBtn" data-action="player-play" aria-label="Start reading" aria-pressed="false">▶</button>
+    <button type="button" class="p-btn" data-action="player-next" aria-label="Next question">⏭</button>
+    <span class="player-status" id="statusDisplay" role="status" aria-live="polite">Ready</span>
+    <button type="button" class="p-btn p-btn-stop" data-action="player-stop" aria-label="Stop reading">⏹<span class="btn-label"> Stop</span></button>
   </div>
 
   <div class="player-persistent">

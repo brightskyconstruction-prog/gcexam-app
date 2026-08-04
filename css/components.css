@@ -1018,6 +1018,11 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   min-width: 0; /* lets the middle controls shrink instead of pushing Audio out */
 }
 
+/* Single-row transport strip: Prev -> Play/Pause -> Next -> Status (flexible,
+   absorbs all leftover space and ellipsis-truncates) -> Stop. Same padding
+   as .audio-player itself, so the expanded panel's height is (deliberately)
+   almost identical to the collapsed bar's — one flex row of --player-btn
+   controls in both, not a taller stacked layout. */
 .player-body {
   display: none;
   position: absolute;
@@ -1034,27 +1039,22 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   border-bottom-right-radius: 0;
   border-bottom: none;
   margin-bottom: -1px; /* swallow the seam between the two borders */
-  padding: var(--sp-3) var(--sp-5);
-  flex-direction: column;
+  padding: var(--sp-2) var(--sp-5);
+  align-items: center;
   gap: var(--sp-2);
   box-shadow: var(--sh-menu);
 }
 .player-body.show { display: flex; animation: fadeInUp var(--dur-med); }
 
-.player-row {
-  display: flex;
-  flex-wrap: nowrap; /* a wrapped status line would silently inflate the panel */
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-  gap: var(--sp-2);
-}
-.player-row--center { justify-content: center; gap: var(--sp-5); }
 .player-status {
   font-size: var(--fs-xs);
   color: var(--text-muted);
   min-width: 0;
+  /* The one flexible item in the row — absorbs whatever space the four
+     fixed-size buttons don't use, which is what keeps Stop pinned to the
+     far right without a second row or a space-between hack. */
   flex: 1 1 auto;
+  text-align: center;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -1096,12 +1096,13 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
 .p-btn-main {
   background: linear-gradient(135deg, var(--accent), var(--accent-dark));
   border: none;
-  /* Deliberately bigger than the 40px secondary buttons so Play/Pause
-     still reads as the primary action, without repeating the old 56px
-     panel-inflating size. */
-  width: 46px;
-  height: 46px;
-  font-size: 18px;
+  /* Same height as every other control in the row now (--player-btn) — with
+     the panel down to a single row, matching the collapsed bar's height
+     exactly meant matching its button size too. Play/Pause still reads as
+     the primary action through colour/shadow, not extra size. */
+  width: var(--player-btn);
+  height: var(--player-btn);
+  font-size: 16px;
   box-shadow: 0 4px 15px rgba(var(--accent-rgb), 0.6);
   transition: all var(--dur-slow) var(--ease-pop);
 }
@@ -1157,7 +1158,11 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
     bottom: calc(var(--safe-bottom) + var(--sp-3));
     padding: var(--sp-2) var(--sp-4);
   }
-  .player-body { padding: var(--sp-3) var(--sp-4); }
+  .player-body { padding: var(--sp-2) var(--sp-4); gap: var(--sp-1); }
+  /* Narrowest phones: drop the Stop button's label, keep the icon — still a
+     full var(--player-btn) tap target, just not competing with Prev/Play/
+     Next/Status for width on a ~320px screen. */
+  .p-btn-stop .btn-label { display: none; }
   .card-header { padding: var(--sp-5); }
   .answer-box > .ans-content,
   .card.revealed .answer-box > .ans-content { padding-left: var(--sp-5); padding-right: var(--sp-5); }
