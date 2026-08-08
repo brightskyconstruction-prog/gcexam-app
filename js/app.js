@@ -20,7 +20,7 @@ import { buildBookStructure, naturalSort } from './parse-source.js';
 import {
   els, cacheEls, startChunkedRender, cancelRender, buildStudyCard, buildMCQCard,
   patchCard, findCard, toast, resolveConfirm, openModal, closeModal,
-  trapFocus, topModal, emptyState
+  trapFocus, topModal, emptyState, flagLabel
 } from './render.js';
 import {
   playSound, vibrate, toggleSFX, initVoices, initSpeed, primeVoice, initAudio,
@@ -344,7 +344,8 @@ function setFlag(card, type) {
   if (!item) return;
   playSound('click');
 
-  let flags = flagsFor(item).slice();
+  const before = flagsFor(item);
+  let flags = before.slice();
   if (type === 0) flags = [];
   else if (flags.includes(type)) flags = flags.filter((f) => f !== type);
   else flags.push(type);
@@ -361,6 +362,16 @@ function setFlag(card, type) {
   const filterAffected = ui.filterType !== 'all' && !flags.includes(Number(ui.filterType));
   if (filterAffected && !player.playing) refresh({ keepScroll: true });
   else patchCard(item);
+
+  toast(flagToastMessage(type, before));
+}
+
+/** Confirmation text for the toast shown after a flag option is tapped. */
+function flagToastMessage(type, previousFlags) {
+  if (type === 0) return 'Flags cleared.';
+  const label = flagLabel(type) || `Flag ${type}`;
+  const wasSet = previousFlags.includes(type);
+  return wasSet ? `${label} flag removed.` : `${label} flag added.`;
 }
 
 function closeAllMenus() {

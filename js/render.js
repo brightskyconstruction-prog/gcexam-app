@@ -216,6 +216,11 @@ function buildBadges(flags) {
   return wrap;
 }
 
+/** Human-readable name for a flag type, for toasts/confirmations. */
+export function flagLabel(type) {
+  return FLAG_META[type] ? FLAG_META[type].label : null;
+}
+
 /* --------------------------------------------------------------------------
    Card menu
    -------------------------------------------------------------------------- */
@@ -531,8 +536,14 @@ export function patchCard(item) {
   const card = findCard(item.id);
   if (!card || card.dataset.card !== 'study') return false;
 
-  // Never clobber a field the user is currently typing into.
-  if (card.contains(document.activeElement)) return false;
+  // Never clobber a field the user is currently typing into (note/link/image
+  // inputs in the inline editors). A focused *button* — e.g. the flag option
+  // that was just clicked in the card's menu — must NOT block the patch, or
+  // the new flag badge silently doesn't appear until the next full refresh.
+  const active = document.activeElement;
+  const isEditingField = active && card.contains(active)
+    && (active.tagName === 'INPUT' || active.tagName === 'TEXTAREA' || active.isContentEditable);
+  if (isEditingField) return false;
 
   const wasRevealed = card.classList.contains('revealed');
   const index = Number(card.dataset.index);
