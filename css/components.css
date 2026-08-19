@@ -465,6 +465,12 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   font-size: var(--fs-sm);
   color: var(--text-muted);
   font-style: italic;
+  /* Enriched Study QA citations (book title + chapter name + section) run
+     considerably longer than the old "Book Chapter N" text; wrap normally
+     and never force the card wider or clip on narrow screens. Stays at
+     fs-sm/italic/muted so it's visibly secondary to .ans-text above it. */
+  overflow-wrap: anywhere;
+  line-height: 1.45;
 }
 
 /* ==========================================================================
@@ -530,6 +536,14 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   font-style: italic;
   padding: var(--sp-4) var(--sp-6) var(--sp-6);
   border-top: 1px solid var(--border-subtle);
+  /* Enriched citations (book title + chapter name + section) run longer
+     than the old "Book Chapter N" text -- wrap normally at spaces, and
+     fall back to breaking anywhere for the rare unbroken long token, so
+     it never forces the card wider or clips on narrow screens. Kept at
+     fs-md/italic/muted so it stays visually secondary to the question
+     and answer text above it. */
+  overflow-wrap: anywhere;
+  line-height: 1.45;
 }
 .mcq-source.is-visible { display: block; }
 .mcq-answer-label { color: var(--success); font-weight: bold; font-style: normal; }
