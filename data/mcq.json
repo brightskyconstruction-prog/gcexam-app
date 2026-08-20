@@ -19264,5 +19264,2189 @@
     ],
     "correct": 1,
     "source": "Gypsum, Chapter 18: USG: America's Building Industry Leader"
+  },
+  {
+    "id": "Q1483",
+    "legacyKey": "The primary purpose of the International Building Code, as stated in its administrative provisions, is to:",
+    "q": "The primary purpose of the International Building Code, as stated in its administrative provisions, is to:",
+    "options": [
+      "Regulate only the aesthetic appearance of buildings",
+      "Establish minimum requirements to safeguard public health, safety, and general welfare through structural strength, means of egress, sanitation, and fire safety",
+      "Set uniform pricing for construction labor",
+      "Regulate only residential single-family construction"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 1: Scope and Administration"
+  },
+  {
+    "id": "Q1484",
+    "legacyKey": "Under IBC 2018 Chapter 1, the 'building official' is the person charged with:",
+    "q": "Under IBC 2018 Chapter 1, the 'building official' is the person charged with:",
+    "options": [
+      "Designing all building structural systems",
+      "Administration and enforcement of the code",
+      "Performing all required special inspections personally",
+      "Selling building permits at a fixed fee"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 1: Scope and Administration"
+  },
+  {
+    "id": "Q1485",
+    "legacyKey": "A Certificate of Occupancy is generally required before:",
+    "q": "A Certificate of Occupancy is generally required before:",
+    "options": [
+      "A building permit application may be submitted",
+      "A new building, or a portion of it, may be occupied or used",
+      "Foundation excavation may begin",
+      "Building materials may be delivered to the site"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 1: Scope and Administration"
+  },
+  {
+    "id": "Q1486",
+    "legacyKey": "Under IBC 2018 administrative provisions, ordinary minor repairs to a building generally:",
+    "q": "Under IBC 2018 administrative provisions, ordinary minor repairs to a building generally:",
+    "options": [
+      "Always require a full building permit regardless of scope",
+      "May be exempt from permit requirements, provided they do not involve work affecting structural, fire-rated, or life-safety systems",
+      "Are never permitted without a licensed architect",
+      "Require a Certificate of Occupancy for each repair"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 1: Scope and Administration"
+  },
+  {
+    "id": "Q1487",
+    "legacyKey": "The building official has the authority to issue a stop work order when:",
+    "q": "The building official has the authority to issue a stop work order when:",
+    "options": [
+      "A contractor requests additional time",
+      "Work is being performed in a manner that violates the code or endangers life or property",
+      "The project is behind schedule",
+      "A subcontractor changes without notice"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 1: Scope and Administration"
+  },
+  {
+    "id": "Q1488",
+    "legacyKey": "A local jurisdiction's Board of Appeals generally hears appeals related to:",
+    "q": "A local jurisdiction's Board of Appeals generally hears appeals related to:",
+    "options": [
+      "Criminal code violations",
+      "Decisions of the building official regarding the application and interpretation of the code, rather than granting variances from the code's intent",
+      "Zoning boundary disputes",
+      "Property tax assessments"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 1: Scope and Administration"
+  },
+  {
+    "id": "Q1489",
+    "legacyKey": "Under IBC 2018 administrative provisions, when an existing building undergoes an addition, alteration, or repair, the work generally must:",
+    "q": "Under IBC 2018 administrative provisions, when an existing building undergoes an addition, alteration, or repair, the work generally must:",
+    "options": [
+      "Be entirely exempt from the current code",
+      "Comply with the code provisions for new construction, subject to specific exceptions applicable to existing buildings",
+      "Only comply with the code edition in effect when the building was originally constructed",
+      "Require demolition of the entire building"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 1: Scope and Administration"
+  },
+  {
+    "id": "Q1490",
+    "legacyKey": "Temporary structures and uses permitted under the code's administrative provisions are generally:",
+    "q": "Temporary structures and uses permitted under the code's administrative provisions are generally:",
+    "options": [
+      "Allowed indefinitely with no time limit",
+      "Allowed for a limited, specified time period, subject to the building official's approval",
+      "Exempt from all life-safety requirements",
+      "Prohibited under all circumstances"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 1: Scope and Administration"
+  },
+  {
+    "id": "Q1491",
+    "legacyKey": "Under IBC 2018 definitions, an 'accessible route' is defined as:",
+    "q": "Under IBC 2018 definitions, an 'accessible route' is defined as:",
+    "options": [
+      "Any hallway in a building",
+      "A continuous, unobstructed path connecting accessible elements and spaces in a building or on a site",
+      "A route reserved exclusively for emergency vehicles",
+      "The shortest path between any two rooms"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1492",
+    "legacyKey": "IBC 2018 defines 'Approved' as:",
+    "q": "IBC 2018 defines 'Approved' as:",
+    "options": [
+      "Acceptable to the building official",
+      "Certified by a national testing laboratory only",
+      "Reviewed by the property owner",
+      "Listed in a manufacturer's catalog"
+    ],
+    "correct": 0,
+    "source": "IBC, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1493",
+    "legacyKey": "Under IBC 2018, a 'dwelling unit' is defined as:",
+    "q": "Under IBC 2018, a 'dwelling unit' is defined as:",
+    "options": [
+      "Any room used for sleeping",
+      "A single unit providing complete independent living facilities for one or more persons, including permanent provisions for living, sleeping, eating, cooking, and sanitation",
+      "A hotel guest room without a kitchen",
+      "A storage room converted for occasional overnight use"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1494",
+    "legacyKey": "IBC 2018 defines 'fire area' as:",
+    "q": "IBC 2018 defines 'fire area' as:",
+    "options": [
+      "The total floor area of a building regardless of separations",
+      "The aggregate floor area enclosed and bounded by fire walls, fire barriers, exterior walls, or horizontal assemblies of a building",
+      "Only the area directly involved in an active fire",
+      "The footprint of the building's foundation"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1495",
+    "legacyKey": "Under IBC 2018, a 'story above grade plane' is generally defined as a story having its finished floor surface:",
+    "q": "Under IBC 2018, a 'story above grade plane' is generally defined as a story having its finished floor surface:",
+    "options": [
+      "Entirely below grade plane",
+      "Entirely above grade plane, or meeting specific limited exceptions related to finished ceiling height above grade",
+      "At the same elevation as the roof",
+      "Below the lowest level of fire department access"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1496",
+    "legacyKey": "IBC 2018 defines an 'occupiable space' as a room or enclosed space designed for human occupancy in which individuals:",
+    "q": "IBC 2018 defines an 'occupiable space' as a room or enclosed space designed for human occupancy in which individuals:",
+    "options": [
+      "Never remain for more than a few seconds",
+      "Congregate for amusement, educational, or similar purposes, or which is normally occupied by people for extended periods",
+      "Are prohibited from entering",
+      "Store equipment only, with no human presence"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1497",
+    "legacyKey": "Under IBC 2018, the term 'alteration' refers to:",
+    "q": "Under IBC 2018, the term 'alteration' refers to:",
+    "options": [
+      "Routine cosmetic painting only",
+      "Any construction or renovation to an existing structure other than a repair or an addition",
+      "Only work requiring a new Certificate of Occupancy",
+      "Demolition of an entire structure"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1498",
+    "legacyKey": "IBC 2018 defines an 'automatic sprinkler system' as a system that is:",
+    "q": "IBC 2018 defines an 'automatic sprinkler system' as a system that is:",
+    "options": [
+      "Manually activated only by building occupants",
+      "Designed and installed in accordance with the applicable referenced standard, providing automatic fire suppression via water discharge upon detection of heat",
+      "Used exclusively for irrigation",
+      "Limited to portable fire extinguishers"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1499",
+    "legacyKey": "Under IBC 2018, a typical office building is classified under:",
+    "q": "Under IBC 2018, a typical office building is classified under:",
+    "options": [
+      "Group F (Factory)",
+      "Group B (Business)",
+      "Group S (Storage)",
+      "Group U (Utility)"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 3: Occupancy classification and use"
+  },
+  {
+    "id": "Q1500",
+    "legacyKey": "A woodworking or furniture manufacturing facility is typically classified under:",
+    "q": "A woodworking or furniture manufacturing facility is typically classified under:",
+    "options": [
+      "Group B (Business)",
+      "Group F (Factory Industrial)",
+      "Group M (Mercantile)",
+      "Group R (Residential)"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 3: Occupancy classification and use"
+  },
+  {
+    "id": "Q1501",
+    "legacyKey": "Occupancies involving the storage, use, or handling of hazardous materials exceeding specific quantity thresholds are generally classified under:",
+    "q": "Occupancies involving the storage, use, or handling of hazardous materials exceeding specific quantity thresholds are generally classified under:",
+    "options": [
+      "Group H (High-Hazard)",
+      "Group A (Assembly)",
+      "Group E (Educational)",
+      "Group R (Residential)"
+    ],
+    "correct": 0,
+    "source": "IBC, Chapter 3: Occupancy classification and use"
+  },
+  {
+    "id": "Q1502",
+    "legacyKey": "A hospital or nursing home, where occupants generally require assistance due to age or physical/mental limitations and are incapable of self-preservation, is classified under:",
+    "q": "A hospital or nursing home, where occupants generally require assistance due to age or physical/mental limitations and are incapable of self-preservation, is classified under:",
+    "options": [
+      "Group B (Business)",
+      "Group I (Institutional)",
+      "Group M (Mercantile)",
+      "Group F (Factory)"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 3: Occupancy classification and use"
+  },
+  {
+    "id": "Q1503",
+    "legacyKey": "A private garage or agricultural building is typically classified under:",
+    "q": "A private garage or agricultural building is typically classified under:",
+    "options": [
+      "Group A (Assembly)",
+      "Group U (Utility and Miscellaneous)",
+      "Group E (Educational)",
+      "Group I (Institutional)"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 3: Occupancy classification and use"
+  },
+  {
+    "id": "Q1504",
+    "legacyKey": "An 'atrium,' as specially regulated under IBC Chapter 4, generally requires:",
+    "q": "An 'atrium,' as specially regulated under IBC Chapter 4, generally requires:",
+    "options": [
+      "No additional protection beyond a standard floor opening",
+      "A smoke control system and specific fire-protection features due to the vertical opening connecting multiple floors",
+      "A separate building permit for each floor it connects",
+      "Exemption from all fire-resistance requirements"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy"
+  },
+  {
+    "id": "Q1505",
+    "legacyKey": "A 'high-rise building' under IBC 2018 is generally defined as a building with an occupied floor located more than:",
+    "q": "A 'high-rise building' under IBC 2018 is generally defined as a building with an occupied floor located more than:",
+    "options": [
+      "35 feet above the lowest level of fire department vehicle access",
+      "75 feet above the lowest level of fire department vehicle access",
+      "150 feet above grade plane",
+      "10 stories above grade"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy"
+  },
+  {
+    "id": "Q1506",
+    "legacyKey": "High-rise buildings are generally required to be equipped throughout with:",
+    "q": "High-rise buildings are generally required to be equipped throughout with:",
+    "options": [
+      "Only portable fire extinguishers",
+      "An automatic sprinkler system",
+      "Manual fire alarm pull stations only, with no sprinklers",
+      "A single stairwell regardless of size"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy"
+  },
+  {
+    "id": "Q1507",
+    "legacyKey": "An open parking garage, as specially regulated under IBC Chapter 4, is distinguished from an enclosed parking garage primarily by:",
+    "q": "An open parking garage, as specially regulated under IBC Chapter 4, is distinguished from an enclosed parking garage primarily by:",
+    "options": [
+      "Having no roof at all",
+      "Having a specified minimum percentage of openings in its exterior walls for natural ventilation",
+      "Being limited to a single story",
+      "Prohibiting any vehicle over a certain weight"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy"
+  },
+  {
+    "id": "Q1508",
+    "legacyKey": "Covered mall and open mall buildings are subject to special requirements primarily addressing:",
+    "q": "Covered mall and open mall buildings are subject to special requirements primarily addressing:",
+    "options": [
+      "Only the exterior architectural style",
+      "Means of egress, fire protection, and tenant separation due to their large, interconnected floor areas",
+      "Parking ratios only",
+      "Only signage size"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy"
+  },
+  {
+    "id": "Q1509",
+    "legacyKey": "Motor-fuel-dispensing facilities are specially regulated under IBC Chapter 4 primarily to address:",
+    "q": "Motor-fuel-dispensing facilities are specially regulated under IBC Chapter 4 primarily to address:",
+    "options": [
+      "Aesthetic canopy design",
+      "Fire and explosion hazards associated with flammable/combustible liquid and gas dispensing",
+      "Employee parking requirements",
+      "Landscaping requirements"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy"
+  },
+  {
+    "id": "Q1510",
+    "legacyKey": "Special detailed requirements for Group I-1 (assisted living-type) occupancies typically address:",
+    "q": "Special detailed requirements for Group I-1 (assisted living-type) occupancies typically address:",
+    "options": [
+      "Increased retail display area",
+      "The reduced ability of occupants to self-evacuate, requiring specific means of egress and fire protection considerations",
+      "Additional loading dock requirements",
+      "Exemption from all fire alarm requirements"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy"
+  },
+  {
+    "id": "Q1511",
+    "legacyKey": "The allowable floor area of a building under IBC 2018 is primarily determined by:",
+    "q": "The allowable floor area of a building under IBC 2018 is primarily determined by:",
+    "options": [
+      "The building's paint color and finish materials",
+      "The building's occupancy classification (Group) and its type of construction",
+      "The number of parking spaces provided",
+      "The building's purchase price"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 5: General building heights and areas"
+  },
+  {
+    "id": "Q1512",
+    "legacyKey": "An increase in a building's allowable area may generally be granted based on:",
+    "q": "An increase in a building's allowable area may generally be granted based on:",
+    "options": [
+      "The number of employees on site",
+      "The amount of public way or open space frontage around the building's perimeter",
+      "The building's proximity to a fire hydrant only",
+      "The color of the roof covering"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 5: General building heights and areas"
+  },
+  {
+    "id": "Q1513",
+    "legacyKey": "Installing an automatic sprinkler system throughout a building may generally allow for:",
+    "q": "Installing an automatic sprinkler system throughout a building may generally allow for:",
+    "options": [
+      "A reduction in required exits only",
+      "An increase in the allowable building area and/or height compared to an unsprinklered building of the same construction type and occupancy",
+      "Elimination of all fire-resistance rating requirements",
+      "A reduction in required plumbing fixtures"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 5: General building heights and areas"
+  },
+  {
+    "id": "Q1514",
+    "legacyKey": "A properly designed and constructed fire wall may generally be used to:",
+    "q": "A properly designed and constructed fire wall may generally be used to:",
+    "options": [
+      "Eliminate the need for a foundation",
+      "Divide a building into separate 'buildings' for the purposes of applying allowable area limits",
+      "Replace all required exits",
+      "Increase allowable occupant load without limit"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 5: General building heights and areas"
+  },
+  {
+    "id": "Q1515",
+    "legacyKey": "'Unlimited area' buildings are permitted under specific IBC 2018 conditions primarily for:",
+    "q": "'Unlimited area' buildings are permitted under specific IBC 2018 conditions primarily for:",
+    "options": [
+      "Any occupancy regardless of construction type",
+      "Certain occupancies (such as Group B, F, M, or S) that are one story, sprinklered, and surrounded by sufficient open space or public way",
+      "High-hazard (Group H) occupancies exclusively",
+      "Residential occupancies over 3 stories"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 5: General building heights and areas"
+  },
+  {
+    "id": "Q1516",
+    "legacyKey": "The allowable number of stories in a building under IBC 2018 depends primarily on:",
+    "q": "The allowable number of stories in a building under IBC 2018 depends primarily on:",
+    "options": [
+      "The building's occupancy classification and type of construction",
+      "The number of tenants",
+      "The building's total floor area only",
+      "The color scheme of the exterior"
+    ],
+    "correct": 0,
+    "source": "IBC, Chapter 5: General building heights and areas"
+  },
+  {
+    "id": "Q1517",
+    "legacyKey": "'Type III' construction is generally described as having:",
+    "q": "'Type III' construction is generally described as having:",
+    "options": [
+      "Fully combustible exterior and interior elements",
+      "Exterior walls of noncombustible materials, with interior building elements of any material permitted by the code",
+      "Only heavy timber structural members",
+      "No fire-resistance rating requirements at all"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 6: Types of construction"
+  },
+  {
+    "id": "Q1518",
+    "legacyKey": "'Type IV' (heavy timber/mass timber) construction is characterized by:",
+    "q": "'Type IV' (heavy timber/mass timber) construction is characterized by:",
+    "options": [
+      "Fully combustible exterior walls",
+      "Noncombustible exterior walls and interior building elements of solid or laminated wood meeting specified minimum dimensions, without concealed spaces",
+      "Steel-only structural framing",
+      "Unlimited combustible concealed spaces"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 6: Types of construction"
+  },
+  {
+    "id": "Q1519",
+    "legacyKey": "The five types of construction (I through V) recognized by IBC 2018 are primarily distinguished from one another by:",
+    "q": "The five types of construction (I through V) recognized by IBC 2018 are primarily distinguished from one another by:",
+    "options": [
+      "The building's color scheme",
+      "The combustibility of the building materials used and the required fire-resistance ratings of the structural elements",
+      "The number of floors only",
+      "The building's geographic location"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 6: Types of construction"
+  },
+  {
+    "id": "Q1520",
+    "legacyKey": "Within a given type of construction, the fire-resistance rating required for a specific building element, such as a bearing wall or floor, generally:",
+    "q": "Within a given type of construction, the fire-resistance rating required for a specific building element, such as a bearing wall or floor, generally:",
+    "options": [
+      "Is identical for every element in the building",
+      "Varies according to that element's structural function, as specified in the applicable construction-type table",
+      "Is left entirely to the contractor's discretion",
+      "Applies only to exterior walls"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 6: Types of construction"
+  },
+  {
+    "id": "Q1521",
+    "legacyKey": "A building constructed using more than one type of construction within the same structure, without an approved fire wall separation, is generally:",
+    "q": "A building constructed using more than one type of construction within the same structure, without an approved fire wall separation, is generally:",
+    "options": [
+      "Permitted with no restriction",
+      "Required to be classified and regulated as the least fire-resistant type of construction used",
+      "Automatically classified as Type I",
+      "Exempt from construction-type classification"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 6: Types of construction"
+  },
+  {
+    "id": "Q1522",
+    "legacyKey": "'Noncombustible' materials, as relevant to construction type classification, are materials that:",
+    "q": "'Noncombustible' materials, as relevant to construction type classification, are materials that:",
+    "options": [
+      "Burn readily and contribute significant fuel to a fire",
+      "Do not ignite or contribute to fire growth when subjected to fire, as determined by the applicable standard test",
+      "Are always metal",
+      "Cannot be used in any building"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 6: Types of construction"
+  },
+  {
+    "id": "Q1523",
+    "legacyKey": "The required fire-resistance rating of a building element can generally be established by:",
+    "q": "The required fire-resistance rating of a building element can generally be established by:",
+    "options": [
+      "Only the contractor's personal judgment",
+      "A fire-resistance-rated assembly listed in an approved source, a prescriptive design in the code, or an approved engineering calculation method",
+      "The building's insurance policy alone",
+      "The manufacturer's marketing materials"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 7: Fire and smoke protection features"
+  },
+  {
+    "id": "Q1524",
+    "legacyKey": "A 'horizontal exit' provides protection by:",
+    "q": "A 'horizontal exit' provides protection by:",
+    "options": [
+      "Requiring occupants to travel down multiple flights of stairs",
+      "Leading occupants through a fire barrier or exterior wall into an area of refuge on the same level, rather than requiring vertical travel to the exterior",
+      "Eliminating the need for any exit signage",
+      "Requiring occupants to exit through a roof hatch"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 7: Fire and smoke protection features"
+  },
+  {
+    "id": "Q1525",
+    "legacyKey": "The fire-protection rating required for an opening protective, such as a fire door, in a fire-resistance-rated wall is generally based primarily on:",
+    "q": "The fire-protection rating required for an opening protective, such as a fire door, in a fire-resistance-rated wall is generally based primarily on:",
+    "options": [
+      "The door's color",
+      "The fire-resistance rating of the wall in which the opening is located",
+      "The manufacturer's warranty period",
+      "The building's occupant load only"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 7: Fire and smoke protection features"
+  },
+  {
+    "id": "Q1526",
+    "legacyKey": "A 'smoke and draft control door assembly' is specifically tested and rated for its ability to:",
+    "q": "A 'smoke and draft control door assembly' is specifically tested and rated for its ability to:",
+    "options": [
+      "Resist forced entry only",
+      "Limit the passage of smoke, in addition to meeting fire door requirements",
+      "Provide sound insulation only",
+      "Resist wind pressure only"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 7: Fire and smoke protection features"
+  },
+  {
+    "id": "Q1527",
+    "legacyKey": "Under IBC 2018, a Class B interior wall/ceiling finish has a maximum flame spread index of:",
+    "q": "Under IBC 2018, a Class B interior wall/ceiling finish has a maximum flame spread index of:",
+    "options": [
+      "25",
+      "75",
+      "200",
+      "450"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 8: Interior finishes"
+  },
+  {
+    "id": "Q1528",
+    "legacyKey": "Under IBC 2018, a Class C interior wall/ceiling finish has a maximum flame spread index of:",
+    "q": "Under IBC 2018, a Class C interior wall/ceiling finish has a maximum flame spread index of:",
+    "options": [
+      "25",
+      "75",
+      "200",
+      "500"
+    ],
+    "correct": 2,
+    "source": "IBC, Chapter 8: Interior finishes"
+  },
+  {
+    "id": "Q1529",
+    "legacyKey": "In addition to the flame spread index, interior finish materials are also classified based on their:",
+    "q": "In addition to the flame spread index, interior finish materials are also classified based on their:",
+    "options": [
+      "Color and gloss level",
+      "Smoke-developed index",
+      "Manufacturer's warranty length",
+      "Retail price"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 8: Interior finishes"
+  },
+  {
+    "id": "Q1530",
+    "legacyKey": "The required flame spread classification for interior wall and ceiling finishes in a given occupancy generally:",
+    "q": "The required flame spread classification for interior wall and ceiling finishes in a given occupancy generally:",
+    "options": [
+      "Becomes more restrictive when the building is sprinklered",
+      "Becomes less restrictive when the building is equipped throughout with an automatic sprinkler system",
+      "Is unaffected by the presence of sprinklers",
+      "Applies only to unsprinklered buildings, with no requirement once sprinklers are added"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 8: Interior finishes"
+  },
+  {
+    "id": "Q1531",
+    "legacyKey": "Interior floor finish materials in exit enclosures and corridors are generally tested and classified using:",
+    "q": "Interior floor finish materials in exit enclosures and corridors are generally tested and classified using:",
+    "options": [
+      "The flame spread index used for wall finishes",
+      "The critical radiant flux (flooring radiant panel) test method",
+      "A simple visual inspection",
+      "The smoke-developed index alone"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 8: Interior finishes"
+  },
+  {
+    "id": "Q1532",
+    "legacyKey": "Textile wall coverings and textile ceiling coverings are subject to additional interior finish requirements primarily because they:",
+    "q": "Textile wall coverings and textile ceiling coverings are subject to additional interior finish requirements primarily because they:",
+    "options": [
+      "Are always more expensive",
+      "Tend to present a greater fire hazard than conventional interior finish materials",
+      "Require no fire testing at all",
+      "Are exempt from flame spread classification"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 8: Interior finishes"
+  },
+  {
+    "id": "Q1533",
+    "legacyKey": "Standpipe systems are generally required in buildings based primarily on:",
+    "q": "Standpipe systems are generally required in buildings based primarily on:",
+    "options": [
+      "The building's exterior paint color",
+      "The building's height and/or the travel distance to a fire department hose connection",
+      "The number of parking spaces",
+      "The building's purchase price"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+  },
+  {
+    "id": "Q1534",
+    "legacyKey": "A Class I standpipe system is designed primarily for use by:",
+    "q": "A Class I standpipe system is designed primarily for use by:",
+    "options": [
+      "Building occupants untrained in firefighting",
+      "Fire department personnel, providing a 2-1/2 inch hose connection",
+      "Maintenance staff for cleaning only",
+      "HVAC contractors"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+  },
+  {
+    "id": "Q1535",
+    "legacyKey": "A Class III standpipe system combines the features of:",
+    "q": "A Class III standpipe system combines the features of:",
+    "options": [
+      "Two separate Class I systems",
+      "Both Class I (fire department) and Class II (occupant-use) standpipe systems",
+      "A sprinkler system and a fire alarm system only",
+      "A fire pump and a water heater"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+  },
+  {
+    "id": "Q1536",
+    "legacyKey": "A fire department connection (FDC) is provided on a building's automatic sprinkler or standpipe system primarily to:",
+    "q": "A fire department connection (FDC) is provided on a building's automatic sprinkler or standpipe system primarily to:",
+    "options": [
+      "Supply domestic water to the building",
+      "Allow the fire department to pump additional water into the system during a fire",
+      "Serve as a decorative architectural feature",
+      "Provide irrigation water"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+  },
+  {
+    "id": "Q1537",
+    "legacyKey": "Smoke alarms in Group R occupancies (such as dwelling units) are generally required to be installed:",
+    "q": "Smoke alarms in Group R occupancies (such as dwelling units) are generally required to be installed:",
+    "options": [
+      "Only in the kitchen",
+      "In each sleeping room, outside each separate sleeping area, and on each additional story",
+      "Only in common hallways",
+      "Only if the building lacks a fire alarm system"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+  },
+  {
+    "id": "Q1538",
+    "legacyKey": "An emergency voice/alarm communication system is generally required in high-rise buildings to:",
+    "q": "An emergency voice/alarm communication system is generally required in high-rise buildings to:",
+    "options": [
+      "Broadcast building announcements unrelated to emergencies",
+      "Provide dedicated audio communication for fire department and occupant notification during an emergency",
+      "Replace the need for smoke alarms",
+      "Serve only as a public address system for events"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+  },
+  {
+    "id": "Q1539",
+    "legacyKey": "A fire pump is used in a fire protection system primarily to:",
+    "q": "A fire pump is used in a fire protection system primarily to:",
+    "options": [
+      "Reduce water pressure to a safe level",
+      "Boost water pressure/flow when the available municipal water supply is insufficient for the system's demand",
+      "Filter debris from the water supply",
+      "Heat water for domestic use"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+  },
+  {
+    "id": "Q1540",
+    "legacyKey": "Under IBC 2018, a space or story with an occupant load exceeding a specified threshold generally requires a minimum of:",
+    "q": "Under IBC 2018, a space or story with an occupant load exceeding a specified threshold generally requires a minimum of:",
+    "options": [
+      "One means of egress only, regardless of occupant load",
+      "Two separate, remotely located means of egress",
+      "Four means of egress in every case",
+      "No fixed minimum; it is left to the owner's discretion"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 10: Means of egress"
+  },
+  {
+    "id": "Q1541",
+    "legacyKey": "'Common path of egress travel' refers to:",
+    "q": "'Common path of egress travel' refers to:",
+    "options": [
+      "The path taken by the fire department only",
+      "The portion of the egress travel distance in which occupants have only one path of travel before reaching a point where they have separate, distinct paths to two exits",
+      "The total travel distance to the nearest public way",
+      "The path used only during fire drills"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 10: Means of egress — Section: Exit access"
+  },
+  {
+    "id": "Q1542",
+    "legacyKey": "A 'dead-end' corridor, where occupants could be led to a point with no direct means of continuing to an exit, is generally limited in length to:",
+    "q": "A 'dead-end' corridor, where occupants could be led to a point with no direct means of continuing to an exit, is generally limited in length to:",
+    "options": [
+      "5 feet",
+      "20 feet, with specific exceptions such as 50 feet for sprinklered occupancies meeting certain conditions",
+      "100 feet in every case",
+      "There is no limit under IBC 2018"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 10: Means of egress — Section: Exit access"
+  },
+  {
+    "id": "Q1543",
+    "legacyKey": "'Exit discharge' refers to:",
+    "q": "'Exit discharge' refers to:",
+    "options": [
+      "The portion of the means of egress system between the termination of an exit and a public way",
+      "The moment an alarm is triggered",
+      "The interior corridor leading to a stairwell",
+      "The occupant load calculation for a room"
+    ],
+    "correct": 0,
+    "source": "IBC, Chapter 10: Means of egress"
+  },
+  {
+    "id": "Q1544",
+    "legacyKey": "IBC 2018 Chapter 11 generally requires that, where a facility or portion of a facility is required to be accessible, an accessible route be provided from:",
+    "q": "IBC 2018 Chapter 11 generally requires that, where a facility or portion of a facility is required to be accessible, an accessible route be provided from:",
+    "options": [
+      "Only the building's rooftop",
+      "The site's accessible parking and public transportation stops to the accessible building entrance",
+      "The loading dock only",
+      "The building's mechanical room"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 11: Accessibility"
+  },
+  {
+    "id": "Q1545",
+    "legacyKey": "The number of required accessible parking spaces in a parking facility is generally based on:",
+    "q": "The number of required accessible parking spaces in a parking facility is generally based on:",
+    "options": [
+      "The building's occupancy classification only",
+      "The total number of parking spaces provided in the facility",
+      "The number of employees only",
+      "The building's height"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 11: Accessibility"
+  },
+  {
+    "id": "Q1546",
+    "legacyKey": "A van-accessible parking space generally requires a wider access aisle (or increased vertical clearance) compared to a standard accessible parking space primarily to accommodate:",
+    "q": "A van-accessible parking space generally requires a wider access aisle (or increased vertical clearance) compared to a standard accessible parking space primarily to accommodate:",
+    "options": [
+      "Motorcycles",
+      "Wheelchair vans with side-mounted lifts or ramps",
+      "Delivery trucks",
+      "Bicycles"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 11: Accessibility"
+  },
+  {
+    "id": "Q1547",
+    "legacyKey": "The maximum running slope generally permitted for an accessible route on the exterior site (not a ramp) is:",
+    "q": "The maximum running slope generally permitted for an accessible route on the exterior site (not a ramp) is:",
+    "options": [
+      "1:12 (8.3%)",
+      "1:20 (5%)",
+      "1:8 (12.5%)",
+      "1:4 (25%)"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 11: Accessibility"
+  },
+  {
+    "id": "Q1548",
+    "legacyKey": "The maximum cross slope generally permitted for an accessible route is:",
+    "q": "The maximum cross slope generally permitted for an accessible route is:",
+    "options": [
+      "1:12 (8.3%)",
+      "1:48 (2%)",
+      "1:20 (5%)",
+      "1:6 (16.7%)"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 11: Accessibility"
+  },
+  {
+    "id": "Q1549",
+    "legacyKey": "An 'area of refuge' is a location within a means of egress system that is:",
+    "q": "An 'area of refuge' is a location within a means of egress system that is:",
+    "options": [
+      "Reserved for building management during a fire",
+      "Protected from fire and smoke, providing a place for occupants unable to use stairs to await assistance during an emergency evacuation",
+      "Used only for equipment storage",
+      "Located outside the building's footprint"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 11: Accessibility"
+  },
+  {
+    "id": "Q1550",
+    "legacyKey": "At least one accessible entrance to a building is generally required to be:",
+    "q": "At least one accessible entrance to a building is generally required to be:",
+    "options": [
+      "Located only at a loading dock",
+      "Connected by an accessible route to the accessible parking and site arrival points",
+      "Reserved exclusively for employees",
+      "Exempt from door hardware requirements"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 11: Accessibility"
+  },
+  {
+    "id": "Q1551",
+    "legacyKey": "Accessible toilet rooms are generally required to provide clear floor space sufficient for:",
+    "q": "Accessible toilet rooms are generally required to provide clear floor space sufficient for:",
+    "options": [
+      "A wheelchair user to enter and maneuver within the room",
+      "Two fixtures to be installed side by side with no clearance",
+      "Storage of maintenance equipment",
+      "A single sink only, with no toilet"
+    ],
+    "correct": 0,
+    "source": "IBC, Chapter 11: Accessibility"
+  },
+  {
+    "id": "Q1552",
+    "legacyKey": "Under IBC 2018, where natural ventilation is provided for a room rather than mechanical ventilation, the required openable exterior opening area is generally not less than:",
+    "q": "Under IBC 2018, where natural ventilation is provided for a room rather than mechanical ventilation, the required openable exterior opening area is generally not less than:",
+    "options": [
+      "1 percent of the floor area of the room",
+      "4 percent of the floor area of the room",
+      "20 percent of the floor area of the room",
+      "50 percent of the floor area of the room"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 12: Interior environment"
+  },
+  {
+    "id": "Q1553",
+    "legacyKey": "Where natural light for a room is not provided by exterior openings, IBC 2018 generally requires:",
+    "q": "Where natural light for a room is not provided by exterior openings, IBC 2018 generally requires:",
+    "options": [
+      "No lighting at all in unoccupied hours",
+      "An artificial light source providing an average illumination level sufficient for the room's use",
+      "Skylights only, with no electrical lighting permitted",
+      "Emergency lighting only"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 12: Interior environment"
+  },
+  {
+    "id": "Q1554",
+    "legacyKey": "Under IBC 2018, habitable spaces are generally required to have a minimum ceiling height of:",
+    "q": "Under IBC 2018, habitable spaces are generally required to have a minimum ceiling height of:",
+    "options": [
+      "6 feet 8 inches",
+      "7 feet 6 inches, with specific exceptions for certain areas",
+      "9 feet in every room",
+      "10 feet in commercial buildings only"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 12: Interior environment"
+  },
+  {
+    "id": "Q1555",
+    "legacyKey": "Toilet rooms and bathrooms are generally required to be provided with:",
+    "q": "Toilet rooms and bathrooms are generally required to be provided with:",
+    "options": [
+      "No ventilation requirement at all",
+      "Mechanical ventilation or natural ventilation via exterior openings",
+      "Natural ventilation only, with mechanical ventilation prohibited",
+      "A skylight in every case"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 12: Interior environment"
+  },
+  {
+    "id": "Q1556",
+    "legacyKey": "IBC Chapter 13 (Energy Efficiency) primarily addresses the energy conservation requirements for buildings by reference to:",
+    "q": "IBC Chapter 13 (Energy Efficiency) primarily addresses the energy conservation requirements for buildings by reference to:",
+    "options": [
+      "The National Electrical Code",
+      "The International Energy Conservation Code (IECC)",
+      "The International Fire Code",
+      "The International Plumbing Code"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 13: Energy efficiency"
+  },
+  {
+    "id": "Q1557",
+    "legacyKey": "Building energy code compliance under the referenced energy conservation code can generally be demonstrated through:",
+    "q": "Building energy code compliance under the referenced energy conservation code can generally be demonstrated through:",
+    "options": [
+      "Only a performance-based compliance path",
+      "Either a prescriptive compliance path or a performance-based (whole-building) compliance path",
+      "A verbal statement from the contractor",
+      "No compliance path is required for commercial buildings"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 13: Energy efficiency"
+  },
+  {
+    "id": "Q1558",
+    "legacyKey": "A continuous air barrier in the building envelope is required primarily to:",
+    "q": "A continuous air barrier in the building envelope is required primarily to:",
+    "options": [
+      "Increase the building's fire-resistance rating",
+      "Limit uncontrolled air leakage into and out of the conditioned space, improving energy performance",
+      "Improve the building's sound transmission class",
+      "Serve as the primary structural bracing system"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 13: Energy efficiency"
+  },
+  {
+    "id": "Q1559",
+    "legacyKey": "Commercial buildings and residential buildings are generally subject to:",
+    "q": "Commercial buildings and residential buildings are generally subject to:",
+    "options": [
+      "Identical energy conservation provisions in every respect",
+      "Different (separate) sets of energy conservation provisions within the referenced energy code, reflecting their different construction types and uses",
+      "No energy conservation provisions for residential buildings",
+      "No energy conservation provisions for commercial buildings"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 13: Energy efficiency"
+  },
+  {
+    "id": "Q1560",
+    "legacyKey": "Building envelope energy provisions typically regulate:",
+    "q": "Building envelope energy provisions typically regulate:",
+    "options": [
+      "Only the color of exterior paint",
+      "The thermal performance of walls, roofs, floors, fenestration (windows/doors), and air leakage control",
+      "Only the type of flooring material",
+      "Only interior wall finishes"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 13: Energy efficiency"
+  },
+  {
+    "id": "Q1561",
+    "legacyKey": "The required fire-resistance rating of an exterior wall is generally determined based primarily on:",
+    "q": "The required fire-resistance rating of an exterior wall is generally determined based primarily on:",
+    "options": [
+      "The wall's paint color",
+      "The fire separation distance between the exterior wall and the lot line (or an imaginary line between buildings on the same lot)",
+      "The wall's total height only",
+      "The type of interior finish used"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 14: Exterior walls"
+  },
+  {
+    "id": "Q1562",
+    "legacyKey": "As the fire separation distance of an exterior wall decreases, the required fire-resistance rating of that wall generally:",
+    "q": "As the fire separation distance of an exterior wall decreases, the required fire-resistance rating of that wall generally:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains unchanged in every case",
+      "Is eliminated entirely"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 14: Exterior walls"
+  },
+  {
+    "id": "Q1563",
+    "legacyKey": "Exterior insulation and finish systems (EIFS) are subject to additional IBC requirements primarily addressing:",
+    "q": "Exterior insulation and finish systems (EIFS) are subject to additional IBC requirements primarily addressing:",
+    "options": [
+      "Interior paint color matching",
+      "Proper water management/drainage behind the system to prevent moisture damage to the wall assembly",
+      "Structural steel connections",
+      "Elevator shaft enclosures"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 14: Exterior walls"
+  },
+  {
+    "id": "Q1564",
+    "legacyKey": "Vinyl siding used as an exterior wall covering is generally required to comply with:",
+    "q": "Vinyl siding used as an exterior wall covering is generally required to comply with:",
+    "options": [
+      "No specific standard, as it is considered purely decorative",
+      "A specific referenced standard governing its material and installation requirements",
+      "Only the manufacturer's marketing brochure",
+      "The interior finish flame spread table"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 14: Exterior walls"
+  },
+  {
+    "id": "Q1565",
+    "legacyKey": "Projections such as eaves and cornices located near a property line are generally subject to:",
+    "q": "Projections such as eaves and cornices located near a property line are generally subject to:",
+    "options": [
+      "No restrictions whatsoever",
+      "Specific limitations on combustible construction and/or required fire-resistance ratings, based on the fire separation distance",
+      "A blanket prohibition in all cases",
+      "Requirements identical to interior finishes"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 14: Exterior walls"
+  },
+  {
+    "id": "Q1566",
+    "legacyKey": "Roof covering materials are classified under IBC 2018 by fire-test-response type, generally as:",
+    "q": "Roof covering materials are classified under IBC 2018 by fire-test-response type, generally as:",
+    "options": [
+      "Type I, II, III, IV, or V",
+      "Class A, B, or C, based on their resistance to fire exposure from outside the building",
+      "Group A through Group U",
+      "Class 1 through Class 10"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+  },
+  {
+    "id": "Q1567",
+    "legacyKey": "When an existing roof covering is being reroofed (recovered or replaced), IBC 2018 generally requires:",
+    "q": "When an existing roof covering is being reroofed (recovered or replaced), IBC 2018 generally requires:",
+    "options": [
+      "Complete exemption from all code provisions",
+      "Compliance with specific reroofing provisions, which may allow certain existing roof coverings to remain under specified conditions",
+      "Replacement of the entire structural roof deck in every case",
+      "A new building permit only for roofs over 50 years old"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+  },
+  {
+    "id": "Q1568",
+    "legacyKey": "Roof drainage systems are generally required to include a secondary (overflow) drainage system primarily to:",
+    "q": "Roof drainage systems are generally required to include a secondary (overflow) drainage system primarily to:",
+    "options": [
+      "Reduce the cost of the primary system",
+      "Prevent accumulation of water beyond the roof's structural design capacity if the primary drainage system becomes blocked",
+      "Provide irrigation for rooftop landscaping",
+      "Serve as the sole source of roof drainage"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+  },
+  {
+    "id": "Q1569",
+    "legacyKey": "A 'penthouse' or similar rooftop structure is generally regulated under IBC 2018 primarily with limitations on:",
+    "q": "A 'penthouse' or similar rooftop structure is generally regulated under IBC 2018 primarily with limitations on:",
+    "options": [
+      "Its interior paint color",
+      "Its height and the percentage of roof area it may occupy",
+      "The number of employees who may enter it",
+      "Its distance from the nearest fire hydrant"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+  },
+  {
+    "id": "Q1570",
+    "legacyKey": "Ballasted (aggregate-surfaced) roof systems must be designed to resist:",
+    "q": "Ballasted (aggregate-surfaced) roof systems must be designed to resist:",
+    "options": [
+      "Only dead loads",
+      "Wind uplift forces, in accordance with the applicable wind design provisions",
+      "Only seismic loads",
+      "Only snow loads"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+  },
+  {
+    "id": "Q1571",
+    "legacyKey": "Roof access is generally required for certain buildings primarily to:",
+    "q": "Roof access is generally required for certain buildings primarily to:",
+    "options": [
+      "Allow rooftop recreational use",
+      "Allow fire department access to the roof for ventilation and firefighting operations",
+      "Provide a location for advertising signage",
+      "Reduce the building's overall height classification"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+  },
+  {
+    "id": "Q1572",
+    "legacyKey": "Structural members under IBC 2018 must be designed to resist the applicable load combinations, which generally combine:",
+    "q": "Structural members under IBC 2018 must be designed to resist the applicable load combinations, which generally combine:",
+    "options": [
+      "Only dead loads",
+      "Dead loads, live loads, and environmental loads such as wind, snow, or seismic, as specified by the referenced standard (ASCE 7)",
+      "Only wind loads",
+      "Only the weight of interior finishes"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 16: Structural design"
+  },
+  {
+    "id": "Q1573",
+    "legacyKey": "A building's Seismic Design Category is determined based primarily on:",
+    "q": "A building's Seismic Design Category is determined based primarily on:",
+    "options": [
+      "The building's exterior paint color",
+      "The building's occupancy/risk category and the mapped seismic ground motion values for its site location",
+      "The number of parking spaces provided",
+      "The building's construction budget"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 16: Structural design"
+  },
+  {
+    "id": "Q1574",
+    "legacyKey": "The 'basic wind speed' used for structural wind design of a building is determined based primarily on:",
+    "q": "The 'basic wind speed' used for structural wind design of a building is determined based primarily on:",
+    "options": [
+      "The contractor's preference",
+      "The building's geographic location, as specified on the applicable wind speed maps referenced by the code",
+      "The building's occupancy classification alone",
+      "The building's roof color"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 16: Structural design — Section: Wind loads"
+  },
+  {
+    "id": "Q1575",
+    "legacyKey": "Ground snow load values used for structural design are generally determined based on:",
+    "q": "Ground snow load values used for structural design are generally determined based on:",
+    "options": [
+      "The building's interior finish materials",
+      "The building's geographic location, per the applicable snow load map or local jurisdictional requirements",
+      "The building's occupant load",
+      "The type of HVAC system installed"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 16: Structural design"
+  },
+  {
+    "id": "Q1576",
+    "legacyKey": "Buildings located within a designated flood hazard area are generally subject to additional structural design requirements primarily addressing:",
+    "q": "Buildings located within a designated flood hazard area are generally subject to additional structural design requirements primarily addressing:",
+    "options": [
+      "Interior paint specifications",
+      "Resistance to flood loads and elevation of the lowest floor above the design flood elevation",
+      "Roof covering color",
+      "Parking lot striping"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 16: Structural design"
+  },
+  {
+    "id": "Q1577",
+    "legacyKey": "Under IBC 2018, 'special inspections' are generally performed by:",
+    "q": "Under IBC 2018, 'special inspections' are generally performed by:",
+    "options": [
+      "Any available construction worker",
+      "A qualified special inspector, approved by the building official, who is independent of the contractor performing the work",
+      "The building owner personally",
+      "The material supplier's sales representative"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 17: Special inspections and tests"
+  },
+  {
+    "id": "Q1578",
+    "legacyKey": "A 'Statement of Special Inspections,' prepared as part of the permit documents, is intended to:",
+    "q": "A 'Statement of Special Inspections,' prepared as part of the permit documents, is intended to:",
+    "options": [
+      "Replace the need for a building permit",
+      "Identify the materials, systems, and work requiring special inspection and testing for the specific project",
+      "List the project's marketing materials",
+      "Serve only as a billing document"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 17: Special inspections and tests"
+  },
+  {
+    "id": "Q1579",
+    "legacyKey": "'Continuous special inspection' differs from 'periodic special inspection' in that continuous inspection requires:",
+    "q": "'Continuous special inspection' differs from 'periodic special inspection' in that continuous inspection requires:",
+    "options": [
+      "No inspector at all",
+      "The special inspector to be on-site full-time observing the work as it is being performed",
+      "Inspection only after the work is fully complete",
+      "Inspection only by the building owner"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 17: Special inspections and tests"
+  },
+  {
+    "id": "Q1580",
+    "legacyKey": "'Structural observation,' when required, is distinct from special inspection in that structural observation is generally performed by:",
+    "q": "'Structural observation,' when required, is distinct from special inspection in that structural observation is generally performed by:",
+    "options": [
+      "An unlicensed laborer",
+      "The registered design professional, focused on general conformance with the approved structural design intent rather than detailed verification of specific work items",
+      "The building official exclusively",
+      "The concrete supplier"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 17: Special inspections and tests"
+  },
+  {
+    "id": "Q1581",
+    "legacyKey": "Special inspection of structural welding is generally required to verify that:",
+    "q": "Special inspection of structural welding is generally required to verify that:",
+    "options": [
+      "The welding is performed in accordance with the approved construction documents and applicable welding standards",
+      "The welder used the least expensive electrode available",
+      "The weld is painted a specific color",
+      "No inspection is needed for welding"
+    ],
+    "correct": 0,
+    "source": "IBC, Chapter 17: Special inspections and tests"
+  },
+  {
+    "id": "Q1582",
+    "legacyKey": "The contractor is generally responsible for notifying the special inspector or inspection agency of work requiring special inspection primarily to:",
+    "q": "The contractor is generally responsible for notifying the special inspector or inspection agency of work requiring special inspection primarily to:",
+    "options": [
+      "Avoid any inspections altogether",
+      "Ensure the required inspections can be performed at the appropriate stages of construction",
+      "Delay the project schedule intentionally",
+      "Reduce the project's insurance costs"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 17: Special inspections and tests"
+  },
+  {
+    "id": "Q1583",
+    "legacyKey": "A geotechnical (soil) investigation report is generally required for a building's foundation design when:",
+    "q": "A geotechnical (soil) investigation report is generally required for a building's foundation design when:",
+    "options": [
+      "The building official determines that the actual soil conditions or proposed foundation design warrant more detailed information than presumptive load-bearing values allow",
+      "The building is a single-story shed under all circumstances",
+      "Never, since presumptive values always apply",
+      "Only for buildings under 500 square feet"
+    ],
+    "correct": 0,
+    "source": "IBC, Chapter 18: Soils and foundations"
+  },
+  {
+    "id": "Q1584",
+    "legacyKey": "IBC 2018 provides 'presumptive' load-bearing values for various soil classifications primarily to:",
+    "q": "IBC 2018 provides 'presumptive' load-bearing values for various soil classifications primarily to:",
+    "options": [
+      "Eliminate the need for footings entirely",
+      "Allow foundation design without a full geotechnical investigation, for buildings meeting specific limited conditions",
+      "Set the final sale price of the property",
+      "Replace all structural engineering requirements"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 18: Soils and foundations"
+  },
+  {
+    "id": "Q1585",
+    "legacyKey": "Deep foundations, such as piles or piers, are generally used when:",
+    "q": "Deep foundations, such as piles or piers, are generally used when:",
+    "options": [
+      "The soil near the surface provides more than adequate bearing capacity",
+      "The load-bearing capacity of the soil near the surface is insufficient to support the structure using conventional shallow footings",
+      "The building has no structural loads",
+      "Only for landscaping features"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 18: Soils and foundations"
+  },
+  {
+    "id": "Q1586",
+    "legacyKey": "Retaining walls are generally required to be designed to resist:",
+    "q": "Retaining walls are generally required to be designed to resist:",
+    "options": [
+      "Only the wall's own self-weight",
+      "The lateral pressure of the retained soil, and any applicable surcharge loads",
+      "Only wind loads",
+      "Only seismic loads, with no consideration of soil pressure"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 18: Soils and foundations"
+  },
+  {
+    "id": "Q1587",
+    "legacyKey": "Precast concrete members used in a structure are generally required to be designed and manufactured to demonstrate compliance with:",
+    "q": "Precast concrete members used in a structure are generally required to be designed and manufactured to demonstrate compliance with:",
+    "options": [
+      "No particular standard, as long as they are gray in color",
+      "The applicable structural design provisions and quality control requirements referenced by the code",
+      "Only the transportation company's shipping requirements",
+      "The interior finish flame spread table"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 19: Concrete"
+  },
+  {
+    "id": "Q1588",
+    "legacyKey": "Concrete exposure categories, such as exposure to freeze-thaw, sulfates, or corrosion-inducing conditions, generally affect:",
+    "q": "Concrete exposure categories, such as exposure to freeze-thaw, sulfates, or corrosion-inducing conditions, generally affect:",
+    "options": [
+      "Only the concrete's color",
+      "The required concrete mix design properties, such as water-cementitious materials ratio and minimum compressive strength",
+      "Only the formwork removal schedule",
+      "Only the finishing technique used"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 19: Concrete"
+  },
+  {
+    "id": "Q1589",
+    "legacyKey": "IBC Chapter 20 (Aluminum) governs the design and construction of structural aluminum by referencing standards published by:",
+    "q": "IBC Chapter 20 (Aluminum) governs the design and construction of structural aluminum by referencing standards published by:",
+    "options": [
+      "The American Concrete Institute",
+      "The Aluminum Association",
+      "The American Wood Council",
+      "The Brick Industry Association"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 20: Aluminum"
+  },
+  {
+    "id": "Q1590",
+    "legacyKey": "Aluminum used in building construction is commonly found in applications such as:",
+    "q": "Aluminum used in building construction is commonly found in applications such as:",
+    "options": [
+      "Foundation footings",
+      "Storefront systems, curtain walls, and certain architectural/structural components",
+      "Structural concrete reinforcement",
+      "Fire-rated gypsum assemblies"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 20: Aluminum"
+  },
+  {
+    "id": "Q1591",
+    "legacyKey": "When aluminum is placed in direct contact with dissimilar metals or certain corrosive materials, the code generally requires:",
+    "q": "When aluminum is placed in direct contact with dissimilar metals or certain corrosive materials, the code generally requires:",
+    "options": [
+      "No special precautions",
+      "Protective measures to prevent galvanic corrosion",
+      "Removal of the aluminum component entirely",
+      "Painting the aluminum a specific mandated color"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 20: Aluminum"
+  },
+  {
+    "id": "Q1592",
+    "legacyKey": "'Anchored masonry veneer,' as distinguished from 'adhered masonry veneer,' is secured to its backing primarily using:",
+    "q": "'Anchored masonry veneer,' as distinguished from 'adhered masonry veneer,' is secured to its backing primarily using:",
+    "options": [
+      "A direct bonding material such as mortar or adhesive, with no metal ties",
+      "Mechanical metal ties/anchors, rather than a direct bonding material",
+      "Gravity alone, with no fasteners",
+      "Magnetic fasteners"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 21: Masonry"
+  },
+  {
+    "id": "Q1593",
+    "legacyKey": "'Adhered masonry veneer' is secured to its backing primarily by:",
+    "q": "'Adhered masonry veneer' is secured to its backing primarily by:",
+    "options": [
+      "Mechanical metal ties driven into the backing",
+      "A bonding material, such as mortar or adhesive, directly attaching the veneer to the backing, without metal ties",
+      "Steel bolts through the veneer face",
+      "Friction fit alone"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 21: Masonry"
+  },
+  {
+    "id": "Q1594",
+    "legacyKey": "Autoclaved aerated concrete (AAC) masonry, as a specific masonry material recognized under IBC 2018, is characterized by:",
+    "q": "Autoclaved aerated concrete (AAC) masonry, as a specific masonry material recognized under IBC 2018, is characterized by:",
+    "options": [
+      "A solid, extremely dense structure",
+      "A lightweight, cellular structure achieved through an autoclaving manufacturing process",
+      "Being manufactured exclusively from clay",
+      "Being used only for interior partitions with no structural role"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 21: Masonry"
+  },
+  {
+    "id": "Q1595",
+    "legacyKey": "The structural design of hot-rolled structural steel members under IBC 2018 is generally governed by standards published by:",
+    "q": "The structural design of hot-rolled structural steel members under IBC 2018 is generally governed by standards published by:",
+    "options": [
+      "The American Concrete Institute (ACI)",
+      "The American Institute of Steel Construction (AISC)",
+      "The American Wood Council (AWC)",
+      "The Gypsum Association (GA)"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 22: Steel"
+  },
+  {
+    "id": "Q1596",
+    "legacyKey": "Cold-formed steel framing members, such as light-gauge steel studs, are generally designed in accordance with standards published by:",
+    "q": "Cold-formed steel framing members, such as light-gauge steel studs, are generally designed in accordance with standards published by:",
+    "options": [
+      "The American Institute of Steel Construction (AISC)",
+      "The American Iron and Steel Institute (AISI)",
+      "The Steel Joist Institute (SJI)",
+      "The American Concrete Institute (ACI)"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 22: Steel"
+  },
+  {
+    "id": "Q1597",
+    "legacyKey": "Open-web steel joists and joist girders are generally designed and specified in accordance with standards published by:",
+    "q": "Open-web steel joists and joist girders are generally designed and specified in accordance with standards published by:",
+    "options": [
+      "The Steel Joist Institute (SJI)",
+      "The American Wood Council (AWC)",
+      "The Brick Industry Association (BIA)",
+      "The National Ready Mixed Concrete Association (NRMCA)"
+    ],
+    "correct": 0,
+    "source": "IBC, Chapter 22: Steel"
+  },
+  {
+    "id": "Q1598",
+    "legacyKey": "Wood structural panels, such as plywood and OSB, used for structural purposes must generally conform to:",
+    "q": "Wood structural panels, such as plywood and OSB, used for structural purposes must generally conform to:",
+    "options": [
+      "No particular standard, as long as they appear similar",
+      "The applicable product standard and be identified by an approved grade mark or certificate of inspection",
+      "Only the retailer's invoice description",
+      "The interior finish flame spread table"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 23: Wood"
+  },
+  {
+    "id": "Q1599",
+    "legacyKey": "'Conventional light-frame construction' provisions in IBC 2018 provide prescriptive requirements that are generally limited to:",
+    "q": "'Conventional light-frame construction' provisions in IBC 2018 provide prescriptive requirements that are generally limited to:",
+    "options": [
+      "Buildings of unlimited height and any occupancy",
+      "Buildings meeting specific limitations on height, occupancy, wind/seismic exposure, and other conditions specified in the code",
+      "High-rise buildings exclusively",
+      "Buildings located only in flood hazard areas"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 23: Wood"
+  },
+  {
+    "id": "Q1600",
+    "legacyKey": "Engineered wood products, such as I-joists or LVL, used in a structure are generally required to be:",
+    "q": "Engineered wood products, such as I-joists or LVL, used in a structure are generally required to be:",
+    "options": [
+      "Selected based on appearance alone",
+      "Manufactured and identified in accordance with an approved product standard or evaluation report",
+      "Exempt from all product standards",
+      "Used only in non-structural applications"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 23: Wood"
+  },
+  {
+    "id": "Q1601",
+    "legacyKey": "A wood-framed shear wall resists lateral loads primarily through:",
+    "q": "A wood-framed shear wall resists lateral loads primarily through:",
+    "options": [
+      "The framing lumber's species alone",
+      "The structural sheathing's connection (nailing pattern) to the framing, transferring shear forces to the foundation",
+      "The interior paint finish",
+      "The insulation R-value"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 23: Wood — Section: General shear wall provisions"
+  },
+  {
+    "id": "Q1602",
+    "legacyKey": "Glued laminated timber (glulam) used as a structural member must generally conform to:",
+    "q": "Glued laminated timber (glulam) used as a structural member must generally conform to:",
+    "options": [
+      "No standard, as it is considered decorative only",
+      "A specific referenced manufacturing and design standard for structural glued laminated timber",
+      "The interior finish flame spread classification only",
+      "The masonry mortar type table"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 23: Wood"
+  },
+  {
+    "id": "Q1603",
+    "legacyKey": "Glazing used in exterior walls must generally be designed to resist:",
+    "q": "Glazing used in exterior walls must generally be designed to resist:",
+    "options": [
+      "Only its own self-weight",
+      "Wind loads, in accordance with the applicable structural wind design provisions",
+      "Only interior lighting loads",
+      "Only fire-resistance requirements, with no consideration of wind"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 24: Glass and glazing"
+  },
+  {
+    "id": "Q1604",
+    "legacyKey": "Sloped glazing and skylights are generally subject to additional requirements primarily to protect against:",
+    "q": "Sloped glazing and skylights are generally subject to additional requirements primarily to protect against:",
+    "options": [
+      "Excessive daylighting",
+      "The hazard of falling glass fragments if the glazing breaks",
+      "Excessive energy savings",
+      "Excessive structural strength"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 24: Glass and glazing"
+  },
+  {
+    "id": "Q1605",
+    "legacyKey": "Glazing used in guards (guardrails) is generally required to be:",
+    "q": "Glazing used in guards (guardrails) is generally required to be:",
+    "options": [
+      "Standard untempered glass with no additional requirements",
+      "Designed to resist the specified loads applied to guards without creating an opening that would allow a fall, or to remain in place if it breaks",
+      "Removable by occupants at will",
+      "Exempt from all structural requirements"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 24: Glass and glazing"
+  },
+  {
+    "id": "Q1606",
+    "legacyKey": "Fire-rated glazing installed in a fire-resistance-rated wall assembly must generally be:",
+    "q": "Fire-rated glazing installed in a fire-resistance-rated wall assembly must generally be:",
+    "options": [
+      "Any type of tempered glass",
+      "Tested and labeled/listed for use in that specific fire-resistance-rated application",
+      "Selected based on tint color only",
+      "Exempt from labeling requirements"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 24: Glass and glazing"
+  },
+  {
+    "id": "Q1607",
+    "legacyKey": "Glass used in structural applications, such as glass floor panels or glass railings, is generally required to be designed with consideration for:",
+    "q": "Glass used in structural applications, such as glass floor panels or glass railings, is generally required to be designed with consideration for:",
+    "options": [
+      "Aesthetic appeal only",
+      "Redundancy/safety in the event that one or more glass plies fail",
+      "Minimizing material cost only",
+      "Eliminating the need for any safety factor"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 24: Glass and glazing"
+  },
+  {
+    "id": "Q1608",
+    "legacyKey": "Under IBC 2018, gypsum board is generally required to be protected from:",
+    "q": "Under IBC 2018, gypsum board is generally required to be protected from:",
+    "options": [
+      "Normal room-temperature indoor air",
+      "Exposure to weather during construction and from direct water exposure in service, unless specifically manufactured/rated for such exposure",
+      "All forms of interior paint",
+      "Standard fastener installation"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum board"
+  },
+  {
+    "id": "Q1609",
+    "legacyKey": "Portland cement plaster (stucco) applied over metal lath is generally required to receive a minimum number of coats of:",
+    "q": "Portland cement plaster (stucco) applied over metal lath is generally required to receive a minimum number of coats of:",
+    "options": [
+      "One",
+      "Three (scratch, brown, and finish coats), except under specific limited conditions",
+      "Five",
+      "Zero; a single spray application suffices"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Exterior plaster"
+  },
+  {
+    "id": "Q1610",
+    "legacyKey": "Gypsum lath and gypsum board used as a plaster base are generally required to be installed in accordance with:",
+    "q": "Gypsum lath and gypsum board used as a plaster base are generally required to be installed in accordance with:",
+    "options": [
+      "No particular standard",
+      "The applicable referenced installation standard for the specific product and application",
+      "Only the painter's preference",
+      "The masonry mortar joint table"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 25: Gypsum board, gypsum panel products and plaster"
+  },
+  {
+    "id": "Q1611",
+    "legacyKey": "Foam plastic insulation installed in a building is generally required to be separated from the interior of the building by:",
+    "q": "Foam plastic insulation installed in a building is generally required to be separated from the interior of the building by:",
+    "options": [
+      "Nothing; it may always be left exposed",
+      "An approved thermal barrier, such as 1/2-inch gypsum wallboard, unless specifically tested and approved without one",
+      "A layer of carpet only",
+      "A coat of paint only"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 26: Plastic"
+  },
+  {
+    "id": "Q1612",
+    "legacyKey": "Light-transmitting plastic used for skylights and similar glazing applications is generally regulated primarily to address:",
+    "q": "Light-transmitting plastic used for skylights and similar glazing applications is generally regulated primarily to address:",
+    "options": [
+      "Its color transparency only",
+      "Its fire performance (flame spread) and structural adequacy compared to conventional glazing",
+      "Its resale value",
+      "Its compatibility with wood trim only"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 26: Plastic"
+  },
+  {
+    "id": "Q1613",
+    "legacyKey": "Plastic veneer used as an interior or exterior finish material is generally subject to limitations primarily related to:",
+    "q": "Plastic veneer used as an interior or exterior finish material is generally subject to limitations primarily related to:",
+    "options": [
+      "Its manufacturer's brand name",
+      "Its area and location, due to its combustibility",
+      "Its warranty period",
+      "Its shipping weight"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 26: Plastic"
+  },
+  {
+    "id": "Q1614",
+    "legacyKey": "Fiber-reinforced plastic (FRP) panels used as an interior finish, such as in a commercial kitchen or restroom, are generally regulated as:",
+    "q": "Fiber-reinforced plastic (FRP) panels used as an interior finish, such as in a commercial kitchen or restroom, are generally regulated as:",
+    "options": [
+      "A structural framing material",
+      "An interior finish material, subject to flame spread and smoke-developed classification requirements",
+      "A plumbing fixture",
+      "An electrical component"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 26: Plastic"
+  },
+  {
+    "id": "Q1615",
+    "legacyKey": "IBC Chapter 27 (Electrical) generally regulates electrical systems and equipment in buildings primarily by referencing:",
+    "q": "IBC Chapter 27 (Electrical) generally regulates electrical systems and equipment in buildings primarily by referencing:",
+    "options": [
+      "The International Mechanical Code",
+      "The National Electrical Code (NFPA 70)",
+      "The International Plumbing Code",
+      "The Aluminum Design Manual"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 27: Electrical"
+  },
+  {
+    "id": "Q1616",
+    "legacyKey": "Emergency and standby power systems required for certain life-safety systems, such as emergency lighting, are generally regulated for their electrical installation by:",
+    "q": "Emergency and standby power systems required for certain life-safety systems, such as emergency lighting, are generally regulated for their electrical installation by:",
+    "options": [
+      "The interior finish flame spread table",
+      "The referenced electrical code (NFPA 70), in coordination with the applicable IBC life-safety provisions",
+      "The plumbing fixture count table",
+      "The masonry mortar type table"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 27: Electrical"
+  },
+  {
+    "id": "Q1617",
+    "legacyKey": "Under IBC Chapter 27, electrical equipment and wiring must generally be:",
+    "q": "Under IBC Chapter 27, electrical equipment and wiring must generally be:",
+    "options": [
+      "Installed without any listing or labeling requirement",
+      "Installed in accordance with the referenced electrical code and listed/labeled for its intended use",
+      "Selected based solely on cost",
+      "Exempt from inspection"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 27: Electrical"
+  },
+  {
+    "id": "Q1618",
+    "legacyKey": "IBC Chapter 28 (Mechanical Systems) generally regulates the installation of mechanical systems and equipment by referencing:",
+    "q": "IBC Chapter 28 (Mechanical Systems) generally regulates the installation of mechanical systems and equipment by referencing:",
+    "options": [
+      "The National Electrical Code",
+      "The International Mechanical Code (IMC)",
+      "The International Plumbing Code",
+      "The Aluminum Design Manual"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 28: Mechanical systems"
+  },
+  {
+    "id": "Q1619",
+    "legacyKey": "Mechanical equipment installed outdoors or exposed to weather is generally required to be:",
+    "q": "Mechanical equipment installed outdoors or exposed to weather is generally required to be:",
+    "options": [
+      "Left completely unprotected",
+      "Designed or protected to withstand the weather exposure it will be subjected to",
+      "Painted a mandated color",
+      "Installed only on the ground floor"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 28: Mechanical systems"
+  },
+  {
+    "id": "Q1620",
+    "legacyKey": "Ducts that penetrate a fire-resistance-rated wall or floor assembly are generally required to be protected with:",
+    "q": "Ducts that penetrate a fire-resistance-rated wall or floor assembly are generally required to be protected with:",
+    "options": [
+      "No protection, since ducts are considered noncombustible",
+      "An approved fire damper, or equivalent protection, to maintain the assembly's fire-resistance rating",
+      "A coat of fire-retardant paint only",
+      "A grille cover only"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 28: Mechanical systems"
+  },
+  {
+    "id": "Q1621",
+    "legacyKey": "Commercial kitchen exhaust hoods over grease-producing cooking equipment are generally required to be equipped with:",
+    "q": "Commercial kitchen exhaust hoods over grease-producing cooking equipment are generally required to be equipped with:",
+    "options": [
+      "No fire protection at all",
+      "A fire-extinguishing system in accordance with the applicable referenced standard",
+      "A standard portable fire extinguisher only",
+      "A smoke detector only, with no suppression"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 28: Mechanical systems"
+  },
+  {
+    "id": "Q1622",
+    "legacyKey": "Mechanical ventilation systems for occupied spaces are generally designed to provide:",
+    "q": "Mechanical ventilation systems for occupied spaces are generally designed to provide:",
+    "options": [
+      "No outdoor air at all",
+      "An adequate supply of outdoor air based on the space's occupancy and use, per the referenced mechanical code",
+      "Only recirculated air with no outdoor air",
+      "Outdoor air only during a fire alarm"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 28: Mechanical systems"
+  },
+  {
+    "id": "Q1623",
+    "legacyKey": "IBC Chapter 29 (Plumbing Systems) generally regulates plumbing fixtures and systems by referencing:",
+    "q": "IBC Chapter 29 (Plumbing Systems) generally regulates plumbing fixtures and systems by referencing:",
+    "options": [
+      "The International Mechanical Code",
+      "The International Plumbing Code (IPC)",
+      "The National Electrical Code",
+      "The Aluminum Design Manual"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 29: Plumbing systems"
+  },
+  {
+    "id": "Q1624",
+    "legacyKey": "The minimum number of required plumbing fixtures, such as toilets and lavatories, for a building is generally determined based on:",
+    "q": "The minimum number of required plumbing fixtures, such as toilets and lavatories, for a building is generally determined based on:",
+    "options": [
+      "The building's exterior paint color",
+      "The building's occupancy classification and occupant load",
+      "The building's height only",
+      "The contractor's preference"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 29: Plumbing systems"
+  },
+  {
+    "id": "Q1625",
+    "legacyKey": "Separate toilet facilities for each sex are generally required in a building, except:",
+    "q": "Separate toilet facilities for each sex are generally required in a building, except:",
+    "options": [
+      "Under no circumstances; separate facilities are always required with no exceptions",
+      "Where specifically exempted for occupancies with a small occupant load, or where family/single-occupant facilities are permitted",
+      "In every Group B occupancy regardless of size",
+      "In buildings taller than three stories"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 29: Plumbing systems"
+  },
+  {
+    "id": "Q1626",
+    "legacyKey": "At least one of each type of required plumbing fixture is generally required to be:",
+    "q": "At least one of each type of required plumbing fixture is generally required to be:",
+    "options": [
+      "Installed only in a locked room",
+      "Accessible, in accordance with the applicable accessibility provisions",
+      "Colored differently from the others",
+      "Located only on the ground floor of every building"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 29: Plumbing systems"
+  },
+  {
+    "id": "Q1627",
+    "legacyKey": "Water supply systems serving a building are generally required to be designed to provide:",
+    "q": "Water supply systems serving a building are generally required to be designed to provide:",
+    "options": [
+      "The minimum amount of water possible to reduce cost",
+      "An adequate quantity and pressure of water for the building's fixtures and intended use",
+      "Only cold water, with no hot water requirement",
+      "Water only to the ground floor"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 29: Plumbing systems"
+  },
+  {
+    "id": "Q1628",
+    "legacyKey": "Plumbing drainage and venting systems are generally designed to prevent:",
+    "q": "Plumbing drainage and venting systems are generally designed to prevent:",
+    "options": [
+      "Water from flowing at all",
+      "The entry of sewer gases into occupied spaces, primarily through the use of trap seals maintained by proper venting",
+      "The use of any cleanouts",
+      "Fixtures from being accessible"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 29: Plumbing systems"
+  },
+  {
+    "id": "Q1629",
+    "legacyKey": "Elevator hoistways are generally required to be enclosed with:",
+    "q": "Elevator hoistways are generally required to be enclosed with:",
+    "options": [
+      "Untreated wood framing only",
+      "Fire-resistance-rated construction, to protect the shaft as a vertical opening between floors",
+      "No enclosure at all in low-rise buildings",
+      "Glass with no fire rating"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 30: Elevators and conveying systems"
+  },
+  {
+    "id": "Q1630",
+    "legacyKey": "Elevators intended for use by firefighters during an emergency are generally required to be equipped with:",
+    "q": "Elevators intended for use by firefighters during an emergency are generally required to be equipped with:",
+    "options": [
+      "No special features beyond a standard passenger elevator",
+      "Firefighters' Emergency Operation features (Phase I/II emergency recall and in-car operation)",
+      "A separate fire escape ladder inside the car",
+      "Manual hand-crank operation only"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 30: Elevators and conveying systems"
+  },
+  {
+    "id": "Q1631",
+    "legacyKey": "In high-rise buildings, elevator lobbies are generally required to be:",
+    "q": "In high-rise buildings, elevator lobbies are generally required to be:",
+    "options": [
+      "Open directly to every floor with no separation",
+      "Separated from the remainder of the floor by fire-resistance-rated construction, to help protect the means of egress and elevator shaft from smoke",
+      "Used as general storage space",
+      "Exempt from all fire-protection requirements"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 30: Elevators and conveying systems"
+  },
+  {
+    "id": "Q1632",
+    "legacyKey": "Platform (wheelchair) lifts may generally be used in a means of egress or as part of an accessible route:",
+    "q": "Platform (wheelchair) lifts may generally be used in a means of egress or as part of an accessible route:",
+    "options": [
+      "As an unrestricted substitute for a standard elevator in every case",
+      "Only under specific limited conditions permitted by the code",
+      "Never, under any circumstances",
+      "Only in single-family homes"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 30: Elevators and conveying systems"
+  },
+  {
+    "id": "Q1633",
+    "legacyKey": "Elevator machine rooms are generally required to be:",
+    "q": "Elevator machine rooms are generally required to be:",
+    "options": [
+      "Open to the public for general access",
+      "Dedicated to elevator equipment and separated/ventilated in accordance with the applicable elevator safety code",
+      "Used as break rooms for building staff",
+      "Located outdoors with no weather protection"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 30: Elevators and conveying systems"
+  },
+  {
+    "id": "Q1634",
+    "legacyKey": "Air-supported and other membrane structures are generally subject to special requirements primarily addressing:",
+    "q": "Air-supported and other membrane structures are generally subject to special requirements primarily addressing:",
+    "options": [
+      "Only their interior paint color",
+      "The structure's fabric material fire performance and its structural design to resist wind and other loads",
+      "Only their parking capacity",
+      "Only their signage"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 31: Special construction"
+  },
+  {
+    "id": "Q1635",
+    "legacyKey": "A pedestrian walkway connecting two separate buildings is generally required to be designed with consideration for:",
+    "q": "A pedestrian walkway connecting two separate buildings is generally required to be designed with consideration for:",
+    "options": [
+      "No structural considerations at all",
+      "Independent structural movement of the two buildings and appropriate fire-resistance/separation requirements",
+      "Only aesthetic matching of the two buildings",
+      "Elimination of all fire-resistance requirements between the buildings"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 31: Special construction"
+  },
+  {
+    "id": "Q1636",
+    "legacyKey": "Swimming pool enclosures and barriers are generally regulated primarily to:",
+    "q": "Swimming pool enclosures and barriers are generally regulated primarily to:",
+    "options": [
+      "Improve water clarity",
+      "Prevent unsupervised access to the pool by young children",
+      "Reduce chemical costs",
+      "Increase the pool's structural capacity"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 31: Special construction"
+  },
+  {
+    "id": "Q1637",
+    "legacyKey": "Temporary structures and tents used for public assembly are generally required to:",
+    "q": "Temporary structures and tents used for public assembly are generally required to:",
+    "options": [
+      "Operate without any oversight",
+      "Obtain approval/permit from the building official and comply with applicable means of egress and fire safety provisions",
+      "Be exempt from all code provisions",
+      "Be limited to residential use only"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 31: Special construction"
+  },
+  {
+    "id": "Q1638",
+    "legacyKey": "Rooftop-mounted solar photovoltaic panel systems are generally subject to specific requirements primarily addressing:",
+    "q": "Rooftop-mounted solar photovoltaic panel systems are generally subject to specific requirements primarily addressing:",
+    "options": [
+      "Only their electrical wiring color",
+      "Structural loading on the roof and maintaining pathways for fire department access and ventilation",
+      "Only their warranty terms",
+      "Only their aesthetic appearance"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 31: Special construction"
+  },
+  {
+    "id": "Q1639",
+    "legacyKey": "Towers, such as observation towers or similar special structures, are generally regulated under IBC Chapter 31 primarily for their:",
+    "q": "Towers, such as observation towers or similar special structures, are generally regulated under IBC Chapter 31 primarily for their:",
+    "options": [
+      "Retail signage only",
+      "Structural design and means of egress appropriate to their unique configuration",
+      "Interior paint color only",
+      "Parking requirements only"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 31: Special construction"
+  },
+  {
+    "id": "Q1640",
+    "legacyKey": "Structures or building features that project into the public right-of-way, such as awnings or marquees, are generally required to:",
+    "q": "Structures or building features that project into the public right-of-way, such as awnings or marquees, are generally required to:",
+    "options": [
+      "Be installed without any review or approval",
+      "Obtain approval from the applicable authority and comply with minimum clearance requirements above the public way",
+      "Be prohibited under all circumstances",
+      "Be built only of combustible materials"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 32: Encroachments into the public right-of-way"
+  },
+  {
+    "id": "Q1641",
+    "legacyKey": "Awnings, canopies, and marquees projecting into the public right-of-way are generally required to be designed to:",
+    "q": "Awnings, canopies, and marquees projecting into the public right-of-way are generally required to be designed to:",
+    "options": [
+      "Rely on the public right-of-way for structural support",
+      "Support their own loads, including wind and snow, without relying on the right-of-way for structural support",
+      "Be removable only by the fire department",
+      "Have no minimum clearance above the sidewalk"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 32: Encroachments into the public right-of-way"
+  },
+  {
+    "id": "Q1642",
+    "legacyKey": "Temporary encroachments into the public right-of-way during construction, such as sidewalk sheds or scaffolding, are generally required to:",
+    "q": "Temporary encroachments into the public right-of-way during construction, such as sidewalk sheds or scaffolding, are generally required to:",
+    "options": [
+      "Block all pedestrian access with no alternative provided",
+      "Be approved and maintained to protect pedestrians while preserving safe passage where possible",
+      "Remain in place permanently after construction ends",
+      "Be built without regard to structural adequacy"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 32: Encroachments into the public right-of-way"
+  },
+  {
+    "id": "Q1643",
+    "legacyKey": "In buildings under construction that exceed a specified height, temporary standpipes are generally required to be:",
+    "q": "In buildings under construction that exceed a specified height, temporary standpipes are generally required to be:",
+    "options": [
+      "Omitted until the building is fully complete",
+      "Installed and maintained progressively as construction proceeds, to provide fire department access to upper floors",
+      "Installed only after a fire has already occurred",
+      "Used only for irrigation of landscaping"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 33: Safeguards during construction"
+  },
+  {
+    "id": "Q1644",
+    "legacyKey": "Temporary heating equipment used on a construction site is generally required to be:",
+    "q": "Temporary heating equipment used on a construction site is generally required to be:",
+    "options": [
+      "Placed directly against combustible materials with no clearance",
+      "Installed and used in a manner that maintains adequate clearance from combustible materials and complies with applicable safety provisions",
+      "Operated without any supervision",
+      "Exempt from all fire safety provisions"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 33: Safeguards during construction"
+  },
+  {
+    "id": "Q1645",
+    "legacyKey": "During construction or demolition adjacent to a public sidewalk, protective measures such as fencing or sidewalk sheds are generally required to:",
+    "q": "During construction or demolition adjacent to a public sidewalk, protective measures such as fencing or sidewalk sheds are generally required to:",
+    "options": [
+      "Be optional at the contractor's discretion with no code basis",
+      "Protect pedestrians from construction hazards",
+      "Be removed immediately upon installation",
+      "Apply only to residential construction"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 33: Safeguards during construction"
+  },
+  {
+    "id": "Q1646",
+    "legacyKey": "Required exits and exit access in a building undergoing alteration or partial occupancy during construction must generally:",
+    "q": "Required exits and exit access in a building undergoing alteration or partial occupancy during construction must generally:",
+    "options": [
+      "Be blocked during working hours",
+      "Remain maintained and unobstructed for the portions of the building that continue to be occupied",
+      "Be relocated without notice",
+      "Be eliminated until construction is complete"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 33: Safeguards during construction"
+  },
+  {
+    "id": "Q1647",
+    "legacyKey": "Flammable and combustible materials stored on a construction site are generally required to be:",
+    "q": "Flammable and combustible materials stored on a construction site are generally required to be:",
+    "options": [
+      "Stored without any limitation on quantity or location",
+      "Stored in a manner, and in quantities, that limits fire hazard, in accordance with applicable fire safety provisions",
+      "Stored only inside occupied areas",
+      "Exempt from all safety provisions"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 33: Safeguards during construction"
+  },
+  {
+    "id": "Q1648",
+    "legacyKey": "IBC Chapter 35 (Referenced Standards) serves primarily to:",
+    "q": "IBC Chapter 35 (Referenced Standards) serves primarily to:",
+    "options": [
+      "Provide the complete text of every referenced standard",
+      "Provide a comprehensive list of all standards referenced throughout the code, along with the promulgating organization and the code sections in which each standard is referenced",
+      "Replace the need for any other chapter in the code",
+      "List only standards related to plumbing"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 35: Referenced standards"
+  },
+  {
+    "id": "Q1649",
+    "legacyKey": "When a standard is referenced by the code, that standard generally:",
+    "q": "When a standard is referenced by the code, that standard generally:",
+    "options": [
+      "Has no legal effect",
+      "Becomes part of the requirements of the code to the prescribed extent of each such reference",
+      "Only applies if separately purchased by the contractor",
+      "Applies only to the jurisdiction that wrote the standard"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 35: Referenced standards"
+  },
+  {
+    "id": "Q1650",
+    "legacyKey": "If a conflict exists between the text of the IBC and a referenced standard, the general rule is that:",
+    "q": "If a conflict exists between the text of the IBC and a referenced standard, the general rule is that:",
+    "options": [
+      "The referenced standard always governs over the code text",
+      "The text of the IBC itself governs over the referenced standard",
+      "Neither applies, and the building official must write a new rule",
+      "The most recently published document always governs regardless of source"
+    ],
+    "correct": 1,
+    "source": "IBC, Chapter 35: Referenced standards"
   }
 ]
