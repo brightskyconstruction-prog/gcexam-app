@@ -17704,5 +17704,1565 @@
     ],
     "correct": 1,
     "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+  },
+  {
+    "id": "Q1363",
+    "legacyKey": "Standard gypsum board is manufactured with a core composed primarily of:",
+    "q": "Standard gypsum board is manufactured with a core composed primarily of:",
+    "options": [
+      "Portland cement",
+      "Set gypsum (calcium sulfate dihydrate) with additives, faced with paper",
+      "Fired clay",
+      "Fiberglass matting"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 1: Preliminary Pages — Section: Products"
+  },
+  {
+    "id": "Q1364",
+    "legacyKey": "The Gypsum Construction Handbook is published primarily as an industry reference for:",
+    "q": "The Gypsum Construction Handbook is published primarily as an industry reference for:",
+    "options": [
+      "Concrete formwork design",
+      "The proper design, application, and finishing of gypsum board and plaster systems",
+      "Steel structural framing",
+      "Roofing installation"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 1: Preliminary Pages — Section: General Requirements"
+  },
+  {
+    "id": "Q1365",
+    "legacyKey": "Regular (non-specialty) gypsum wallboard is generally not recommended for direct exposure to:",
+    "q": "Regular (non-specialty) gypsum wallboard is generally not recommended for direct exposure to:",
+    "options": [
+      "Normal room-temperature air",
+      "Sustained or direct moisture exposure",
+      "Interior paint",
+      "Standard fastener installation"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 1: Preliminary Pages — Section: Products"
+  },
+  {
+    "id": "Q1366",
+    "legacyKey": "Standard gypsum wallboard panels are most commonly manufactured in a width of:",
+    "q": "Standard gypsum wallboard panels are most commonly manufactured in a width of:",
+    "options": [
+      "2 feet",
+      "4 feet",
+      "6 feet",
+      "8 feet"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—gypsum bases"
+  },
+  {
+    "id": "Q1367",
+    "legacyKey": "'Predecorated' gypsum board features a factory-applied:",
+    "q": "'Predecorated' gypsum board features a factory-applied:",
+    "options": [
+      "Layer of insulation on the back",
+      "Vinyl or paper decorative surface, ready for use without additional finishing",
+      "Fireproof metal skin",
+      "Ceramic tile surface"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—gypsum bases"
+  },
+  {
+    "id": "Q1368",
+    "legacyKey": "Gypsum sheathing, as distinguished from interior gypsum board, is designed for use:",
+    "q": "Gypsum sheathing, as distinguished from interior gypsum board, is designed for use:",
+    "options": [
+      "Only as a ceiling finish",
+      "As exterior wall sheathing beneath siding, providing a fire-resistant, racking-resistant substrate",
+      "Only as a tile backer",
+      "As a vapor barrier under slabs"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—gypsum bases"
+  },
+  {
+    "id": "Q1369",
+    "legacyKey": "'Flexible' gypsum board is manufactured thinner than standard board primarily to:",
+    "q": "'Flexible' gypsum board is manufactured thinner than standard board primarily to:",
+    "options": [
+      "Reduce shipping weight only",
+      "Allow it to be bent around curved wall or ceiling surfaces",
+      "Improve its fire rating",
+      "Eliminate the need for finishing"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—gypsum bases"
+  },
+  {
+    "id": "Q1370",
+    "legacyKey": "Fiberglass-faced (paperless) gypsum board is often selected over standard paper-faced board primarily because it offers improved resistance to:",
+    "q": "Fiberglass-faced (paperless) gypsum board is often selected over standard paper-faced board primarily because it offers improved resistance to:",
+    "options": [
+      "Sound transmission",
+      "Mold growth",
+      "Fastener pull-through",
+      "Thermal expansion"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—gypsum bases"
+  },
+  {
+    "id": "Q1371",
+    "legacyKey": "The paper facing applied to standard gypsum board is bonded to the core primarily to provide the board with:",
+    "q": "The paper facing applied to standard gypsum board is bonded to the core primarily to provide the board with:",
+    "options": [
+      "Its fire rating",
+      "Tensile strength and a finished surface suitable for decoration",
+      "Its sound rating",
+      "Waterproofing"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—gypsum bases"
+  },
+  {
+    "id": "Q1372",
+    "legacyKey": "Light-gauge steel studs used in drywall partition framing are most commonly spaced at:",
+    "q": "Light-gauge steel studs used in drywall partition framing are most commonly spaced at:",
+    "options": [
+      "8 or 12 inches on center",
+      "16 or 24 inches on center",
+      "36 or 48 inches on center",
+      "60 inches on center"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 3: Framing — Section: Maximum frame spacing—drywall construction"
+  },
+  {
+    "id": "Q1373",
+    "legacyKey": "In steel-framed drywall partitions, the horizontal members at the top and bottom of the wall that receive the studs are called:",
+    "q": "In steel-framed drywall partitions, the horizontal members at the top and bottom of the wall that receive the studs are called:",
+    "options": [
+      "Headers",
+      "Track (or runner)",
+      "Furring channels",
+      "Resilient channels"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 3: Framing"
+  },
+  {
+    "id": "Q1374",
+    "legacyKey": "Additional blocking or backing should be installed in wall framing before drywall application wherever:",
+    "q": "Additional blocking or backing should be installed in wall framing before drywall application wherever:",
+    "options": [
+      "The wall will be painted a dark color",
+      "Heavy items such as grab bars, cabinets, or wall-mounted fixtures will later be attached",
+      "A window is not present",
+      "The ceiling height exceeds 8 feet"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 3: Framing"
+  },
+  {
+    "id": "Q1375",
+    "legacyKey": "Before hanging gypsum board, the framing should be checked to confirm it is:",
+    "q": "Before hanging gypsum board, the framing should be checked to confirm it is:",
+    "options": [
+      "Painted",
+      "Plumb, straight, and properly aligned/spaced to receive the board without distortion",
+      "Pre-drilled at every stud",
+      "Wrapped in vapor barrier"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 3: Framing"
+  },
+  {
+    "id": "Q1376",
+    "legacyKey": "When attaching gypsum board to light-gauge steel studs, the appropriate fastener is typically:",
+    "q": "When attaching gypsum board to light-gauge steel studs, the appropriate fastener is typically:",
+    "options": [
+      "Common wire nails",
+      "Self-tapping/self-drilling drywall screws",
+      "Construction adhesive only, with no mechanical fastener",
+      "Masonry anchors"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 3: Framing — Section: Fasteners"
+  },
+  {
+    "id": "Q1377",
+    "legacyKey": "In multi-layer ('double-layer') gypsum board systems, the primary reason for adding a second layer is to:",
+    "q": "In multi-layer ('double-layer') gypsum board systems, the primary reason for adding a second layer is to:",
+    "options": [
+      "Reduce the overall material cost",
+      "Improve fire resistance, sound control, and surface rigidity compared to a single layer",
+      "Eliminate the need for joint finishing",
+      "Reduce the number of fasteners required"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 4: Cladding"
+  },
+  {
+    "id": "Q1378",
+    "legacyKey": "In laminated (adhesive-applied) multi-layer gypsum board systems, temporary fasteners or bracing are typically used to:",
+    "q": "In laminated (adhesive-applied) multi-layer gypsum board systems, temporary fasteners or bracing are typically used to:",
+    "options": [
+      "Permanently reinforce the corner",
+      "Hold the face layer in place while the laminating adhesive cures/sets",
+      "Replace the need for a base layer",
+      "Improve the fire rating"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 4: Cladding"
+  },
+  {
+    "id": "Q1379",
+    "legacyKey": "'Back-blocking' is a technique used at butt joints in gypsum board that fall between framing members primarily to:",
+    "q": "'Back-blocking' is a technique used at butt joints in gypsum board that fall between framing members primarily to:",
+    "options": [
+      "Add a decorative reveal",
+      "Provide solid backing support for the joint where no framing member is present",
+      "Increase the board's fire rating",
+      "Reduce the number of layers required"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 4: Cladding"
+  },
+  {
+    "id": "Q1380",
+    "legacyKey": "On a wall, the 'field' fastening pattern refers to fasteners placed:",
+    "q": "On a wall, the 'field' fastening pattern refers to fasteners placed:",
+    "options": [
+      "Only at the four corners of the board",
+      "In the interior area of the board, away from the edges, typically spaced wider than perimeter/edge fasteners",
+      "Only along the top plate",
+      "In a random pattern with no defined spacing"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 4: Cladding"
+  },
+  {
+    "id": "Q1381",
+    "legacyKey": "Gypsum board is generally recommended to be applied to standard 8-foot-high walls in which orientation to minimize the number of joints?",
+    "q": "Gypsum board is generally recommended to be applied to standard 8-foot-high walls in which orientation to minimize the number of joints?",
+    "options": [
+      "Vertically (parallel to the studs)",
+      "Horizontally (perpendicular to the studs)",
+      "Diagonally at 45 degrees",
+      "It makes no difference"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 4: Cladding"
+  },
+  {
+    "id": "Q1382",
+    "legacyKey": "Cement board (backerboard) used behind ceramic tile in wet areas should be fastened using:",
+    "q": "Cement board (backerboard) used behind ceramic tile in wet areas should be fastened using:",
+    "options": [
+      "Standard drywall nails",
+      "Corrosion-resistant screws or nails specifically approved for cement board",
+      "Construction adhesive alone, with no mechanical fasteners",
+      "Standard drywall screws intended for wood framing"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 5: Backerboard Installation"
+  },
+  {
+    "id": "Q1383",
+    "legacyKey": "A gap is typically left between the bottom edge of backerboard and the top of a bathtub or shower pan primarily to:",
+    "q": "A gap is typically left between the bottom edge of backerboard and the top of a bathtub or shower pan primarily to:",
+    "options": [
+      "Save material",
+      "Prevent the backerboard from wicking water from the tub/pan lip",
+      "Allow room for tile spacers",
+      "Improve the fire rating"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 5: Backerboard Installation"
+  },
+  {
+    "id": "Q1384",
+    "legacyKey": "Joints between backerboard panels installed for tile application are typically treated with:",
+    "q": "Joints between backerboard panels installed for tile application are typically treated with:",
+    "options": [
+      "Standard paper drywall tape and all-purpose joint compound",
+      "An alkali-resistant tape and a thin-set or manufacturer-specified joint material",
+      "No joint treatment at all",
+      "Duct tape"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 5: Backerboard Installation"
+  },
+  {
+    "id": "Q1385",
+    "legacyKey": "Backerboard panels used as a tile substrate are typically installed with a gap between panels of approximately:",
+    "q": "Backerboard panels used as a tile substrate are typically installed with a gap between panels of approximately:",
+    "options": [
+      "Flush, with no gap",
+      "1/8 inch",
+      "1 inch",
+      "2 inches"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 5: Backerboard Installation"
+  },
+  {
+    "id": "Q1386",
+    "legacyKey": "Standard (regular) gypsum-based drywall is not appropriate as a tile backerboard in wet areas primarily because it:",
+    "q": "Standard (regular) gypsum-based drywall is not appropriate as a tile backerboard in wet areas primarily because it:",
+    "options": [
+      "Is too heavy",
+      "Lacks adequate resistance to sustained moisture exposure",
+      "Cannot be cut with a utility knife",
+      "Is not manufactured in large enough sheets"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 5: Backerboard Installation"
+  },
+  {
+    "id": "Q1387",
+    "legacyKey": "Before installing backerboard in a shower or tub surround, the framing behind it should be checked for:",
+    "q": "Before installing backerboard in a shower or tub surround, the framing behind it should be checked for:",
+    "options": [
+      "Paint color",
+      "Proper spacing, plumbness, and the presence of a suitable water-resistive barrier as required",
+      "Electrical outlet placement only",
+      "Ceiling height"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 5: Backerboard Installation"
+  },
+  {
+    "id": "Q1388",
+    "legacyKey": "Backerboard panels (such as cement board) are typically cut using:",
+    "q": "Backerboard panels (such as cement board) are typically cut using:",
+    "options": [
+      "A standard wood-cutting handsaw only",
+      "A carbide-tipped scoring tool (score-and-snap) or a cutting tool designed for cement/fiber-cement board",
+      "A hot knife",
+      "A masonry chisel exclusively"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 5: Backerboard Installation"
+  },
+  {
+    "id": "Q1389",
+    "legacyKey": "'Setting-type' (quick-set) joint compound differs from regular drying-type compound in that it:",
+    "q": "'Setting-type' (quick-set) joint compound differs from regular drying-type compound in that it:",
+    "options": [
+      "Never fully hardens",
+      "Hardens through a chemical reaction over a set time, rather than by air-drying, allowing faster recoating",
+      "Cannot be sanded",
+      "Is only used for texturing, never for taping"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+  },
+  {
+    "id": "Q1390",
+    "legacyKey": "Fiberglass mesh joint tape is generally recommended for use with:",
+    "q": "Fiberglass mesh joint tape is generally recommended for use with:",
+    "options": [
+      "Standard drying-type all-purpose compound only",
+      "Setting-type joint compounds, since mesh tape is more prone to bubbling with drying-type compound",
+      "No compound at all",
+      "Texture paint only"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+  },
+  {
+    "id": "Q1391",
+    "legacyKey": "'Feathering' the edges of a joint compound coat is done primarily to:",
+    "q": "'Feathering' the edges of a joint compound coat is done primarily to:",
+    "options": [
+      "Add texture to the surface",
+      "Gradually taper the compound so the joint blends smoothly and invisibly into the surrounding board surface",
+      "Speed up drying time",
+      "Increase the compound's fire rating"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+  },
+  {
+    "id": "Q1392",
+    "legacyKey": "As successive coats of joint compound are applied over a taped joint, each coat should generally be:",
+    "q": "As successive coats of joint compound are applied over a taped joint, each coat should generally be:",
+    "options": [
+      "The same width as the previous coat",
+      "Progressively wider than the previous coat",
+      "Progressively narrower than the previous coat",
+      "Applied only to the center of the joint"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+  },
+  {
+    "id": "Q1393",
+    "legacyKey": "Applying a coat of primer/sealer to a finished drywall surface before texturing or painting is done primarily to:",
+    "q": "Applying a coat of primer/sealer to a finished drywall surface before texturing or painting is done primarily to:",
+    "options": [
+      "Increase the wall's R-value",
+      "Provide a uniform surface (equalize porosity) so the texture or paint finish appears consistent",
+      "Replace the need for joint compound",
+      "Add a fire rating to the wall"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+  },
+  {
+    "id": "Q1394",
+    "legacyKey": "'Setting-type' compound and 'drying-type' compound differ primarily in how they:",
+    "q": "'Setting-type' compound and 'drying-type' compound differ primarily in how they:",
+    "options": [
+      "Are packaged for shipping",
+      "Harden — setting types cure by chemical hydration on a fixed schedule, while drying types harden by evaporation of water",
+      "Are colored",
+      "Are sanded"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+  },
+  {
+    "id": "Q1395",
+    "legacyKey": "Veneer plaster is typically applied over a specialized gypsum base board commonly known as:",
+    "q": "Veneer plaster is typically applied over a specialized gypsum base board commonly known as:",
+    "options": [
+      "Green board",
+      "Blueboard (veneer plaster base)",
+      "Cement board",
+      "Foil-backed board"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems"
+  },
+  {
+    "id": "Q1396",
+    "legacyKey": "Compared to conventional (three-coat) plaster, veneer plaster is applied in:",
+    "q": "Compared to conventional (three-coat) plaster, veneer plaster is applied in:",
+    "options": [
+      "Three thick coats over several days",
+      "One or two thin coats, approximately 1/16 to 3/32 inch thick",
+      "A single coat over 1 inch thick",
+      "No coats; it is sprayed on as a liquid finish only"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems"
+  },
+  {
+    "id": "Q1397",
+    "legacyKey": "One advantage commonly cited for veneer plaster systems compared to conventional plaster is that they can:",
+    "q": "One advantage commonly cited for veneer plaster systems compared to conventional plaster is that they can:",
+    "options": [
+      "Only be applied in exterior applications",
+      "Be installed and ready for decoration much faster than conventional plaster, sometimes within a single day",
+      "Never be painted",
+      "Require no base board at all"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems"
+  },
+  {
+    "id": "Q1398",
+    "legacyKey": "Compared to a standard finished drywall (joint compound) surface, a properly applied veneer plaster surface is generally:",
+    "q": "Compared to a standard finished drywall (joint compound) surface, a properly applied veneer plaster surface is generally:",
+    "options": [
+      "Softer and more prone to denting",
+      "Harder and more abrasion/impact resistant",
+      "Identical in hardness",
+      "Only suitable for ceilings"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems"
+  },
+  {
+    "id": "Q1399",
+    "legacyKey": "Veneer plaster is typically applied using which basic hand tools?",
+    "q": "Veneer plaster is typically applied using which basic hand tools?",
+    "options": [
+      "A taping knife and mud pan",
+      "A hawk and trowel",
+      "A paint roller and brush",
+      "A screed and bull float"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems"
+  },
+  {
+    "id": "Q1400",
+    "legacyKey": "Before decorating (painting) a veneer plaster surface, it should generally be allowed to:",
+    "q": "Before decorating (painting) a veneer plaster surface, it should generally be allowed to:",
+    "options": [
+      "Be painted immediately while still wet",
+      "Dry/cure sufficiently, per manufacturer recommendations, to avoid trapping moisture beneath the finish",
+      "Sit for at least one year",
+      "Be sanded down to bare blueboard"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems"
+  },
+  {
+    "id": "Q1401",
+    "legacyKey": "In conventional three-coat plaster work, the first coat applied directly to the lath is called the:",
+    "q": "In conventional three-coat plaster work, the first coat applied directly to the lath is called the:",
+    "options": [
+      "Brown coat",
+      "Scratch coat",
+      "Finish coat",
+      "Bond coat"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+  },
+  {
+    "id": "Q1402",
+    "legacyKey": "The 'brown coat' in three-coat plastering is the:",
+    "q": "The 'brown coat' in three-coat plastering is the:",
+    "options": [
+      "First coat applied directly to the lath",
+      "Second (leveling) coat applied over the scratch coat, providing a true, even surface for the finish coat",
+      "Final decorative coat",
+      "Coat applied only to exterior stucco"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+  },
+  {
+    "id": "Q1403",
+    "legacyKey": "Common aggregates mixed with gypsum basecoat plaster include:",
+    "q": "Common aggregates mixed with gypsum basecoat plaster include:",
+    "options": [
+      "Only Portland cement",
+      "Sand, perlite, or vermiculite",
+      "Only fiberglass strands",
+      "Only clay"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+  },
+  {
+    "id": "Q1404",
+    "legacyKey": "'Keene's cement' is a type of hard-finish plaster valued for its:",
+    "q": "'Keene's cement' is a type of hard-finish plaster valued for its:",
+    "options": [
+      "Low cost",
+      "Exceptional hardness and resistance to abrasion and moisture compared to standard lime putty finishes",
+      "Fast application speed only",
+      "Flexibility"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+  },
+  {
+    "id": "Q1405",
+    "legacyKey": "'Gypsum neat plaster' refers to a basecoat plaster product that:",
+    "q": "'Gypsum neat plaster' refers to a basecoat plaster product that:",
+    "options": [
+      "Already contains factory-added aggregate",
+      "Is manufactured without aggregate already added, requiring the aggregate to be added at the jobsite/mixing stage",
+      "Is only used as a finish coat",
+      "Requires no water to mix"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+  },
+  {
+    "id": "Q1406",
+    "legacyKey": "Metal lath is commonly used as a plaster base/substrate primarily because it:",
+    "q": "Metal lath is commonly used as a plaster base/substrate primarily because it:",
+    "options": [
+      "Improves the plaster's color",
+      "Provides a mechanical key for the plaster to grip as it is applied and cures",
+      "Eliminates the need for a scratch coat",
+      "Reduces the plaster's weight"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+  },
+  {
+    "id": "Q1407",
+    "legacyKey": "In plaster work, a 'retarder' admixture is used to:",
+    "q": "In plaster work, a 'retarder' admixture is used to:",
+    "options": [
+      "Speed up the setting time of the plaster",
+      "Slow down the setting time of the plaster",
+      "Increase the plaster's fire rating",
+      "Add color to the finish"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+  },
+  {
+    "id": "Q1408",
+    "legacyKey": "A lime putty finish coat, when used over a gypsum basecoat, generally produces a finish that is:",
+    "q": "A lime putty finish coat, when used over a gypsum basecoat, generally produces a finish that is:",
+    "options": [
+      "Harder than Keene's cement",
+      "Smooth and workable, but softer and less abrasion-resistant than a Keene's cement finish",
+      "Not paintable",
+      "Only used for exterior stucco"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+  },
+  {
+    "id": "Q1409",
+    "legacyKey": "'Grounds' installed around door and window openings before plastering serve to:",
+    "q": "'Grounds' installed around door and window openings before plastering serve to:",
+    "options": [
+      "Provide electrical grounding for the wall",
+      "Establish the correct finished plaster thickness and provide a screed guide for the plasterer",
+      "Waterproof the opening",
+      "Reinforce the corner against impact"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+  },
+  {
+    "id": "Q1410",
+    "legacyKey": "Interior gypsum plaster differs from exterior portland cement plaster (stucco) primarily in that:",
+    "q": "Interior gypsum plaster differs from exterior portland cement plaster (stucco) primarily in that:",
+    "options": [
+      "They use identical formulations",
+      "Gypsum plaster is intended for interior use, while portland cement plaster is formulated for exterior weather exposure",
+      "Gypsum plaster is only used on ceilings",
+      "Portland cement plaster cannot be applied over lath"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+  },
+  {
+    "id": "Q1411",
+    "legacyKey": "The scratch coat in three-coat plaster work is typically scored/scratched horizontally before it fully hardens primarily to:",
+    "q": "The scratch coat in three-coat plaster work is typically scored/scratched horizontally before it fully hardens primarily to:",
+    "options": [
+      "Add a decorative texture to the finished wall",
+      "Provide a mechanical key so the brown coat will properly bond to it",
+      "Speed up drying time",
+      "Reduce the plaster's weight"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+  },
+  {
+    "id": "Q1412",
+    "legacyKey": "When plastering over a solid, dense substrate such as concrete or masonry, a bonding agent or dash-bond coat is often used to:",
+    "q": "When plastering over a solid, dense substrate such as concrete or masonry, a bonding agent or dash-bond coat is often used to:",
+    "options": [
+      "Replace the need for a scratch coat entirely",
+      "Improve the mechanical/chemical bond between the plaster and the smooth or dense substrate",
+      "Reduce the total plaster thickness required",
+      "Add a vapor barrier"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+  },
+  {
+    "id": "Q1413",
+    "legacyKey": "Freshly applied basecoat plaster generally requires a period of moist curing primarily to:",
+    "q": "Freshly applied basecoat plaster generally requires a period of moist curing primarily to:",
+    "options": [
+      "Add color to the finish",
+      "Control the rate of drying and help the plaster properly hydrate/harden without excessive shrinkage cracking",
+      "Make the plaster paintable immediately",
+      "Reduce the number of coats required"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+  },
+  {
+    "id": "Q1414",
+    "legacyKey": "Plaster application is generally not recommended when ambient temperatures are below approximately:",
+    "q": "Plaster application is generally not recommended when ambient temperatures are below approximately:",
+    "options": [
+      "32°F",
+      "40°F, unless supplemental heat is provided",
+      "60°F",
+      "70°F"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+  },
+  {
+    "id": "Q1415",
+    "legacyKey": "A 'casing bead' used at the edge of a plaster area, such as where plaster meets another material, serves to:",
+    "q": "A 'casing bead' used at the edge of a plaster area, such as where plaster meets another material, serves to:",
+    "options": [
+      "Reinforce the plaster against seismic loads",
+      "Provide a clean, straight edge/termination for the plaster and a screed guide",
+      "Add a fire rating",
+      "Replace the need for grounds"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+  },
+  {
+    "id": "Q1416",
+    "legacyKey": "In large, continuous plaster ceiling or wall areas, control joints are provided primarily to:",
+    "q": "In large, continuous plaster ceiling or wall areas, control joints are provided primarily to:",
+    "options": [
+      "Add a decorative pattern",
+      "Accommodate movement and reduce the risk of random cracking",
+      "Improve sound transmission",
+      "Increase the plaster's hardness"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+  },
+  {
+    "id": "Q1417",
+    "legacyKey": "The total thickness of a typical three-coat gypsum plaster system applied over gypsum lath is generally approximately:",
+    "q": "The total thickness of a typical three-coat gypsum plaster system applied over gypsum lath is generally approximately:",
+    "options": [
+      "1/8 inch",
+      "1/2 to 5/8 inch",
+      "2 inches",
+      "4 inches"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+  },
+  {
+    "id": "Q1418",
+    "legacyKey": "Before applying the finish coat over a basecoat plaster, the basecoat should generally be:",
+    "q": "Before applying the finish coat over a basecoat plaster, the basecoat should generally be:",
+    "options": [
+      "Soaked with water immediately before application",
+      "Allowed to set/partially dry and be evenly textured (from scratching/scoring) to properly receive the finish coat",
+      "Painted first",
+      "Sanded completely smooth"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+  },
+  {
+    "id": "Q1419",
+    "legacyKey": "In a suspended acoustical ceiling grid system, the main structural members that run the length of the room, supported by hanger wires, are called:",
+    "q": "In a suspended acoustical ceiling grid system, the main structural members that run the length of the room, supported by hanger wires, are called:",
+    "options": [
+      "Cross tees",
+      "Main runners (main tees)",
+      "Wall angles",
+      "Furring channels"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application"
+  },
+  {
+    "id": "Q1420",
+    "legacyKey": "'Cross tees' in a suspended acoustical ceiling grid system are used to:",
+    "q": "'Cross tees' in a suspended acoustical ceiling grid system are used to:",
+    "options": [
+      "Support the hanger wires from the structure above",
+      "Connect between the main runners, forming the modular grid that supports the ceiling tiles/panels",
+      "Attach the grid to the perimeter wall",
+      "Replace the need for main runners"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application"
+  },
+  {
+    "id": "Q1421",
+    "legacyKey": "The Noise Reduction Coefficient (NRC) of an acoustical ceiling tile measures:",
+    "q": "The Noise Reduction Coefficient (NRC) of an acoustical ceiling tile measures:",
+    "options": [
+      "The amount of sound blocked between two adjacent spaces",
+      "The tile's ability to absorb sound within a room",
+      "The tile's fire-resistance rating",
+      "The tile's weight per square foot"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application — Section: Sound Control"
+  },
+  {
+    "id": "Q1422",
+    "legacyKey": "The space above a suspended acoustical ceiling and below the structure above, often used to route ductwork and wiring, is commonly called the:",
+    "q": "The space above a suspended acoustical ceiling and below the structure above, often used to route ductwork and wiring, is commonly called the:",
+    "options": [
+      "Plenum",
+      "Cavity wall",
+      "Chase",
+      "Soffit"
+    ],
+    "correct": 0,
+    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application"
+  },
+  {
+    "id": "Q1423",
+    "legacyKey": "In seismic design areas, suspended acoustical ceiling systems typically require additional:",
+    "q": "In seismic design areas, suspended acoustical ceiling systems typically require additional:",
+    "options": [
+      "Thicker ceiling tiles only",
+      "Lateral/seismic bracing, such as splay wires or rigid struts, to prevent excessive swaying",
+      "A vapor retarder above the grid",
+      "Fire-rated hanger wires only"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application"
+  },
+  {
+    "id": "Q1424",
+    "legacyKey": "When designing a fire-rated wall or ceiling assembly, the contractor must follow:",
+    "q": "When designing a fire-rated wall or ceiling assembly, the contractor must follow:",
+    "options": [
+      "Any combination of fire-rated materials available on site",
+      "A specific tested and listed assembly design (such as a UL or GA design) exactly as tested, without unapproved substitutions",
+      "Only the manufacturer's general product catalog",
+      "No particular design, as long as gypsum board is used"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 11: System Design Considerations"
+  },
+  {
+    "id": "Q1425",
+    "legacyKey": "'Shaft wall' systems are a specialized gypsum assembly primarily designed for use in:",
+    "q": "'Shaft wall' systems are a specialized gypsum assembly primarily designed for use in:",
+    "options": [
+      "Kitchen backsplashes",
+      "Elevator shafts, stairwells, and other vertical shaft enclosures, often installed from one side only",
+      "Exterior soffits",
+      "Bathroom ceilings"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 11: System Design Considerations"
+  },
+  {
+    "id": "Q1426",
+    "legacyKey": "An 'area separation wall' between attached townhouse units is designed primarily to:",
+    "q": "An 'area separation wall' between attached townhouse units is designed primarily to:",
+    "options": [
+      "Improve the appearance of the shared wall",
+      "Provide a continuous fire-resistance-rated barrier from foundation to roof, structurally independent on each side",
+      "Reduce construction cost only",
+      "Serve only as a sound barrier with no fire rating"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 11: System Design Considerations"
+  },
+  {
+    "id": "Q1427",
+    "legacyKey": "For tall partitions subject to significant lateral deflection, such as gymnasium walls, the system design should specifically address:",
+    "q": "For tall partitions subject to significant lateral deflection, such as gymnasium walls, the system design should specifically address:",
+    "options": [
+      "The wall's paint color",
+      "The framing's deflection capability and appropriate fastening/track details to accommodate movement without damaging the gypsum board",
+      "The number of layers of paint required",
+      "The ceiling tile pattern"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 11: System Design Considerations"
+  },
+  {
+    "id": "Q1428",
+    "legacyKey": "When selecting a gypsum system design for a curved wall or ceiling application, the designer/contractor should primarily consider:",
+    "q": "When selecting a gypsum system design for a curved wall or ceiling application, the designer/contractor should primarily consider:",
+    "options": [
+      "The board's fire rating only",
+      "The minimum bending radius the gypsum board (or specialty flexible board) can achieve without cracking",
+      "The color of the joint compound",
+      "The type of insulation used"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 11: System Design Considerations"
+  },
+  {
+    "id": "Q1429",
+    "legacyKey": "Choosing between a single-layer and double-layer gypsum board system is a design decision primarily driven by:",
+    "q": "Choosing between a single-layer and double-layer gypsum board system is a design decision primarily driven by:",
+    "options": [
+      "The homeowner's paint preference",
+      "The required fire-resistance rating and/or sound transmission class (STC) for the assembly",
+      "The season of construction",
+      "The brand of screws available"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 11: System Design Considerations"
+  },
+  {
+    "id": "Q1430",
+    "legacyKey": "System design for a partition separating a mechanical/plenum space from an occupied space should specifically account for:",
+    "q": "System design for a partition separating a mechanical/plenum space from an occupied space should specifically account for:",
+    "options": [
+      "Only the wall's finish color",
+      "Both fire-resistance and sound transmission requirements appropriate to the adjacent space's use",
+      "Only the ceiling tile pattern",
+      "Only the paint sheen"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 11: System Design Considerations"
+  },
+  {
+    "id": "Q1431",
+    "legacyKey": "Using a manufacturer's published, tested assembly design rather than an ad hoc combination of materials is important primarily because:",
+    "q": "Using a manufacturer's published, tested assembly design rather than an ad hoc combination of materials is important primarily because:",
+    "options": [
+      "It is always the cheapest option",
+      "Only the specific tested combination of materials and details is verified to achieve the assembly's rated fire-resistance or sound performance",
+      "It requires no inspection",
+      "It eliminates the need for permits"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 11: System Design Considerations"
+  },
+  {
+    "id": "Q1432",
+    "legacyKey": "Gypsum board delivered to a jobsite should be stored:",
+    "q": "Gypsum board delivered to a jobsite should be stored:",
+    "options": [
+      "Standing on end against a wall",
+      "Flat, off the ground, and protected from moisture until installation",
+      "Outdoors uncovered",
+      "Stacked vertically in direct sunlight"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection"
+  },
+  {
+    "id": "Q1433",
+    "legacyKey": "Before gypsum board is installed and the wall is closed up, it is important to have completed:",
+    "q": "Before gypsum board is installed and the wall is closed up, it is important to have completed:",
+    "options": [
+      "The final paint coat",
+      "The rough-in inspection of plumbing, electrical, and mechanical systems within the wall/ceiling cavity",
+      "The flooring installation",
+      "The landscaping"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection"
+  },
+  {
+    "id": "Q1434",
+    "legacyKey": "During a quality inspection of a fire-rated gypsum assembly, the inspector should specifically verify:",
+    "q": "During a quality inspection of a fire-rated gypsum assembly, the inspector should specifically verify:",
+    "options": [
+      "That the wall is painted a light color",
+      "That the installed materials and fastening match the specific tested/listed assembly design",
+      "That the ceiling height is at least 9 feet",
+      "That only screws (never nails) were used"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection"
+  },
+  {
+    "id": "Q1435",
+    "legacyKey": "A final inspection/punch list for completed drywall work typically checks for:",
+    "q": "A final inspection/punch list for completed drywall work typically checks for:",
+    "options": [
+      "The brand of joint compound used",
+      "Proper joint finishing, fastener pops, surface defects, and correct paint/texture readiness",
+      "The framing lumber species",
+      "The insulation R-value only"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection"
+  },
+  {
+    "id": "Q1436",
+    "legacyKey": "Planning the sequence of gypsum board installation, such as installing ceilings before walls, is important primarily to:",
+    "q": "Planning the sequence of gypsum board installation, such as installing ceilings before walls, is important primarily to:",
+    "options": [
+      "Reduce the total material cost",
+      "Simplify installation, properly support panel edges, and avoid unnecessary rework",
+      "Meet a specific paint schedule",
+      "Satisfy a decorative requirement"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection"
+  },
+  {
+    "id": "Q1437",
+    "legacyKey": "Verifying that gypsum board has not been exposed to excessive moisture before installation is important because:",
+    "q": "Verifying that gypsum board has not been exposed to excessive moisture before installation is important because:",
+    "options": [
+      "Wet board is easier to cut",
+      "Water-damaged board can suffer from reduced strength, sagging, or mold growth once installed",
+      "It has no effect on the finished wall",
+      "It only affects the board's color"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection"
+  },
+  {
+    "id": "Q1438",
+    "legacyKey": "'Truss uplift' cracking, a seasonal crack that appears at the wall/ceiling joint in winter, is caused by:",
+    "q": "'Truss uplift' cracking, a seasonal crack that appears at the wall/ceiling joint in winter, is caused by:",
+    "options": [
+      "Poor drywall installation technique",
+      "Differential movement of the bottom chord of roof trusses relative to the interior partitions",
+      "Using the wrong joint compound",
+      "Excessive humidity in summer"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+  },
+  {
+    "id": "Q1439",
+    "legacyKey": "'Picture framing,' where the outline of framing members or fasteners becomes visible through paint or texture, is typically caused by:",
+    "q": "'Picture framing,' where the outline of framing members or fasteners becomes visible through paint or texture, is typically caused by:",
+    "options": [
+      "Using too many fasteners",
+      "Differences in surface porosity/texture between the joint compound areas and the paper-faced board",
+      "Using Type X board",
+      "Painting too many coats"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+  },
+  {
+    "id": "Q1440",
+    "legacyKey": "Blistering of joint tape (bubbles beneath the tape) is most often caused by:",
+    "q": "Blistering of joint tape (bubbles beneath the tape) is most often caused by:",
+    "options": [
+      "Using too wide a taping knife",
+      "Insufficient compound behind the tape or trapped air during embedding",
+      "Sanding too aggressively",
+      "Using setting-type compound"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+  },
+  {
+    "id": "Q1441",
+    "legacyKey": "A sagging gypsum ceiling is most commonly the result of:",
+    "q": "A sagging gypsum ceiling is most commonly the result of:",
+    "options": [
+      "Using Type X board",
+      "Excessive moisture exposure and/or inadequate framing support spacing for the board's thickness",
+      "Using too many fasteners",
+      "Painting too soon after installation"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+  },
+  {
+    "id": "Q1442",
+    "legacyKey": "Recurring nail/screw 'pops' can generally be minimized by:",
+    "q": "Recurring nail/screw 'pops' can generally be minimized by:",
+    "options": [
+      "Using the thinnest board available",
+      "Ensuring framing lumber is adequately dry before installation and driving fasteners to the correct depth without breaking the paper",
+      "Skipping the taping process",
+      "Applying texture immediately after hanging the board"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+  },
+  {
+    "id": "Q1443",
+    "legacyKey": "Cracking that occurs consistently at the same location over a structural movement joint, such as where a wood floor meets a masonry wall, is best addressed by:",
+    "q": "Cracking that occurs consistently at the same location over a structural movement joint, such as where a wood floor meets a masonry wall, is best addressed by:",
+    "options": [
+      "Repeatedly patching the crack with the same materials",
+      "Installing a properly designed control/expansion joint at that location",
+      "Applying a thicker coat of paint",
+      "Replacing the entire wall assembly"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+  },
+  {
+    "id": "Q1444",
+    "legacyKey": "Persistent moisture exposure to gypsum board can lead to which of the following long-term problems?",
+    "q": "Persistent moisture exposure to gypsum board can lead to which of the following long-term problems?",
+    "options": [
+      "Increased fire resistance",
+      "Mold growth and deterioration of the paper facing and core",
+      "Improved sound transmission class",
+      "No effect on the board"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+  },
+  {
+    "id": "Q1445",
+    "legacyKey": "'Fastener pops' that occur shortly after installation, before the building has fully dried out, are often related to:",
+    "q": "'Fastener pops' that occur shortly after installation, before the building has fully dried out, are often related to:",
+    "options": [
+      "The color of the paint used",
+      "Shrinkage of moisture-laden wood framing as it dries",
+      "Using too few coats of joint compound",
+      "The type of ceiling texture applied"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+  },
+  {
+    "id": "Q1446",
+    "legacyKey": "When a recurring drywall problem is traced to a design or system deficiency rather than a workmanship error, the appropriate remedy is generally to:",
+    "q": "When a recurring drywall problem is traced to a design or system deficiency rather than a workmanship error, the appropriate remedy is generally to:",
+    "options": [
+      "Repeat the same repair indefinitely",
+      "Correct the underlying design detail, such as adding a control joint or improving ventilation",
+      "Ignore the problem since it is cosmetic",
+      "Repaint with a darker color to hide it"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+  },
+  {
+    "id": "Q1447",
+    "legacyKey": "Discoloration or staining on a finished gypsum surface that recurs after repainting is often a sign of:",
+    "q": "Discoloration or staining on a finished gypsum surface that recurs after repainting is often a sign of:",
+    "options": [
+      "A cosmetic paint defect only",
+      "An ongoing moisture source that must be identified and corrected before a cosmetic repair will last",
+      "Normal aging of the paint",
+      "Using the wrong paint sheen"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+  },
+  {
+    "id": "Q1448",
+    "legacyKey": "Because standard 4x8 gypsum board panels are heavy and awkward to handle, proper practice generally recommends:",
+    "q": "Because standard 4x8 gypsum board panels are heavy and awkward to handle, proper practice generally recommends:",
+    "options": [
+      "Always having one worker carry a panel alone as quickly as possible",
+      "Using team lifting or a panel lift/hoist for large panels, especially for ceiling applications",
+      "Dragging panels across the floor to avoid lifting",
+      "Carrying panels on edge above shoulder height without assistance"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+  },
+  {
+    "id": "Q1449",
+    "legacyKey": "A 'panel lift' (panel hoist) is commonly used on the jobsite to:",
+    "q": "A 'panel lift' (panel hoist) is commonly used on the jobsite to:",
+    "options": [
+      "Cut gypsum board to size",
+      "Raise and hold gypsum board panels in place against ceiling framing during installation, reducing physical strain",
+      "Mix joint compound",
+      "Sand finished joints"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+  },
+  {
+    "id": "Q1450",
+    "legacyKey": "Sanding dried joint compound generates fine dust that requires:",
+    "q": "Sanding dried joint compound generates fine dust that requires:",
+    "options": [
+      "No special precautions",
+      "Appropriate respiratory protection and, where possible, dust control/ventilation",
+      "Only hearing protection",
+      "Only a face shield, with no respiratory protection"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+  },
+  {
+    "id": "Q1451",
+    "legacyKey": "Stilts are sometimes used by drywall finishers primarily to:",
+    "q": "Stilts are sometimes used by drywall finishers primarily to:",
+    "options": [
+      "Increase their reach for cutting baseboards",
+      "Reach ceiling and high-wall areas without repeatedly setting up and moving a ladder or scaffold",
+      "Improve their balance while carrying panels",
+      "Avoid wearing safety glasses"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+  },
+  {
+    "id": "Q1452",
+    "legacyKey": "Gypsum board panels stored on the jobsite should be:",
+    "q": "Gypsum board panels stored on the jobsite should be:",
+    "options": [
+      "Stood on end, leaning against a wall",
+      "Stacked flat and fully supported to prevent sagging, breakage, or tipping",
+      "Stacked outdoors uncovered",
+      "Stacked on top of wet materials"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+  },
+  {
+    "id": "Q1453",
+    "legacyKey": "Eye protection is recommended when cutting or sanding gypsum board primarily to protect against:",
+    "q": "Eye protection is recommended when cutting or sanding gypsum board primarily to protect against:",
+    "options": [
+      "Loud noise",
+      "Dust and particles generated during cutting and finishing operations",
+      "Chemical fumes from paint",
+      "Electrical hazards"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+  },
+  {
+    "id": "Q1454",
+    "legacyKey": "Utility knives used to score and cut gypsum board should be kept sharp and used with the blade:",
+    "q": "Utility knives used to score and cut gypsum board should be kept sharp and used with the blade:",
+    "options": [
+      "Directed toward the body for better control",
+      "Directed away from the body and other workers to reduce cutting injuries",
+      "Fully retracted at all times",
+      "Only used without a handle guard"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+  },
+  {
+    "id": "Q1455",
+    "legacyKey": "Before using a powder-actuated tool to fasten steel track to a concrete floor, workers should:",
+    "q": "Before using a powder-actuated tool to fasten steel track to a concrete floor, workers should:",
+    "options": [
+      "Skip any training since the tool is simple to use",
+      "Receive proper training/certification for the specific tool and wear appropriate PPE, such as eye and hearing protection",
+      "Remove all PPE for better visibility",
+      "Use the tool only on wood framing"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+  },
+  {
+    "id": "Q1456",
+    "legacyKey": "Material Safety Data Sheets (SDS) for joint compounds and plaster products should be:",
+    "q": "Material Safety Data Sheets (SDS) for joint compounds and plaster products should be:",
+    "options": [
+      "Kept only in the manufacturer's corporate office",
+      "Available on the jobsite and reviewed for hazard, handling, and first-aid information",
+      "Discarded once the product is opened",
+      "Required only for exterior products"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+  },
+  {
+    "id": "Q1457",
+    "legacyKey": "Taping/finishing knives used for joint compound application are typically used in a progression of increasing widths, such as:",
+    "q": "Taping/finishing knives used for joint compound application are typically used in a progression of increasing widths, such as:",
+    "options": [
+      "1, 2, and 3 inches only",
+      "4, 6, 8, 10, and 12 inches, with wider knives used for later, feathered coats",
+      "Only a single 6-inch knife for all coats",
+      "24, 36, and 48 inches"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 15: Tools and Equipment"
+  },
+  {
+    "id": "Q1458",
+    "legacyKey": "A 'banjo' (or 'bazooka') taping tool is used to:",
+    "q": "A 'banjo' (or 'bazooka') taping tool is used to:",
+    "options": [
+      "Sand finished joints",
+      "Dispense joint compound and embed paper tape into joints quickly, mechanizing the taping process",
+      "Cut gypsum board panels to length",
+      "Mix plaster"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 15: Tools and Equipment"
+  },
+  {
+    "id": "Q1459",
+    "legacyKey": "A 'mud pan' is a hand tool used by drywall finishers to:",
+    "q": "A 'mud pan' is a hand tool used by drywall finishers to:",
+    "options": [
+      "Mix joint compound from powder",
+      "Hold a working supply of joint compound for loading onto a taping/finishing knife",
+      "Cut openings for electrical boxes",
+      "Measure fastener spacing"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 15: Tools and Equipment"
+  },
+  {
+    "id": "Q1460",
+    "legacyKey": "A 'corner roller' is used in drywall finishing to:",
+    "q": "A 'corner roller' is used in drywall finishing to:",
+    "options": [
+      "Cut inside corners to length",
+      "Firmly seat and embed tape into inside corners",
+      "Sand outside corner bead",
+      "Mix setting-type compound"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 15: Tools and Equipment"
+  },
+  {
+    "id": "Q1461",
+    "legacyKey": "An auto-feed screw gun differs from a standard drill primarily in that it:",
+    "q": "An auto-feed screw gun differs from a standard drill primarily in that it:",
+    "options": [
+      "Cannot be used on steel framing",
+      "Automatically feeds and drives collated drywall screws to a preset depth",
+      "Only works with nails",
+      "Has no clutch or depth control"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 15: Tools and Equipment"
+  },
+  {
+    "id": "Q1462",
+    "legacyKey": "A rotary cutout tool ('drywall router') is commonly used to:",
+    "q": "A rotary cutout tool ('drywall router') is commonly used to:",
+    "options": [
+      "Sand joint compound smooth",
+      "Cut openings for electrical boxes and fixtures in installed gypsum board quickly and accurately",
+      "Mix plaster",
+      "Apply texture finishes"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 15: Tools and Equipment"
+  },
+  {
+    "id": "Q1463",
+    "legacyKey": "A drywall (panel) lift is a piece of equipment used primarily to:",
+    "q": "A drywall (panel) lift is a piece of equipment used primarily to:",
+    "options": [
+      "Sand ceiling joints",
+      "Raise and support gypsum board panels for ceiling or high-wall installation, reducing the number of workers needed",
+      "Cut backerboard",
+      "Mix joint compound"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 15: Tools and Equipment"
+  },
+  {
+    "id": "Q1464",
+    "legacyKey": "A T-square is a hand tool commonly used by drywall installers to:",
+    "q": "A T-square is a hand tool commonly used by drywall installers to:",
+    "options": [
+      "Test fastener depth",
+      "Mark straight, accurate cutting lines across the width of a gypsum board panel",
+      "Measure humidity",
+      "Apply corner bead"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 15: Tools and Equipment"
+  },
+  {
+    "id": "Q1465",
+    "legacyKey": "A vapor retarder in a wall assembly is used primarily to:",
+    "q": "A vapor retarder in a wall assembly is used primarily to:",
+    "options": [
+      "Block airflow through the wall entirely",
+      "Control the rate of water vapor diffusion through the wall, helping prevent condensation within the assembly",
+      "Increase the wall's fire rating",
+      "Improve the paint's adhesion"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 16: Building Sciences"
+  },
+  {
+    "id": "Q1466",
+    "legacyKey": "The appropriate placement of a vapor retarder, on the interior or exterior side of the insulation, in a wall assembly primarily depends on:",
+    "q": "The appropriate placement of a vapor retarder, on the interior or exterior side of the insulation, in a wall assembly primarily depends on:",
+    "options": [
+      "The color of the interior finish",
+      "The local climate and the predominant direction of vapor drive (heating vs. cooling climate)",
+      "The type of gypsum board used",
+      "The height of the wall"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 16: Building Sciences"
+  },
+  {
+    "id": "Q1467",
+    "legacyKey": "An 'air barrier' in a building enclosure differs from a vapor retarder in that it is primarily intended to:",
+    "q": "An 'air barrier' in a building enclosure differs from a vapor retarder in that it is primarily intended to:",
+    "options": [
+      "Control vapor diffusion specifically",
+      "Control the movement of air, and the moisture it carries, through the assembly",
+      "Provide the wall's structural support",
+      "Improve the interior finish's fire rating"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 16: Building Sciences"
+  },
+  {
+    "id": "Q1468",
+    "legacyKey": "Condensation within a wall cavity is most likely to occur when:",
+    "q": "Condensation within a wall cavity is most likely to occur when:",
+    "options": [
+      "Warm, moist air contacts a surface that is at or below the dew point temperature",
+      "The wall is well ventilated on both sides",
+      "The interior humidity is very low",
+      "The wall has no insulation at all"
+    ],
+    "correct": 0,
+    "source": "Gypsum, Chapter 16: Building Sciences"
+  },
+  {
+    "id": "Q1469",
+    "legacyKey": "From a building science standpoint, a wall assembly's ability to dry out if it does get wet is referred to as its:",
+    "q": "From a building science standpoint, a wall assembly's ability to dry out if it does get wet is referred to as its:",
+    "options": [
+      "Thermal resistance",
+      "Drying potential",
+      "Fire-resistance rating",
+      "Sound transmission class"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 16: Building Sciences"
+  },
+  {
+    "id": "Q1470",
+    "legacyKey": "Thermal bridging through wood or metal framing members can be reduced by:",
+    "q": "Thermal bridging through wood or metal framing members can be reduced by:",
+    "options": [
+      "Removing all cavity insulation",
+      "Adding continuous insulation across the framing, rather than relying on cavity insulation alone",
+      "Using thinner gypsum board",
+      "Increasing stud spacing only"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 16: Building Sciences"
+  },
+  {
+    "id": "Q1471",
+    "legacyKey": "Mold growth on the interior surface of gypsum board is primarily controlled by:",
+    "q": "Mold growth on the interior surface of gypsum board is primarily controlled by:",
+    "options": [
+      "Increasing the room's paint sheen",
+      "Managing moisture and humidity levels, since mold requires sustained moisture to grow",
+      "Using a thicker board",
+      "Increasing the fastener spacing"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 16: Building Sciences"
+  },
+  {
+    "id": "Q1472",
+    "legacyKey": "In a mixed or heating-dominated climate, installing an impermeable vapor retarder on both the interior and exterior of a wall assembly is generally discouraged because it can:",
+    "q": "In a mixed or heating-dominated climate, installing an impermeable vapor retarder on both the interior and exterior of a wall assembly is generally discouraged because it can:",
+    "options": [
+      "Improve the wall's drying potential in both directions",
+      "Trap moisture within the wall cavity, preventing the assembly from drying in either direction",
+      "Reduce the wall's fire rating",
+      "Increase air leakage"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 16: Building Sciences"
+  },
+  {
+    "id": "Q1473",
+    "legacyKey": "Much of the gypsum used in modern gypsum board manufacturing is 'synthetic gypsum,' commonly sourced as a byproduct of:",
+    "q": "Much of the gypsum used in modern gypsum board manufacturing is 'synthetic gypsum,' commonly sourced as a byproduct of:",
+    "options": [
+      "Recycled drywall only",
+      "Flue-gas desulfurization (FGD) at coal-fired power plants",
+      "Ocean water desalination",
+      "Cement kiln dust"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 17: Sustainability"
+  },
+  {
+    "id": "Q1474",
+    "legacyKey": "Gypsum board contributes to green building certification programs, such as LEED, in part because it can:",
+    "q": "Gypsum board contributes to green building certification programs, such as LEED, in part because it can:",
+    "options": [
+      "Never be recycled",
+      "Contain significant recycled content in both the gypsum core and the paper facing",
+      "Only be manufactured from virgin materials",
+      "Only qualify under regional-materials credits, never recycled-content credits"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 17: Sustainability"
+  },
+  {
+    "id": "Q1475",
+    "legacyKey": "At the end of a building's life, gypsum board scrap and demolition waste can potentially be:",
+    "q": "At the end of a building's life, gypsum board scrap and demolition waste can potentially be:",
+    "options": [
+      "Only landfilled, with no alternative",
+      "Recycled and reprocessed into new gypsum board or used as a soil amendment",
+      "Burned for energy recovery only",
+      "Converted directly into Portland cement"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 17: Sustainability"
+  },
+  {
+    "id": "Q1476",
+    "legacyKey": "Selecting low-VOC joint compounds and finishing materials primarily supports:",
+    "q": "Selecting low-VOC joint compounds and finishing materials primarily supports:",
+    "options": [
+      "Faster drying time only",
+      "Improved indoor air quality",
+      "Higher compressive strength",
+      "Better fire resistance"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 17: Sustainability"
+  },
+  {
+    "id": "Q1477",
+    "legacyKey": "Reducing gypsum board jobsite waste, through accurate takeoffs and returning scrap for recycling, supports sustainability goals primarily by:",
+    "q": "Reducing gypsum board jobsite waste, through accurate takeoffs and returning scrap for recycling, supports sustainability goals primarily by:",
+    "options": [
+      "Increasing the project's fire rating",
+      "Reducing the amount of construction material sent to landfills",
+      "Improving the board's sound rating",
+      "Eliminating the need for joint compound"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 17: Sustainability"
+  },
+  {
+    "id": "Q1478",
+    "legacyKey": "The paper facing on standard gypsum board typically contains a significant percentage of:",
+    "q": "The paper facing on standard gypsum board typically contains a significant percentage of:",
+    "options": [
+      "Virgin fiberglass",
+      "Recycled paper content",
+      "Recycled steel",
+      "Recycled plastic film"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 17: Sustainability"
+  },
+  {
+    "id": "Q1479",
+    "legacyKey": "The United States Gypsum Company (USG) was founded in 1902 through the consolidation of:",
+    "q": "The United States Gypsum Company (USG) was founded in 1902 through the consolidation of:",
+    "options": [
+      "A single family-owned gypsum quarry",
+      "Roughly 30 independent gypsum companies",
+      "Two competing wallboard manufacturers",
+      "A government-run building materials program"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 18: USG: America's Building Industry Leader"
+  },
+  {
+    "id": "Q1480",
+    "legacyKey": "USG's 'Sheetrock' brand name for gypsum wallboard was trademarked in:",
+    "q": "USG's 'Sheetrock' brand name for gypsum wallboard was trademarked in:",
+    "options": [
+      "1902",
+      "1917",
+      "1950",
+      "1980"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 18: USG: America's Building Industry Leader"
+  },
+  {
+    "id": "Q1481",
+    "legacyKey": "USG's development of modern gypsum wallboard, a single layer of gypsum core and paper that could be joined with a relatively smooth, flush surface, is generally dated to around:",
+    "q": "USG's development of modern gypsum wallboard, a single layer of gypsum core and paper that could be joined with a relatively smooth, flush surface, is generally dated to around:",
+    "options": [
+      "1890",
+      "1916",
+      "1945",
+      "1975"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 18: USG: America's Building Industry Leader"
+  },
+  {
+    "id": "Q1482",
+    "legacyKey": "USG's Sheetrock brand gained significant early public visibility when it was used in the construction associated with:",
+    "q": "USG's Sheetrock brand gained significant early public visibility when it was used in the construction associated with:",
+    "options": [
+      "The first transcontinental railroad",
+      "The 1933-34 Chicago World's Fair",
+      "The Golden Gate Bridge",
+      "The Hoover Dam"
+    ],
+    "correct": 1,
+    "source": "Gypsum, Chapter 18: USG: America's Building Industry Leader"
   }
 ]
