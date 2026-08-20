@@ -22098,5 +22098,2436 @@
     ],
     "correct": 1,
     "source": "IECC 2009, Chapter 6: Referenced standards"
+  },
+  {
+    "id": "Q1701",
+    "legacyKey": "The IRC 2018 is generally intended to regulate the construction of:",
+    "q": "The IRC 2018 is generally intended to regulate the construction of:",
+    "options": [
+      "High-rise commercial towers exclusively",
+      "Detached one- and two-family dwellings and townhouses not more than three stories above grade plane, with a separate means of egress",
+      "Only mobile/manufactured homes",
+      "Only multi-family apartment buildings over four stories"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 1: Scope and administration"
+  },
+  {
+    "id": "Q1702",
+    "legacyKey": "Under IRC 2018, a building permit is generally required before:",
+    "q": "Under IRC 2018, a building permit is generally required before:",
+    "options": [
+      "Discussing design ideas with an architect",
+      "Commencing construction, alteration, or repair work regulated by the code, except for specifically exempted minor work",
+      "Purchasing building materials",
+      "Hiring a subcontractor"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 1: Scope and administration"
+  },
+  {
+    "id": "Q1703",
+    "legacyKey": "Under IRC 2018, the 'building official' (code official) is generally responsible for:",
+    "q": "Under IRC 2018, the 'building official' (code official) is generally responsible for:",
+    "options": [
+      "Designing every structural system on every project",
+      "Administration and enforcement of the code",
+      "Personally performing all construction work",
+      "Setting material prices"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 1: Scope and administration"
+  },
+  {
+    "id": "Q1704",
+    "legacyKey": "Under IRC 2018, required inspections are generally performed:",
+    "q": "Under IRC 2018, required inspections are generally performed:",
+    "options": [
+      "Only after the certificate of occupancy is issued",
+      "At specified stages of construction, before the work is concealed",
+      "Only if the homeowner specifically requests them",
+      "Only once, at the very end of the project"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 1: Scope and administration"
+  },
+  {
+    "id": "Q1705",
+    "legacyKey": "Under IRC 2018, a Certificate of Occupancy is generally issued after:",
+    "q": "Under IRC 2018, a Certificate of Occupancy is generally issued after:",
+    "options": [
+      "The foundation is poured",
+      "The building official confirms that the completed work substantially complies with the approved construction documents and code requirements",
+      "The permit application is submitted",
+      "The framing inspection passes, regardless of remaining work"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 1: Scope and administration"
+  },
+  {
+    "id": "Q1706",
+    "legacyKey": "Under IRC 2018, a 'dwelling unit' is defined as:",
+    "q": "Under IRC 2018, a 'dwelling unit' is defined as:",
+    "options": [
+      "Any room with a bed",
+      "A single unit providing complete independent living facilities, including permanent provisions for living, sleeping, eating, cooking, and sanitation",
+      "A hotel guest room",
+      "A garage converted for storage"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1707",
+    "legacyKey": "Under IRC 2018, 'townhouse' is defined as:",
+    "q": "Under IRC 2018, 'townhouse' is defined as:",
+    "options": [
+      "Any two-story house",
+      "A single-family dwelling unit constructed in a group of three or more attached units, each extending from foundation to roof, with open space on at least two sides",
+      "A duplex with a shared driveway",
+      "Any dwelling with an attached garage"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1708",
+    "legacyKey": "Under IRC 2018, 'habitable space' is defined as a space used for living, sleeping, eating, or cooking, which generally excludes:",
+    "q": "Under IRC 2018, 'habitable space' is defined as a space used for living, sleeping, eating, or cooking, which generally excludes:",
+    "options": [
+      "Bedrooms",
+      "Bathrooms, closets, and similar utility spaces",
+      "Kitchens",
+      "Living rooms"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1709",
+    "legacyKey": "Under IRC 2018, 'approved' is defined as:",
+    "q": "Under IRC 2018, 'approved' is defined as:",
+    "options": [
+      "Certified by a national laboratory only",
+      "Acceptable to the building official",
+      "Reviewed by the homeowner",
+      "Listed in a manufacturer's brochure"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1710",
+    "legacyKey": "Under IRC 2018, 'grade plane' is defined as:",
+    "q": "Under IRC 2018, 'grade plane' is defined as:",
+    "options": [
+      "The elevation of the roof ridge",
+      "A reference plane representing the average finished ground level adjoining the building at exterior walls",
+      "The elevation of the basement floor",
+      "The elevation of the highest point on the lot"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1711",
+    "legacyKey": "Under IRC 2018, habitable rooms are generally required to have a minimum floor area of not less than:",
+    "q": "Under IRC 2018, habitable rooms are generally required to have a minimum floor area of not less than:",
+    "options": [
+      "50 square feet",
+      "70 square feet",
+      "100 square feet",
+      "150 square feet"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 3: Building planning"
+  },
+  {
+    "id": "Q1712",
+    "legacyKey": "Under IRC 2018, the walls and soffits of the usable, enclosed space under a stairway are generally required to be protected with:",
+    "q": "Under IRC 2018, the walls and soffits of the usable, enclosed space under a stairway are generally required to be protected with:",
+    "options": [
+      "No protection is required",
+      "1/2-inch gypsum board",
+      "A full 2-hour fire-resistance-rated assembly",
+      "Fire-retardant paint only"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 3: Building planning"
+  },
+  {
+    "id": "Q1713",
+    "legacyKey": "Under IRC 2018, foam plastic insulation installed within a dwelling is generally required to be separated from the interior of the building by:",
+    "q": "Under IRC 2018, foam plastic insulation installed within a dwelling is generally required to be separated from the interior of the building by:",
+    "options": [
+      "Nothing; it may always be left exposed",
+      "An approved thermal barrier, such as 1/2-inch gypsum wallboard, unless specifically tested and approved without one",
+      "A layer of carpet only",
+      "A coat of paint only"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 3: Building planning"
+  },
+  {
+    "id": "Q1714",
+    "legacyKey": "Under IRC 2018, glazing installed within 60 inches horizontally of the water's edge of a bathtub or shower is generally required to be:",
+    "q": "Under IRC 2018, glazing installed within 60 inches horizontally of the water's edge of a bathtub or shower is generally required to be:",
+    "options": [
+      "Standard annealed glass",
+      "Safety glazing",
+      "Wired glass only",
+      "Tinted glass"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 3: Building planning — Section: safety glazing and hazardous locations"
+  },
+  {
+    "id": "Q1715",
+    "legacyKey": "Under IRC 2018, under-floor (crawl space) areas are generally required to be ventilated with a net free ventilating area of not less than:",
+    "q": "Under IRC 2018, under-floor (crawl space) areas are generally required to be ventilated with a net free ventilating area of not less than:",
+    "options": [
+      "1/50 of the under-floor area",
+      "1/150 of the under-floor area",
+      "1/1000 of the under-floor area",
+      "No ventilation is required in any case"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 4: Foundations — Section: Crawl space"
+  },
+  {
+    "id": "Q1716",
+    "legacyKey": "Under IRC 2018, concrete or masonry foundation walls retaining earth and enclosing interior spaces located below grade are generally required to be:",
+    "q": "Under IRC 2018, concrete or masonry foundation walls retaining earth and enclosing interior spaces located below grade are generally required to be:",
+    "options": [
+      "Left unfinished with no moisture protection",
+      "Dampproofed on the exterior surface from the top of the footing to the finished grade",
+      "Painted with interior latex paint only",
+      "Insulated only, with no moisture protection"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 4: Foundations — Section: foundation walls"
+  },
+  {
+    "id": "Q1717",
+    "legacyKey": "Under IRC 2018, an isolated pier or column footing supporting a concentrated load is generally required to be sized based primarily on:",
+    "q": "Under IRC 2018, an isolated pier or column footing supporting a concentrated load is generally required to be sized based primarily on:",
+    "options": [
+      "The footing's color",
+      "The load to be supported and the load-bearing capacity of the soil",
+      "The distance to the nearest property line only",
+      "The contractor's preference"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1718",
+    "legacyKey": "A 'frost-protected shallow foundation' under IRC 2018 is a foundation design that:",
+    "q": "A 'frost-protected shallow foundation' under IRC 2018 is a foundation design that:",
+    "options": [
+      "Must always extend below the local frost line regardless of insulation",
+      "Uses insulation to raise the frost depth around the foundation, allowing a shallower footing than would otherwise be required",
+      "Is only permitted in warm climates with no frost concerns",
+      "Eliminates the need for any footing"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1719",
+    "legacyKey": "Under IRC 2018, holes cut into the web of an engineered wood I-joist are generally required to comply with:",
+    "q": "Under IRC 2018, holes cut into the web of an engineered wood I-joist are generally required to comply with:",
+    "options": [
+      "The same notch and hole rules that apply to solid-sawn lumber joists",
+      "The manufacturer's specifications for that specific I-joist product",
+      "No restriction at all",
+      "A universal rule applicable to all engineered wood products regardless of manufacturer"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 5: Floors — Section: wood joists"
+  },
+  {
+    "id": "Q1720",
+    "legacyKey": "Under IRC 2018, wood structural panel subflooring is generally required to have a minimum thickness of approximately:",
+    "q": "Under IRC 2018, wood structural panel subflooring is generally required to have a minimum thickness of approximately:",
+    "options": [
+      "1/4 inch for joists spaced 16 inches on center",
+      "23/32 inch for joists spaced 16 inches on center",
+      "2 inches regardless of joist spacing",
+      "There is no minimum thickness specified"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 5: Floors — Section: wood framing"
+  },
+  {
+    "id": "Q1721",
+    "legacyKey": "Under IRC 2018, a deck ledger board attached to the band joist of a house is generally required to be fastened with:",
+    "q": "Under IRC 2018, a deck ledger board attached to the band joist of a house is generally required to be fastened with:",
+    "options": [
+      "Common nails only",
+      "Lag screws or through-bolts, in accordance with the applicable fastening table",
+      "Construction adhesive alone",
+      "Deck screws intended for decking boards"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 5: Floors"
+  },
+  {
+    "id": "Q1722",
+    "legacyKey": "Under IRC 2018, wood girders and beams are generally required to be spliced (if not continuous) only:",
+    "q": "Under IRC 2018, wood girders and beams are generally required to be spliced (if not continuous) only:",
+    "options": [
+      "At the midpoint of the span",
+      "Over a point of support",
+      "At the quarter-span points",
+      "Girders may never be spliced under any circumstance"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 5: Floors"
+  },
+  {
+    "id": "Q1723",
+    "legacyKey": "Under IRC 2018, wall top plates are generally required to be lapped at corners and intersections primarily to:",
+    "q": "Under IRC 2018, wall top plates are generally required to be lapped at corners and intersections primarily to:",
+    "options": [
+      "Reduce the amount of lumber used",
+      "Tie the walls together and provide structural continuity for the top plate",
+      "Provide a nailing surface for exterior siding only",
+      "Eliminate the need for a bottom plate"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 6: Wall construction — Section: wood top plates"
+  },
+  {
+    "id": "Q1724",
+    "legacyKey": "Under IRC 2018, 'cripple walls' (short stud walls between the foundation and the first-floor framing) are generally required to be:",
+    "q": "Under IRC 2018, 'cripple walls' (short stud walls between the foundation and the first-floor framing) are generally required to be:",
+    "options": [
+      "Left unbraced, since they are short",
+      "Framed with studs consistent with the wall above and braced/sheathed in accordance with the applicable wall bracing provisions",
+      "Made entirely of masonry with no exceptions",
+      "Omitted whenever the foundation height varies"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 6: Wall construction — Section: wood studs"
+  },
+  {
+    "id": "Q1725",
+    "legacyKey": "Under IRC 2018, exterior wall bracing is generally provided using methods such as:",
+    "q": "Under IRC 2018, exterior wall bracing is generally provided using methods such as:",
+    "options": [
+      "Decorative trim only",
+      "Structural wood panel sheathing or let-in diagonal bracing, among other approved bracing methods",
+      "Paint alone",
+      "Insulation batts"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 6: Wall construction"
+  },
+  {
+    "id": "Q1726",
+    "legacyKey": "Under IRC 2018, the required header (lintel) size for a wall opening generally depends on:",
+    "q": "Under IRC 2018, the required header (lintel) size for a wall opening generally depends on:",
+    "options": [
+      "The homeowner's preference",
+      "The span of the opening and the load the header must support, per the applicable header span table",
+      "The color of the siding",
+      "The type of interior paint used"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 6: Wall construction"
+  },
+  {
+    "id": "Q1727",
+    "legacyKey": "Under IRC 2018, studs in an interior load-bearing wall are generally required to be sized and spaced in accordance with:",
+    "q": "Under IRC 2018, studs in an interior load-bearing wall are generally required to be sized and spaced in accordance with:",
+    "options": [
+      "No specific requirement",
+      "The applicable wood wall framing tables, based on factors such as stud height, spacing, and supported loads",
+      "The exterior wall bracing table only",
+      "The roof covering table"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 6: Wall construction — Section: wood studs"
+  },
+  {
+    "id": "Q1728",
+    "legacyKey": "Under IRC 2018, fiber-cement lap siding is generally required to be installed with a minimum clearance above grade of approximately:",
+    "q": "Under IRC 2018, fiber-cement lap siding is generally required to be installed with a minimum clearance above grade of approximately:",
+    "options": [
+      "No clearance is required",
+      "6 inches",
+      "36 inches",
+      "10 feet"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 7: Wall covering"
+  },
+  {
+    "id": "Q1729",
+    "legacyKey": "Under IRC 2018, horizontal lap siding courses are generally required to overlap the course below by a minimum of:",
+    "q": "Under IRC 2018, horizontal lap siding courses are generally required to overlap the course below by a minimum of:",
+    "options": [
+      "No overlap is required",
+      "1 inch",
+      "12 inches",
+      "24 inches"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 7: Wall covering"
+  },
+  {
+    "id": "Q1730",
+    "legacyKey": "Under IRC 2018, vinyl siding used as an exterior wall covering is generally required to comply with:",
+    "q": "Under IRC 2018, vinyl siding used as an exterior wall covering is generally required to comply with:",
+    "options": [
+      "No particular standard",
+      "The applicable referenced standard governing its material and installation requirements",
+      "Only the installer's personal preference",
+      "The interior finish flame spread table"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 7: Wall covering"
+  },
+  {
+    "id": "Q1731",
+    "legacyKey": "Under IRC 2018, fasteners used to attach exterior wall coverings are generally required to be:",
+    "q": "Under IRC 2018, fasteners used to attach exterior wall coverings are generally required to be:",
+    "options": [
+      "Any fastener available on site",
+      "Corrosion-resistant",
+      "Painted the same color as the siding",
+      "Exempt from any material requirement"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 7: Wall covering"
+  },
+  {
+    "id": "Q1732",
+    "legacyKey": "Under IRC 2018, where the ridge of a roof is not supported by a load-bearing wall, girder, or engineered design, rafters are generally required to be tied together by:",
+    "q": "Under IRC 2018, where the ridge of a roof is not supported by a load-bearing wall, girder, or engineered design, rafters are generally required to be tied together by:",
+    "options": [
+      "Nothing; ties are never required",
+      "Rafter ties or ceiling joists, forming a continuous tie to resist outward thrust",
+      "Decorative trim boards only",
+      "Roofing felt"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 8: Roof-ceiling construction"
+  },
+  {
+    "id": "Q1733",
+    "legacyKey": "Under IRC 2018, a ridge board is generally required to have a minimum nominal thickness of:",
+    "q": "Under IRC 2018, a ridge board is generally required to have a minimum nominal thickness of:",
+    "options": [
+      "1/4 inch",
+      "1 inch, and not less in depth than the cut end of the rafter",
+      "4 inches",
+      "There is no minimum thickness"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 8: Roof-ceiling construction"
+  },
+  {
+    "id": "Q1734",
+    "legacyKey": "Under IRC 2018, unsupported (unblocked) edges of roof sheathing panels are generally required to be supported with:",
+    "q": "Under IRC 2018, unsupported (unblocked) edges of roof sheathing panels are generally required to be supported with:",
+    "options": [
+      "Nothing; no support is required",
+      "Panel edge clips (H-clips) or blocking, as applicable",
+      "Additional shingles only",
+      "A continuous bead of caulk"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: Roof sheathing"
+  },
+  {
+    "id": "Q1735",
+    "legacyKey": "Under IRC 2018, metal connector plates on wood trusses that are bent, torn, or otherwise damaged are generally required to be:",
+    "q": "Under IRC 2018, metal connector plates on wood trusses that are bent, torn, or otherwise damaged are generally required to be:",
+    "options": [
+      "Left as-is if the truss still appears to stand",
+      "Repaired in accordance with a design provided by a registered design professional",
+      "Painted over to hide the damage",
+      "Ignored unless the truss visibly sags"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 8: Roof-ceiling construction"
+  },
+  {
+    "id": "Q1736",
+    "legacyKey": "Under IRC 2018, roof covering materials are generally required to be installed in accordance with:",
+    "q": "Under IRC 2018, roof covering materials are generally required to be installed in accordance with:",
+    "options": [
+      "Only the contractor's personal experience",
+      "The manufacturer's installation instructions and the applicable code requirements",
+      "No particular guidance; any method is acceptable",
+      "The interior finish requirements"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 9: Roof assemblies"
+  },
+  {
+    "id": "Q1737",
+    "legacyKey": "Under IRC 2018, step flashing is generally required at the intersection of a roof slope and an adjoining vertical wall primarily to:",
+    "q": "Under IRC 2018, step flashing is generally required at the intersection of a roof slope and an adjoining vertical wall primarily to:",
+    "options": [
+      "Improve the roof's appearance",
+      "Direct water down and away from the wall, preventing leaks at the roof-to-wall intersection",
+      "Replace the need for underlayment",
+      "Reduce the number of shingles needed"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 9: Roof assemblies"
+  },
+  {
+    "id": "Q1738",
+    "legacyKey": "Under IRC 2018, gutters and roof drainage systems, where provided, are generally intended to:",
+    "q": "Under IRC 2018, gutters and roof drainage systems, where provided, are generally intended to:",
+    "options": [
+      "Increase roof weight for stability",
+      "Collect and direct roof runoff away from the building, including away from the foundation",
+      "Serve only a decorative function",
+      "Replace the need for roof underlayment"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 9: Roof assemblies"
+  },
+  {
+    "id": "Q1739",
+    "legacyKey": "Under IRC 2018, underlayment applied beneath roof coverings is generally required to be fastened in accordance with:",
+    "q": "Under IRC 2018, underlayment applied beneath roof coverings is generally required to be fastened in accordance with:",
+    "options": [
+      "No particular pattern",
+      "The applicable fastening requirements for the specific underlayment and roof covering type",
+      "The gutter installation instructions",
+      "The siding manufacturer's instructions"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 9: Roof assemblies — Section: Asphalt shingles"
+  },
+  {
+    "id": "Q1740",
+    "legacyKey": "Under IRC 2018, metal roof panels and shingles are generally required to be manufactured from, or otherwise treated to resist:",
+    "q": "Under IRC 2018, metal roof panels and shingles are generally required to be manufactured from, or otherwise treated to resist:",
+    "options": [
+      "No corrosion protection is required",
+      "Corrosion",
+      "Only UV degradation, with no corrosion consideration",
+      "Only fire, with no corrosion consideration"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 9: Roof assemblies"
+  },
+  {
+    "id": "Q1741",
+    "legacyKey": "Under IRC 2018, factory-built fireplaces are generally required to be:",
+    "q": "Under IRC 2018, factory-built fireplaces are generally required to be:",
+    "options": [
+      "Field-fabricated to match the specific installation",
+      "Listed and installed in accordance with the manufacturer's installation instructions",
+      "Exempt from any listing requirement",
+      "Installed only by the manufacturer's own employees"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 10: Chimneys and fireplaces"
+  },
+  {
+    "id": "Q1742",
+    "legacyKey": "Under IRC 2018, spark arrestors (screens) on chimneys serving wood-burning appliances are generally intended to:",
+    "q": "Under IRC 2018, spark arrestors (screens) on chimneys serving wood-burning appliances are generally intended to:",
+    "options": [
+      "Improve draft performance only",
+      "Reduce the emission of sparks that could ignite nearby combustible materials, such as roofing",
+      "Increase the chimney's height requirement",
+      "Replace the need for a chimney cap entirely"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 10: Chimneys and fireplaces"
+  },
+  {
+    "id": "Q1743",
+    "legacyKey": "Under IRC 2018, a combustible mantel or trim installed above a fireplace opening is generally required to maintain a clearance from the fireplace opening that:",
+    "q": "Under IRC 2018, a combustible mantel or trim installed above a fireplace opening is generally required to maintain a clearance from the fireplace opening that:",
+    "options": [
+      "Is always exactly 6 inches regardless of projection",
+      "Generally increases as the mantel's projection from the wall face increases, per the applicable table",
+      "Is never regulated by the code",
+      "Applies only to metal mantels"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 10: Chimneys and fireplaces — Section: Masonry fireplaces"
+  },
+  {
+    "id": "Q1744",
+    "legacyKey": "Under IRC 2018, in addition to extending at least 3 feet above the roof penetration, a chimney is also generally required to extend at least 2 feet higher than any portion of the building within a horizontal distance of:",
+    "q": "Under IRC 2018, in addition to extending at least 3 feet above the roof penetration, a chimney is also generally required to extend at least 2 feet higher than any portion of the building within a horizontal distance of:",
+    "options": [
+      "3 feet",
+      "10 feet",
+      "25 feet",
+      "50 feet"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 10: Chimneys and fireplaces — Section: Masonry fireplaces"
+  },
+  {
+    "id": "Q1745",
+    "legacyKey": "Under IRC 2018, masonry fireplaces are generally required to be provided with a cleanout or ash dump primarily to:",
+    "q": "Under IRC 2018, masonry fireplaces are generally required to be provided with a cleanout or ash dump primarily to:",
+    "options": [
+      "Increase the fireplace's fire rating",
+      "Facilitate the removal of ashes and debris from the firebox",
+      "Serve as a combustion air inlet",
+      "Replace the need for a damper"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 10: Chimneys and fireplaces — Section: Masonry fireplaces"
+  },
+  {
+    "id": "Q1746",
+    "legacyKey": "Under IRC 2018 energy provisions, heating and cooling equipment sizing is generally required to be based on:",
+    "q": "Under IRC 2018 energy provisions, heating and cooling equipment sizing is generally required to be based on:",
+    "options": [
+      "The largest unit the contractor has in stock",
+      "An approved heating and cooling load calculation method, such as ACCA Manual J or an equivalent",
+      "The square footage of the building alone, with no other factors",
+      "The homeowner's personal preference with no calculation"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 11: Energy conservation, Energy efficiency"
+  },
+  {
+    "id": "Q1747",
+    "legacyKey": "Under IRC 2018, a permanent certificate documenting predominant insulation R-values and equipment efficiencies is generally required to be posted:",
+    "q": "Under IRC 2018, a permanent certificate documenting predominant insulation R-values and equipment efficiencies is generally required to be posted:",
+    "options": [
+      "In the attic only, with no other posting",
+      "On or near the electrical distribution panel",
+      "Only in the builder's project file, not in the home",
+      "On the exterior of the building"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 11: Energy conservation, Energy efficiency"
+  },
+  {
+    "id": "Q1748",
+    "legacyKey": "Under IRC 2018, air leakage sites in the building thermal envelope, such as penetrations and recessed fixtures, are generally addressed by requiring them to be:",
+    "q": "Under IRC 2018, air leakage sites in the building thermal envelope, such as penetrations and recessed fixtures, are generally addressed by requiring them to be:",
+    "options": [
+      "Left open for passive ventilation",
+      "Sealed, caulked, gasketed, or weatherstripped, as applicable to the specific component",
+      "Covered with decorative trim only",
+      "Insulated but never sealed"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 11: Energy conservation, Energy efficiency"
+  },
+  {
+    "id": "Q1749",
+    "legacyKey": "Under IRC 2018 Chapter 12, mechanical permits are generally required for:",
+    "q": "Under IRC 2018 Chapter 12, mechanical permits are generally required for:",
+    "options": [
+      "No mechanical work of any kind",
+      "The installation, replacement, or alteration of most mechanical equipment and systems, except specifically exempted minor work",
+      "Only commercial mechanical systems",
+      "Only systems installed after the certificate of occupancy is issued"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 12: Mechanical administration"
+  },
+  {
+    "id": "Q1750",
+    "legacyKey": "Under IRC 2018 Chapter 12, mechanical work is generally required to be inspected:",
+    "q": "Under IRC 2018 Chapter 12, mechanical work is generally required to be inspected:",
+    "options": [
+      "Only if a complaint is filed",
+      "At appropriate stages before the work is concealed",
+      "Only after the entire house is complete",
+      "Never, since mechanical work is self-certifying"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 12: Mechanical administration"
+  },
+  {
+    "id": "Q1751",
+    "legacyKey": "Under IRC 2018 Chapter 12, the mechanical administrative provisions generally coordinate with:",
+    "q": "Under IRC 2018 Chapter 12, the mechanical administrative provisions generally coordinate with:",
+    "options": [
+      "A separate, unrelated permitting agency",
+      "The code's general administrative chapter (Chapter 1) for permitting and enforcement procedures",
+      "No other chapter in the code",
+      "Only the electrical administrative provisions"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 12: Mechanical administration"
+  },
+  {
+    "id": "Q1752",
+    "legacyKey": "Under IRC 2018 Chapter 13, mechanical appliances requiring access for inspection, service, repair, or replacement are generally required to be installed so that access is provided:",
+    "q": "Under IRC 2018 Chapter 13, mechanical appliances requiring access for inspection, service, repair, or replacement are generally required to be installed so that access is provided:",
+    "options": [
+      "Only by removing permanent construction",
+      "Without removing permanent construction",
+      "Only through the roof",
+      "Only by a licensed engineer"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 13: General mechanical system requirements"
+  },
+  {
+    "id": "Q1753",
+    "legacyKey": "Under IRC 2018 general mechanical requirements, fuel-fired appliances installed in a private garage are generally required to have their ignition source elevated at least 18 inches above the garage floor, unless:",
+    "q": "Under IRC 2018 general mechanical requirements, fuel-fired appliances installed in a private garage are generally required to have their ignition source elevated at least 18 inches above the garage floor, unless:",
+    "options": [
+      "The appliance is painted a fire-resistant color",
+      "The appliance is listed as flammable-vapor-ignition-resistant (FVIR)",
+      "The garage has a window",
+      "The garage door is kept open at all times"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 13: General mechanical system requirements"
+  },
+  {
+    "id": "Q1754",
+    "legacyKey": "Under IRC 2018, mechanical appliances and equipment are generally required to be:",
+    "q": "Under IRC 2018, mechanical appliances and equipment are generally required to be:",
+    "options": [
+      "Field-modified to fit any space",
+      "Listed and labeled, and installed in accordance with the manufacturer's installation instructions",
+      "Exempt from any listing requirement in dwellings",
+      "Installed without reference to manufacturer instructions"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 13: General mechanical system requirements"
+  },
+  {
+    "id": "Q1755",
+    "legacyKey": "Under IRC 2018, condensate from cooling coils and similar mechanical equipment is generally required to be disposed of by:",
+    "q": "Under IRC 2018, condensate from cooling coils and similar mechanical equipment is generally required to be disposed of by:",
+    "options": [
+      "Allowing it to drain onto the roof covering",
+      "An approved method, such as a condensate drain, without discharging onto a public way or creating a nuisance",
+      "Discharging it directly into the attic insulation",
+      "No particular method; it may be left to accumulate"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 13: General mechanical system requirements"
+  },
+  {
+    "id": "Q1756",
+    "legacyKey": "Under IRC 2018 Chapter 13, appliances installed in an attic are generally required to be provided with an electrical outlet and a light fixture:",
+    "q": "Under IRC 2018 Chapter 13, appliances installed in an attic are generally required to be provided with an electrical outlet and a light fixture:",
+    "options": [
+      "Only if the attic is finished living space",
+      "At or near the appliance location, controlled by a switch near the access opening",
+      "Nowhere; attic appliances require no lighting",
+      "Only on the exterior of the attic access"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 13: General mechanical system requirements"
+  },
+  {
+    "id": "Q1757",
+    "legacyKey": "Under IRC 2018, heating and cooling equipment is generally required to be sized:",
+    "q": "Under IRC 2018, heating and cooling equipment is generally required to be sized:",
+    "options": [
+      "As large as possible for maximum comfort",
+      "In accordance with an approved heating and cooling load calculation method, rather than arbitrarily oversized",
+      "Based solely on the equipment's purchase price",
+      "Without regard to the building's insulation levels"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 14: Heating and cooling equipment"
+  },
+  {
+    "id": "Q1758",
+    "legacyKey": "Under IRC 2018, fuel-fired heating equipment is generally required to be provided with:",
+    "q": "Under IRC 2018, fuel-fired heating equipment is generally required to be provided with:",
+    "options": [
+      "No consideration for combustion air",
+      "An adequate supply of combustion air",
+      "Only electric backup heat",
+      "A dedicated water supply line"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 14: Heating and cooling equipment"
+  },
+  {
+    "id": "Q1759",
+    "legacyKey": "Under IRC 2018, forced-air furnaces are generally required to have safety controls that:",
+    "q": "Under IRC 2018, forced-air furnaces are generally required to have safety controls that:",
+    "options": [
+      "Increase the burner output automatically over time",
+      "Shut off the burner or electrical supply if the equipment overheats or malfunctions",
+      "Are optional accessories",
+      "Only function when the thermostat is set above 80°F"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 14: Heating and cooling equipment"
+  },
+  {
+    "id": "Q1760",
+    "legacyKey": "Under IRC 2018, heating and cooling equipment installed in an attic or crawlspace is generally required to have:",
+    "q": "Under IRC 2018, heating and cooling equipment installed in an attic or crawlspace is generally required to have:",
+    "options": [
+      "No access requirement, since it is rarely serviced",
+      "An accessible passageway and adequate working space for service",
+      "A dedicated separate entrance from outdoors",
+      "Direct sunlight exposure"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 14: Heating and cooling equipment"
+  },
+  {
+    "id": "Q1761",
+    "legacyKey": "Under IRC 2018, electric heating equipment is generally required to be installed:",
+    "q": "Under IRC 2018, electric heating equipment is generally required to be installed:",
+    "options": [
+      "Without regard to clearance from combustible materials",
+      "In accordance with the manufacturer's instructions and applicable clearance requirements to combustible materials",
+      "Only in a detached accessory structure",
+      "Only as a supplemental system, never as primary heat"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 14: Heating and cooling equipment"
+  },
+  {
+    "id": "Q1762",
+    "legacyKey": "Under IRC 2018, clothes dryer exhaust ducts are generally required to be constructed of:",
+    "q": "Under IRC 2018, clothes dryer exhaust ducts are generally required to be constructed of:",
+    "options": [
+      "Flexible plastic ducting",
+      "Rigid metal duct with a smooth interior surface",
+      "Cardboard tubing",
+      "Any material, as long as it is fire-retardant painted"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 15: Exhaust systems"
+  },
+  {
+    "id": "Q1763",
+    "legacyKey": "Under IRC 2018, the maximum length of a clothes dryer exhaust duct, unless otherwise specified by the dryer manufacturer's instructions, is generally:",
+    "q": "Under IRC 2018, the maximum length of a clothes dryer exhaust duct, unless otherwise specified by the dryer manufacturer's instructions, is generally:",
+    "options": [
+      "10 feet",
+      "35 feet, with specified reductions in length for each 45-degree and 90-degree bend",
+      "100 feet regardless of bends",
+      "There is no maximum length"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 15: Exhaust systems"
+  },
+  {
+    "id": "Q1764",
+    "legacyKey": "Under IRC 2018, mechanical exhaust ducts, such as range hood or bathroom fan ducts, are generally required to terminate:",
+    "q": "Under IRC 2018, mechanical exhaust ducts, such as range hood or bathroom fan ducts, are generally required to terminate:",
+    "options": [
+      "Into the attic space",
+      "Outside the building, rather than into an attic, soffit, or other concealed space",
+      "Into a return air duct",
+      "Into the crawl space"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 15: Exhaust systems"
+  },
+  {
+    "id": "Q1765",
+    "legacyKey": "Under IRC 2018, exhaust duct terminations are generally required to be equipped with:",
+    "q": "Under IRC 2018, exhaust duct terminations are generally required to be equipped with:",
+    "options": [
+      "No special device",
+      "A backdraft damper",
+      "A permanently open screen with no damper",
+      "A humidistat only"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 15: Exhaust systems"
+  },
+  {
+    "id": "Q1766",
+    "legacyKey": "Under IRC 2018, a bathroom without an operable window for natural ventilation is generally required to be provided with:",
+    "q": "Under IRC 2018, a bathroom without an operable window for natural ventilation is generally required to be provided with:",
+    "options": [
+      "No ventilation requirement at all",
+      "A mechanical exhaust fan",
+      "A ceiling fan for air circulation only",
+      "An additional electrical outlet"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 15: Exhaust systems"
+  },
+  {
+    "id": "Q1767",
+    "legacyKey": "Under IRC 2018, supply and return air ducts are generally required to be constructed of:",
+    "q": "Under IRC 2018, supply and return air ducts are generally required to be constructed of:",
+    "options": [
+      "Any material available on site",
+      "Approved, listed materials appropriate for the duct's use and location",
+      "Only rigid metal, with no other materials permitted",
+      "Only flexible nonmetallic duct"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 16: Duct systems"
+  },
+  {
+    "id": "Q1768",
+    "legacyKey": "Under IRC 2018, ductwork is generally required to be supported:",
+    "q": "Under IRC 2018, ductwork is generally required to be supported:",
+    "options": [
+      "Only at its two endpoints",
+      "At intervals sufficient to prevent sagging, in accordance with the code or manufacturer's instructions",
+      "Nowhere; ducts are self-supporting",
+      "Only where visible to occupants"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 16: Duct systems"
+  },
+  {
+    "id": "Q1769",
+    "legacyKey": "Under IRC 2018, duct systems are generally required to be sealed primarily to:",
+    "q": "Under IRC 2018, duct systems are generally required to be sealed primarily to:",
+    "options": [
+      "Improve the duct's appearance",
+      "Limit air leakage from joints, seams, and connections",
+      "Increase the system's noise level",
+      "Reduce the duct's structural strength"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 16: Duct systems"
+  },
+  {
+    "id": "Q1770",
+    "legacyKey": "Under IRC 2018, factory-made ducts and duct connectors are generally required to be:",
+    "q": "Under IRC 2018, factory-made ducts and duct connectors are generally required to be:",
+    "options": [
+      "Field-fabricated only, never factory-made",
+      "Listed and labeled",
+      "Exempt from any listing requirement",
+      "Painted a specific mandated color"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 16: Duct systems"
+  },
+  {
+    "id": "Q1771",
+    "legacyKey": "Under IRC 2018, fuel-burning appliances that are not direct-vent (sealed combustion) type are generally required to be provided with:",
+    "q": "Under IRC 2018, fuel-burning appliances that are not direct-vent (sealed combustion) type are generally required to be provided with:",
+    "options": [
+      "No combustion air provisions",
+      "An adequate supply of combustion air, sized in accordance with the code",
+      "Only mechanical exhaust, with no combustion air inlet",
+      "A dedicated water line"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 17: Combustion air"
+  },
+  {
+    "id": "Q1772",
+    "legacyKey": "Under IRC 2018, combustion air openings for fuel-fired appliances are generally sized based primarily on:",
+    "q": "Under IRC 2018, combustion air openings for fuel-fired appliances are generally sized based primarily on:",
+    "options": [
+      "The appliance's physical dimensions",
+      "The input rating (Btu/h) of the appliance(s) served",
+      "The color of the appliance",
+      "The homeowner's preference"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 17: Combustion air"
+  },
+  {
+    "id": "Q1773",
+    "legacyKey": "Under IRC 2018, combustion air for a fuel-fired appliance may generally be provided from:",
+    "q": "Under IRC 2018, combustion air for a fuel-fired appliance may generally be provided from:",
+    "options": [
+      "Only a dedicated outdoor duct, with no other option",
+      "Outdoors, or from indoor air in a sufficiently large space, depending on the appliance and installation conditions",
+      "Only the room directly above the appliance",
+      "Never from indoor air under any condition"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 17: Combustion air"
+  },
+  {
+    "id": "Q1774",
+    "legacyKey": "Under IRC 2018 Chapter 18, appliance vent systems are generally required to be:",
+    "q": "Under IRC 2018 Chapter 18, appliance vent systems are generally required to be:",
+    "options": [
+      "Field-fabricated from any available metal",
+      "Listed and installed in accordance with their listing and the manufacturer's instructions",
+      "Optional for gas-fired appliances",
+      "Installed without regard to appliance type"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 18: Chimneys and vents"
+  },
+  {
+    "id": "Q1775",
+    "legacyKey": "Under IRC 2018, Type B vents are generally used for venting:",
+    "q": "Under IRC 2018, Type B vents are generally used for venting:",
+    "options": [
+      "Wood-burning fireplaces exclusively",
+      "Listed gas-fired appliances with draft hoods or fan-assisted combustion systems appropriate for the vent type",
+      "Oil-fired appliances exclusively",
+      "Only clothes dryers"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 18: Chimneys and vents"
+  },
+  {
+    "id": "Q1776",
+    "legacyKey": "Under IRC 2018, vent connectors serving fuel-fired appliances are generally required to be:",
+    "q": "Under IRC 2018, vent connectors serving fuel-fired appliances are generally required to be:",
+    "options": [
+      "As long as possible for better draft",
+      "As short as practicable, with a minimum number of turns/elbows",
+      "Routed through unconditioned attic space whenever possible",
+      "Made of flexible plastic"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 18: Chimneys and vents"
+  },
+  {
+    "id": "Q1777",
+    "legacyKey": "Under IRC 2018, direct-vent appliances draw combustion air from, and discharge flue gases to:",
+    "q": "Under IRC 2018, direct-vent appliances draw combustion air from, and discharge flue gases to:",
+    "options": [
+      "The interior conditioned space",
+      "The outdoors, through a sealed venting system, without using room air",
+      "The attic space only",
+      "The crawl space only"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 18: Chimneys and vents"
+  },
+  {
+    "id": "Q1778",
+    "legacyKey": "Under IRC 2018 special appliance provisions, a range hood exhaust duct must generally:",
+    "q": "Under IRC 2018 special appliance provisions, a range hood exhaust duct must generally:",
+    "options": [
+      "Be interconnected with the bathroom exhaust system for efficiency",
+      "Not be interconnected with any other exhaust or ventilation system",
+      "Discharge into the attic space",
+      "Be routed through the chimney flue"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 19: Special appliances"
+  },
+  {
+    "id": "Q1779",
+    "legacyKey": "Under IRC 2018, fuel-fired appliances not listed for reduced clearances are generally required to be installed with clearances to combustible materials:",
+    "q": "Under IRC 2018, fuel-fired appliances not listed for reduced clearances are generally required to be installed with clearances to combustible materials:",
+    "options": [
+      "Of zero inches in all cases",
+      "As specified on the appliance's listing/label, or per the code's default clearance table if not listed",
+      "Determined solely by the installer's judgment",
+      "Only as required by local fire department policy, with no code basis"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 19: Special appliances"
+  },
+  {
+    "id": "Q1780",
+    "legacyKey": "Under IRC 2018, free-standing household cooking ranges are generally required to be equipped with:",
+    "q": "Under IRC 2018, free-standing household cooking ranges are generally required to be equipped with:",
+    "options": [
+      "A child safety lock only",
+      "An anti-tip device to prevent the range from tipping forward",
+      "A fire suppression system built into the range",
+      "A backup battery power source"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 19: Special appliances"
+  },
+  {
+    "id": "Q1781",
+    "legacyKey": "Under IRC 2018, household clothes dryers are generally required to be installed:",
+    "q": "Under IRC 2018, household clothes dryers are generally required to be installed:",
+    "options": [
+      "Without regard to manufacturer instructions",
+      "In accordance with the manufacturer's installation instructions, including clearance and exhaust duct requirements",
+      "Only in a detached laundry building",
+      "Only on an exterior wall"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 19: Special appliances"
+  },
+  {
+    "id": "Q1782",
+    "legacyKey": "Under IRC 2018 Chapter 20, boilers are generally required to be equipped with:",
+    "q": "Under IRC 2018 Chapter 20, boilers are generally required to be equipped with:",
+    "options": [
+      "No overpressure protection",
+      "A pressure-relief valve (and, where applicable, a temperature-and-pressure relief valve) to prevent overpressure",
+      "Only a manual pressure gauge, with no automatic relief",
+      "A backup generator"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 20: Boilers and water heaters"
+  },
+  {
+    "id": "Q1783",
+    "legacyKey": "Under IRC 2018, boilers are generally required to be installed with:",
+    "q": "Under IRC 2018, boilers are generally required to be installed with:",
+    "options": [
+      "No clearance requirement whatsoever",
+      "Adequate clearances for access and service, per the manufacturer's instructions",
+      "Clearance only on one side",
+      "Direct contact with combustible framing"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 20: Boilers and water heaters"
+  },
+  {
+    "id": "Q1784",
+    "legacyKey": "Under IRC 2018 Chapter 20, a combination boiler/water heater used to supply both space heating and domestic hot water is generally required to comply with:",
+    "q": "Under IRC 2018 Chapter 20, a combination boiler/water heater used to supply both space heating and domestic hot water is generally required to comply with:",
+    "options": [
+      "Only the water heater provisions, ignoring the boiler function",
+      "Both the water heater and boiler-related provisions applicable to its function",
+      "Neither set of provisions, since it is a hybrid appliance",
+      "Only local plumbing ordinances, with no IRC applicability"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 20: Boilers and water heaters"
+  },
+  {
+    "id": "Q1785",
+    "legacyKey": "Under IRC 2018, low-pressure boilers used in dwellings are generally limited to operating pressures and temperatures within the limits established by:",
+    "q": "Under IRC 2018, low-pressure boilers used in dwellings are generally limited to operating pressures and temperatures within the limits established by:",
+    "options": [
+      "The homeowner's insurance policy",
+      "The applicable referenced standard for the boiler",
+      "No limit; any pressure is acceptable",
+      "The local utility company's discretion alone"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 20: Boilers and water heaters"
+  },
+  {
+    "id": "Q1786",
+    "legacyKey": "Under IRC 2018 Chapter 21, hydronic piping systems used for circulating heated or chilled water are generally required to be constructed of:",
+    "q": "Under IRC 2018 Chapter 21, hydronic piping systems used for circulating heated or chilled water are generally required to be constructed of:",
+    "options": [
+      "Any material regardless of pressure or temperature rating",
+      "Approved materials suitable for the system's pressure and temperature",
+      "Only PVC pipe, regardless of water temperature",
+      "Only unlisted, field-fabricated piping"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 21: Hydronic piping"
+  },
+  {
+    "id": "Q1787",
+    "legacyKey": "Under IRC 2018, hydronic piping is generally required to be supported and installed to:",
+    "q": "Under IRC 2018, hydronic piping is generally required to be supported and installed to:",
+    "options": [
+      "Maximize sagging for flexibility",
+      "Prevent excessive strain, sagging, and noise from thermal expansion",
+      "Eliminate the need for any expansion consideration",
+      "Rest directly on the ground with no support"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 21: Hydronic piping"
+  },
+  {
+    "id": "Q1788",
+    "legacyKey": "Under IRC 2018, hydronic heating/cooling systems are generally required to include a means to:",
+    "q": "Under IRC 2018, hydronic heating/cooling systems are generally required to include a means to:",
+    "options": [
+      "Prevent any pressure fluctuation monitoring",
+      "Relieve excess pressure, protecting the system from overpressure conditions",
+      "Continuously vent to the outdoors",
+      "Bypass all safety controls"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 21: Hydronic piping"
+  },
+  {
+    "id": "Q1789",
+    "legacyKey": "Under IRC 2018 Chapter 22, special piping and storage systems provisions generally address systems such as:",
+    "q": "Under IRC 2018 Chapter 22, special piping and storage systems provisions generally address systems such as:",
+    "options": [
+      "Standard potable water supply piping",
+      "Fuel oil piping and storage tanks",
+      "Standard sanitary drainage piping",
+      "Standard electrical raceways"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 22: Special piping and storage systems"
+  },
+  {
+    "id": "Q1790",
+    "legacyKey": "Under IRC 2018, fuel oil storage tanks are generally required to be:",
+    "q": "Under IRC 2018, fuel oil storage tanks are generally required to be:",
+    "options": [
+      "Unlisted and field-fabricated",
+      "Listed, and installed with appropriate clearances and venting",
+      "Buried with no venting of any kind",
+      "Exempt from any installation requirements"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 22: Special piping and storage systems"
+  },
+  {
+    "id": "Q1791",
+    "legacyKey": "Under IRC 2018, special piping systems not otherwise specifically addressed elsewhere in the code are generally required to be installed:",
+    "q": "Under IRC 2018, special piping systems not otherwise specifically addressed elsewhere in the code are generally required to be installed:",
+    "options": [
+      "Without any governing standard",
+      "In accordance with the applicable referenced standard for that specific system",
+      "Only per the installer's personal judgment",
+      "Only if approved by the material manufacturer's marketing department"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 22: Special piping and storage systems"
+  },
+  {
+    "id": "Q1792",
+    "legacyKey": "Under IRC 2018 Chapter 23, solar thermal energy systems, such as solar water heating, are generally required to be:",
+    "q": "Under IRC 2018 Chapter 23, solar thermal energy systems, such as solar water heating, are generally required to be:",
+    "options": [
+      "Installed without regard to manufacturer instructions",
+      "Installed in accordance with the manufacturer's instructions and the applicable referenced standards",
+      "Exempt from all code provisions",
+      "Installed only by the homeowner personally"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 23: Solar thermal energy systems"
+  },
+  {
+    "id": "Q1793",
+    "legacyKey": "Under IRC 2018, solar collectors and related piping are generally required to be protected against:",
+    "q": "Under IRC 2018, solar collectors and related piping are generally required to be protected against:",
+    "options": [
+      "Only excessive sunlight exposure",
+      "Freezing, overheating, and structural loads such as wind",
+      "Only seismic loads, with no other consideration",
+      "Only theft, with no weather consideration"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 23: Solar thermal energy systems"
+  },
+  {
+    "id": "Q1794",
+    "legacyKey": "Under IRC 2018, solar thermal systems that use a heat transfer fluid other than potable water are generally required to prevent:",
+    "q": "Under IRC 2018, solar thermal systems that use a heat transfer fluid other than potable water are generally required to prevent:",
+    "options": [
+      "Any use of a heat exchanger",
+      "Contamination of the potable water supply, such as through backflow prevention or heat exchanger design",
+      "The use of antifreeze in any form",
+      "Connection to the domestic hot water system under any circumstances"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 23: Solar thermal energy systems"
+  },
+  {
+    "id": "Q1795",
+    "legacyKey": "Under IRC 2018 fuel gas provisions, gas piping materials are generally required to be:",
+    "q": "Under IRC 2018 fuel gas provisions, gas piping materials are generally required to be:",
+    "options": [
+      "Any scrap metal pipe available on site",
+      "Listed/approved materials such as steel pipe, copper or brass pipe or tubing where permitted, or corrugated stainless steel tubing (CSST)",
+      "Only PVC pipe, regardless of gas type",
+      "Garden hose rated for water only"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 24: fuel gas"
+  },
+  {
+    "id": "Q1796",
+    "legacyKey": "Under IRC 2018, each gas appliance is generally required to have an accessible, approved shutoff valve located:",
+    "q": "Under IRC 2018, each gas appliance is generally required to have an accessible, approved shutoff valve located:",
+    "options": [
+      "At the gas meter only, with no valve near the appliance",
+      "Within 6 feet of the appliance it serves, ahead of any union or connector",
+      "At least 50 feet from the appliance",
+      "Only inside a locked utility room"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 24: fuel gas"
+  },
+  {
+    "id": "Q1797",
+    "legacyKey": "Under IRC 2018, gas piping systems must generally be pressure tested for leaks:",
+    "q": "Under IRC 2018, gas piping systems must generally be pressure tested for leaks:",
+    "options": [
+      "Only after appliances are connected and operating",
+      "Prior to being placed in service, and before concealment",
+      "Only if a gas odor is reported",
+      "Never; visual inspection alone is sufficient"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 24: fuel gas"
+  },
+  {
+    "id": "Q1798",
+    "legacyKey": "Under IRC 2018, a 'sediment trap' (drip leg) is generally required to be installed:",
+    "q": "Under IRC 2018, a 'sediment trap' (drip leg) is generally required to be installed:",
+    "options": [
+      "At the gas meter only",
+      "At the point of connection to most gas-fired appliances, to trap dirt and debris before it enters the appliance's gas controls",
+      "Only on outdoor gas grills",
+      "Nowhere; sediment traps are prohibited"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 24: fuel gas"
+  },
+  {
+    "id": "Q1799",
+    "legacyKey": "Under IRC 2018, corrugated stainless steel tubing (CSST) gas piping systems are generally required to be:",
+    "q": "Under IRC 2018, corrugated stainless steel tubing (CSST) gas piping systems are generally required to be:",
+    "options": [
+      "Left ungrounded, since gas piping does not conduct electricity",
+      "Bonded/grounded in accordance with the manufacturer's instructions and the code",
+      "Painted yellow only, with no bonding",
+      "Installed only in unconditioned attics"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 24: fuel gas"
+  },
+  {
+    "id": "Q1800",
+    "legacyKey": "Under IRC 2018, gas appliance connectors are generally required to be:",
+    "q": "Under IRC 2018, gas appliance connectors are generally required to be:",
+    "options": [
+      "Concealed within a wall or floor cavity in every case",
+      "Listed for the application, and not concealed within a wall, floor, or partition unless specifically listed for such use",
+      "Made of ordinary rubber garden hose",
+      "Reused indefinitely regardless of condition"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 24: fuel gas"
+  },
+  {
+    "id": "Q1801",
+    "legacyKey": "Under IRC 2018, LP-gas containers are generally required to be located with clearance from:",
+    "q": "Under IRC 2018, LP-gas containers are generally required to be located with clearance from:",
+    "options": [
+      "Nothing in particular; any location is acceptable",
+      "Sources of ignition and building openings, in accordance with the applicable clearance table",
+      "Only from other LP-gas containers, with no other clearance",
+      "Only from the property line, with no consideration of openings"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 24: fuel gas"
+  },
+  {
+    "id": "Q1802",
+    "legacyKey": "Under IRC 2018 Chapter 25, plumbing permits are generally required for:",
+    "q": "Under IRC 2018 Chapter 25, plumbing permits are generally required for:",
+    "options": [
+      "No plumbing work of any kind",
+      "The installation, alteration, or repair of most plumbing systems, except specifically exempted minor work",
+      "Only commercial plumbing systems",
+      "Only work performed by the homeowner"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 25: Plumbing administration"
+  },
+  {
+    "id": "Q1803",
+    "legacyKey": "Under IRC 2018 Chapter 25, plumbing work is generally required to be inspected:",
+    "q": "Under IRC 2018 Chapter 25, plumbing work is generally required to be inspected:",
+    "options": [
+      "Only at final walkthrough, with no rough-in inspection",
+      "At appropriate stages, such as rough-in, before the work is concealed",
+      "Only if a complaint is filed by a neighbor",
+      "Never; plumbing work is self-certifying"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 25: Plumbing administration"
+  },
+  {
+    "id": "Q1804",
+    "legacyKey": "Under IRC 2018 Chapter 25, the plumbing administrative provisions generally coordinate with:",
+    "q": "Under IRC 2018 Chapter 25, the plumbing administrative provisions generally coordinate with:",
+    "options": [
+      "No other chapter in the code",
+      "The code's general administrative chapter (Chapter 1) for permitting and enforcement procedures",
+      "Only the electrical administrative provisions",
+      "A separate, unrelated permitting agency"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 25: Plumbing administration"
+  },
+  {
+    "id": "Q1805",
+    "legacyKey": "Under IRC 2018 general plumbing requirements, materials used for water supply and drain, waste, and vent piping are generally required to be:",
+    "q": "Under IRC 2018 general plumbing requirements, materials used for water supply and drain, waste, and vent piping are generally required to be:",
+    "options": [
+      "Any material the installer happens to have",
+      "Listed and approved for the specific application",
+      "Exempt from any material standard",
+      "Selected based on color only"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 26: General plumbing requirements"
+  },
+  {
+    "id": "Q1806",
+    "legacyKey": "Under IRC 2018 general plumbing requirements, plumbing fixtures are generally required to be located in spaces that provide:",
+    "q": "Under IRC 2018 general plumbing requirements, plumbing fixtures are generally required to be located in spaces that provide:",
+    "options": [
+      "No particular access requirement",
+      "Adequate access and working clearance for use, cleaning, and repair",
+      "Clearance only for aesthetic purposes",
+      "Access only for the original installer"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 26: General plumbing requirements"
+  },
+  {
+    "id": "Q1807",
+    "legacyKey": "Under IRC 2018, cross-connections between the potable water supply and a source of contamination are generally:",
+    "q": "Under IRC 2018, cross-connections between the potable water supply and a source of contamination are generally:",
+    "options": [
+      "Permitted without restriction",
+      "Prohibited, unless protected by an approved backflow prevention device",
+      "Required for irrigation systems only",
+      "Only regulated for commercial buildings, not dwellings"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 26: General plumbing requirements"
+  },
+  {
+    "id": "Q1808",
+    "legacyKey": "Under IRC 2018, piping installed underground is generally required to be protected from:",
+    "q": "Under IRC 2018, piping installed underground is generally required to be protected from:",
+    "options": [
+      "Only cosmetic damage",
+      "Physical damage and, where applicable, corrosion, and to be adequately supported/bedded",
+      "Only rodent damage, with no other consideration",
+      "Nothing; underground piping requires no protection"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 26: General plumbing requirements"
+  },
+  {
+    "id": "Q1809",
+    "legacyKey": "Under IRC 2018, plumbing pipes that penetrate a fire-resistance-rated wall or floor/ceiling assembly are generally required to be protected in a manner that:",
+    "q": "Under IRC 2018, plumbing pipes that penetrate a fire-resistance-rated wall or floor/ceiling assembly are generally required to be protected in a manner that:",
+    "options": [
+      "Maximizes the size of the penetration",
+      "Maintains the required fire-resistance rating of the assembly",
+      "Eliminates the need for fireblocking elsewhere",
+      "Is left to the plumber's discretion with no code basis"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 26: General plumbing requirements"
+  },
+  {
+    "id": "Q1810",
+    "legacyKey": "Under IRC 2018, a water closet is generally required to have a minimum clearance from its centerline to any wall, fixture, or obstruction on either side of:",
+    "q": "Under IRC 2018, a water closet is generally required to have a minimum clearance from its centerline to any wall, fixture, or obstruction on either side of:",
+    "options": [
+      "10 inches",
+      "15 inches",
+      "24 inches",
+      "30 inches"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 27: Plumbing fixtures"
+  },
+  {
+    "id": "Q1811",
+    "legacyKey": "Under IRC 2018, a water closet is generally required to have a minimum clear space in front of it of:",
+    "q": "Under IRC 2018, a water closet is generally required to have a minimum clear space in front of it of:",
+    "options": [
+      "12 inches",
+      "21 inches",
+      "36 inches",
+      "48 inches"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 27: Plumbing fixtures"
+  },
+  {
+    "id": "Q1812",
+    "legacyKey": "Under IRC 2018, every dwelling unit is generally required to be provided, at minimum, with:",
+    "q": "Under IRC 2018, every dwelling unit is generally required to be provided, at minimum, with:",
+    "options": [
+      "Only a kitchen sink",
+      "A kitchen sink, a lavatory, a water closet, and a bathtub or shower",
+      "Only a water closet and lavatory, with no kitchen fixture requirement",
+      "A dishwasher and garbage disposal"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 27: Plumbing fixtures"
+  },
+  {
+    "id": "Q1813",
+    "legacyKey": "Under IRC 2018, plumbing fixtures are generally required to be constructed of:",
+    "q": "Under IRC 2018, plumbing fixtures are generally required to be constructed of:",
+    "options": [
+      "Any absorbent material",
+      "Smooth, nonabsorbent, corrosion-resistant material",
+      "Untreated wood",
+      "Unfinished concrete"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 27: Plumbing fixtures"
+  },
+  {
+    "id": "Q1814",
+    "legacyKey": "Under IRC 2018, shower and tub/shower combination valves are generally required to be of the:",
+    "q": "Under IRC 2018, shower and tub/shower combination valves are generally required to be of the:",
+    "options": [
+      "Standard two-handle type with no anti-scald feature",
+      "Pressure-balancing or thermostatic-mixing type, to prevent scalding",
+      "Single-handle type with no additional requirement",
+      "Any type, with no anti-scald requirement"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 27: Plumbing fixtures"
+  },
+  {
+    "id": "Q1815",
+    "legacyKey": "Under IRC 2018, plumbing fixtures are generally required to be sealed to the wall and floor at their juncture with:",
+    "q": "Under IRC 2018, plumbing fixtures are generally required to be sealed to the wall and floor at their juncture with:",
+    "options": [
+      "Nothing; a gap is acceptable",
+      "An approved sealant, to prevent water damage",
+      "Duct tape",
+      "Wood trim only, with no sealant"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 27: Plumbing fixtures"
+  },
+  {
+    "id": "Q1816",
+    "legacyKey": "Under IRC 2018, water heaters are generally required to be equipped with an approved:",
+    "q": "Under IRC 2018, water heaters are generally required to be equipped with an approved:",
+    "options": [
+      "Backup battery",
+      "Temperature and pressure (T&P) relief valve",
+      "Secondary shutoff valve only, with no relief valve",
+      "Manual pressure gauge only"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 28: Water heaters — Section: Water heater"
+  },
+  {
+    "id": "Q1817",
+    "legacyKey": "Under IRC 2018, the discharge pipe from a water heater's temperature and pressure relief valve is generally required to:",
+    "q": "Under IRC 2018, the discharge pipe from a water heater's temperature and pressure relief valve is generally required to:",
+    "options": [
+      "Terminate inside a sealed cabinet",
+      "Terminate at an approved location, such as outdoors or to an indirect waste receptor, without a shutoff valve or reduction in size",
+      "Be capped and plugged",
+      "Discharge directly into the sanitary vent stack"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 28: Water heaters — Section: Water heater"
+  },
+  {
+    "id": "Q1818",
+    "legacyKey": "Under IRC 2018, water heaters are generally required to be installed:",
+    "q": "Under IRC 2018, water heaters are generally required to be installed:",
+    "options": [
+      "Without regard to manufacturer instructions",
+      "In accordance with the manufacturer's installation instructions and the applicable code requirements for their fuel type and location",
+      "Only in an unconditioned attic",
+      "Only outdoors, regardless of climate"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 28: Water heaters — Section: Water heater"
+  },
+  {
+    "id": "Q1819",
+    "legacyKey": "Under IRC 2018, water heaters are generally required to remain accessible for:",
+    "q": "Under IRC 2018, water heaters are generally required to remain accessible for:",
+    "options": [
+      "No purpose after initial installation",
+      "Inspection, service, repair, and replacement",
+      "Decorative display only",
+      "Only the original installer's future visits"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 28: Water heaters — Section: Water heater"
+  },
+  {
+    "id": "Q1820",
+    "legacyKey": "Under IRC 2018, water distribution pipe sizing is generally based on:",
+    "q": "Under IRC 2018, water distribution pipe sizing is generally based on:",
+    "options": [
+      "The pipe's color",
+      "The developed length of the piping and the water supply fixture unit demand of the fixtures served",
+      "The homeowner's preference alone",
+      "The number of bedrooms only, with no other factor"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 29: Water supply and distribution"
+  },
+  {
+    "id": "Q1821",
+    "legacyKey": "Under IRC 2018, water distribution piping materials are generally required to be:",
+    "q": "Under IRC 2018, water distribution piping materials are generally required to be:",
+    "options": [
+      "Any material available at the hardware store",
+      "Listed/approved for potable water use",
+      "Selected based on cost alone, with no listing requirement",
+      "Exempt from any standard"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 29: Water supply and distribution"
+  },
+  {
+    "id": "Q1822",
+    "legacyKey": "Under IRC 2018, hot water distribution piping is generally sized and designed, in part, to limit:",
+    "q": "Under IRC 2018, hot water distribution piping is generally sized and designed, in part, to limit:",
+    "options": [
+      "The water heater's storage capacity",
+      "Excessive wait time for hot water to reach fixtures",
+      "The number of fixtures in the dwelling",
+      "The water heater's fuel type"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 29: Water supply and distribution"
+  },
+  {
+    "id": "Q1823",
+    "legacyKey": "Under IRC 2018, a water pressure-reducing valve is generally required when the static water supply pressure exceeds:",
+    "q": "Under IRC 2018, a water pressure-reducing valve is generally required when the static water supply pressure exceeds:",
+    "options": [
+      "40 psi",
+      "80 psi",
+      "150 psi",
+      "200 psi"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 29: Water supply and distribution"
+  },
+  {
+    "id": "Q1824",
+    "legacyKey": "Under IRC 2018, potable water supply systems are generally required to be protected against:",
+    "q": "Under IRC 2018, potable water supply systems are generally required to be protected against:",
+    "options": [
+      "Only freezing, with no other consideration",
+      "Backflow and cross-connection with non-potable sources",
+      "Only excessive flow rate, with no other consideration",
+      "Only UV degradation"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 29: Water supply and distribution"
+  },
+  {
+    "id": "Q1825",
+    "legacyKey": "Under IRC 2018, water distribution systems are generally required to be tested for leaks by:",
+    "q": "Under IRC 2018, water distribution systems are generally required to be tested for leaks by:",
+    "options": [
+      "Visual inspection alone, with no pressure test",
+      "Subjecting the system to a working water pressure test before it is concealed or placed into service",
+      "Waiting until fixtures are installed and used for a year",
+      "No testing is required under any circumstance"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 29: Water supply and distribution"
+  },
+  {
+    "id": "Q1826",
+    "legacyKey": "Under IRC 2018, sanitary drainage piping 2-1/2 inches or smaller in diameter is generally required to have a minimum slope of:",
+    "q": "Under IRC 2018, sanitary drainage piping 2-1/2 inches or smaller in diameter is generally required to have a minimum slope of:",
+    "options": [
+      "1/16 inch per foot",
+      "1/4 inch per foot",
+      "1 inch per foot",
+      "No slope is required"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 30: Sanitary drainage"
+  },
+  {
+    "id": "Q1827",
+    "legacyKey": "Under IRC 2018, a cleanout is generally required to be installed at each change of direction of the drainage piping greater than:",
+    "q": "Under IRC 2018, a cleanout is generally required to be installed at each change of direction of the drainage piping greater than:",
+    "options": [
+      "15 degrees",
+      "45 degrees",
+      "90 degrees",
+      "Cleanouts are never required at direction changes"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 30: Sanitary drainage"
+  },
+  {
+    "id": "Q1828",
+    "legacyKey": "Under IRC 2018, the sizing of drain, waste, and vent piping is generally based on:",
+    "q": "Under IRC 2018, the sizing of drain, waste, and vent piping is generally based on:",
+    "options": [
+      "The pipe's material color",
+      "The total drainage fixture unit (DFU) load discharging into the pipe",
+      "The homeowner's preference alone",
+      "The number of bedrooms only"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 30: Sanitary drainage"
+  },
+  {
+    "id": "Q1829",
+    "legacyKey": "Under IRC 2018, the 'building drain' is distinguished from the 'building sewer' primarily in that the building drain is located:",
+    "q": "Under IRC 2018, the 'building drain' is distinguished from the 'building sewer' primarily in that the building drain is located:",
+    "options": [
+      "Entirely outside the building",
+      "Inside the building, while the building sewer extends from the building drain to the point of connection outside the building",
+      "Only in commercial buildings",
+      "Only above the roofline"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 30: Sanitary drainage"
+  },
+  {
+    "id": "Q1830",
+    "legacyKey": "Under IRC 2018, certain indirect waste fixtures, such as a dishwasher or ice maker drain, are generally required to discharge through:",
+    "q": "Under IRC 2018, certain indirect waste fixtures, such as a dishwasher or ice maker drain, are generally required to discharge through:",
+    "options": [
+      "A direct connection to the sanitary sewer with no air gap",
+      "An air gap or air break, to prevent contamination of the potable water/drainage system",
+      "A sealed, pressurized connection",
+      "The storm drainage system"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 30: Sanitary drainage"
+  },
+  {
+    "id": "Q1831",
+    "legacyKey": "The primary purpose of a plumbing vent system, as addressed in IRC 2018 Chapter 31, is to:",
+    "q": "The primary purpose of a plumbing vent system, as addressed in IRC 2018 Chapter 31, is to:",
+    "options": [
+      "Increase water pressure at fixtures",
+      "Equalize pneumatic pressure in the drainage system and prevent trap seals from being siphoned or blown",
+      "Heat the water supply",
+      "Filter contaminants from the water supply"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 31: Vents"
+  },
+  {
+    "id": "Q1832",
+    "legacyKey": "Under IRC 2018, a 'wet vent' is a vent pipe that also:",
+    "q": "Under IRC 2018, a 'wet vent' is a vent pipe that also:",
+    "options": [
+      "Never carries any drainage flow",
+      "Serves as a drain for one or more fixtures, in addition to its venting function",
+      "Is used exclusively for storm drainage",
+      "Connects directly to the water supply system"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 31: Vents"
+  },
+  {
+    "id": "Q1833",
+    "legacyKey": "Under IRC 2018, vent pipes that terminate outdoors in a climate subject to freezing are generally required to be sized to prevent:",
+    "q": "Under IRC 2018, vent pipes that terminate outdoors in a climate subject to freezing are generally required to be sized to prevent:",
+    "options": [
+      "Excessive water pressure",
+      "Frost closure (blockage due to frost accumulation) at the terminal",
+      "Corrosion from UV exposure",
+      "Backflow from the water supply"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 31: Vents"
+  },
+  {
+    "id": "Q1834",
+    "legacyKey": "Under IRC 2018, an 'individual vent' is a vent that:",
+    "q": "Under IRC 2018, an 'individual vent' is a vent that:",
+    "options": [
+      "Serves every fixture in the building simultaneously",
+      "Serves a single fixture drain and connects to the venting system",
+      "Is used only for storm drainage",
+      "Replaces the need for a trap"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 31: Vents"
+  },
+  {
+    "id": "Q1835",
+    "legacyKey": "Under IRC 2018, plumbing fixture traps are generally required to have a liquid seal depth of:",
+    "q": "Under IRC 2018, plumbing fixture traps are generally required to have a liquid seal depth of:",
+    "options": [
+      "Not less than 2 inches and not more than 4 inches",
+      "Not less than 12 inches",
+      "Exactly 1/2 inch in every case",
+      "There is no specified range"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 32: Traps"
+  },
+  {
+    "id": "Q1836",
+    "legacyKey": "Under IRC 2018, each plumbing fixture is generally required to be provided with:",
+    "q": "Under IRC 2018, each plumbing fixture is generally required to be provided with:",
+    "options": [
+      "No trap at all",
+      "Its own individual trap, except where specific fixtures are permitted to share a common trap under limited conditions",
+      "A trap only if located on the ground floor",
+      "A trap only for fixtures connected to hot water"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 32: Traps"
+  },
+  {
+    "id": "Q1837",
+    "legacyKey": "Under IRC 2018, certain trap designs, such as full S-traps and bell traps, are generally:",
+    "q": "Under IRC 2018, certain trap designs, such as full S-traps and bell traps, are generally:",
+    "options": [
+      "Required for all fixtures",
+      "Prohibited, due to their susceptibility to self-siphoning or being easily fouled",
+      "Required only for kitchen sinks",
+      "Optional upgrades with no restriction"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 32: Traps"
+  },
+  {
+    "id": "Q1838",
+    "legacyKey": "Under IRC 2018 Chapter 33, storm drainage provisions generally address:",
+    "q": "Under IRC 2018 Chapter 33, storm drainage provisions generally address:",
+    "options": [
+      "The disposal of sanitary sewage",
+      "The collection and disposal of roof and surface stormwater",
+      "The supply of potable water",
+      "The venting of the sanitary drainage system"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 33: Storm drainage"
+  },
+  {
+    "id": "Q1839",
+    "legacyKey": "Under IRC 2018, roof drains and gutters, where provided, are generally required to be sized to:",
+    "q": "Under IRC 2018, roof drains and gutters, where provided, are generally required to be sized to:",
+    "options": [
+      "Match the size of the sanitary sewer pipe regardless of roof area",
+      "Handle the anticipated rainfall and roof area they serve",
+      "Be as small as possible to save material",
+      "Be sized only by the manufacturer's marketing claims"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 33: Storm drainage"
+  },
+  {
+    "id": "Q1840",
+    "legacyKey": "Under IRC 2018, storm water is generally required to be discharged in a manner that:",
+    "q": "Under IRC 2018, storm water is generally required to be discharged in a manner that:",
+    "options": [
+      "Directs it onto the neighboring property as quickly as possible",
+      "Does not create a hazard or nuisance to adjoining property",
+      "Is combined directly with the sanitary sewer in every case",
+      "Is stored indefinitely on the roof"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 33: Storm drainage"
+  },
+  {
+    "id": "Q1841",
+    "legacyKey": "Under IRC 2018 electrical provisions (Chapter 34), electrical work is generally required to comply with requirements based on:",
+    "q": "Under IRC 2018 electrical provisions (Chapter 34), electrical work is generally required to comply with requirements based on:",
+    "options": [
+      "The International Plumbing Code",
+      "The National Electrical Code (NFPA 70)",
+      "The International Mechanical Code",
+      "Local custom with no national reference"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 34: Electrical, General requirements"
+  },
+  {
+    "id": "Q1842",
+    "legacyKey": "Under IRC 2018, electrical equipment is generally required to be:",
+    "q": "Under IRC 2018, electrical equipment is generally required to be:",
+    "options": [
+      "Selected based on price alone",
+      "Listed and labeled for its intended use",
+      "Exempt from any listing requirement in dwellings",
+      "Approved only by the homeowner"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 34: Electrical, General requirements"
+  },
+  {
+    "id": "Q1843",
+    "legacyKey": "Under IRC 2018, electrical work is generally required to be performed:",
+    "q": "Under IRC 2018, electrical work is generally required to be performed:",
+    "options": [
+      "Without reference to approved construction documents",
+      "In accordance with the approved construction documents and applicable code requirements",
+      "Only by unlicensed labor to reduce cost",
+      "After the certificate of occupancy is issued"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 34: Electrical, General requirements"
+  },
+  {
+    "id": "Q1844",
+    "legacyKey": "Under IRC 2018 Chapter 34, working space around electrical equipment, such as panels, is generally required to be maintained to allow:",
+    "q": "Under IRC 2018 Chapter 34, working space around electrical equipment, such as panels, is generally required to be maintained to allow:",
+    "options": [
+      "Storage of unrelated materials",
+      "Safe access for operation and maintenance",
+      "Decorative landscaping directly in front of the panel",
+      "No particular clearance"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 34: Electrical, General requirements"
+  },
+  {
+    "id": "Q1845",
+    "legacyKey": "Under IRC 2018 electrical definitions, a 'branch circuit' is defined as:",
+    "q": "Under IRC 2018 electrical definitions, a 'branch circuit' is defined as:",
+    "options": [
+      "The main service conductors only",
+      "The circuit conductors between the final overcurrent device protecting the circuit and the outlet(s)",
+      "Any wiring outside the dwelling",
+      "The grounding electrode conductor only"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 35: Electrical definitions"
+  },
+  {
+    "id": "Q1846",
+    "legacyKey": "Under IRC 2018, a 'feeder' is defined as:",
+    "q": "Under IRC 2018, a 'feeder' is defined as:",
+    "options": [
+      "The wiring inside a single branch circuit",
+      "The circuit conductors between the service equipment and the final branch-circuit overcurrent device",
+      "A type of lighting fixture",
+      "The grounding rod itself"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 35: Electrical definitions"
+  },
+  {
+    "id": "Q1847",
+    "legacyKey": "Under IRC 2018, 'readily accessible' is generally defined as:",
+    "q": "Under IRC 2018, 'readily accessible' is generally defined as:",
+    "options": [
+      "Reachable only with a portable ladder",
+      "Capable of being reached quickly, without requiring occupants to climb over obstacles or use portable ladders",
+      "Located behind a locked door",
+      "Visible from the street"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 35: Electrical definitions"
+  },
+  {
+    "id": "Q1848",
+    "legacyKey": "Under IRC 2018, 'listed' equipment is defined as equipment that:",
+    "q": "Under IRC 2018, 'listed' equipment is defined as equipment that:",
+    "options": [
+      "Has never been tested by any organization",
+      "Appears on a list published by a recognized testing/listing organization, indicating it meets specific standards",
+      "Is simply advertised as safe by the manufacturer",
+      "Is exempt from inspection"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 35: Electrical definitions"
+  },
+  {
+    "id": "Q1849",
+    "legacyKey": "Under IRC 2018 electrical provisions, the minimum electrical service size generally required for a one-family dwelling is:",
+    "q": "Under IRC 2018 electrical provisions, the minimum electrical service size generally required for a one-family dwelling is:",
+    "options": [
+      "30 amperes",
+      "100 amperes",
+      "400 amperes",
+      "600 amperes"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 36: Services"
+  },
+  {
+    "id": "Q1850",
+    "legacyKey": "Under IRC 2018, the electrical service disconnecting means is generally required to be installed at a location that is:",
+    "q": "Under IRC 2018, the electrical service disconnecting means is generally required to be installed at a location that is:",
+    "options": [
+      "In a locked, inaccessible closet",
+      "Readily accessible and nearest the point of entrance of the service conductors",
+      "In the attic only",
+      "Underground, with no access panel"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 36: Services"
+  },
+  {
+    "id": "Q1851",
+    "legacyKey": "Under IRC 2018, an electrical service is generally required to be connected to:",
+    "q": "Under IRC 2018, an electrical service is generally required to be connected to:",
+    "options": [
+      "No grounding system at all",
+      "A grounding electrode system",
+      "The plumbing vent stack exclusively",
+      "The gas piping system"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 36: Services"
+  },
+  {
+    "id": "Q1852",
+    "legacyKey": "Under IRC 2018, service-entrance conductors are generally required to maintain a minimum vertical clearance above finished grade of approximately:",
+    "q": "Under IRC 2018, service-entrance conductors are generally required to maintain a minimum vertical clearance above finished grade of approximately:",
+    "options": [
+      "3 feet",
+      "10 feet, with greater clearances required over driveways and similar areas",
+      "50 feet",
+      "No clearance is specified"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 36: Services"
+  },
+  {
+    "id": "Q1853",
+    "legacyKey": "Under IRC 2018, the multiple disconnects permitted for a service, as addressed in Chapter 36, are generally required to be:",
+    "q": "Under IRC 2018, the multiple disconnects permitted for a service, as addressed in Chapter 36, are generally required to be:",
+    "options": [
+      "Scattered throughout the building with no grouping",
+      "Grouped in a single location, with all disconnects marked to indicate the load served",
+      "Installed only in the basement, regardless of service entrance location",
+      "Limited to a single unmarked switch"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 36: Services — Section: Service disconnect"
+  },
+  {
+    "id": "Q1854",
+    "legacyKey": "Under IRC 2018, kitchen countertop receptacles are generally required to be supplied by:",
+    "q": "Under IRC 2018, kitchen countertop receptacles are generally required to be supplied by:",
+    "options": [
+      "A single shared 15-ampere circuit with the refrigerator",
+      "At least two 20-ampere small-appliance branch circuits",
+      "The same circuit as the bathroom receptacles",
+      "No dedicated circuit requirement"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 37: Branch circuit and feeder requirements"
+  },
+  {
+    "id": "Q1855",
+    "legacyKey": "Under IRC 2018, a laundry area is generally required to be supplied by:",
+    "q": "Under IRC 2018, a laundry area is generally required to be supplied by:",
+    "options": [
+      "The same circuit as the kitchen countertop receptacles",
+      "A dedicated 20-ampere branch circuit for laundry receptacle outlets",
+      "A shared 15-ampere lighting circuit",
+      "No dedicated circuit requirement"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 37: Branch circuit and feeder requirements"
+  },
+  {
+    "id": "Q1856",
+    "legacyKey": "Under IRC 2018, branch circuits are generally required to be sized so that the connected load does not exceed:",
+    "q": "Under IRC 2018, branch circuits are generally required to be sized so that the connected load does not exceed:",
+    "options": [
+      "Double the circuit's rated ampacity",
+      "The circuit's rated ampacity, accounting for continuous and noncontinuous loads",
+      "An unlimited amount, as long as a breaker is installed",
+      "The service's total ampacity regardless of circuit rating"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 37: Branch circuit and feeder requirements"
+  },
+  {
+    "id": "Q1857",
+    "legacyKey": "Under IRC 2018, feeder and branch-circuit conductors are generally required to be protected by:",
+    "q": "Under IRC 2018, feeder and branch-circuit conductors are generally required to be protected by:",
+    "options": [
+      "No overcurrent protection",
+      "An overcurrent protective device sized appropriately for the conductor's ampacity",
+      "A device sized for the largest possible future load only",
+      "A fuse rated for twice the conductor's ampacity"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 37: Branch circuit and feeder requirements"
+  },
+  {
+    "id": "Q1858",
+    "legacyKey": "Under IRC 2018, bathroom receptacle outlets are generally required to be supplied by:",
+    "q": "Under IRC 2018, bathroom receptacle outlets are generally required to be supplied by:",
+    "options": [
+      "A shared circuit with the bedroom lighting",
+      "A dedicated 20-ampere branch circuit, with limited exceptions",
+      "A 15-ampere circuit shared with the kitchen",
+      "No dedicated circuit requirement"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 37: Branch circuit and feeder requirements"
+  },
+  {
+    "id": "Q1859",
+    "legacyKey": "Under IRC 2018, nonmetallic-sheathed cable (Type NM) is generally required to be protected from physical damage where it passes through framing members by:",
+    "q": "Under IRC 2018, nonmetallic-sheathed cable (Type NM) is generally required to be protected from physical damage where it passes through framing members by:",
+    "options": [
+      "Leaving it fully exposed with no protection",
+      "Maintaining adequate setback from the framing edge or using a protective steel plate",
+      "Wrapping it in duct tape",
+      "Painting it a bright color"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 38: Wiring methods"
+  },
+  {
+    "id": "Q1860",
+    "legacyKey": "Under IRC 2018, cables and raceways run through bored holes in framing members are generally required to maintain a minimum setback from the nearest edge of the framing member of:",
+    "q": "Under IRC 2018, cables and raceways run through bored holes in framing members are generally required to maintain a minimum setback from the nearest edge of the framing member of:",
+    "options": [
+      "1/4 inch",
+      "1-1/4 inches, or be protected by a steel plate if that setback cannot be maintained",
+      "6 inches",
+      "There is no setback requirement"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 38: Wiring methods"
+  },
+  {
+    "id": "Q1861",
+    "legacyKey": "Under IRC 2018, electrical conductors are generally required to be installed in accordance with:",
+    "q": "Under IRC 2018, electrical conductors are generally required to be installed in accordance with:",
+    "options": [
+      "Only the installer's personal preference",
+      "Their listing and the applicable wiring method requirements",
+      "No particular method, as long as they are copper",
+      "The plumbing code's pipe support requirements"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 38: Wiring methods"
+  },
+  {
+    "id": "Q1862",
+    "legacyKey": "Under IRC 2018, underground electrical conductors are generally required to be buried at a minimum depth that:",
+    "q": "Under IRC 2018, underground electrical conductors are generally required to be buried at a minimum depth that:",
+    "options": [
+      "Is always exactly 6 inches regardless of wiring method or voltage",
+      "Depends on the wiring method and the circuit's voltage/overcurrent protection, per the applicable burial depth table",
+      "Is left entirely to the installer's discretion with no code guidance",
+      "Is never less than 10 feet"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 38: Wiring methods"
+  },
+  {
+    "id": "Q1863",
+    "legacyKey": "Under IRC 2018, splices and joints in electrical conductors are generally required to be made within:",
+    "q": "Under IRC 2018, splices and joints in electrical conductors are generally required to be made within:",
+    "options": [
+      "Open air with no enclosure",
+      "An approved junction box or fitting, and not left exposed outside of an enclosure",
+      "A finished wall cavity with no box",
+      "Any location convenient to the installer"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 38: Wiring methods"
+  },
+  {
+    "id": "Q1864",
+    "legacyKey": "Under IRC 2018, at least one wall switch-controlled lighting outlet is generally required in:",
+    "q": "Under IRC 2018, at least one wall switch-controlled lighting outlet is generally required in:",
+    "options": [
+      "Only the kitchen",
+      "Every habitable room, bathroom, hallway, stairway, attached garage, and at outdoor entrances",
+      "Only rooms with an exterior window",
+      "Only rooms larger than 200 square feet"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 39: Power and lighting distribution"
+  },
+  {
+    "id": "Q1865",
+    "legacyKey": "Under IRC 2018, at least one receptacle outlet is generally required to be installed in each bathroom:",
+    "q": "Under IRC 2018, at least one receptacle outlet is generally required to be installed in each bathroom:",
+    "options": [
+      "At floor level only",
+      "Within 3 feet of the outside edge of each basin",
+      "Only outside the bathroom door",
+      "Only if the bathroom has a window"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 39: Power and lighting distribution"
+  },
+  {
+    "id": "Q1866",
+    "legacyKey": "Under IRC 2018, lighting outlets in attics, underfloor spaces, utility rooms, and basements containing equipment requiring service are generally required to be controlled by:",
+    "q": "Under IRC 2018, lighting outlets in attics, underfloor spaces, utility rooms, and basements containing equipment requiring service are generally required to be controlled by:",
+    "options": [
+      "A pull chain only, with no wall switch permitted",
+      "A switch located at the point of entry to the space",
+      "No switch; the light must remain on continuously",
+      "A timer only"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 39: Power and lighting distribution"
+  },
+  {
+    "id": "Q1867",
+    "legacyKey": "Under IRC 2018, at least one receptacle outlet is generally required to be provided:",
+    "q": "Under IRC 2018, at least one receptacle outlet is generally required to be provided:",
+    "options": [
+      "Only inside the dwelling, never in a garage",
+      "In an attached garage and outdoors at the front and back of a dwelling",
+      "Only in bedrooms",
+      "Only in the kitchen"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 39: Power and lighting distribution"
+  },
+  {
+    "id": "Q1868",
+    "legacyKey": "Under IRC 2018, smoke alarms within a dwelling unit are generally required to be:",
+    "q": "Under IRC 2018, smoke alarms within a dwelling unit are generally required to be:",
+    "options": [
+      "Independently powered with no interconnection",
+      "Interconnected so that the activation of one alarm activates all alarms within the dwelling unit",
+      "Installed only in the kitchen",
+      "Battery-only, with no hardwired option permitted"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 39: Power and lighting distribution"
+  },
+  {
+    "id": "Q1869",
+    "legacyKey": "Under IRC 2018 electrical provisions, receptacle outlets in habitable rooms are generally required to be spaced so that no point along the wall is more than:",
+    "q": "Under IRC 2018 electrical provisions, receptacle outlets in habitable rooms are generally required to be spaced so that no point along the wall is more than:",
+    "options": [
+      "2 feet from a receptacle outlet",
+      "6 feet from a receptacle outlet",
+      "20 feet from a receptacle outlet",
+      "There is no spacing requirement"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 40: Devices and luminaires"
+  },
+  {
+    "id": "Q1870",
+    "legacyKey": "Under IRC 2018, ground-fault circuit-interrupter (GFCI) protection is generally required for receptacles installed in locations such as:",
+    "q": "Under IRC 2018, ground-fault circuit-interrupter (GFCI) protection is generally required for receptacles installed in locations such as:",
+    "options": [
+      "Bedrooms only",
+      "Bathrooms, kitchen countertop receptacles, garages, and outdoors",
+      "Living rooms only",
+      "Hallways only"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 40: Devices and luminaires"
+  },
+  {
+    "id": "Q1871",
+    "legacyKey": "Under IRC 2018, arc-fault circuit-interrupter (AFCI) protection is generally required for branch circuits supplying outlets in:",
+    "q": "Under IRC 2018, arc-fault circuit-interrupter (AFCI) protection is generally required for branch circuits supplying outlets in:",
+    "options": [
+      "Only the kitchen",
+      "Bedrooms and most other habitable rooms of a dwelling unit",
+      "Only unfinished basements",
+      "Only exterior circuits"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 40: Devices and luminaires"
+  },
+  {
+    "id": "Q1872",
+    "legacyKey": "Under IRC 2018, receptacle outlets installed in dwelling units are generally required to be:",
+    "q": "Under IRC 2018, receptacle outlets installed in dwelling units are generally required to be:",
+    "options": [
+      "Standard, non-tamper-resistant receptacles",
+      "Listed tamper-resistant receptacles",
+      "Exempt from any child-safety feature",
+      "GFCI-protected only, with no tamper-resistance requirement"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 40: Devices and luminaires"
+  },
+  {
+    "id": "Q1873",
+    "legacyKey": "Under IRC 2018 electrical provisions, appliances are generally required to be installed:",
+    "q": "Under IRC 2018 electrical provisions, appliances are generally required to be installed:",
+    "options": [
+      "Without regard to manufacturer instructions",
+      "In accordance with the manufacturer's installation instructions and their listing",
+      "Only by the appliance manufacturer's own technicians",
+      "Only in unconditioned spaces"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 41: Appliance installation"
+  },
+  {
+    "id": "Q1874",
+    "legacyKey": "Under IRC 2018, a means of disconnecting an appliance from its electrical supply is generally required to be:",
+    "q": "Under IRC 2018, a means of disconnecting an appliance from its electrical supply is generally required to be:",
+    "options": [
+      "Hidden and inaccessible for safety",
+      "Readily accessible",
+      "Located only in a locked panel room",
+      "Optional for all appliances"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 41: Appliance installation"
+  },
+  {
+    "id": "Q1875",
+    "legacyKey": "Under IRC 2018, fixed (permanently connected) appliances are generally required to be provided with a disconnecting means that:",
+    "q": "Under IRC 2018, fixed (permanently connected) appliances are generally required to be provided with a disconnecting means that:",
+    "options": [
+      "Can never be locked in any position",
+      "Is capable of being locked in the open position, or otherwise meets the code's disconnect requirements",
+      "Is located only at the utility transformer",
+      "Is optional if the appliance has a light indicator"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 41: Appliance installation"
+  },
+  {
+    "id": "Q1876",
+    "legacyKey": "Under IRC 2018, appliances requiring servicing are generally required to be installed with sufficient:",
+    "q": "Under IRC 2018, appliances requiring servicing are generally required to be installed with sufficient:",
+    "options": [
+      "Decorative trim to conceal them",
+      "Access and clearance space for inspection, service, repair, and replacement",
+      "Insulation wrapping regardless of type",
+      "Distance from any electrical outlet"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 41: Appliance installation"
+  },
+  {
+    "id": "Q1877",
+    "legacyKey": "Under IRC 2018 Chapter 42, outdoor swimming pools are generally required to be provided with a barrier that:",
+    "q": "Under IRC 2018 Chapter 42, outdoor swimming pools are generally required to be provided with a barrier that:",
+    "options": [
+      "Is optional if the pool is fenced by a neighbor's property",
+      "Is at least 48 inches high and prevents unsupervised access by young children",
+      "Is only required for in-ground pools, not above-ground pools",
+      "Need not have a gate"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 42: Swimming pools"
+  },
+  {
+    "id": "Q1878",
+    "legacyKey": "Under IRC 2018, gates in a swimming pool barrier are generally required to be:",
+    "q": "Under IRC 2018, gates in a swimming pool barrier are generally required to be:",
+    "options": [
+      "Left unlatched for quick emergency exit",
+      "Self-closing and self-latching, with the latch located on the pool side",
+      "Locked only during winter months",
+      "Optional if the pool has a cover"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 42: Swimming pools"
+  },
+  {
+    "id": "Q1879",
+    "legacyKey": "Under IRC 2018, doors providing direct access from the dwelling to a pool area are generally required to be equipped with:",
+    "q": "Under IRC 2018, doors providing direct access from the dwelling to a pool area are generally required to be equipped with:",
+    "options": [
+      "No special requirement beyond a standard lock",
+      "An alarm, or another approved means to prevent unsupervised pool access, unless the pool itself has an approved safety cover or other compliant barrier",
+      "A doggy door only",
+      "A screen door with no other feature"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 42: Swimming pools"
+  },
+  {
+    "id": "Q1880",
+    "legacyKey": "Under IRC 2018, electrical equipment associated with a swimming pool, such as underwater luminaires and pumps, is generally required to be:",
+    "q": "Under IRC 2018, electrical equipment associated with a swimming pool, such as underwater luminaires and pumps, is generally required to be:",
+    "options": [
+      "Installed without any grounding",
+      "Bonded and grounded in accordance with the code's electrical provisions",
+      "Powered only by a portable generator",
+      "Exempt from all electrical code provisions"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 42: Swimming pools"
+  },
+  {
+    "id": "Q1881",
+    "legacyKey": "Under IRC 2018, suction outlets in a swimming pool are generally required to be designed to prevent:",
+    "q": "Under IRC 2018, suction outlets in a swimming pool are generally required to be designed to prevent:",
+    "options": [
+      "Excessive water clarity",
+      "Entrapment hazards to swimmers",
+      "Algae growth exclusively",
+      "Chemical imbalance"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 42: Swimming pools"
+  },
+  {
+    "id": "Q1882",
+    "legacyKey": "Under IRC 2018 Chapter 43, Class 2 circuits are generally circuits that are:",
+    "q": "Under IRC 2018 Chapter 43, Class 2 circuits are generally circuits that are:",
+    "options": [
+      "Identical in every respect to standard branch circuits",
+      "Power-limited, presenting a reduced risk of fire or electric shock compared to standard branch circuits",
+      "Only used for high-voltage service entrances",
+      "Prohibited in dwelling units"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 43: Class 2 remote-control, signal and power-limited circuits"
+  },
+  {
+    "id": "Q1883",
+    "legacyKey": "Under IRC 2018, low-voltage wiring for Class 2 circuits, such as thermostat or doorbell wiring, is generally permitted to be installed with:",
+    "q": "Under IRC 2018, low-voltage wiring for Class 2 circuits, such as thermostat or doorbell wiring, is generally permitted to be installed with:",
+    "options": [
+      "The exact same restrictive methods required for standard 120-volt branch circuits",
+      "Less restrictive methods than standard power wiring, due to its limited power/voltage",
+      "No installation guidance whatsoever",
+      "Only armored cable, with no other option"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 43: Class 2 remote-control, signal and power-limited circuits"
+  },
+  {
+    "id": "Q1884",
+    "legacyKey": "Under IRC 2018, Class 2 power sources, such as certain low-voltage transformers, are generally required to be:",
+    "q": "Under IRC 2018, Class 2 power sources, such as certain low-voltage transformers, are generally required to be:",
+    "options": [
+      "Unlisted, since they operate at low voltage",
+      "Listed for their intended use",
+      "Field-fabricated only",
+      "Exempt from any code requirement"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 43: Class 2 remote-control, signal and power-limited circuits"
+  },
+  {
+    "id": "Q1885",
+    "legacyKey": "IRC 2018 Chapter 44 (Referenced Standards) serves primarily to:",
+    "q": "IRC 2018 Chapter 44 (Referenced Standards) serves primarily to:",
+    "options": [
+      "Provide the complete text of every referenced standard",
+      "List the standards referenced throughout the code, along with the promulgating organization, for the reader's reference",
+      "Replace the need for any other chapter in the code",
+      "List only standards related to roofing"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 44: referenced standards"
+  },
+  {
+    "id": "Q1886",
+    "legacyKey": "When a standard is referenced by IRC 2018, that standard generally:",
+    "q": "When a standard is referenced by IRC 2018, that standard generally:",
+    "options": [
+      "Has no legal or enforceable effect",
+      "Becomes part of the requirements of the code to the prescribed extent of each reference",
+      "Applies only if separately purchased and filed by the contractor",
+      "Applies only outside the United States"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 44: referenced standards"
+  },
+  {
+    "id": "Q1887",
+    "legacyKey": "If a conflict exists between the text of IRC 2018 and a referenced standard, the general rule is that:",
+    "q": "If a conflict exists between the text of IRC 2018 and a referenced standard, the general rule is that:",
+    "options": [
+      "The referenced standard always governs over the code text",
+      "The text of the IRC itself governs over the referenced standard",
+      "Neither applies, and the building official must draft a new local rule",
+      "The most expensive compliance option always governs"
+    ],
+    "correct": 1,
+    "source": "IRC, Chapter 44: referenced standards"
   }
 ]
