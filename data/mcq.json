@@ -21448,5 +21448,655 @@
     ],
     "correct": 1,
     "source": "IBC, Chapter 35: Referenced standards"
+  },
+  {
+    "id": "Q1651",
+    "legacyKey": "The stated purpose of IECC 2009, as set out in its administrative chapter, is to:",
+    "q": "The stated purpose of IECC 2009, as set out in its administrative chapter, is to:",
+    "options": [
+      "Regulate only the aesthetic appearance of buildings",
+      "Establish minimum requirements for energy-efficient design and construction of buildings",
+      "Set uniform pricing for construction labor",
+      "Regulate only residential HVAC equipment brands"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 1: Administration"
+  },
+  {
+    "id": "Q1652",
+    "legacyKey": "Under IECC 2009, compliance with the code may generally be demonstrated using:",
+    "q": "Under IECC 2009, compliance with the code may generally be demonstrated using:",
+    "options": [
+      "Only a single mandatory prescriptive path with no alternatives",
+      "Either the prescriptive compliance path or an approved performance-based (simulated energy analysis) compliance path",
+      "Only a performance-based path, with no prescriptive option available",
+      "Verbal assurance from the contractor, with no documentation"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 1: Administration"
+  },
+  {
+    "id": "Q1653",
+    "legacyKey": "Under IECC 2009, construction documents submitted for a permit are generally required to show:",
+    "q": "Under IECC 2009, construction documents submitted for a permit are generally required to show:",
+    "options": [
+      "Only the exterior paint color",
+      "Sufficient information to determine compliance with the code, such as insulation values, fenestration ratings, and mechanical system information",
+      "Only the property owner's name",
+      "Only the total project cost"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 1: Administration"
+  },
+  {
+    "id": "Q1654",
+    "legacyKey": "Under IECC 2009, an addition to an existing building is generally required to comply with the code by either:",
+    "q": "Under IECC 2009, an addition to an existing building is generally required to comply with the code by either:",
+    "options": [
+      "Being entirely exempt from the code",
+      "Complying as if the addition were a separate building, or demonstrating that the existing building and addition together comply",
+      "Complying only with the code edition in effect when the original building was built",
+      "Requiring demolition of the existing building"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 1: Administration"
+  },
+  {
+    "id": "Q1655",
+    "legacyKey": "Under IECC 2009, historic buildings that are officially designated by a legally constituted authority are generally:",
+    "q": "Under IECC 2009, historic buildings that are officially designated by a legally constituted authority are generally:",
+    "options": [
+      "Exempt from the code's energy-efficiency requirements",
+      "Held to a stricter standard than new construction",
+      "Required to meet only the commercial provisions regardless of use",
+      "Prohibited from any alteration"
+    ],
+    "correct": 0,
+    "source": "IECC 2009, Chapter 1: Administration"
+  },
+  {
+    "id": "Q1656",
+    "legacyKey": "Under IECC 2009, alternative materials, designs, or methods of construction not specifically prescribed by the code may generally be approved if:",
+    "q": "Under IECC 2009, alternative materials, designs, or methods of construction not specifically prescribed by the code may generally be approved if:",
+    "options": [
+      "They are never permitted under any circumstance",
+      "The building official finds that the proposed alternative is satisfactory and complies with the intent of the code",
+      "They cost less than the prescribed method",
+      "They are approved solely by the material manufacturer"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 1: Administration"
+  },
+  {
+    "id": "Q1657",
+    "legacyKey": "Under IECC 2009 administrative provisions, low-energy buildings meeting specific limited criteria, such as buildings without conditioned space, are generally:",
+    "q": "Under IECC 2009 administrative provisions, low-energy buildings meeting specific limited criteria, such as buildings without conditioned space, are generally:",
+    "options": [
+      "Subject to the full prescriptive requirements with no exception",
+      "Exempt from the code's energy-efficiency requirements",
+      "Required to obtain a separate energy permit",
+      "Automatically classified as commercial buildings"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 1: Administration"
+  },
+  {
+    "id": "Q1658",
+    "legacyKey": "Under IECC 2009, the code official responsible for enforcement of the code is generally authorized to:",
+    "q": "Under IECC 2009, the code official responsible for enforcement of the code is generally authorized to:",
+    "options": [
+      "Only issue permits, with no inspection authority",
+      "Enforce the provisions of the code, including reviewing plans and performing inspections",
+      "Set the code's technical requirements independently",
+      "Waive all energy code requirements at their sole discretion"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 1: Administration"
+  },
+  {
+    "id": "Q1659",
+    "legacyKey": "Under IECC 2009, inspections related to energy code compliance are generally performed:",
+    "q": "Under IECC 2009, inspections related to energy code compliance are generally performed:",
+    "options": [
+      "Only after the certificate of occupancy is issued",
+      "At appropriate stages of construction, such as insulation installation, prior to concealment by other building components",
+      "Only at the very end of the project, after all finishes are installed",
+      "Only if requested by the building owner in writing"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 1: Administration"
+  },
+  {
+    "id": "Q1660",
+    "legacyKey": "Under IECC 2009, a permanent certificate is generally required to be posted on or near the electrical distribution panel, documenting information such as:",
+    "q": "Under IECC 2009, a permanent certificate is generally required to be posted on or near the electrical distribution panel, documenting information such as:",
+    "options": [
+      "The contractor's marketing materials",
+      "The predominant R-values of insulation installed and the type and efficiency of heating/cooling equipment",
+      "The homeowner's personal contact information",
+      "The building's resale value"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 1: Administration"
+  },
+  {
+    "id": "Q1661",
+    "legacyKey": "According to IECC 2009, 'conditioned space' is defined as a space that is:",
+    "q": "According to IECC 2009, 'conditioned space' is defined as a space that is:",
+    "options": [
+      "Always located outdoors",
+      "Directly or indirectly heated or cooled space, meeting specific criteria for connection to or capacity to condition the space",
+      "Any space with a window",
+      "Only a space used for storage"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1662",
+    "legacyKey": "According to IECC 2009, 'infiltration' refers to:",
+    "q": "According to IECC 2009, 'infiltration' refers to:",
+    "options": [
+      "The controlled supply of outdoor air by a mechanical system",
+      "The uncontrolled inward air leakage into a building through cracks and openings in the building envelope",
+      "The process of insulating a wall cavity",
+      "The discharge of exhaust air from a bathroom fan"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1663",
+    "legacyKey": "According to IECC 2009, 'thermal isolation' refers to a condition where a space is:",
+    "q": "According to IECC 2009, 'thermal isolation' refers to a condition where a space is:",
+    "options": [
+      "Directly connected to the primary conditioned space with no separation",
+      "Physically separated from conditioned spaces by unconditioned space, or otherwise not directly heated or cooled",
+      "Located in the building's thermal envelope",
+      "Always below grade"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1664",
+    "legacyKey": "According to IECC 2009, the 'standard reference design' is a concept used primarily in which compliance path?",
+    "q": "According to IECC 2009, the 'standard reference design' is a concept used primarily in which compliance path?",
+    "options": [
+      "The prescriptive compliance path",
+      "The performance-based (Simulated Performance Alternative) compliance path, as the baseline building against which the proposed design is compared",
+      "The mandatory-only compliance path",
+      "It is not used in any compliance path"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1665",
+    "legacyKey": "According to IECC 2009, a 'vestibule' is defined as:",
+    "q": "According to IECC 2009, a 'vestibule' is defined as:",
+    "options": [
+      "A skylight well",
+      "A space between two sets of doors that is intended to reduce air infiltration when the exterior doors are opened",
+      "An unconditioned attic space",
+      "A type of insulation material"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1666",
+    "legacyKey": "According to IECC 2009, 'insulated siding' is defined as siding that:",
+    "q": "According to IECC 2009, 'insulated siding' is defined as siding that:",
+    "options": [
+      "Has no insulating value of any kind",
+      "Includes a continuous layer of insulation attached directly to the exterior wall structure",
+      "Is only used on interior partition walls",
+      "Is limited to vinyl products exclusively"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1667",
+    "legacyKey": "According to IECC 2009, an 'air barrier' is a material or combination of materials that:",
+    "q": "According to IECC 2009, an 'air barrier' is a material or combination of materials that:",
+    "options": [
+      "Increases the R-value of cavity insulation only",
+      "Restricts or prevents the passage of air through the building envelope assembly",
+      "Is required only on the exterior of commercial buildings",
+      "Serves the same function as a vapor retarder in every case"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1668",
+    "legacyKey": "According to IECC 2009, 'proposed design' refers to:",
+    "q": "According to IECC 2009, 'proposed design' refers to:",
+    "options": [
+      "The as-built condition of a demolished building",
+      "A description of the building's design used, in the performance compliance path, for the energy analysis to demonstrate compliance",
+      "The design shown only in marketing brochures",
+      "A design that has not yet been submitted for permit"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 2: Definitions"
+  },
+  {
+    "id": "Q1669",
+    "legacyKey": "Under IECC 2009, a building's applicable climate zone is generally determined based on:",
+    "q": "Under IECC 2009, a building's applicable climate zone is generally determined based on:",
+    "options": [
+      "The building's occupancy classification",
+      "The county in which the building is located, per the climate zone map/table in the code",
+      "The building's total floor area",
+      "The contractor's personal preference"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+  },
+  {
+    "id": "Q1670",
+    "legacyKey": "IECC 2009 climate zones are numbered 1 through 8, with the general trend that:",
+    "q": "IECC 2009 climate zones are numbered 1 through 8, with the general trend that:",
+    "options": [
+      "Insulation and energy-efficiency requirements become less stringent as the zone number increases",
+      "Insulation and energy-efficiency requirements become more stringent as the zone number increases (colder climates)",
+      "Zone number has no relationship to climate severity",
+      "Only odd-numbered zones have any requirements"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+  },
+  {
+    "id": "Q1671",
+    "legacyKey": "Under the IECC 2009 climate zone system, most of the State of Georgia falls within:",
+    "q": "Under the IECC 2009 climate zone system, most of the State of Georgia falls within:",
+    "options": [
+      "Climate Zone 6",
+      "Climate Zone 3A, with some southern counties in Zone 2A and a few northern counties in Zone 4A",
+      "Climate Zone 8 statewide",
+      "Climate Zone 1 statewide"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+  },
+  {
+    "id": "Q1672",
+    "legacyKey": "In the IECC 2009 climate zone designation system, the letter suffix (A, B, or C) added to a zone number generally indicates:",
+    "q": "In the IECC 2009 climate zone designation system, the letter suffix (A, B, or C) added to a zone number generally indicates:",
+    "options": [
+      "The building's occupancy group",
+      "The moisture regime (moist, dry, or marine)",
+      "The building's construction type",
+      "The applicable compliance path"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+  },
+  {
+    "id": "Q1673",
+    "legacyKey": "A 'moist' climate zone designation (the 'A' suffix) under IECC 2009 generally indicates a region that:",
+    "q": "A 'moist' climate zone designation (the 'A' suffix) under IECC 2009 generally indicates a region that:",
+    "options": [
+      "Meets the specific criteria for the 'dry' moisture regime classification",
+      "Does not meet the specific criteria for the 'dry' or 'marine' moisture regime classifications, generally receiving significant precipitation",
+      "Has no precipitation at all",
+      "Is located only at high elevation"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+  },
+  {
+    "id": "Q1674",
+    "legacyKey": "Under IECC 2009, climate zone determination is important primarily because it establishes:",
+    "q": "Under IECC 2009, climate zone determination is important primarily because it establishes:",
+    "options": [
+      "The building's required occupant load",
+      "The applicable prescriptive insulation, fenestration, and other envelope requirements for a specific building location",
+      "The building's required parking count",
+      "The building's fire-resistance rating"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+  },
+  {
+    "id": "Q1675",
+    "legacyKey": "Under IECC 2009, counties officially designated as 'warm-humid' on the climate zone map may be subject to:",
+    "q": "Under IECC 2009, counties officially designated as 'warm-humid' on the climate zone map may be subject to:",
+    "options": [
+      "No additional provisions whatsoever",
+      "Additional moisture-control-related provisions due to their humid conditions",
+      "A complete exemption from the energy code",
+      "Requirements identical to Zone 8 in every respect"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+  },
+  {
+    "id": "Q1676",
+    "legacyKey": "IECC 2009's climate zone map divides the United States and its territories primarily to:",
+    "q": "IECC 2009's climate zone map divides the United States and its territories primarily to:",
+    "options": [
+      "Establish political boundaries",
+      "Provide a standardized basis for applying climate-appropriate prescriptive energy requirements across different regions",
+      "Determine property tax rates",
+      "Assign union jurisdiction boundaries"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+  },
+  {
+    "id": "Q1677",
+    "legacyKey": "Under IECC 2009, compliance with the building thermal envelope air leakage requirements may generally be demonstrated by:",
+    "q": "Under IECC 2009, compliance with the building thermal envelope air leakage requirements may generally be demonstrated by:",
+    "options": [
+      "Only a visual estimate by the homeowner",
+      "Testing, such as a blower door test, or alternatively by visual inspection of listed air-sealing sites",
+      "Only a utility bill comparison after occupancy",
+      "There is no air leakage requirement in IECC 2009"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+  },
+  {
+    "id": "Q1678",
+    "legacyKey": "Under IECC 2009, wood-burning fireplaces installed in a residence are generally required to have:",
+    "q": "Under IECC 2009, wood-burning fireplaces installed in a residence are generally required to have:",
+    "options": [
+      "No enclosure of any kind",
+      "Gasketed doors and a source of combustion air",
+      "A minimum of three separate flues",
+      "Only decorative (non-functional) doors"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+  },
+  {
+    "id": "Q1679",
+    "legacyKey": "Under IECC 2009, an unvented crawlspace used as a means of complying with the residential envelope requirements is generally required to have:",
+    "q": "Under IECC 2009, an unvented crawlspace used as a means of complying with the residential envelope requirements is generally required to have:",
+    "options": [
+      "No insulation at all, since it is unvented",
+      "Continuous insulation applied to the crawlspace walls, rather than insulating the floor above",
+      "Insulation only on the crawlspace floor",
+      "Insulation only on the exterior siding above grade"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+  },
+  {
+    "id": "Q1680",
+    "legacyKey": "Under IECC 2009, at least one thermostat is generally required to be provided for:",
+    "q": "Under IECC 2009, at least one thermostat is generally required to be provided for:",
+    "options": [
+      "The entire building regardless of the number of systems",
+      "Each separate heating and cooling system",
+      "Only the primary living area, excluding bedrooms",
+      "Only systems larger than 5 tons"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+  },
+  {
+    "id": "Q1681",
+    "legacyKey": "Under IECC 2009, air leakage sites such as recessed lighting fixtures, plumbing/wiring penetrations, and attic access openings are generally required to be:",
+    "q": "Under IECC 2009, air leakage sites such as recessed lighting fixtures, plumbing/wiring penetrations, and attic access openings are generally required to be:",
+    "options": [
+      "Left open for ventilation purposes",
+      "Sealed to limit air leakage into the building thermal envelope",
+      "Painted with a vapor-permeable coating only",
+      "Insulated but not sealed"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+  },
+  {
+    "id": "Q1682",
+    "legacyKey": "Under IECC 2009, the residential provisions of Chapter 4 generally apply to:",
+    "q": "Under IECC 2009, the residential provisions of Chapter 4 generally apply to:",
+    "options": [
+      "Only high-rise commercial buildings",
+      "Detached one- and two-family dwellings and townhouses, as well as Group R-2, R-3, and R-4 buildings three stories or less",
+      "Only manufactured housing",
+      "Only buildings without any conditioned space"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+  },
+  {
+    "id": "Q1683",
+    "legacyKey": "Under IECC 2009, the prescriptive compliance path for residential buildings generally requires the building to meet:",
+    "q": "Under IECC 2009, the prescriptive compliance path for residential buildings generally requires the building to meet:",
+    "options": [
+      "Only a single whole-building energy cost target with no component requirements",
+      "The specific component-by-component requirements, such as fixed R-values and U-factors, listed in the applicable climate zone table",
+      "No specific requirements, only general guidance",
+      "Requirements set entirely by the local utility company"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+  },
+  {
+    "id": "Q1684",
+    "legacyKey": "Under IECC 2009, as an alternative to the prescriptive path, a residential building may generally comply using:",
+    "q": "Under IECC 2009, as an alternative to the prescriptive path, a residential building may generally comply using:",
+    "options": [
+      "A completely unregulated custom design with no analysis",
+      "The Simulated Performance Alternative, demonstrating an annual energy cost no greater than a standard reference design",
+      "Verbal certification only, with no calculation",
+      "Compliance is only possible via the prescriptive path"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+  },
+  {
+    "id": "Q1685",
+    "legacyKey": "Under IECC 2009, commercial building envelope compliance may generally be demonstrated using:",
+    "q": "Under IECC 2009, commercial building envelope compliance may generally be demonstrated using:",
+    "options": [
+      "Only a single mandatory prescriptive table with no alternative",
+      "A prescriptive compliance path or a performance-based (simulated whole-building) compliance path",
+      "Only a performance-based path, with no prescriptive option available",
+      "Only compliance with a local zoning ordinance"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 5: Commercial energy efficiency — Section: Building envelope requirements"
+  },
+  {
+    "id": "Q1686",
+    "legacyKey": "Under IECC 2009, 'interior lighting power density' provisions are used to:",
+    "q": "Under IECC 2009, 'interior lighting power density' provisions are used to:",
+    "options": [
+      "Increase energy use for marketing purposes",
+      "Limit the total connected lighting power allowed per square foot of building area, based on building or space type",
+      "Regulate only exterior signage brightness",
+      "Set the required number of light fixtures in every room"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+  },
+  {
+    "id": "Q1687",
+    "legacyKey": "Under IECC 2009, exterior lighting power allowances are generally based on:",
+    "q": "Under IECC 2009, exterior lighting power allowances are generally based on:",
+    "options": [
+      "The building's interior finish materials",
+      "The specific exterior application, such as building facades, parking areas, or walkways, and the applicable lighting zone",
+      "The building's occupant load only",
+      "The contractor's personal preference"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+  },
+  {
+    "id": "Q1688",
+    "legacyKey": "Under IECC 2009, certain air economizers are required on HVAC cooling systems primarily to:",
+    "q": "Under IECC 2009, certain air economizers are required on HVAC cooling systems primarily to:",
+    "options": [
+      "Increase mechanical cooling energy use",
+      "Allow the use of outside air for 'free cooling' when weather conditions permit, reducing mechanical cooling energy use",
+      "Reduce the building's fire-resistance rating",
+      "Eliminate the need for any thermostat"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+  },
+  {
+    "id": "Q1689",
+    "legacyKey": "Under IECC 2009, commercial roof insulation is generally required to be installed:",
+    "q": "Under IECC 2009, commercial roof insulation is generally required to be installed:",
+    "options": [
+      "Only on the interior ceiling finish, never at the roof deck",
+      "Above the roof deck as continuous insulation, or as specified for the applicable roof assembly type",
+      "Only around the roof perimeter",
+      "Only over mechanical equipment"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 5: Commercial energy efficiency — Section: Building envelope requirements"
+  },
+  {
+    "id": "Q1690",
+    "legacyKey": "Under IECC 2009, HVAC equipment installed in commercial buildings is generally required to meet minimum efficiency levels established by:",
+    "q": "Under IECC 2009, HVAC equipment installed in commercial buildings is generally required to meet minimum efficiency levels established by:",
+    "options": [
+      "The manufacturer's own internal marketing standard",
+      "The applicable referenced equipment efficiency standard, such as ASHRAE 90.1 equipment tables incorporated by reference",
+      "No efficiency standard at all",
+      "Only local utility company recommendations"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+  },
+  {
+    "id": "Q1691",
+    "legacyKey": "Under IECC 2009, commercial building 'total building performance' (performance path) compliance requires demonstrating that:",
+    "q": "Under IECC 2009, commercial building 'total building performance' (performance path) compliance requires demonstrating that:",
+    "options": [
+      "The building has no mechanical system",
+      "The proposed design's annual energy cost is no greater than that of a standard reference design",
+      "The building uses only natural lighting",
+      "The building's construction cost is minimized regardless of energy use"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+  },
+  {
+    "id": "Q1692",
+    "legacyKey": "Under IECC 2009, service water heating equipment installed in commercial buildings is generally required to meet:",
+    "q": "Under IECC 2009, service water heating equipment installed in commercial buildings is generally required to meet:",
+    "options": [
+      "No efficiency requirement at all",
+      "Minimum efficiency requirements established by the applicable referenced standard",
+      "Only local plumbing code requirements, with no energy provision",
+      "Requirements identical to residential equipment regardless of size"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+  },
+  {
+    "id": "Q1693",
+    "legacyKey": "Under IECC 2009, mechanical ventilation systems serving commercial buildings are generally required to include controls that:",
+    "q": "Under IECC 2009, mechanical ventilation systems serving commercial buildings are generally required to include controls that:",
+    "options": [
+      "Operate continuously at maximum capacity at all times",
+      "Allow for reduced ventilation rates or system shutoff when spaces are unoccupied, where permitted",
+      "Are prohibited from any automatic control",
+      "Only operate during business hours regardless of occupancy"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+  },
+  {
+    "id": "Q1694",
+    "legacyKey": "Under IECC 2009, commercial building envelope fenestration (windows/doors) is generally subject to maximum requirements for:",
+    "q": "Under IECC 2009, commercial building envelope fenestration (windows/doors) is generally subject to maximum requirements for:",
+    "options": [
+      "Only the frame color",
+      "U-factor and solar heat gain coefficient (SHGC), based on climate zone and orientation",
+      "Only the glass manufacturer's brand",
+      "Only the door hardware finish"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 5: Commercial energy efficiency — Section: Building envelope requirements"
+  },
+  {
+    "id": "Q1695",
+    "legacyKey": "IECC 2009 Chapter 6 (Referenced Standards) serves primarily to:",
+    "q": "IECC 2009 Chapter 6 (Referenced Standards) serves primarily to:",
+    "options": [
+      "Provide the complete text of every referenced standard",
+      "List the standards referenced throughout the code, along with the promulgating organization, for the reader's reference",
+      "Replace the need for any other chapter in the code",
+      "List only standards related to plumbing fixtures"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 6: Referenced standards"
+  },
+  {
+    "id": "Q1696",
+    "legacyKey": "Under IECC 2009, compliance with the commercial provisions of the code may generally be demonstrated as an alternative by complying with:",
+    "q": "Under IECC 2009, compliance with the commercial provisions of the code may generally be demonstrated as an alternative by complying with:",
+    "options": [
+      "The residential provisions of IECC 2009 instead",
+      "ASHRAE/IESNA Standard 90.1, as permitted by the code",
+      "A foreign energy code with no U.S. recognition",
+      "No alternative standard is permitted"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 6: Referenced standards"
+  },
+  {
+    "id": "Q1697",
+    "legacyKey": "When a standard is referenced by IECC 2009, that standard generally:",
+    "q": "When a standard is referenced by IECC 2009, that standard generally:",
+    "options": [
+      "Has no legal or enforceable effect",
+      "Becomes part of the requirements of the code to the prescribed extent of each reference",
+      "Applies only if separately purchased and filed by the contractor",
+      "Applies only in jurisdictions outside the United States"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 6: Referenced standards"
+  },
+  {
+    "id": "Q1698",
+    "legacyKey": "If a conflict exists between the text of IECC 2009 and a referenced standard, the general rule is that:",
+    "q": "If a conflict exists between the text of IECC 2009 and a referenced standard, the general rule is that:",
+    "options": [
+      "The referenced standard always governs over the code text",
+      "The text of the IECC itself governs over the referenced standard",
+      "Neither applies, and the building official must draft a new local rule",
+      "The most expensive compliance option always governs"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 6: Referenced standards"
+  },
+  {
+    "id": "Q1699",
+    "legacyKey": "Referenced standards listed in IECC 2009 Chapter 6 are generally organized by:",
+    "q": "Referenced standards listed in IECC 2009 Chapter 6 are generally organized by:",
+    "options": [
+      "Random order with no organizing principle",
+      "The standard-issuing organization and/or the section(s) of the code in which each standard is referenced",
+      "Alphabetical order of the contractor's name",
+      "The date the building was constructed"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 6: Referenced standards"
+  },
+  {
+    "id": "Q1700",
+    "legacyKey": "Referenced standards are incorporated into IECC 2009 primarily to:",
+    "q": "Referenced standards are incorporated into IECC 2009 primarily to:",
+    "options": [
+      "Duplicate detailed technical requirements already stated elsewhere in the code",
+      "Avoid duplicating detailed technical requirements already established by nationally recognized standards organizations, while giving them code-enforceable status",
+      "Increase the length of the code without adding technical value",
+      "Replace the need for any prescriptive tables"
+    ],
+    "correct": 1,
+    "source": "IECC 2009, Chapter 6: Referenced standards"
   }
 ]
