@@ -16261,5 +16261,1448 @@
     ],
     "correct": 1,
     "source": "Carpentry, Chapter 35: Decks & Porches"
+  },
+  {
+    "id": "Q1252",
+    "legacyKey": "Fresh concrete is highly alkaline (caustic) and can cause skin burns; which precaution is essential for workers with prolonged skin contact?",
+    "q": "Fresh concrete is highly alkaline (caustic) and can cause skin burns; which precaution is essential for workers with prolonged skin contact?",
+    "options": [
+      "No precaution is needed; fresh concrete is harmless to skin",
+      "Wearing waterproof gloves and protective clothing/boots to prevent prolonged skin contact",
+      "Washing hands only at the end of the shift",
+      "Applying sunscreen before contact"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 1: Safety"
+  },
+  {
+    "id": "Q1253",
+    "legacyKey": "Cutting or grinding hardened concrete can produce airborne crystalline silica dust, which requires:",
+    "q": "Cutting or grinding hardened concrete can produce airborne crystalline silica dust, which requires:",
+    "options": [
+      "No special precautions since the dust is inert",
+      "Respiratory protection and dust control measures (such as wet cutting or vacuum dust collection)",
+      "Only safety glasses",
+      "Ear protection only"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 1: Safety"
+  },
+  {
+    "id": "Q1254",
+    "legacyKey": "When a concrete pump truck is operating, workers on the ground should stay clear of:",
+    "q": "When a concrete pump truck is operating, workers on the ground should stay clear of:",
+    "options": [
+      "The area near the water cooler",
+      "The boom's swing radius and the whip hazard at the discharge end of the hose",
+      "The concrete testing area",
+      "The rebar storage area only"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 1: Safety"
+  },
+  {
+    "id": "Q1255",
+    "legacyKey": "Prolonged, unprotected skin contact with wet concrete can result in:",
+    "q": "Prolonged, unprotected skin contact with wet concrete can result in:",
+    "options": [
+      "Improved skin hydration",
+      "Chemical burns or dermatitis from the concrete's alkalinity",
+      "No effect at all",
+      "Only a temporary cosmetic stain"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 1: Safety"
+  },
+  {
+    "id": "Q1256",
+    "legacyKey": "Workers operating vibrating screeds, power trowels, or concrete saws for extended periods should be provided with:",
+    "q": "Workers operating vibrating screeds, power trowels, or concrete saws for extended periods should be provided with:",
+    "options": [
+      "No special protection since the noise is minor",
+      "Hearing protection appropriate for the sustained noise exposure",
+      "Only a dust mask",
+      "A back brace only"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 1: Safety"
+  },
+  {
+    "id": "Q1257",
+    "legacyKey": "Before workers enter an excavation for a footing deeper than 5 feet, a protective system (such as sloping, shoring, or shielding) is generally required unless:",
+    "q": "Before workers enter an excavation for a footing deeper than 5 feet, a protective system (such as sloping, shoring, or shielding) is generally required unless:",
+    "options": [
+      "The excavation is entirely in stable rock, or a competent person determines the excavation poses no hazard",
+      "The excavation is less than 20 feet long",
+      "The weather is dry",
+      "The rebar is already installed"
+    ],
+    "correct": 0,
+    "source": "Concrete, Chapter 1: Safety"
+  },
+  {
+    "id": "Q1258",
+    "legacyKey": "Which type of Portland cement is the general-purpose cement used for most construction with no special property required?",
+    "q": "Which type of Portland cement is the general-purpose cement used for most construction with no special property required?",
+    "options": [
+      "Type I",
+      "Type III",
+      "Type IV",
+      "Type V"
+    ],
+    "correct": 0,
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+  },
+  {
+    "id": "Q1259",
+    "legacyKey": "Type III Portland cement is characterized primarily by:",
+    "q": "Type III Portland cement is characterized primarily by:",
+    "options": [
+      "Low heat of hydration",
+      "High early strength gain",
+      "Sulfate resistance",
+      "Low alkali content"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+  },
+  {
+    "id": "Q1260",
+    "legacyKey": "The maximum size of coarse aggregate used in a concrete mix is generally limited by:",
+    "q": "The maximum size of coarse aggregate used in a concrete mix is generally limited by:",
+    "options": [
+      "The color specified for the concrete",
+      "The clear spacing between reinforcing bars and the narrowest dimension of the formwork",
+      "The type of cement used",
+      "The ambient temperature only"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+  },
+  {
+    "id": "Q1261",
+    "legacyKey": "Approximately how much does one cubic yard of normal-weight concrete weigh?",
+    "q": "Approximately how much does one cubic yard of normal-weight concrete weigh?",
+    "options": [
+      "About 2,000 lbs",
+      "About 4,000 lbs",
+      "About 6,000 lbs",
+      "About 8,000 lbs"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 2: The Concrete Mixture"
+  },
+  {
+    "id": "Q1262",
+    "legacyKey": "A superplasticizer (high-range water reducer) is added to a concrete mix primarily to:",
+    "q": "A superplasticizer (high-range water reducer) is added to a concrete mix primarily to:",
+    "options": [
+      "Slow down the setting time only",
+      "Significantly increase workability/flowability without adding extra water",
+      "Add color to the mix",
+      "Replace the need for cement"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+  },
+  {
+    "id": "Q1263",
+    "legacyKey": "Silica fume, used as a supplementary cementitious material, is added to concrete primarily to:",
+    "q": "Silica fume, used as a supplementary cementitious material, is added to concrete primarily to:",
+    "options": [
+      "Increase slump only",
+      "Increase strength and reduce permeability",
+      "Accelerate setting time",
+      "Reduce the cost of the mix"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+  },
+  {
+    "id": "Q1264",
+    "legacyKey": "Ground granulated blast-furnace slag (GGBFS), when used as a partial cement replacement, generally provides:",
+    "q": "Ground granulated blast-furnace slag (GGBFS), when used as a partial cement replacement, generally provides:",
+    "options": [
+      "Faster strength gain and higher heat of hydration",
+      "Improved long-term durability and reduced permeability, with typically slower early strength gain",
+      "No change to the concrete's properties",
+      "Reduced workability"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+  },
+  {
+    "id": "Q1265",
+    "legacyKey": "Calcium chloride, sometimes used as an accelerating admixture, is generally avoided in reinforced concrete because it can:",
+    "q": "Calcium chloride, sometimes used as an accelerating admixture, is generally avoided in reinforced concrete because it can:",
+    "options": [
+      "Reduce compressive strength significantly",
+      "Promote corrosion of the embedded reinforcing steel",
+      "Cause excessive air entrainment",
+      "Prevent the concrete from setting at all"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+  },
+  {
+    "id": "Q1266",
+    "legacyKey": "A 'performance-based' concrete specification primarily focuses on:",
+    "q": "A 'performance-based' concrete specification primarily focuses on:",
+    "options": [
+      "Specifying the exact quantities of each ingredient",
+      "Specifying the required properties/results (such as strength and durability), leaving the mix design to the producer",
+      "Specifying only the brand of cement to be used",
+      "Specifying the color of the forms"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 3: The Concrete Specification"
+  },
+  {
+    "id": "Q1267",
+    "legacyKey": "A 'prescriptive' concrete specification, in contrast to a performance-based specification, typically specifies:",
+    "q": "A 'prescriptive' concrete specification, in contrast to a performance-based specification, typically specifies:",
+    "options": [
+      "Only the desired final compressive strength",
+      "The exact ingredients and proportions to be used in the mix",
+      "Only the curing method",
+      "Only the delivery schedule"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 3: The Concrete Specification"
+  },
+  {
+    "id": "Q1268",
+    "legacyKey": "Standard concrete compressive strength test specimens are typically tested at an age of:",
+    "q": "Standard concrete compressive strength test specimens are typically tested at an age of:",
+    "options": [
+      "3 days",
+      "7 days",
+      "28 days",
+      "90 days"
+    ],
+    "correct": 2,
+    "source": "Concrete, Chapter 3: The Concrete Specification"
+  },
+  {
+    "id": "Q1269",
+    "legacyKey": "For concrete that will be exposed to sulfate-containing soils or groundwater, which cement type is typically specified?",
+    "q": "For concrete that will be exposed to sulfate-containing soils or groundwater, which cement type is typically specified?",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type V (sulfate-resisting)"
+    ],
+    "correct": 3,
+    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Ingredients"
+  },
+  {
+    "id": "Q1270",
+    "legacyKey": "Steel fibers are sometimes specified as an addition to a concrete mix primarily to:",
+    "q": "Steel fibers are sometimes specified as an addition to a concrete mix primarily to:",
+    "options": [
+      "Replace all conventional reinforcing steel in every application",
+      "Improve the concrete's toughness and resistance to impact and crack propagation",
+      "Increase the slump",
+      "Reduce the cement content required"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Ingredients"
+  },
+  {
+    "id": "Q1271",
+    "legacyKey": "For exterior concrete exposed to freeze-thaw cycles, specifications commonly require a total air content in the range of approximately:",
+    "q": "For exterior concrete exposed to freeze-thaw cycles, specifications commonly require a total air content in the range of approximately:",
+    "options": [
+      "1% to 2%",
+      "5% to 7%",
+      "15% to 20%",
+      "25% to 30%"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Ingredients"
+  },
+  {
+    "id": "Q1272",
+    "legacyKey": "A ready-mix concrete delivery ticket should typically include information such as:",
+    "q": "A ready-mix concrete delivery ticket should typically include information such as:",
+    "options": [
+      "Only the driver's name",
+      "The mix design, batch time, quantity delivered, and any water added at the site",
+      "Only the truck's license plate number",
+      "The homeowner's contact information"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 3: The Concrete Specification"
+  },
+  {
+    "id": "Q1273",
+    "legacyKey": "The water-cementitious materials ratio specified for a concrete mix is primarily controlled to help ensure:",
+    "q": "The water-cementitious materials ratio specified for a concrete mix is primarily controlled to help ensure:",
+    "options": [
+      "A specific color",
+      "Adequate strength and durability (including reduced permeability)",
+      "Faster delivery time",
+      "Lower material cost only"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 3: The Concrete Specification"
+  },
+  {
+    "id": "Q1274",
+    "legacyKey": "'Exposure classes' assigned in a concrete specification (consistent with ACI 318) are used to:",
+    "q": "'Exposure classes' assigned in a concrete specification (consistent with ACI 318) are used to:",
+    "options": [
+      "Determine the contractor's insurance requirements",
+      "Match the concrete mix requirements to the specific environmental exposure conditions the structure will face (such as freeze-thaw or sulfate exposure)",
+      "Set the project's completion schedule",
+      "Determine the color of the forms"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 3: The Concrete Specification"
+  },
+  {
+    "id": "Q1275",
+    "legacyKey": "When self-consolidating concrete (SCC) is specified, the mix is designed to:",
+    "q": "When self-consolidating concrete (SCC) is specified, the mix is designed to:",
+    "options": [
+      "Require heavy mechanical vibration to consolidate",
+      "Flow and consolidate under its own weight, without the need for mechanical vibration",
+      "Set instantly upon placement",
+      "Be placed only in cold weather"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 3: The Concrete Specification"
+  },
+  {
+    "id": "Q1276",
+    "legacyKey": "The primary function of a footing beneath a foundation is to:",
+    "q": "The primary function of a footing beneath a foundation is to:",
+    "options": [
+      "Provide a decorative base",
+      "Distribute the structure's loads over a wider area of soil to prevent excessive settlement",
+      "Serve as the finished floor surface",
+      "Anchor the roof framing directly"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1277",
+    "legacyKey": "Footings are generally required to be placed at a depth below:",
+    "q": "Footings are generally required to be placed at a depth below:",
+    "options": [
+      "The topsoil layer only",
+      "The local frost line, to prevent damage from frost heave",
+      "6 inches, regardless of climate",
+      "The height of the foundation wall only"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1278",
+    "legacyKey": "A 'spread footing' is best described as a footing that is:",
+    "q": "A 'spread footing' is best described as a footing that is:",
+    "options": [
+      "Enlarged to distribute a concentrated column load over a wider soil area",
+      "Used only under continuous walls",
+      "Never reinforced",
+      "Placed only above grade"
+    ],
+    "correct": 0,
+    "source": "Concrete, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1279",
+    "legacyKey": "A 'continuous footing' (wall footing) is designed primarily to support:",
+    "q": "A 'continuous footing' (wall footing) is designed primarily to support:",
+    "options": [
+      "A single isolated column",
+      "A load-bearing wall along its length",
+      "Only the garage floor slab",
+      "The roof ridge beam directly"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1280",
+    "legacyKey": "On a sloped building site, footings are often 'stepped' primarily to:",
+    "q": "On a sloped building site, footings are often 'stepped' primarily to:",
+    "options": [
+      "Reduce the amount of concrete used",
+      "Maintain the required depth below grade at each step while following the change in the ground slope",
+      "Eliminate the need for reinforcement",
+      "Increase the footing's exposed surface area"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1281",
+    "legacyKey": "A 'keyway' formed in the top surface of a footing before it cures is used to:",
+    "q": "A 'keyway' formed in the top surface of a footing before it cures is used to:",
+    "options": [
+      "Provide drainage",
+      "Create a mechanical interlock between the footing and the foundation wall poured above it",
+      "Reduce the footing's weight",
+      "Serve as an expansion joint"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1282",
+    "legacyKey": "Dowels placed in a footing before the foundation wall is poured are used primarily to:",
+    "q": "Dowels placed in a footing before the foundation wall is poured are used primarily to:",
+    "options": [
+      "Level the footing surface",
+      "Tie the footing and the foundation wall together and maintain reinforcement continuity",
+      "Anchor the roof trusses",
+      "Provide a walking surface"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1283",
+    "legacyKey": "Before backfilling against a foundation wall, it is important to first confirm that the wall:",
+    "q": "Before backfilling against a foundation wall, it is important to first confirm that the wall:",
+    "options": [
+      "Has been painted",
+      "Has attained adequate strength and is properly braced or supported to resist the lateral pressure of the backfill",
+      "Has been exposed to sunlight for at least a week",
+      "Has no reinforcing steel"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1284",
+    "legacyKey": "'Soil bearing capacity' is a measure of:",
+    "q": "'Soil bearing capacity' is a measure of:",
+    "options": [
+      "How much water the soil can absorb",
+      "How much load per unit area the soil can safely support without excessive settlement",
+      "The soil's color and composition only",
+      "How quickly soil compacts under vibration"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1285",
+    "legacyKey": "An 'isolated column footing' (spread footing under a single column) is designed to:",
+    "q": "An 'isolated column footing' (spread footing under a single column) is designed to:",
+    "options": [
+      "Support a single concentrated column load independently of adjacent footings",
+      "Support an entire load-bearing wall",
+      "Replace the need for a foundation wall",
+      "Serve only a decorative function"
+    ],
+    "correct": 0,
+    "source": "Concrete, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1286",
+    "legacyKey": "A 'grade beam' in foundation construction is typically used to:",
+    "q": "A 'grade beam' in foundation construction is typically used to:",
+    "options": [
+      "Bear directly on the soil like a conventional footing",
+      "Span between piers or piles, supporting the structure above without bearing directly on the soil beneath it",
+      "Replace the foundation wall entirely with wood framing",
+      "Serve only as a curb for a driveway"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1287",
+    "legacyKey": "Reinforcing steel in a typical footing is generally placed:",
+    "q": "Reinforcing steel in a typical footing is generally placed:",
+    "options": [
+      "At the very top surface of the footing with no cover",
+      "Near the bottom of the footing, with adequate concrete cover, to resist tension from bending",
+      "In the center only, running vertically",
+      "Only around the perimeter edges"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1288",
+    "legacyKey": "Dampproofing applied to the exterior of a foundation wall is intended primarily to:",
+    "q": "Dampproofing applied to the exterior of a foundation wall is intended primarily to:",
+    "options": [
+      "Increase the wall's compressive strength",
+      "Resist moisture penetration into the basement or crawl space",
+      "Improve the wall's fire rating",
+      "Provide the wall's primary structural reinforcement"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1289",
+    "legacyKey": "The minimum concrete cover typically required for reinforcing steel in a footing cast against and permanently exposed to earth is generally:",
+    "q": "The minimum concrete cover typically required for reinforcing steel in a footing cast against and permanently exposed to earth is generally:",
+    "options": [
+      "1 inch",
+      "1.5 inches",
+      "2 inches",
+      "3 inches"
+    ],
+    "correct": 3,
+    "source": "Concrete, Chapter 4: Foundations"
+  },
+  {
+    "id": "Q1290",
+    "legacyKey": "The lateral pressure exerted by fresh concrete on wall formwork is primarily influenced by:",
+    "q": "The lateral pressure exerted by fresh concrete on wall formwork is primarily influenced by:",
+    "options": [
+      "The color of the concrete",
+      "The rate of placement, the concrete's temperature, and the height of concrete in the form",
+      "The brand of cement used",
+      "The time of day the pour begins"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 5: Formwork"
+  },
+  {
+    "id": "Q1291",
+    "legacyKey": "'Form ties' used in wall formwork serve primarily to:",
+    "q": "'Form ties' used in wall formwork serve primarily to:",
+    "options": [
+      "Reinforce the concrete once it hardens",
+      "Hold the two opposing sides of the formwork together against the lateral pressure of the fresh concrete",
+      "Provide a walking surface for workers",
+      "Anchor the forms to the roof"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 5: Formwork"
+  },
+  {
+    "id": "Q1292",
+    "legacyKey": "'Snap ties,' a common type of form tie, are designed to:",
+    "q": "'Snap ties,' a common type of form tie, are designed to:",
+    "options": [
+      "Remain permanently visible on the finished concrete surface",
+      "Be broken off (snapped) below the concrete surface after the forms are removed",
+      "Dissolve chemically during curing",
+      "Serve as the primary flexural reinforcement"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 5: Formwork"
+  },
+  {
+    "id": "Q1293",
+    "legacyKey": "In cold weather, formwork generally must remain in place:",
+    "q": "In cold weather, formwork generally must remain in place:",
+    "options": [
+      "For a shorter time than in warm weather",
+      "Longer than in warm weather, since concrete gains strength more slowly at low temperatures",
+      "For exactly 24 hours regardless of temperature",
+      "It has no effect on stripping time"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 5: Formwork"
+  },
+  {
+    "id": "Q1294",
+    "legacyKey": "'Camber' is sometimes built into beam or slab formwork in order to:",
+    "q": "'Camber' is sometimes built into beam or slab formwork in order to:",
+    "options": [
+      "Add a decorative curve to the finished concrete",
+      "Compensate for the anticipated deflection that will occur once the structure is loaded",
+      "Increase the lateral pressure on the forms",
+      "Reduce the amount of concrete required"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 5: Formwork"
+  },
+  {
+    "id": "Q1295",
+    "legacyKey": "Tall wall formwork must be designed and braced to resist, in addition to the lateral pressure of the fresh concrete:",
+    "q": "Tall wall formwork must be designed and braced to resist, in addition to the lateral pressure of the fresh concrete:",
+    "options": [
+      "Only vertical gravity loads",
+      "Wind loads and other lateral loads that could occur before the concrete cures",
+      "Only the weight of the finishing crew",
+      "Thermal expansion of the rebar"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 5: Formwork"
+  },
+  {
+    "id": "Q1296",
+    "legacyKey": "Formwork design, including verifying its capacity to safely support the loads imposed by fresh concrete, is generally the responsibility of:",
+    "q": "Formwork design, including verifying its capacity to safely support the loads imposed by fresh concrete, is generally the responsibility of:",
+    "options": [
+      "The concrete testing laboratory",
+      "The contractor or a qualified formwork engineer, unless otherwise specified by the project",
+      "The building owner",
+      "The ready-mix concrete supplier"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 5: Formwork"
+  },
+  {
+    "id": "Q1297",
+    "legacyKey": "A 'blowout' (sudden failure) of wall formwork is most often caused by:",
+    "q": "A 'blowout' (sudden failure) of wall formwork is most often caused by:",
+    "options": [
+      "Using too much reinforcing steel",
+      "Inadequate tie spacing or tie strength for the lateral pressure generated by the rate of placement",
+      "Curing the concrete too slowly",
+      "Using air-entrained concrete"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 5: Formwork"
+  },
+  {
+    "id": "Q1298",
+    "legacyKey": "Plywood manufactured specifically for concrete formwork (such as 'B-B Plyform') is typically rated by:",
+    "q": "Plywood manufactured specifically for concrete formwork (such as 'B-B Plyform') is typically rated by:",
+    "options": [
+      "Its color",
+      "Its grade and the number of allowable reuses for concrete-form applications",
+      "Its fire rating only",
+      "Its resistance to termites"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 5: Formwork"
+  },
+  {
+    "id": "Q1299",
+    "legacyKey": "Reinforcing bar designated 'Grade 60' indicates a minimum yield strength of approximately:",
+    "q": "Reinforcing bar designated 'Grade 60' indicates a minimum yield strength of approximately:",
+    "options": [
+      "40,000 psi",
+      "60,000 psi",
+      "80,000 psi",
+      "100,000 psi"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+  },
+  {
+    "id": "Q1300",
+    "legacyKey": "'Deformed' reinforcing bars have surface ribs (lugs) primarily to:",
+    "q": "'Deformed' reinforcing bars have surface ribs (lugs) primarily to:",
+    "options": [
+      "Reduce the bar's weight",
+      "Improve the mechanical bond between the bar and the surrounding concrete",
+      "Make the bar easier to bend in the field",
+      "Reduce corrosion"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+  },
+  {
+    "id": "Q1301",
+    "legacyKey": "Epoxy-coated reinforcing bar is used primarily to:",
+    "q": "Epoxy-coated reinforcing bar is used primarily to:",
+    "options": [
+      "Increase the bar's yield strength",
+      "Provide corrosion resistance in aggressive or chloride-exposed environments",
+      "Reduce the bar's cost",
+      "Eliminate the need for concrete cover"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+  },
+  {
+    "id": "Q1302",
+    "legacyKey": "Welded wire fabric (WWF) reinforcement used in concrete slabs is primarily intended to:",
+    "q": "Welded wire fabric (WWF) reinforcement used in concrete slabs is primarily intended to:",
+    "options": [
+      "Serve as the main structural (flexural) reinforcement in every application",
+      "Help control shrinkage and temperature cracking and distribute loads",
+      "Replace the need for a vapor retarder",
+      "Increase the slab's slump"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+  },
+  {
+    "id": "Q1303",
+    "legacyKey": "Markings rolled onto a reinforcing bar are used to identify:",
+    "q": "Markings rolled onto a reinforcing bar are used to identify:",
+    "options": [
+      "Only the manufacturer's logo for advertising",
+      "The producing mill, bar size, and steel type/grade",
+      "The exact date the bar will be installed",
+      "The concrete mix design"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+  },
+  {
+    "id": "Q1304",
+    "legacyKey": "During placement, reinforcing bars are typically secured at their intersections using:",
+    "q": "During placement, reinforcing bars are typically secured at their intersections using:",
+    "options": [
+      "Adhesive tape",
+      "Tie wire",
+      "Nails",
+      "Wood dowels"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+  },
+  {
+    "id": "Q1305",
+    "legacyKey": "The minimum clear spacing required between parallel reinforcing bars is generally based on:",
+    "q": "The minimum clear spacing required between parallel reinforcing bars is generally based on:",
+    "options": [
+      "The bar's grade marking only",
+      "The bar diameter and the maximum aggregate size, to allow the concrete to properly flow and consolidate around the bars",
+      "The color of the concrete",
+      "The ambient temperature at placement"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+  },
+  {
+    "id": "Q1306",
+    "legacyKey": "'Development length' in reinforced concrete refers to:",
+    "q": "'Development length' in reinforced concrete refers to:",
+    "options": [
+      "The total length of a bar as delivered to the site",
+      "The length of embedment required for a bar to develop its full design strength through bond with the surrounding concrete",
+      "The distance between two adjacent footings",
+      "The length of a construction joint"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+  },
+  {
+    "id": "Q1307",
+    "legacyKey": "Mechanical couplers are sometimes used to splice reinforcing bars instead of a lap splice primarily when:",
+    "q": "Mechanical couplers are sometimes used to splice reinforcing bars instead of a lap splice primarily when:",
+    "options": [
+      "The bars are very small in diameter",
+      "Space is limited or the bar sizes are too large to lap splice practically",
+      "The concrete has already hardened",
+      "No engineering approval is required"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+  },
+  {
+    "id": "Q1308",
+    "legacyKey": "Temperature and shrinkage reinforcement placed in a concrete slab is intended primarily to:",
+    "q": "Temperature and shrinkage reinforcement placed in a concrete slab is intended primarily to:",
+    "options": [
+      "Serve as the primary structural (flexural) reinforcement",
+      "Control the width of cracks caused by shrinkage and temperature changes, rather than resist structural loads",
+      "Increase the slab's air content",
+      "Replace the need for control joints entirely"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+  },
+  {
+    "id": "Q1309",
+    "legacyKey": "Before concrete is placed, reinforcing steel should be inspected to confirm it is free of:",
+    "q": "Before concrete is placed, reinforcing steel should be inspected to confirm it is free of:",
+    "options": [
+      "Any surface texture at all",
+      "Loose rust, mud, oil, or other coatings that could reduce bond with the concrete",
+      "Its identifying mill markings",
+      "Tie wire"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+  },
+  {
+    "id": "Q1310",
+    "legacyKey": "'Plain' (undeformed) reinforcing bars, lacking surface ribs, are typically used for applications such as:",
+    "q": "'Plain' (undeformed) reinforcing bars, lacking surface ribs, are typically used for applications such as:",
+    "options": [
+      "Primary tension reinforcement in beams",
+      "Dowels or other applications where the bar must be free to slide or allow movement",
+      "Column ties exclusively",
+      "Slab edge reinforcement exclusively"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+  },
+  {
+    "id": "Q1311",
+    "legacyKey": "Field bending of reinforcing bars (rather than using shop-bent bars) is generally:",
+    "q": "Field bending of reinforcing bars (rather than using shop-bent bars) is generally:",
+    "options": [
+      "Encouraged for all bar sizes to save time",
+      "Discouraged or restricted, especially for larger bar sizes, due to the risk of reduced strength or cracking",
+      "Required by code for every project",
+      "Irrelevant to the bar's performance"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+  },
+  {
+    "id": "Q1312",
+    "legacyKey": "The primary structural purpose of reinforcing steel in concrete is to:",
+    "q": "The primary structural purpose of reinforcing steel in concrete is to:",
+    "options": [
+      "Resist compressive stresses, since concrete is weak in compression",
+      "Resist tensile stresses, since concrete is strong in compression but weak in tension",
+      "Replace the need for proper curing",
+      "Increase the concrete's workability"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+  },
+  {
+    "id": "Q1313",
+    "legacyKey": "Isolation (expansion) joints in concrete construction are typically filled with:",
+    "q": "Isolation (expansion) joints in concrete construction are typically filled with:",
+    "options": [
+      "Ordinary sand",
+      "A compressible premolded joint filler material",
+      "Additional reinforcing steel",
+      "Loose gravel"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures"
+  },
+  {
+    "id": "Q1314",
+    "legacyKey": "Joint sealants applied to control or contraction joints are used primarily to:",
+    "q": "Joint sealants applied to control or contraction joints are used primarily to:",
+    "options": [
+      "Increase the joint's load capacity",
+      "Prevent the intrusion of water and debris into the joint",
+      "Replace the need for a joint filler",
+      "Add color to the joint"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures"
+  },
+  {
+    "id": "Q1315",
+    "legacyKey": "Embedded items such as conduit or pipe sleeves cast into a structural concrete member should be:",
+    "q": "Embedded items such as conduit or pipe sleeves cast into a structural concrete member should be:",
+    "options": [
+      "Installed randomly without regard to the member's design",
+      "Sized and located so as not to significantly reduce the structural strength of the member, per the design requirements",
+      "Installed only after the concrete has cured",
+      "Made of wood whenever possible"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures"
+  },
+  {
+    "id": "Q1316",
+    "legacyKey": "A 'keyed' construction joint, formed with a groove or tongue, is used primarily to:",
+    "q": "A 'keyed' construction joint, formed with a groove or tongue, is used primarily to:",
+    "options": [
+      "Improve the appearance of the joint",
+      "Improve shear transfer between the two concrete placements at the joint",
+      "Eliminate the need for reinforcement across the joint",
+      "Reduce the amount of concrete required"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures"
+  },
+  {
+    "id": "Q1317",
+    "legacyKey": "Reinforcement continuity across a construction joint is typically achieved by:",
+    "q": "Reinforcement continuity across a construction joint is typically achieved by:",
+    "options": [
+      "Cutting all reinforcing bars flush with the joint face",
+      "Extending (or dowelling) the reinforcing bars through the joint into the adjoining placement",
+      "Omitting reinforcement near all joints",
+      "Filling the joint with unreinforced grout only"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures"
+  },
+  {
+    "id": "Q1318",
+    "legacyKey": "For effective crack control in a slab-on-ground, welded wire fabric reinforcement should be positioned:",
+    "q": "For effective crack control in a slab-on-ground, welded wire fabric reinforcement should be positioned:",
+    "options": [
+      "Lying directly on the subgrade or base material",
+      "In the upper portion of the slab, properly supported above the subgrade",
+      "Below the vapor retarder",
+      "It is never used in slabs-on-ground"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+  },
+  {
+    "id": "Q1319",
+    "legacyKey": "Proper compaction of the subgrade beneath a slab-on-ground is important primarily to:",
+    "q": "Proper compaction of the subgrade beneath a slab-on-ground is important primarily to:",
+    "options": [
+      "Increase the concrete's compressive strength",
+      "Provide uniform support and minimize differential settlement or cracking of the slab",
+      "Eliminate the need for a vapor retarder",
+      "Reduce the slab's required thickness"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+  },
+  {
+    "id": "Q1320",
+    "legacyKey": "A granular base course placed beneath a slab-on-ground serves primarily to:",
+    "q": "A granular base course placed beneath a slab-on-ground serves primarily to:",
+    "options": [
+      "Replace the need for a footing",
+      "Provide a uniform, well-drained bearing surface and help control moisture migration to the slab",
+      "Increase the slab's air content",
+      "Serve as the finish flooring"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+  },
+  {
+    "id": "Q1321",
+    "legacyKey": "Isolation joints placed around columns or walls that penetrate a slab-on-ground are intended to:",
+    "q": "Isolation joints placed around columns or walls that penetrate a slab-on-ground are intended to:",
+    "options": [
+      "Increase the slab's structural capacity at that location",
+      "Allow the slab to move independently of the fixed element and prevent restraint cracking",
+      "Eliminate the need for control joints elsewhere in the slab",
+      "Anchor the slab to the fixed element"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+  },
+  {
+    "id": "Q1322",
+    "legacyKey": "A 'thickened edge' slab-on-ground design is often used to:",
+    "q": "A 'thickened edge' slab-on-ground design is often used to:",
+    "options": [
+      "Reduce the amount of reinforcement required in the field of the slab",
+      "Provide additional support at the perimeter, sometimes eliminating the need for a separate stem wall or footing under light loads",
+      "Increase the slab's slump",
+      "Replace the need for a vapor retarder"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+  },
+  {
+    "id": "Q1323",
+    "legacyKey": "Reinforcement (WWF or rebar) used for crack control in a slab-on-ground does not primarily function to:",
+    "q": "Reinforcement (WWF or rebar) used for crack control in a slab-on-ground does not primarily function to:",
+    "options": [
+      "Hold cracks tightly together once they form",
+      "Prevent cracking from occurring at all",
+      "Improve load transfer once a crack has formed",
+      "Distribute shrinkage stress over a wider area"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+  },
+  {
+    "id": "Q1324",
+    "legacyKey": "The subgrade beneath a slab-on-ground should generally be uniformly moist (but not saturated) before placing concrete primarily to:",
+    "q": "The subgrade beneath a slab-on-ground should generally be uniformly moist (but not saturated) before placing concrete primarily to:",
+    "options": [
+      "Increase the final compressive strength",
+      "Prevent the dry subgrade from rapidly absorbing mixing water from the fresh concrete",
+      "Eliminate the need for a vapor retarder",
+      "Speed up the finishing operation"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+  },
+  {
+    "id": "Q1325",
+    "legacyKey": "'Curling' of a slab-on-ground refers to:",
+    "q": "'Curling' of a slab-on-ground refers to:",
+    "options": [
+      "Horizontal cracking through the full slab thickness",
+      "Upward warping of the slab's edges or corners caused by differential shrinkage or a moisture/temperature gradient through the slab",
+      "The process of placing reinforcement in a curved pattern",
+      "A finishing technique used to create texture"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+  },
+  {
+    "id": "Q1326",
+    "legacyKey": "Placing a slab-on-ground directly on dry, highly absorptive subgrade without proper moisture conditioning risks:",
+    "q": "Placing a slab-on-ground directly on dry, highly absorptive subgrade without proper moisture conditioning risks:",
+    "options": [
+      "Improved bond between the slab and subgrade",
+      "Rapid loss of mixing water into the subgrade, reducing workability and potentially weakening the surface",
+      "No effect on the finished slab",
+      "Excessive air entrainment"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+  },
+  {
+    "id": "Q1327",
+    "legacyKey": "A pre-construction (pre-pour) meeting for a concrete project is held primarily to:",
+    "q": "A pre-construction (pre-pour) meeting for a concrete project is held primarily to:",
+    "options": [
+      "Finalize the project's marketing materials",
+      "Review the mix design, placement plan, quality requirements, and responsibilities before work begins",
+      "Replace the need for a written specification",
+      "Select the paint color for the finished structure"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 9: Planning for Quality"
+  },
+  {
+    "id": "Q1328",
+    "legacyKey": "On a concrete project, 'quality control' performed by the contractor is best distinguished from 'quality assurance' in that:",
+    "q": "On a concrete project, 'quality control' performed by the contractor is best distinguished from 'quality assurance' in that:",
+    "options": [
+      "They are the same thing with different names",
+      "Quality control involves the contractor's own testing/inspection during the work, while quality assurance involves independent verification that specified quality is being achieved",
+      "Quality assurance is performed only after the project is complete",
+      "Quality control applies only to formwork"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 9: Planning for Quality"
+  },
+  {
+    "id": "Q1329",
+    "legacyKey": "If a compressive strength test result falls below the project's acceptance criteria, the typical first step is to:",
+    "q": "If a compressive strength test result falls below the project's acceptance criteria, the typical first step is to:",
+    "options": [
+      "Immediately demolish the affected concrete",
+      "Investigate further, such as through additional testing or core sampling, before drawing conclusions",
+      "Ignore the result if only one test is low",
+      "Automatically approve the concrete regardless"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 9: Planning for Quality — Section: Compressive Strength"
+  },
+  {
+    "id": "Q1330",
+    "legacyKey": "Under standard acceptance criteria, concrete strength is generally considered acceptable if the average of any three consecutive strength tests equals or exceeds the specified strength and:",
+    "q": "Under standard acceptance criteria, concrete strength is generally considered acceptable if the average of any three consecutive strength tests equals or exceeds the specified strength and:",
+    "options": [
+      "Every individual test also exceeds the specified strength by 1,000 psi",
+      "No single test falls more than 500 psi below the specified strength",
+      "At least one test is above the specified strength",
+      "The tests are conducted more than 90 days apart"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 9: Planning for Quality — Section: Compressive Strength"
+  },
+  {
+    "id": "Q1331",
+    "legacyKey": "Core samples taken from hardened concrete are typically used to evaluate in-place strength when:",
+    "q": "Core samples taken from hardened concrete are typically used to evaluate in-place strength when:",
+    "options": [
+      "The concrete color needs to be verified",
+      "Initial cylinder test results fall below the acceptance criteria and further verification is needed",
+      "The formwork needs to be redesigned",
+      "The project is ahead of schedule"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 9: Planning for Quality — Section: Compressive Strength"
+  },
+  {
+    "id": "Q1332",
+    "legacyKey": "Maintaining complete and accurate field records (delivery tickets, test reports, placement logs) on a concrete project is important primarily to:",
+    "q": "Maintaining complete and accurate field records (delivery tickets, test reports, placement logs) on a concrete project is important primarily to:",
+    "options": [
+      "Satisfy an aesthetic requirement",
+      "Document that specified materials and procedures were actually used, and provide a basis for resolving disputes or investigating problems",
+      "Reduce the number of required inspections",
+      "Replace the need for a quality control plan"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 9: Planning for Quality"
+  },
+  {
+    "id": "Q1333",
+    "legacyKey": "A mock-up or sample panel is sometimes required before a major concrete placement in order to:",
+    "q": "A mock-up or sample panel is sometimes required before a major concrete placement in order to:",
+    "options": [
+      "Test the strength of the rebar",
+      "Verify that the specified finish, color, or texture can be achieved before committing to the full project",
+      "Determine the concrete's unit cost",
+      "Replace laboratory strength testing"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 9: Planning for Quality"
+  },
+  {
+    "id": "Q1334",
+    "legacyKey": "Ready-mixed concrete producers are often required to hold a certification (such as from the National Ready Mixed Concrete Association) primarily to:",
+    "q": "Ready-mixed concrete producers are often required to hold a certification (such as from the National Ready Mixed Concrete Association) primarily to:",
+    "options": [
+      "Qualify for a tax exemption",
+      "Demonstrate that the plant's equipment, procedures, and quality control meet recognized industry standards",
+      "Avoid the need for delivery tickets",
+      "Guarantee a fixed delivery price"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 9: Planning for Quality"
+  },
+  {
+    "id": "Q1335",
+    "legacyKey": "Technicians who perform concrete field tests (slump, air content, cylinder molding) on a project are typically required to be:",
+    "q": "Technicians who perform concrete field tests (slump, air content, cylinder molding) on a project are typically required to be:",
+    "options": [
+      "Licensed architects",
+      "Certified (such as an ACI-certified Concrete Field Testing Technician)",
+      "Employees of the concrete producer only",
+      "Union members exclusively"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 9: Planning for Quality"
+  },
+  {
+    "id": "Q1336",
+    "legacyKey": "Effective planning for quality on a concrete project should generally begin:",
+    "q": "Effective planning for quality on a concrete project should generally begin:",
+    "options": [
+      "Only after the concrete has been placed",
+      "Before construction starts, with the specifications, mix design, and a quality plan",
+      "Only if problems arise during placement",
+      "After the final inspection"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 9: Planning for Quality"
+  },
+  {
+    "id": "Q1337",
+    "legacyKey": "Before concrete placement begins, formwork should be inspected to confirm it is:",
+    "q": "Before concrete placement begins, formwork should be inspected to confirm it is:",
+    "options": [
+      "Painted a specific color",
+      "Clean, properly braced, coated with release agent as needed, and dimensionally correct",
+      "Left unbraced for flexibility",
+      "Not yet fully assembled"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 10: Preparing for Concreting"
+  },
+  {
+    "id": "Q1338",
+    "legacyKey": "Before concrete placement, reinforcing steel should be checked to confirm it is:",
+    "q": "Before concrete placement, reinforcing steel should be checked to confirm it is:",
+    "options": [
+      "Left loose so it can shift into place during placement",
+      "Properly positioned, adequately supported (chaired), and has the correct concrete cover",
+      "Removed until after the pour",
+      "Painted to prevent corrosion"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 10: Preparing for Concreting"
+  },
+  {
+    "id": "Q1339",
+    "legacyKey": "A pre-pour checklist should confirm that curing materials and equipment are:",
+    "q": "A pre-pour checklist should confirm that curing materials and equipment are:",
+    "options": [
+      "Ordered but not yet delivered",
+      "On hand and ready before placement begins",
+      "Unnecessary if the weather is mild",
+      "Only needed for exterior slabs"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 10: Preparing for Concreting"
+  },
+  {
+    "id": "Q1340",
+    "legacyKey": "In hot weather, a common preparation to help reduce the concrete's temperature before placement is:",
+    "q": "In hot weather, a common preparation to help reduce the concrete's temperature before placement is:",
+    "options": [
+      "Adding extra cement to the mix",
+      "Using chilled mixing water or ice, or shading and cooling the aggregates",
+      "Delaying delivery as long as possible",
+      "Reducing the amount of admixtures used"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 10: Preparing for Concreting"
+  },
+  {
+    "id": "Q1341",
+    "legacyKey": "In cold weather, pre-placement preparation often includes having on hand:",
+    "q": "In cold weather, pre-placement preparation often includes having on hand:",
+    "options": [
+      "Extra ice for the mixing water",
+      "Insulating blankets or temporary enclosures/heaters to protect the concrete from freezing",
+      "Additional retarding admixture only",
+      "Nothing different from warm-weather placement"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 10: Preparing for Concreting"
+  },
+  {
+    "id": "Q1342",
+    "legacyKey": "Before placing a slab, the subgrade should generally be:",
+    "q": "Before placing a slab, the subgrade should generally be:",
+    "options": [
+      "Left dry and dusty",
+      "Moistened (but not saturated) and free of standing water, debris, and frozen material",
+      "Covered with plastic sheeting permanently",
+      "Compacted only after the pour"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 10: Preparing for Concreting"
+  },
+  {
+    "id": "Q1343",
+    "legacyKey": "Checking the weather forecast before a large concrete placement is important primarily to:",
+    "q": "Checking the weather forecast before a large concrete placement is important primarily to:",
+    "options": [
+      "Schedule the delivery truck route",
+      "Anticipate conditions such as rain, high wind, or extreme temperature that could affect placement and curing",
+      "Determine the correct slump",
+      "Select the cement type"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 10: Preparing for Concreting"
+  },
+  {
+    "id": "Q1344",
+    "legacyKey": "Before placing concrete, the contractor should verify that embedded items (conduit, anchor bolts, sleeves) are:",
+    "q": "Before placing concrete, the contractor should verify that embedded items (conduit, anchor bolts, sleeves) are:",
+    "options": [
+      "Loosely placed so they can be adjusted after placement",
+      "Secured in their correct final location so they are not displaced during placement",
+      "Removed until the concrete cures",
+      "Coated in release agent"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 10: Preparing for Concreting"
+  },
+  {
+    "id": "Q1345",
+    "legacyKey": "Scheduling ready-mix truck deliveries appropriately before a large placement helps prevent:",
+    "q": "Scheduling ready-mix truck deliveries appropriately before a large placement helps prevent:",
+    "options": [
+      "Excess air entrainment",
+      "Cold joints from occurring due to gaps in the concrete supply",
+      "The need for finishing tools",
+      "Excessive slump loss during transport"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 10: Preparing for Concreting"
+  },
+  {
+    "id": "Q1346",
+    "legacyKey": "A pre-placement inspection should confirm that all necessary finishing tools and personnel are:",
+    "q": "A pre-placement inspection should confirm that all necessary finishing tools and personnel are:",
+    "options": [
+      "Scheduled for the following week",
+      "Available and ready before the pour begins, since finishing must follow placement promptly",
+      "Only needed for exterior work",
+      "Optional for small placements"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 10: Preparing for Concreting"
+  },
+  {
+    "id": "Q1347",
+    "legacyKey": "Before placing new concrete against previously hardened concrete at a construction joint, the existing surface should be:",
+    "q": "Before placing new concrete against previously hardened concrete at a construction joint, the existing surface should be:",
+    "options": [
+      "Left untouched to preserve its texture",
+      "Cleaned of laitance and debris (and often roughened) to promote bond with the new concrete",
+      "Painted with a sealer",
+      "Soaked in a curing compound"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 10: Preparing for Concreting"
+  },
+  {
+    "id": "Q1348",
+    "legacyKey": "Verifying that formwork dimensions match the approved plans before placement helps prevent:",
+    "q": "Verifying that formwork dimensions match the approved plans before placement helps prevent:",
+    "options": [
+      "Faster curing times",
+      "Out-of-tolerance or misaligned finished concrete elements",
+      "The need for reinforcement",
+      "Excess air entrainment"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 10: Preparing for Concreting"
+  },
+  {
+    "id": "Q1349",
+    "legacyKey": "The correct general sequence for finishing a concrete flatwork surface is typically:",
+    "q": "The correct general sequence for finishing a concrete flatwork surface is typically:",
+    "options": [
+      "Trowel, then float, then screed, then bull float",
+      "Screed, bull float, edge/joint, float, then trowel (as applicable)",
+      "Broom, then screed, then bull float",
+      "Cure, then screed, then finish"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+  },
+  {
+    "id": "Q1350",
+    "legacyKey": "A hand 'groover' (jointing tool) is used during finishing primarily to:",
+    "q": "A hand 'groover' (jointing tool) is used during finishing primarily to:",
+    "options": [
+      "Smooth the entire slab surface",
+      "Tool in a control joint by hand, as an alternative or precursor to saw cutting",
+      "Apply the curing compound",
+      "Remove excess water from the surface"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+  },
+  {
+    "id": "Q1351",
+    "legacyKey": "Keeping a concrete surface continuously moist with wet burlap or cotton mats is a method of:",
+    "q": "Keeping a concrete surface continuously moist with wet burlap or cotton mats is a method of:",
+    "options": [
+      "Finishing",
+      "Wet (moist) curing",
+      "Forming",
+      "Consolidation"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Curing and Protection"
+  },
+  {
+    "id": "Q1352",
+    "legacyKey": "Plastic sheeting placed over freshly finished concrete is used primarily to:",
+    "q": "Plastic sheeting placed over freshly finished concrete is used primarily to:",
+    "options": [
+      "Add color to the surface",
+      "Retain surface moisture and prevent evaporation during curing",
+      "Increase the slump",
+      "Accelerate initial set"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Curing and Protection"
+  },
+  {
+    "id": "Q1353",
+    "legacyKey": "Which combination of conditions most increases the rate of surface moisture evaporation from fresh concrete, raising the risk of plastic shrinkage cracking?",
+    "q": "Which combination of conditions most increases the rate of surface moisture evaporation from fresh concrete, raising the risk of plastic shrinkage cracking?",
+    "options": [
+      "Low temperature, high humidity, and no wind",
+      "High temperature, low humidity, high wind, and direct sun exposure",
+      "Overcast skies and cool temperatures",
+      "High humidity and still air"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+  },
+  {
+    "id": "Q1354",
+    "legacyKey": "Before pumping concrete through a pipeline, a 'grout prime' or slurry mixture is typically pumped through the line first primarily to:",
+    "q": "Before pumping concrete through a pipeline, a 'grout prime' or slurry mixture is typically pumped through the line first primarily to:",
+    "options": [
+      "Test the pump's maximum pressure",
+      "Lubricate the pipeline and help prevent blockage or segregation of the concrete that follows",
+      "Add color to the concrete",
+      "Cure the pipeline"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+  },
+  {
+    "id": "Q1355",
+    "legacyKey": "When placing concrete using a crane and bucket, the bucket should generally be:",
+    "q": "When placing concrete using a crane and bucket, the bucket should generally be:",
+    "options": [
+      "Raised as high as possible before discharging for maximum spread",
+      "Lowered close to the point of deposit before discharging, to minimize free-fall and prevent segregation",
+      "Discharged from a fixed height regardless of the point of deposit",
+      "Filled to twice its rated capacity"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+  },
+  {
+    "id": "Q1356",
+    "legacyKey": "In hot-weather concreting, applying an evaporation retardant (fog spray) to the surface immediately after finishing is done primarily to:",
+    "q": "In hot-weather concreting, applying an evaporation retardant (fog spray) to the surface immediately after finishing is done primarily to:",
+    "options": [
+      "Speed up the final set",
+      "Reduce rapid surface moisture loss before curing can begin, helping prevent plastic shrinkage cracking",
+      "Add color to the surface",
+      "Replace the need for curing altogether"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Curing and Protection"
+  },
+  {
+    "id": "Q1357",
+    "legacyKey": "'Popouts' on a concrete surface are typically caused by:",
+    "q": "'Popouts' on a concrete surface are typically caused by:",
+    "options": [
+      "Over-troweling the surface",
+      "Expansion of certain reactive aggregate particles (such as porous chert or shale) near the surface, breaking away a small conical fragment",
+      "Excessive air entrainment",
+      "Using too much cement"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+  },
+  {
+    "id": "Q1358",
+    "legacyKey": "'Dusting' of a concrete floor surface refers to:",
+    "q": "'Dusting' of a concrete floor surface refers to:",
+    "options": [
+      "A decorative finishing technique",
+      "A weak, powdery layer forming on the surface, often caused by finishing over bleed water or insufficient cement at the surface",
+      "The process of applying a curing compound",
+      "Efflorescence caused by groundwater"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+  },
+  {
+    "id": "Q1359",
+    "legacyKey": "Alkali-silica reaction (ASR) is a long-term durability concern in concrete caused by:",
+    "q": "Alkali-silica reaction (ASR) is a long-term durability concern in concrete caused by:",
+    "options": [
+      "Excessive air entrainment",
+      "A chemical reaction between certain reactive aggregates and alkalis in the cement paste, leading to expansion and map/pattern cracking over time",
+      "Using too little water in the mix",
+      "Placing concrete in cold weather"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+  },
+  {
+    "id": "Q1360",
+    "legacyKey": "Corrosion of embedded reinforcing steel can cause concrete cracking and spalling because:",
+    "q": "Corrosion of embedded reinforcing steel can cause concrete cracking and spalling because:",
+    "options": [
+      "Rust makes the steel lighter, reducing bond",
+      "Corrosion products (rust) occupy more volume than the original steel, generating internal expansive pressure",
+      "Rust improves the bond between steel and concrete",
+      "Corrosion has no effect on surrounding concrete"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+  },
+  {
+    "id": "Q1361",
+    "legacyKey": "Which of the following is generally treated as a structural crack requiring engineering evaluation, rather than a typical non-structural shrinkage crack?",
+    "q": "Which of the following is generally treated as a structural crack requiring engineering evaluation, rather than a typical non-structural shrinkage crack?",
+    "options": [
+      "A hairline crack with no measurable width",
+      "A crack accompanied by noticeable displacement, deflection, or that continues to widen significantly over time",
+      "A shallow surface crazing pattern",
+      "A crack that appeared within the first day of curing only"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+  },
+  {
+    "id": "Q1362",
+    "legacyKey": "Repairing a small surface defect such as a popout or minor spall in hardened concrete typically involves:",
+    "q": "Repairing a small surface defect such as a popout or minor spall in hardened concrete typically involves:",
+    "options": [
+      "Simply painting over the defect",
+      "Removing unsound material and patching with an appropriate bonding agent and repair material",
+      "Adding a new layer of unbonded concrete over the top",
+      "Ignoring it since it will self-heal"
+    ],
+    "correct": 1,
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
   }
 ]
