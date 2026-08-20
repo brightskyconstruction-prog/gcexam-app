@@ -13011,5 +13011,759 @@
   ],
   "correct": 1,
   "source": "IBC, Chapter 19: Concrete — Section: Minimum slab provisions; IRC, Chapter 4: Foundations — Section: compressive strength"
+ },
+ {
+  "id": "Q1002",
+  "legacyKey": "Per BCSI-B7, what is the maximum stack height of gypsum board that may be placed on a Parallel Chord Truss (PCT) during construction loading?",
+  "q": "Per BCSI-B7, what is the maximum stack height of gypsum board that may be placed on a Parallel Chord Truss (PCT) during construction loading?",
+  "options": [
+   "8 inches",
+   "12 inches",
+   "16 inches",
+   "24 inches"
+  ],
+  "correct": 1,
+  "source": "BCSI, B7: Parallel Chord Trusses"
+ },
+ {
+  "id": "Q1003",
+  "legacyKey": "Per BCSI-B7, what is the maximum stack height of plywood or OSB that may be placed on a Parallel Chord Truss (PCT)?",
+  "q": "Per BCSI-B7, what is the maximum stack height of plywood or OSB that may be placed on a Parallel Chord Truss (PCT)?",
+  "options": [
+   "12 inches",
+   "16 inches",
+   "20 inches",
+   "24 inches"
+  ],
+  "correct": 1,
+  "source": "BCSI, B7: Parallel Chord Trusses"
+ },
+ {
+  "id": "Q1004",
+  "legacyKey": "Per BCSI-B7, strongbacking used to limit differential deflection between adjacent floor trusses should use a minimum of what size lumber, oriented with the wide face vertical?",
+  "q": "Per BCSI-B7, strongbacking used to limit differential deflection between adjacent floor trusses should use a minimum of what size lumber, oriented with the wide face vertical?",
+  "options": [
+   "2x4 (nominal)",
+   "2x6 (nominal)",
+   "2x8 (nominal)",
+   "2x10 (nominal)"
+  ],
+  "correct": 1,
+  "source": "BCSI, B7: Parallel Chord Trusses"
+ },
+ {
+  "id": "Q1005",
+  "legacyKey": "Per BCSI-B7, rows of strongbacking on Parallel Chord Trusses should be spaced no more than how far apart, on-center?",
+  "q": "Per BCSI-B7, rows of strongbacking on Parallel Chord Trusses should be spaced no more than how far apart, on-center?",
+  "options": [
+   "6 feet",
+   "8 feet",
+   "10 feet",
+   "15 feet"
+  ],
+  "correct": 2,
+  "source": "BCSI, B7: Parallel Chord Trusses"
+ },
+ {
+  "id": "Q1006",
+  "legacyKey": "Per BCSI-B7, for a 3x2 Parallel Chord Truss, what is the maximum spacing for Top Chord Temporary Lateral Restraint (TCTLR)?",
+  "q": "Per BCSI-B7, for a 3x2 Parallel Chord Truss, what is the maximum spacing for Top Chord Temporary Lateral Restraint (TCTLR)?",
+  "options": [
+   "6 feet on-center",
+   "10 feet on-center",
+   "15 feet on-center",
+   "20 feet on-center"
+  ],
+  "correct": 1,
+  "source": "BCSI, B7: Parallel Chord Trusses"
+ },
+ {
+  "id": "Q1007",
+  "legacyKey": "Per BCSI-B7, for a 4x2 Parallel Chord Truss, what is the maximum spacing for Top Chord Temporary Lateral Restraint (TCTLR)?",
+  "q": "Per BCSI-B7, for a 4x2 Parallel Chord Truss, what is the maximum spacing for Top Chord Temporary Lateral Restraint (TCTLR)?",
+  "options": [
+   "10 feet on-center",
+   "15 feet on-center",
+   "20 feet on-center",
+   "25 feet on-center"
+  ],
+  "correct": 1,
+  "source": "BCSI, B7: Parallel Chord Trusses"
+ },
+ {
+  "id": "Q1008",
+  "legacyKey": "Per BCSI-B7, if a bottom chord bearing PCT's bottom chords are NOT restrained by a directly applied gypsum panel ceiling, diagonal bracing along the run of trusses must be installed at intervals of no more than:",
+  "q": "Per BCSI-B7, if a bottom chord bearing PCT's bottom chords are NOT restrained by a directly applied gypsum panel ceiling, diagonal bracing along the run of trusses must be installed at intervals of no more than:",
+  "options": [
+   "10 feet",
+   "15 feet",
+   "20 feet",
+   "30 feet"
+  ],
+  "correct": 2,
+  "source": "BCSI, B7: Parallel Chord Trusses"
+ },
+ {
+  "id": "Q1009",
+  "legacyKey": "Per BCSI-B7, unless otherwise specified, lateral restraint and diagonal bracing for PCT should use a minimum of what lumber, attached to each truss with a minimum of 2-10d nails?",
+  "q": "Per BCSI-B7, unless otherwise specified, lateral restraint and diagonal bracing for PCT should use a minimum of what lumber, attached to each truss with a minimum of 2-10d nails?",
+  "options": [
+   "2x3 stress-graded lumber",
+   "2x4 stress-graded lumber",
+   "2x6 stress-graded lumber",
+   "1x4 furring strips"
+  ],
+  "correct": 1,
+  "source": "BCSI, B7: Parallel Chord Trusses"
+ },
+ {
+  "id": "Q1010",
+  "legacyKey": "Per BCSI-B7, a single lift point may be used to hoist a securely banded bundle of trusses up to what maximum length?",
+  "q": "Per BCSI-B7, a single lift point may be used to hoist a securely banded bundle of trusses up to what maximum length?",
+  "options": [
+   "20 feet (6.1 m)",
+   "30 feet (9.1 m)",
+   "40 feet (12.2 m)",
+   "60 feet (18.3 m)"
+  ],
+  "correct": 1,
+  "source": "BCSI, B7: Parallel Chord Trusses"
+ },
+ {
+  "id": "Q1011",
+  "legacyKey": "According to BCSI-B7's alteration guidance, cutting, altering, or drilling a structural member of a truss is permitted only when:",
+  "q": "According to BCSI-B7's alteration guidance, cutting, altering, or drilling a structural member of a truss is permitted only when:",
+  "options": [
+   "The contractor determines it is a minor modification",
+   "It is specifically permitted by the Truss Design Drawing",
+   "A field superintendent verbally approves it",
+   "The hole is smaller than 2 inches in diameter"
+  ],
+  "correct": 1,
+  "source": "BCSI, B7: Parallel Chord Trusses"
+ },
+ {
+  "id": "Q1012",
+  "legacyKey": "Per BCSI-B7, at bearing locations of a bottom chord bearing PCT, which of the following should be installed (as specified by the building designer) to transfer lateral diaphragm forces to the shearwalls?",
+  "q": "Per BCSI-B7, at bearing locations of a bottom chord bearing PCT, which of the following should be installed (as specified by the building designer) to transfer lateral diaphragm forces to the shearwalls?",
+  "options": [
+   "Structural sheathing, ribbon board with structural sheathing, blocking panels, or rim board",
+   "A single toe-nail at each end only",
+   "Plastic shims",
+   "Drywall clips"
+  ],
+  "correct": 0,
+  "source": "BCSI, B7: Parallel Chord Trusses"
+ },
+ {
+  "id": "Q1013",
+  "legacyKey": "Per BCSI-B7, attaching a residential deck ledger directly to a 2x_ ribbon board is:",
+  "q": "Per BCSI-B7, attaching a residential deck ledger directly to a 2x_ ribbon board is:",
+  "options": [
+   "Always acceptable for decks under 8 feet wide",
+   "Not permitted unless a special detail is provided by the truss designer or building designer",
+   "Required by code on all bottom chord bearing PCT",
+   "Only a concern for commercial buildings"
+  ],
+  "correct": 1,
+  "source": "BCSI, B7: Parallel Chord Trusses"
+ },
+ {
+  "id": "Q1014",
+  "legacyKey": "Per BCSI-B8, a toe-nail attaching a truss to its bearing should be started at approximately what fraction of the nail's length from the bottom edge of the truss chord?",
+  "q": "Per BCSI-B8, a toe-nail attaching a truss to its bearing should be started at approximately what fraction of the nail's length from the bottom edge of the truss chord?",
+  "options": [
+   "One-quarter",
+   "One-third",
+   "One-half",
+   "Two-thirds"
+  ],
+  "correct": 1,
+  "source": "BCSI, B8: Toe-Nailed Connections"
+ },
+ {
+  "id": "Q1015",
+  "legacyKey": "Per BCSI-B8, toe-nails should be driven at approximately what angle from the face of the truss chord?",
+  "q": "Per BCSI-B8, toe-nails should be driven at approximately what angle from the face of the truss chord?",
+  "options": [
+   "15°",
+   "30°",
+   "45°",
+   "60°"
+  ],
+  "correct": 1,
+  "source": "BCSI, B8: Toe-Nailed Connections"
+ },
+ {
+  "id": "Q1016",
+  "legacyKey": "Per BCSI-B8, what is the maximum total number of toe-nails (including both sides) recommended for full bearing on a 2x4 (3-1/2\") top plate?",
+  "q": "Per BCSI-B8, what is the maximum total number of toe-nails (including both sides) recommended for full bearing on a 2x4 (3-1/2\") top plate?",
+  "options": [
+   "Two",
+   "Three",
+   "Four",
+   "Five"
+  ],
+  "correct": 1,
+  "source": "BCSI, B8: Toe-Nailed Connections"
+ },
+ {
+  "id": "Q1017",
+  "legacyKey": "Per BCSI-B8, what is the maximum total number of toe-nails (including both sides) recommended for full bearing on a 2x6 (5-1/2\") top plate?",
+  "q": "Per BCSI-B8, what is the maximum total number of toe-nails (including both sides) recommended for full bearing on a 2x6 (5-1/2\") top plate?",
+  "options": [
+   "Three",
+   "Four",
+   "Five",
+   "Six"
+  ],
+  "correct": 2,
+  "source": "BCSI, B8: Toe-Nailed Connections"
+ },
+ {
+  "id": "Q1018",
+  "legacyKey": "Per BCSI-B8, when toe-nailing the top or bottom chord of a jack truss to the side of a Girder Truss or wood beam, the total number of nails should be limited to how many for 2x4 chords?",
+  "q": "Per BCSI-B8, when toe-nailing the top or bottom chord of a jack truss to the side of a Girder Truss or wood beam, the total number of nails should be limited to how many for 2x4 chords?",
+  "options": [
+   "Two",
+   "Three",
+   "Four",
+   "Five"
+  ],
+  "correct": 1,
+  "source": "BCSI, B8: Toe-Nailed Connections"
+ },
+ {
+  "id": "Q1019",
+  "legacyKey": "Per BCSI-B8, nailing through a truss's metal connector plates when installing a toe-nailed connection is:",
+  "q": "Per BCSI-B8, nailing through a truss's metal connector plates when installing a toe-nailed connection is:",
+  "options": [
+   "Never allowed under any circumstances",
+   "Allowed, provided the nailing does not damage the metal plate",
+   "Only allowed on floor trusses, never roof trusses",
+   "Only allowed if pre-approved in writing by OSHA"
+  ],
+  "correct": 1,
+  "source": "BCSI, B8: Toe-Nailed Connections"
+ },
+ {
+  "id": "Q1020",
+  "legacyKey": "Per BCSI-B8, which factor increases a toe-nail's resistance to withdrawal and lateral forces?",
+  "q": "Per BCSI-B8, which factor increases a toe-nail's resistance to withdrawal and lateral forces?",
+  "options": [
+   "Using a smaller-diameter nail shank",
+   "Using a denser grade and species of lumber",
+   "Reducing the length of penetration into the wood",
+   "Using a smooth-shank nail instead of a deformed-shank nail"
+  ],
+  "correct": 1,
+  "source": "BCSI, B8: Toe-Nailed Connections"
+ },
+ {
+  "id": "Q1021",
+  "legacyKey": "Per BCSI-B8's Table 2 load duration factors for connections, which load duration factor applies to wind or earthquake (impact) loading?",
+  "q": "Per BCSI-B8's Table 2 load duration factors for connections, which load duration factor applies to wind or earthquake (impact) loading?",
+  "options": [
+   "0.9",
+   "1.0",
+   "1.25",
+   "1.33/1.6"
+  ],
+  "correct": 3,
+  "source": "BCSI, B8: Toe-Nailed Connections"
+ },
+ {
+  "id": "Q1022",
+  "legacyKey": "Per BCSI-B8, in a typical roof-to-wall assembly, lateral load transfer between the roof diaphragm and the supporting wall occurs through the heel of the truss unless:",
+  "q": "Per BCSI-B8, in a typical roof-to-wall assembly, lateral load transfer between the roof diaphragm and the supporting wall occurs through the heel of the truss unless:",
+  "options": [
+   "The truss is longer than 30 feet",
+   "Some other means, such as blocking, is provided to transfer the load directly between the roof sheathing and the wall plate",
+   "The wall is load-bearing",
+   "The truss spacing exceeds 24 inches on-center"
+  ],
+  "correct": 1,
+  "source": "BCSI, B8: Toe-Nailed Connections"
+ },
+ {
+  "id": "Q1023",
+  "legacyKey": "Per BCSI-B8, attachments of trusses to non-bearing interior walls must allow for what type of connection, to prevent partition separation?",
+  "q": "Per BCSI-B8, attachments of trusses to non-bearing interior walls must allow for what type of connection, to prevent partition separation?",
+  "options": [
+   "A rigid connection",
+   "A floating connection",
+   "A welded connection",
+   "A permanently glued connection"
+  ],
+  "correct": 1,
+  "source": "BCSI, B8: Toe-Nailed Connections"
+ },
+ {
+  "id": "Q1024",
+  "legacyKey": "Per BCSI-B8, when a truss's design reaction exceeds the capacity of a toe-nailed connection, which alternative connection options are suggested?",
+  "q": "Per BCSI-B8, when a truss's design reaction exceeds the capacity of a toe-nailed connection, which alternative connection options are suggested?",
+  "options": [
+   "There is no alternative; the truss must be redesigned",
+   "A screwed connection per NDS, or a metal anchor, strap, tie, or hanger connection",
+   "Doubling the toe-nail count regardless of capacity tables",
+   "Switching to a smooth-shank sinker nail"
+  ],
+  "correct": 1,
+  "source": "BCSI, B8: Toe-Nailed Connections"
+ },
+ {
+  "id": "Q1025",
+  "legacyKey": "Per BCSI-B8, when toe-nailing a corner jack truss to a corner Girder Truss, the trusses typically intersect at what range of angles?",
+  "q": "Per BCSI-B8, when toe-nailing a corner jack truss to a corner Girder Truss, the trusses typically intersect at what range of angles?",
+  "options": [
+   "0° to 15°",
+   "15° to 30°",
+   "30° to 60°",
+   "60° to 90°"
+  ],
+  "correct": 2,
+  "source": "BCSI, B8: Toe-Nailed Connections"
+ },
+ {
+  "id": "Q1026",
+  "legacyKey": "Per BCSI-B9, a Girder Truss may consist of a single ply or as many as how many plies?",
+  "q": "Per BCSI-B9, a Girder Truss may consist of a single ply or as many as how many plies?",
+  "options": [
+   "Three",
+   "Four",
+   "Five",
+   "Six"
+  ],
+  "correct": 3,
+  "source": "BCSI, B9: Multi-Ply Girders"
+ },
+ {
+  "id": "Q1027",
+  "legacyKey": "Per BCSI-B9, before attaching any supported members or other loads to a multi-ply Girder Truss, what must be done first?",
+  "q": "Per BCSI-B9, before attaching any supported members or other loads to a multi-ply Girder Truss, what must be done first?",
+  "options": [
+   "The girder must be painted for weather protection",
+   "All plies must be completely fastened together in accordance with the requirements specified on the Truss Design Drawing (TDD)",
+   "The girder must be inspected by OSHA",
+   "Only the first and last ply need to be connected"
+  ],
+  "correct": 1,
+  "source": "BCSI, B9: Multi-Ply Girders"
+ },
+ {
+  "id": "Q1028",
+  "legacyKey": "Per BCSI-B9, girder trusses fastened together with nails at the jobsite are limited to a maximum of how many plies?",
+  "q": "Per BCSI-B9, girder trusses fastened together with nails at the jobsite are limited to a maximum of how many plies?",
+  "options": [
+   "Two",
+   "Three",
+   "Four",
+   "Six"
+  ],
+  "correct": 1,
+  "source": "BCSI, B9: Multi-Ply Girders"
+ },
+ {
+  "id": "Q1029",
+  "legacyKey": "Per BCSI-B9, girder trusses connected with specifically designed high-strength screws are permitted up to how many plies?",
+  "q": "Per BCSI-B9, girder trusses connected with specifically designed high-strength screws are permitted up to how many plies?",
+  "options": [
+   "Two",
+   "Three",
+   "Four",
+   "Six"
+  ],
+  "correct": 2,
+  "source": "BCSI, B9: Multi-Ply Girders"
+ },
+ {
+  "id": "Q1030",
+  "legacyKey": "Per BCSI-B9, using bolted connections, a multi-ply girder supporting loads on only ONE side is limited to a maximum of how many plies?",
+  "q": "Per BCSI-B9, using bolted connections, a multi-ply girder supporting loads on only ONE side is limited to a maximum of how many plies?",
+  "options": [
+   "Three",
+   "Four",
+   "Five",
+   "Six"
+  ],
+  "correct": 2,
+  "source": "BCSI, B9: Multi-Ply Girders"
+ },
+ {
+  "id": "Q1031",
+  "legacyKey": "Per BCSI-B9, using bolted connections, a multi-ply girder supporting loads on BOTH sides is permitted up to a maximum of how many plies?",
+  "q": "Per BCSI-B9, using bolted connections, a multi-ply girder supporting loads on BOTH sides is permitted up to a maximum of how many plies?",
+  "options": [
+   "Four",
+   "Five",
+   "Six",
+   "Eight"
+  ],
+  "correct": 2,
+  "source": "BCSI, B9: Multi-Ply Girders"
+ },
+ {
+  "id": "Q1032",
+  "legacyKey": "Per BCSI-B9, a multi-ply girder fastened together with nails at the jobsite (rather than at the manufacturing plant) should have:",
+  "q": "Per BCSI-B9, a multi-ply girder fastened together with nails at the jobsite (rather than at the manufacturing plant) should have:",
+  "options": [
+   "The nail heads visible for inspection",
+   "The nail heads countersunk and hidden",
+   "No visible fasteners of any kind",
+   "Only screws, never nails, used for any connection"
+  ],
+  "correct": 0,
+  "source": "BCSI, B9: Multi-Ply Girders"
+ },
+ {
+  "id": "Q1033",
+  "legacyKey": "Per BCSI-B9, when installing bolted connections on a multi-ply girder, the contractor should:",
+  "q": "Per BCSI-B9, when installing bolted connections on a multi-ply girder, the contractor should:",
+  "options": [
+   "Oversize the bolt holes slightly for easier assembly",
+   "Pre-drill all bolt holes without oversizing them, and use washers at the bolt head and nut",
+   "Skip pre-drilling if using structural composite lumber",
+   "Use bolts only, without any washers"
+  ],
+  "correct": 1,
+  "source": "BCSI, B9: Multi-Ply Girders"
+ },
+ {
+  "id": "Q1034",
+  "legacyKey": "Per BCSI-B9, the type, size, and spacing of fasteners used to connect the individual plies of a multi-ply girder must be determined by:",
+  "q": "Per BCSI-B9, the type, size, and spacing of fasteners used to connect the individual plies of a multi-ply girder must be determined by:",
+  "options": [
+   "The framing crew's standard practice",
+   "The requirements specified on the Truss Design Drawing (TDD)",
+   "Whatever fasteners are available on the jobsite",
+   "The lumber supplier's general recommendation"
+  ],
+  "correct": 1,
+  "source": "BCSI, B9: Multi-Ply Girders"
+ },
+ {
+  "id": "Q1035",
+  "legacyKey": "Per BCSI-B9, before a multi-ply Girder Truss can be considered stable, it must also be:",
+  "q": "Per BCSI-B9, before a multi-ply Girder Truss can be considered stable, it must also be:",
+  "options": [
+   "Left completely unbraced until final inspection",
+   "Laterally restrained and braced to ensure lateral stability and prevent unexpected deflection or rotation",
+   "Painted with a fire retardant coating",
+   "Supported only at its midpoint"
+  ],
+  "correct": 1,
+  "source": "BCSI, B9: Multi-Ply Girders"
+ },
+ {
+  "id": "Q1036",
+  "legacyKey": "Per BCSI-B9, two-ply floor trusses are permitted to be attached together using:",
+  "q": "Per BCSI-B9, two-ply floor trusses are permitted to be attached together using:",
+  "options": [
+   "Screws, per the TDD and the screw manufacturer's recommendations",
+   "Duct tape and construction adhesive only",
+   "Toe-nails exclusively",
+   "No fasteners are required for two-ply floor trusses"
+  ],
+  "correct": 0,
+  "source": "BCSI, B9: Multi-Ply Girders"
+ },
+ {
+  "id": "Q1037",
+  "legacyKey": "Per BCSI-B10, trusses with clear spans of 60 feet or greater are considered extremely dangerous to install and require:",
+  "q": "Per BCSI-B10, trusses with clear spans of 60 feet or greater are considered extremely dangerous to install and require:",
+  "options": [
+   "No special precautions beyond standard bracing",
+   "A registered design professional to provide a restraint/bracing plan and supervise the erection process",
+   "Only a two-person crew to reduce risk",
+   "Installation exclusively at night to avoid wind"
+  ],
+  "correct": 1,
+  "source": "BCSI, B10: Post Frame Truss Installation & Bracing"
+ },
+ {
+  "id": "Q1038",
+  "legacyKey": "Per BCSI-B10, the post-frame installation guidance applies to trusses with flat bottom chords spaced within what range, on-center?",
+  "q": "Per BCSI-B10, the post-frame installation guidance applies to trusses with flat bottom chords spaced within what range, on-center?",
+  "options": [
+   "1 to 2 feet",
+   "2 to 4 feet",
+   "4 to 12 feet",
+   "12 to 20 feet"
+  ],
+  "correct": 2,
+  "source": "BCSI, B10: Post Frame Truss Installation & Bracing"
+ },
+ {
+  "id": "Q1039",
+  "legacyKey": "Per BCSI-B10, establishing a stable 'base unit' of trusses on side wall columns and header system typically requires how much sidewall length?",
+  "q": "Per BCSI-B10, establishing a stable 'base unit' of trusses on side wall columns and header system typically requires how much sidewall length?",
+  "options": [
+   "4 to 8 feet",
+   "8 to 12 feet",
+   "16 to 24 feet",
+   "40 to 50 feet"
+  ],
+  "correct": 2,
+  "source": "BCSI, B10: Post Frame Truss Installation & Bracing"
+ },
+ {
+  "id": "Q1040",
+  "legacyKey": "Per BCSI-B10, chains or cables used with turnbuckles or come-alongs to resist movement of the truss base unit should have a minimum capacity of:",
+  "q": "Per BCSI-B10, chains or cables used with turnbuckles or come-alongs to resist movement of the truss base unit should have a minimum capacity of:",
+  "options": [
+   "500 lbs",
+   "1,000 lbs",
+   "2,000 lbs",
+   "5,000 lbs"
+  ],
+  "correct": 2,
+  "source": "BCSI, B10: Post Frame Truss Installation & Bracing"
+ },
+ {
+  "id": "Q1041",
+  "legacyKey": "Per BCSI-B10, unless otherwise specified by the building designer, temporary restraint and bracing connections for post-frame trusses should use a minimum of:",
+  "q": "Per BCSI-B10, unless otherwise specified by the building designer, temporary restraint and bracing connections for post-frame trusses should use a minimum of:",
+  "options": [
+   "2-8d (0.113x2.5\") nails",
+   "2-16d (0.135x3.5\") nails",
+   "A single construction screw",
+   "One 16d nail per connection"
+  ],
+  "correct": 1,
+  "source": "BCSI, B10: Post Frame Truss Installation & Bracing"
+ },
+ {
+  "id": "Q1042",
+  "legacyKey": "Per BCSI-B10, PERMANENT bottom chord lateral restraint for post-frame trusses must be installed at no more than what spacing, unless a closer spacing is specified?",
+  "q": "Per BCSI-B10, PERMANENT bottom chord lateral restraint for post-frame trusses must be installed at no more than what spacing, unless a closer spacing is specified?",
+  "options": [
+   "6 feet on-center",
+   "10 feet on-center",
+   "15 feet on-center",
+   "20 feet on-center"
+  ],
+  "correct": 1,
+  "source": "BCSI, B10: Post Frame Truss Installation & Bracing"
+ },
+ {
+  "id": "Q1043",
+  "legacyKey": "Per BCSI-B10, TEMPORARY bottom chord lateral restraint for post-frame trusses should be installed at a maximum spacing of:",
+  "q": "Per BCSI-B10, TEMPORARY bottom chord lateral restraint for post-frame trusses should be installed at a maximum spacing of:",
+  "options": [
+   "10 feet on-center",
+   "15 feet on-center",
+   "20 feet on-center",
+   "25 feet on-center"
+  ],
+  "correct": 1,
+  "source": "BCSI, B10: Post Frame Truss Installation & Bracing"
+ },
+ {
+  "id": "Q1044",
+  "legacyKey": "Per BCSI-B10, to prevent truss 'rollover' (rotation), truss-to-truss cross bracing should be installed at each row of bottom chord lateral restraint and at what maximum interval along the building length?",
+  "q": "Per BCSI-B10, to prevent truss 'rollover' (rotation), truss-to-truss cross bracing should be installed at each row of bottom chord lateral restraint and at what maximum interval along the building length?",
+  "options": [
+   "10 feet",
+   "20 feet",
+   "30 feet",
+   "45 feet"
+  ],
+  "correct": 1,
+  "source": "BCSI, B10: Post Frame Truss Installation & Bracing"
+ },
+ {
+  "id": "Q1045",
+  "legacyKey": "Per BCSI-B10, permanent bracing is required within all of the following planes of a post-frame roof truss EXCEPT:",
+  "q": "Per BCSI-B10, permanent bracing is required within all of the following planes of a post-frame roof truss EXCEPT:",
+  "options": [
+   "Top chord plane",
+   "Bottom chord plane",
+   "Web member plane",
+   "Ridge plane"
+  ],
+  "correct": 3,
+  "source": "BCSI, B10: Post Frame Truss Installation & Bracing"
+ },
+ {
+  "id": "Q1046",
+  "legacyKey": "Per BCSI-B10, 'sway bracing' on web members near each row of bottom chord lateral restraint is:",
+  "q": "Per BCSI-B10, 'sway bracing' on web members near each row of bottom chord lateral restraint is:",
+  "options": [
+   "Always mandatory on every post-frame building regardless of design",
+   "Designed and installed at the discretion of the building designer, and is not always required",
+   "Only used to resist snow loads",
+   "A substitute for permanent bottom chord lateral restraint"
+  ],
+  "correct": 1,
+  "source": "BCSI, B10: Post Frame Truss Installation & Bracing"
+ },
+ {
+  "id": "Q1047",
+  "legacyKey": "Per BCSI-B10's Table 2 for minimum lumber for permanent restraint/bracing, what is the specified minimum lumber grade?",
+  "q": "Per BCSI-B10's Table 2 for minimum lumber for permanent restraint/bracing, what is the specified minimum lumber grade?",
+  "options": [
+   "SPF No. 2",
+   "Douglas Fir-Larch Select Structural",
+   "Southern Pine No. 1",
+   "Any grade of lumber is acceptable"
+  ],
+  "correct": 0,
+  "source": "BCSI, B10: Post Frame Truss Installation & Bracing"
+ },
+ {
+  "id": "Q1048",
+  "legacyKey": "Per BCSI-B10, once the temporary base unit is established, additional top chord temporary diagonal bracing should be added at intervals not to exceed 100 feet or how many truss spaces, whichever is less?",
+  "q": "Per BCSI-B10, once the temporary base unit is established, additional top chord temporary diagonal bracing should be added at intervals not to exceed 100 feet or how many truss spaces, whichever is less?",
+  "options": [
+   "6 truss spaces",
+   "12 truss spaces",
+   "20 truss spaces",
+   "30 truss spaces"
+  ],
+  "correct": 1,
+  "source": "BCSI, B10: Post Frame Truss Installation & Bracing"
+ },
+ {
+  "id": "Q1049",
+  "legacyKey": "Per BCSI-B11, OSHA's residential construction fall protection standard (29 CFR 1926.501(b)(13)) requires guardrails, scaffolding, a safety net system, or a personal fall arrest system for employees working how far above lower levels?",
+  "q": "Per BCSI-B11, OSHA's residential construction fall protection standard (29 CFR 1926.501(b)(13)) requires guardrails, scaffolding, a safety net system, or a personal fall arrest system for employees working how far above lower levels?",
+  "options": [
+   "4 feet or more",
+   "6 feet or more",
+   "10 feet or more",
+   "15 feet or more"
+  ],
+  "correct": 1,
+  "source": "BCSI, B11: Fall Protection & Trusses"
+ },
+ {
+  "id": "Q1050",
+  "legacyKey": "Per BCSI-B11, using any part of an inadequately braced or sheathed truss system as an anchorage point for a personal fall arrest system is:",
+  "q": "Per BCSI-B11, using any part of an inadequately braced or sheathed truss system as an anchorage point for a personal fall arrest system is:",
+  "options": [
+   "Acceptable as long as it's a single-family residence",
+   "Dangerous, and will increase the risk of serious injury or death",
+   "Permitted for trusses under 30 feet in span",
+   "Only a concern for floor trusses, not roof trusses"
+  ],
+  "correct": 1,
+  "source": "BCSI, B11: Fall Protection & Trusses"
+ },
+ {
+  "id": "Q1051",
+  "legacyKey": "Per BCSI-B11, walking on trusses or gable end frames that are lying flat on the ground is:",
+  "q": "Per BCSI-B11, walking on trusses or gable end frames that are lying flat on the ground is:",
+  "options": [
+   "Safe as long as the trusses are banded together",
+   "Extremely dangerous, since they lack the structural strength to support a worker while lying flat",
+   "Only dangerous for floor trusses",
+   "Recommended over walking on installed trusses"
+  ],
+  "correct": 1,
+  "source": "BCSI, B11: Fall Protection & Trusses"
+ },
+ {
+  "id": "Q1052",
+  "legacyKey": "Per BCSI-B11, a worker should not stand on truss overhangs until:",
+  "q": "Per BCSI-B11, a worker should not stand on truss overhangs until:",
+  "options": [
+   "The truss manufacturer issues written approval",
+   "Structural sheathing has been applied to the truss and overhangs",
+   "The building is fully enclosed",
+   "A crane is on standby nearby"
+  ],
+  "correct": 1,
+  "source": "BCSI, B11: Fall Protection & Trusses"
+ },
+ {
+  "id": "Q1053",
+  "legacyKey": "Per BCSI-B11, the appropriate fall protection method for a given job must be determined through a:",
+  "q": "Per BCSI-B11, the appropriate fall protection method for a given job must be determined through a:",
+  "options": [
+   "General industry rule of thumb",
+   "Site-specific Job Hazard Assessment (JHA) conducted by a qualified person",
+   "Verbal agreement between the crew and foreman",
+   "One-time company-wide policy that applies to every jobsite identically"
+  ],
+  "correct": 1,
+  "source": "BCSI, B11: Fall Protection & Trusses"
+ },
+ {
+  "id": "Q1054",
+  "legacyKey": "Per BCSI-B11, before installing a roof anchor for use as a personal fall restraint system, the truss system must be:",
+  "q": "Per BCSI-B11, before installing a roof anchor for use as a personal fall restraint system, the truss system must be:",
+  "options": [
+   "Left as-is; anchors can be installed on any truss",
+   "Completely braced per BCSI-B1 and BCSI-B2, or sheathed",
+   "Painted with a high-visibility coating",
+   "Only partially braced, to save time"
+  ],
+  "correct": 1,
+  "source": "BCSI, B11: Fall Protection & Trusses"
+ },
+ {
+  "id": "Q1055",
+  "legacyKey": "Per BCSI-B11, it is always safest to sheath how large a section of the roof system before installing a roof anchor for personal fall restraint?",
+  "q": "Per BCSI-B11, it is always safest to sheath how large a section of the roof system before installing a roof anchor for personal fall restraint?",
+  "options": [
+   "A single truss",
+   "3 or more trusses",
+   "The entire roof only",
+   "No sheathing is ever required before anchor installation"
+  ],
+  "correct": 1,
+  "source": "BCSI, B11: Fall Protection & Trusses"
+ },
+ {
+  "id": "Q1056",
+  "legacyKey": "Per BCSI-B11, an employer may implement a written Alternative Fall Protection Plan (per 29 CFR 1926.501(b)(13)) only after a qualified person demonstrates that conventional fall protection measures are:",
+  "q": "Per BCSI-B11, an employer may implement a written Alternative Fall Protection Plan (per 29 CFR 1926.501(b)(13)) only after a qualified person demonstrates that conventional fall protection measures are:",
+  "options": [
+   "Slightly less convenient than the alternative",
+   "Infeasible, or present a greater hazard to the worker or crew",
+   "More expensive than the alternative",
+   "Not preferred by the crew"
+  ],
+  "correct": 1,
+  "source": "BCSI, B11: Fall Protection & Trusses"
+ },
+ {
+  "id": "Q1057",
+  "legacyKey": "Per BCSI-B11's 'ground assembly' technique, a truss system may be pre-assembled on the ground, fully restrained and braced (or sheathed), then lifted into place; this pre-assembled section may then be used as:",
+  "q": "Per BCSI-B11's 'ground assembly' technique, a truss system may be pre-assembled on the ground, fully restrained and braced (or sheathed), then lifted into place; this pre-assembled section may then be used as:",
+  "options": [
+   "A permanent storage rack",
+   "An attachment point for personal fall restraint anchorage",
+   "A substitute for a crane",
+   "A replacement for guardrails on the entire building"
+  ],
+  "correct": 1,
+  "source": "BCSI, B11: Fall Protection & Trusses"
+ },
+ {
+  "id": "Q1058",
+  "legacyKey": "Per BCSI-B11, besides the fall hazard itself, which of the following is specifically listed as an additional hazard to consider when selecting a site-specific fall protection system?",
+  "q": "Per BCSI-B11, besides the fall hazard itself, which of the following is specifically listed as an additional hazard to consider when selecting a site-specific fall protection system?",
+  "options": [
+   "Excessive daylight",
+   "Projectile hazards from pneumatic nail guns",
+   "Overuse of hand tools",
+   "Slow curing time of concrete"
+  ],
+  "correct": 1,
+  "source": "BCSI, B11: Fall Protection & Trusses"
+ },
+ {
+  "id": "Q1059",
+  "legacyKey": "Per BCSI-B11, individual trusses by themselves are:",
+  "q": "Per BCSI-B11, individual trusses by themselves are:",
+  "options": [
+   "Always adequate to support any fall protection equipment",
+   "NOT designed to support fall protection equipment",
+   "Rated for fall protection only if they span more than 40 feet",
+   "Only unsuitable for fall protection on floor trusses"
+  ],
+  "correct": 1,
+  "source": "BCSI, B11: Fall Protection & Trusses"
  }
 ]
