@@ -24529,5 +24529,1630 @@
     ],
     "correct": 1,
     "source": "IRC, Chapter 44: referenced standards"
+  },
+  {
+    "id": "Q1888",
+    "legacyKey": "In the masonry industry, a mason 'tender' is generally responsible for:",
+    "q": "In the masonry industry, a mason 'tender' is generally responsible for:",
+    "options": [
+      "Designing the structural masonry system",
+      "Supplying, mixing, and moving materials (mortar, units) so the mason can maintain a steady pace of work",
+      "Approving building permits",
+      "Inspecting the completed wall for code compliance"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 1: Careers in the Masonry Industry"
+  },
+  {
+    "id": "Q1889",
+    "legacyKey": "A 'journeyman' mason is generally defined as:",
+    "q": "A 'journeyman' mason is generally defined as:",
+    "options": [
+      "A first-year apprentice with no field experience",
+      "A mason who has completed an apprenticeship and is qualified to work without direct supervision",
+      "A trainee attending only classroom instruction",
+      "A supervisor with no hands-on masonry experience"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 1: Careers in the Masonry Industry"
+  },
+  {
+    "id": "Q1890",
+    "legacyKey": "Masonry apprenticeship programs typically combine:",
+    "q": "Masonry apprenticeship programs typically combine:",
+    "options": [
+      "Only classroom instruction with no fieldwork",
+      "On-the-job training with related classroom instruction",
+      "Only online coursework",
+      "A single weekend orientation session"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 1: Careers in the Masonry Industry"
+  },
+  {
+    "id": "Q1891",
+    "legacyKey": "Career advancement within the masonry trade may lead to a position such as:",
+    "q": "Career advancement within the masonry trade may lead to a position such as:",
+    "options": [
+      "Automatically becoming a licensed architect",
+      "Mason contractor or foreman, overseeing crews and project execution",
+      "Immediate transfer to an unrelated trade",
+      "Elimination of the need for further training"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 1: Careers in the Masonry Industry"
+  },
+  {
+    "id": "Q1892",
+    "legacyKey": "On a masonry jobsite, a foreman's primary leadership responsibility generally includes:",
+    "q": "On a masonry jobsite, a foreman's primary leadership responsibility generally includes:",
+    "options": [
+      "Working alone without coordinating the crew",
+      "Directing the crew's daily work, ensuring quality and schedule, and communicating with the general contractor or superintendent",
+      "Only handling payroll paperwork",
+      "Avoiding any contact with the general contractor"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 2: Job Performance, Leadership, Ethics, and Entrepreneurship"
+  },
+  {
+    "id": "Q1893",
+    "legacyKey": "Professional ethics in the masonry trade generally require a contractor to:",
+    "q": "Professional ethics in the masonry trade generally require a contractor to:",
+    "options": [
+      "Provide the lowest possible bid regardless of accuracy",
+      "Provide honest, accurate estimates and perform work as specified in the contract",
+      "Substitute materials without notifying the owner",
+      "Avoid disclosing project delays to the client"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 2: Job Performance, Leadership, Ethics, and Entrepreneurship"
+  },
+  {
+    "id": "Q1894",
+    "legacyKey": "To operate as a masonry contracting business, an entrepreneur is generally required to obtain:",
+    "q": "To operate as a masonry contracting business, an entrepreneur is generally required to obtain:",
+    "options": [
+      "Nothing beyond a personal bank account",
+      "A contractor's license, liability insurance, and (where required) bonding",
+      "Only a business card and letterhead",
+      "A trademark for the company logo"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 2: Job Performance, Leadership, Ethics, and Entrepreneurship"
+  },
+  {
+    "id": "Q1895",
+    "legacyKey": "Consistent job performance in masonry work is generally supported by:",
+    "q": "Consistent job performance in masonry work is generally supported by:",
+    "options": [
+      "Ignoring project deadlines",
+      "Punctuality, reliability, and a strong work ethic",
+      "Frequent unexplained absences",
+      "Avoiding communication with supervisors"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 2: Job Performance, Leadership, Ethics, and Entrepreneurship"
+  },
+  {
+    "id": "Q1896",
+    "legacyKey": "Clear communication between the mason and the general contractor or architect is important primarily to:",
+    "q": "Clear communication between the mason and the general contractor or architect is important primarily to:",
+    "options": [
+      "Delay the project as long as possible",
+      "Ensure the work meets specifications and to resolve field questions before they cause errors or delays",
+      "Avoid ever asking questions on site",
+      "Reduce the amount of documentation on a project"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 2: Job Performance, Leadership, Ethics, and Entrepreneurship"
+  },
+  {
+    "id": "Q1897",
+    "legacyKey": "A mason's 'story pole' (course pole) is primarily used to:",
+    "q": "A mason's 'story pole' (course pole) is primarily used to:",
+    "options": [
+      "Mix mortar to the correct consistency",
+      "Mark and check the height of each course as the wall is built, ensuring consistent coursing",
+      "Cut brick to the correct length",
+      "Test the compressive strength of mortar"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 3: Tools and Equipment"
+  },
+  {
+    "id": "Q1898",
+    "legacyKey": "The 'line and line blocks' used in bricklaying serve primarily to:",
+    "q": "The 'line and line blocks' used in bricklaying serve primarily to:",
+    "options": [
+      "Provide a taut guideline along the wall face so each course is laid straight and level",
+      "Measure the moisture content of the brick",
+      "Mix grout for reinforced cells",
+      "Test the mortar's setting time"
+    ],
+    "correct": 0,
+    "source": "Masonry, Chapter 3: Tools and Equipment"
+  },
+  {
+    "id": "Q1899",
+    "legacyKey": "A 'modular rule' differs from a standard tape measure in that it is:",
+    "q": "A 'modular rule' differs from a standard tape measure in that it is:",
+    "options": [
+      "Made only of plastic",
+      "Graduated in masonry course increments (based on modular unit and joint dimensions) rather than standard inches, to speed up coursing layout",
+      "Used exclusively for measuring concrete slump",
+      "Only usable on stone masonry"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 3: Tools and Equipment"
+  },
+  {
+    "id": "Q1900",
+    "legacyKey": "The mason's tool used to strike sharp, accurate cuts on brick or block is generally called a:",
+    "q": "The mason's tool used to strike sharp, accurate cuts on brick or block is generally called a:",
+    "options": [
+      "Jointer",
+      "Brick set (mason's chisel)",
+      "Mortar hawk",
+      "Story pole"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 3: Tools and Equipment"
+  },
+  {
+    "id": "Q1901",
+    "legacyKey": "A 'mortar board' or 'mortar pan' is used on a masonry jobsite to:",
+    "q": "A 'mortar board' or 'mortar pan' is used on a masonry jobsite to:",
+    "options": [
+      "Hold a working supply of mortar within reach of the mason",
+      "Test the compressive strength of mortar cubes",
+      "Cut brick to size",
+      "Level the top course of a wall"
+    ],
+    "correct": 0,
+    "source": "Masonry, Chapter 3: Tools and Equipment"
+  },
+  {
+    "id": "Q1902",
+    "legacyKey": "A gasoline- or electric-powered 'masonry saw' with a diamond blade is typically used to:",
+    "q": "A gasoline- or electric-powered 'masonry saw' with a diamond blade is typically used to:",
+    "options": [
+      "Mix mortar for large pours",
+      "Make accurate cuts in brick, block, or stone that would be difficult to achieve by hand",
+      "Measure wall plumbness",
+      "Apply mortar to the bed joint"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 3: Tools and Equipment"
+  },
+  {
+    "id": "Q1903",
+    "legacyKey": "A mason's spirit level is used primarily to check:",
+    "q": "A mason's spirit level is used primarily to check:",
+    "options": [
+      "The compressive strength of a mortar joint",
+      "That courses are level (horizontal) and that the wall face is plumb (vertical)",
+      "The moisture content of concrete masonry units",
+      "The color consistency of clay brick"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 3: Tools and Equipment"
+  },
+  {
+    "id": "Q1904",
+    "legacyKey": "A mechanical mortar mixer is generally preferred over hand-mixing on larger jobs because it:",
+    "q": "A mechanical mortar mixer is generally preferred over hand-mixing on larger jobs because it:",
+    "options": [
+      "Requires no water at all",
+      "Produces more uniform, consistently mixed mortar in less time",
+      "Eliminates the need for sand in the mix",
+      "Automatically tools the mortar joints"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 3: Tools and Equipment"
+  },
+  {
+    "id": "Q1905",
+    "legacyKey": "Cutting or grinding masonry units generates silica dust, which is generally controlled on the jobsite by:",
+    "q": "Cutting or grinding masonry units generates silica dust, which is generally controlled on the jobsite by:",
+    "options": [
+      "Ignoring the hazard since masonry dust is inert",
+      "Using wet-cutting methods and/or approved respiratory protection, in accordance with applicable silica exposure requirements",
+      "Only working at night",
+      "Increasing the cutting speed of the saw"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 4: Safety"
+  },
+  {
+    "id": "Q1906",
+    "legacyKey": "Because fresh mortar and mixed mortar/lime products are caustic, masons are generally required to protect against skin and eye contact by wearing:",
+    "q": "Because fresh mortar and mixed mortar/lime products are caustic, masons are generally required to protect against skin and eye contact by wearing:",
+    "options": [
+      "No special protection is needed",
+      "Appropriate gloves and eye protection",
+      "Only a dust mask",
+      "Steel-toed boots only"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 4: Safety"
+  },
+  {
+    "id": "Q1907",
+    "legacyKey": "Masonry scaffolding is generally required to be designed and constructed to support:",
+    "q": "Masonry scaffolding is generally required to be designed and constructed to support:",
+    "options": [
+      "Only the weight of a single worker",
+      "At its own weight plus at least 4 times the maximum intended load",
+      "Half of the anticipated load",
+      "No specific load requirement"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 4: Safety"
+  },
+  {
+    "id": "Q1908",
+    "legacyKey": "Under general fall-protection requirements applicable to masonry work performed on a scaffold, workers are generally required to be protected from falls at a height of:",
+    "q": "Under general fall-protection requirements applicable to masonry work performed on a scaffold, workers are generally required to be protected from falls at a height of:",
+    "options": [
+      "2 feet or more above a lower level",
+      "10 feet or more above a lower level",
+      "50 feet or more above a lower level",
+      "Fall protection is never required on masonry scaffolds"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 4: Safety"
+  },
+  {
+    "id": "Q1909",
+    "legacyKey": "Power masonry saws are generally required to be equipped with:",
+    "q": "Power masonry saws are generally required to be equipped with:",
+    "options": [
+      "No specific safety feature",
+      "A blade guard",
+      "A remote shutoff located off-site",
+      "A secondary operator station"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 4: Safety"
+  },
+  {
+    "id": "Q1910",
+    "legacyKey": "Before starting work near an unsupported masonry wall, a mason should generally first verify that:",
+    "q": "Before starting work near an unsupported masonry wall, a mason should generally first verify that:",
+    "options": [
+      "The wall has been adequately braced against overturning",
+      "The mortar has fully cured",
+      "The wall has been painted",
+      "The scaffold has been removed"
+    ],
+    "correct": 0,
+    "source": "Masonry, Chapter 4: Safety"
+  },
+  {
+    "id": "Q1911",
+    "legacyKey": "An 'elevation' drawing in a set of masonry construction documents primarily shows:",
+    "q": "An 'elevation' drawing in a set of masonry construction documents primarily shows:",
+    "options": [
+      "A top-down view of the building's floor plan",
+      "The exterior (or interior) vertical face of a wall, including openings, coursing, and finish materials",
+      "Only the electrical wiring layout",
+      "The plumbing riser diagram"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 5: Print Reading"
+  },
+  {
+    "id": "Q1912",
+    "legacyKey": "A 'wall section' drawing is used by a mason primarily to determine:",
+    "q": "A 'wall section' drawing is used by a mason primarily to determine:",
+    "options": [
+      "The building's overall site location",
+      "The wall's makeup and dimensions from top to bottom, including materials, thicknesses, flashing, and connections",
+      "The mechanical duct routing",
+      "The landscaping plan"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 5: Print Reading"
+  },
+  {
+    "id": "Q1913",
+    "legacyKey": "An architect's scale is used to:",
+    "q": "An architect's scale is used to:",
+    "options": [
+      "Weigh masonry units before installation",
+      "Read drawings that are proportionally reduced from actual building dimensions",
+      "Test the compressive strength of concrete",
+      "Measure the pH of mortar"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 5: Print Reading"
+  },
+  {
+    "id": "Q1914",
+    "legacyKey": "In masonry hatching conventions used on construction drawings, brick is typically distinguished from concrete block by:",
+    "q": "In masonry hatching conventions used on construction drawings, brick is typically distinguished from concrete block by:",
+    "options": [
+      "Using identical hatching for both materials",
+      "A distinct hatch/fill pattern specific to each material, allowing the mason to identify materials at a glance",
+      "Color alone, with no pattern difference",
+      "Omitting all hatching for masonry materials"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 5: Print Reading"
+  },
+  {
+    "id": "Q1915",
+    "legacyKey": "When a conflict exists between the written specifications and the drawings, a mason should generally:",
+    "q": "When a conflict exists between the written specifications and the drawings, a mason should generally:",
+    "options": [
+      "Always follow the drawings without question",
+      "Bring the discrepancy to the attention of the general contractor, architect, or engineer for clarification before proceeding",
+      "Always follow the specifications without question",
+      "Proceed using personal judgment and never document the conflict"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 5: Print Reading"
+  },
+  {
+    "id": "Q1916",
+    "legacyKey": "In modular masonry coursing, a standard modular brick course (unit height plus mortar joint) typically equals approximately:",
+    "q": "In modular masonry coursing, a standard modular brick course (unit height plus mortar joint) typically equals approximately:",
+    "options": [
+      "2-2/3 inches per course, so 3 courses rise approximately 8 inches",
+      "12 inches per course",
+      "1/2 inch per course",
+      "6 inches per course"
+    ],
+    "correct": 0,
+    "source": "Masonry, Chapter 6: Math for Masonry Careers"
+  },
+  {
+    "id": "Q1917",
+    "legacyKey": "A standard 8x8x16-inch nominal concrete masonry unit, laid with a 3/8-inch mortar joint, rises approximately:",
+    "q": "A standard 8x8x16-inch nominal concrete masonry unit, laid with a 3/8-inch mortar joint, rises approximately:",
+    "options": [
+      "4 inches per course",
+      "8 inches per course",
+      "16 inches per course",
+      "24 inches per course"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 6: Math for Masonry Careers"
+  },
+  {
+    "id": "Q1918",
+    "legacyKey": "When estimating brick quantities, a mason typically calculates the number of bricks needed for a wall based on:",
+    "q": "When estimating brick quantities, a mason typically calculates the number of bricks needed for a wall based on:",
+    "options": [
+      "The wall's face area (square footage) multiplied by the number of bricks required per square foot for the specific unit and bond pattern",
+      "The number of workers on the crew",
+      "The height of the wall alone, with no width consideration",
+      "The color of the mortar"
+    ],
+    "correct": 0,
+    "source": "Masonry, Chapter 6: Math for Masonry Careers"
+  },
+  {
+    "id": "Q1919",
+    "legacyKey": "When estimating masonry materials, contractors typically add a waste/breakage allowance to the calculated quantity primarily to account for:",
+    "q": "When estimating masonry materials, contractors typically add a waste/breakage allowance to the calculated quantity primarily to account for:",
+    "options": [
+      "Cutting waste, breakage, and job-site loss",
+      "Additional profit margin only",
+      "Increased labor costs",
+      "Permit fees"
+    ],
+    "correct": 0,
+    "source": "Masonry, Chapter 6: Math for Masonry Careers"
+  },
+  {
+    "id": "Q1920",
+    "legacyKey": "To calculate the area of a wall for a material takeoff, a mason multiplies the wall's:",
+    "q": "To calculate the area of a wall for a material takeoff, a mason multiplies the wall's:",
+    "options": [
+      "Length by its height",
+      "Length by its thickness only",
+      "Height by its thickness only",
+      "Perimeter by its thickness"
+    ],
+    "correct": 0,
+    "source": "Masonry, Chapter 6: Math for Masonry Careers"
+  },
+  {
+    "id": "Q1921",
+    "legacyKey": "When calculating the number of concrete masonry units needed for a wall, the mason generally divides the wall's face area by:",
+    "q": "When calculating the number of concrete masonry units needed for a wall, the mason generally divides the wall's face area by:",
+    "options": [
+      "The volume of a single unit",
+      "The face area of a single unit (including its mortar joint allowance)",
+      "The weight of a single unit",
+      "The compressive strength of the unit"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 6: Math for Masonry Careers"
+  },
+  {
+    "id": "Q1922",
+    "legacyKey": "Clay brick are most commonly manufactured using which forming method?",
+    "q": "Clay brick are most commonly manufactured using which forming method?",
+    "options": [
+      "Hand-molding exclusively",
+      "The stiff-mud (extrusion) process, in which a column of clay is extruded through a die and cut into individual units by wire cutters",
+      "3D printing",
+      "Casting in a liquid slurry mold only"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 7: Clay Masonry Materials"
+  },
+  {
+    "id": "Q1923",
+    "legacyKey": "Brick grade 'SW' (Severe Weathering) indicates that the brick is intended for use in:",
+    "q": "Brick grade 'SW' (Severe Weathering) indicates that the brick is intended for use in:",
+    "options": [
+      "Interior applications only, never exposed to weather",
+      "Exposed exterior applications subject to freezing while saturated with water",
+      "Decorative applications only, never load-bearing",
+      "Underwater applications exclusively"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Masonry"
+  },
+  {
+    "id": "Q1924",
+    "legacyKey": "The ASTM standard that governs facing brick made from clay or shale is generally:",
+    "q": "The ASTM standard that governs facing brick made from clay or shale is generally:",
+    "options": [
+      "ASTM C90",
+      "ASTM C216",
+      "ASTM C270",
+      "ASTM C902"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Masonry"
+  },
+  {
+    "id": "Q1925",
+    "legacyKey": "The primary source of the soluble salts that cause efflorescence on masonry is generally:",
+    "q": "The primary source of the soluble salts that cause efflorescence on masonry is generally:",
+    "options": [
+      "Only rainwater falling on the finished wall",
+      "The masonry units, mortar, or backup materials themselves, carried to the surface by moisture as it evaporates",
+      "Only airborne pollution",
+      "Only the mason's hands during installation"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Analysis of Structural Masonry"
+  },
+  {
+    "id": "Q1926",
+    "legacyKey": "Variations in the color and texture of clay brick from the same production run are generally caused by:",
+    "q": "Variations in the color and texture of clay brick from the same production run are generally caused by:",
+    "options": [
+      "Intentional dyeing after firing",
+      "Natural variation in the clay/shale raw materials and firing conditions in the kiln",
+      "Random mixing with concrete block",
+      "Exposure to sunlight during shipping"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Masonry"
+  },
+  {
+    "id": "Q1927",
+    "legacyKey": "A 'modular' brick has nominal dimensions (including the mortar joint) of approximately:",
+    "q": "A 'modular' brick has nominal dimensions (including the mortar joint) of approximately:",
+    "options": [
+      "2 inches wide x 2 inches high x 4 inches long",
+      "4 inches wide x 2-2/3 inches high x 8 inches long",
+      "8 inches wide x 8 inches high x 16 inches long",
+      "1 inch wide x 1 inch high x 2 inches long"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Masonry"
+  },
+  {
+    "id": "Q1928",
+    "legacyKey": "The ASTM standard that governs loadbearing concrete masonry units is generally:",
+    "q": "The ASTM standard that governs loadbearing concrete masonry units is generally:",
+    "options": [
+      "ASTM C216",
+      "ASTM C90",
+      "ASTM C270",
+      "ASTM C1314"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+  },
+  {
+    "id": "Q1929",
+    "legacyKey": "Concrete masonry units are generally classified by density (weight classification) as:",
+    "q": "Concrete masonry units are generally classified by density (weight classification) as:",
+    "options": [
+      "Hard, medium, and soft",
+      "Normal weight, medium weight, or lightweight",
+      "Type M, S, and N",
+      "Grade SW, MW, and NW"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+  },
+  {
+    "id": "Q1930",
+    "legacyKey": "A concrete masonry unit specifically manufactured with a specific end shape for use at wall corners is generally called a:",
+    "q": "A concrete masonry unit specifically manufactured with a specific end shape for use at wall corners is generally called a:",
+    "options": [
+      "Bond beam unit",
+      "Corner unit (corner block)",
+      "Sash unit",
+      "Bullnose unit exclusively"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+  },
+  {
+    "id": "Q1931",
+    "legacyKey": "A 'bond beam' concrete masonry unit is distinguished by:",
+    "q": "A 'bond beam' concrete masonry unit is distinguished by:",
+    "options": [
+      "A solid, unbroken web with no openings",
+      "A U-shaped or knocked-out web design that allows horizontal reinforcing steel and grout to be placed within the course",
+      "A rounded, bullnose face shell",
+      "A glazed ceramic finish"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+  },
+  {
+    "id": "Q1932",
+    "legacyKey": "The minimum face shell thickness of a standard 8-inch hollow load-bearing concrete masonry unit is generally:",
+    "q": "The minimum face shell thickness of a standard 8-inch hollow load-bearing concrete masonry unit is generally:",
+    "options": [
+      "1/2 inch",
+      "1-1/4 inches",
+      "3 inches",
+      "6 inches"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+  },
+  {
+    "id": "Q1933",
+    "legacyKey": "Concrete masonry units are generally cured after molding using methods such as:",
+    "q": "Concrete masonry units are generally cured after molding using methods such as:",
+    "options": [
+      "Sun-drying only, with no controlled method",
+      "Autoclave (high-pressure steam) curing or atmospheric (low-pressure steam or moist) curing",
+      "Submersion in a saltwater bath",
+      "Open-flame kiln firing, as with clay brick"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+  },
+  {
+    "id": "Q1934",
+    "legacyKey": "A 'sash' or 'jamb' concrete masonry unit is designed specifically for use:",
+    "q": "A 'sash' or 'jamb' concrete masonry unit is designed specifically for use:",
+    "options": [
+      "Only at the top of a parapet wall",
+      "At door and window openings, providing a flat surface for frame attachment",
+      "Only below grade in foundation walls",
+      "Only as a decorative cap unit"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+  },
+  {
+    "id": "Q1935",
+    "legacyKey": "Controlling the moisture content of concrete masonry units before installation is important primarily to:",
+    "q": "Controlling the moisture content of concrete masonry units before installation is important primarily to:",
+    "options": [
+      "Increase the unit's weight for shipping",
+      "Reduce shrinkage cracking after the units are placed in the wall",
+      "Improve the unit's fire rating",
+      "Change the unit's color"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+  },
+  {
+    "id": "Q1936",
+    "legacyKey": "Stone used in masonry construction is generally classified by geological origin into three groups:",
+    "q": "Stone used in masonry construction is generally classified by geological origin into three groups:",
+    "options": [
+      "Hard, medium, and soft",
+      "Igneous, sedimentary, and metamorphic",
+      "Modular, standard, and oversized",
+      "Type M, S, and N"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 9: Stone"
+  },
+  {
+    "id": "Q1937",
+    "legacyKey": "'Ashlar' masonry refers to stonework using:",
+    "q": "'Ashlar' masonry refers to stonework using:",
+    "options": [
+      "Irregularly shaped, undressed stones with no coursing",
+      "Squared and finished stone units laid in relatively even courses or patterns",
+      "Only artificial cast stone",
+      "Loose stone with no mortar of any kind"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 9: Stone"
+  },
+  {
+    "id": "Q1938",
+    "legacyKey": "'Rubble' masonry refers to stonework using:",
+    "q": "'Rubble' masonry refers to stonework using:",
+    "options": [
+      "Precisely squared and polished stone units",
+      "Irregularly shaped, undressed or roughly dressed stones",
+      "Only manufactured concrete masonry units",
+      "Glass block units"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 9: Stone"
+  },
+  {
+    "id": "Q1939",
+    "legacyKey": "'Dimension stone' refers to natural stone that has been:",
+    "q": "'Dimension stone' refers to natural stone that has been:",
+    "options": [
+      "Left in its raw, unquarried state",
+      "Cut and finished to specified sizes and shapes for a particular application",
+      "Crushed into aggregate for concrete",
+      "Used only as rubble fill"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 9: Stone"
+  },
+  {
+    "id": "Q1940",
+    "legacyKey": "A stone's 'natural bed' refers to:",
+    "q": "A stone's 'natural bed' refers to:",
+    "options": [
+      "The trench where the stone footing is placed",
+      "The plane along which sedimentary stone was originally deposited; stone is generally set with its natural bed oriented horizontally for maximum strength in a load-bearing wall",
+      "The mortar joint beneath the stone",
+      "The quarry's shipping pallet orientation"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 9: Stone"
+  },
+  {
+    "id": "Q1941",
+    "legacyKey": "A 'honed' stone finish is generally described as:",
+    "q": "A 'honed' stone finish is generally described as:",
+    "options": [
+      "A rough, unfinished quarry-split surface",
+      "A smooth, matte (non-glossy) surface finish achieved through fine grinding, without polishing to a high gloss",
+      "A high-gloss, mirror-like polished surface",
+      "A textured, hammered surface"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 9: Stone"
+  },
+  {
+    "id": "Q1942",
+    "legacyKey": "Thin stone veneer applied over a backup wall is generally attached using:",
+    "q": "Thin stone veneer applied over a backup wall is generally attached using:",
+    "options": [
+      "Mortar alone, with no mechanical connection permitted",
+      "Mechanical anchors (ties) and/or mortar, in accordance with the stone and anchor manufacturer's requirements",
+      "Adhesive tape",
+      "No attachment; it relies on gravity and friction alone"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 9: Stone"
+  },
+  {
+    "id": "Q1943",
+    "legacyKey": "Mortar for unit masonry is generally proportioned (by the property or proportion specification) using a ratio of:",
+    "q": "Mortar for unit masonry is generally proportioned (by the property or proportion specification) using a ratio of:",
+    "options": [
+      "Cementitious material to sand, along with the appropriate amount of water for workability, per the governing ASTM standard",
+      "Only water and sand, with no cementitious material",
+      "Only cement, with no sand",
+      "A fixed ratio that never varies regardless of mortar type"
+    ],
+    "correct": 0,
+    "source": "Masonry, Chapter 10: Mortar and Grout"
+  },
+  {
+    "id": "Q1944",
+    "legacyKey": "Mortar admixtures such as accelerators or retarders are generally used to:",
+    "q": "Mortar admixtures such as accelerators or retarders are generally used to:",
+    "options": [
+      "Permanently change the mortar's color",
+      "Speed up or slow down the setting time of mortar, such as in cold or hot weather conditions",
+      "Eliminate the need for sand",
+      "Increase the mortar's water absorption indefinitely"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 10: Mortar and Grout"
+  },
+  {
+    "id": "Q1945",
+    "legacyKey": "Coloring pigments added to mortar are generally limited in quantity primarily to:",
+    "q": "Coloring pigments added to mortar are generally limited in quantity primarily to:",
+    "options": [
+      "Increase the mortar's setting time indefinitely",
+      "Avoid reducing the mortar's strength and durability",
+      "Reduce the cost of the mortar",
+      "Make the mortar waterproof"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 10: Mortar and Grout"
+  },
+  {
+    "id": "Q1946",
+    "legacyKey": "Sand used in mortar is generally required to be:",
+    "q": "Sand used in mortar is generally required to be:",
+    "options": [
+      "As fine and dusty as possible",
+      "Clean, well-graded, and free of harmful amounts of silt, clay, or organic material",
+      "Mixed with topsoil for better bond",
+      "Salt-water sand exclusively"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 10: Mortar and Grout"
+  },
+  {
+    "id": "Q1947",
+    "legacyKey": "Metal wall ties and joint reinforcement used in masonry veneer are generally required to be corrosion-resistant, typically:",
+    "q": "Metal wall ties and joint reinforcement used in masonry veneer are generally required to be corrosion-resistant, typically:",
+    "options": [
+      "Untreated mild steel",
+      "Stainless steel or hot-dip galvanized steel",
+      "Painted wood",
+      "Plastic with no metal content"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties"
+  },
+  {
+    "id": "Q1948",
+    "legacyKey": "In areas of high seismic risk, masonry walls are generally required to include:",
+    "q": "In areas of high seismic risk, masonry walls are generally required to include:",
+    "options": [
+      "Less reinforcement than in low-risk areas",
+      "Additional vertical and horizontal reinforcement, as specified by the applicable structural design",
+      "No reinforcement at all",
+      "Only decorative surface reinforcement"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement"
+  },
+  {
+    "id": "Q1949",
+    "legacyKey": "Control joints in a concrete masonry wall are generally spaced based on:",
+    "q": "Control joints in a concrete masonry wall are generally spaced based on:",
+    "options": [
+      "The color of the mortar",
+      "The wall's length, height, and anticipated shrinkage, typically following the block manufacturer's or engineer's spacing recommendations",
+      "The time of year construction begins",
+      "The number of workers on site"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement"
+  },
+  {
+    "id": "Q1950",
+    "legacyKey": "When laying a course of brick, the mason checks each unit for plumb and level using:",
+    "q": "When laying a course of brick, the mason checks each unit for plumb and level using:",
+    "options": [
+      "A modular rule only",
+      "A mason's level, applied to both the face and the top of the units as work proceeds",
+      "A story pole only",
+      "A chalk line only"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick walls"
+  },
+  {
+    "id": "Q1951",
+    "legacyKey": "Mortar joints are generally tooled (struck) when the mortar has reached what is often described as:",
+    "q": "Mortar joints are generally tooled (struck) when the mortar has reached what is often described as:",
+    "options": [
+      "Fully cured and hardened",
+      "'Thumbprint hard' — firm enough to hold a thumbprint but still workable",
+      "Still liquid and runny",
+      "Completely dry and dusty"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick walls"
+  },
+  {
+    "id": "Q1952",
+    "legacyKey": "A 'closure' brick is the:",
+    "q": "A 'closure' brick is the:",
+    "options": [
+      "First brick installed in a wall",
+      "Last brick installed to complete a course, fitted into the remaining space between previously laid units",
+      "Only brick used at the wall's foundation",
+      "Brick used exclusively for coping"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick walls"
+  },
+  {
+    "id": "Q1953",
+    "legacyKey": "When installing a closure brick, the mason typically:",
+    "q": "When installing a closure brick, the mason typically:",
+    "options": [
+      "Sets it dry with no mortar at all",
+      "Butters both ends of the closure unit and both adjoining brick ends before carefully placing it into the opening",
+      "Cuts it in half before placing",
+      "Installs it before any other brick in the course"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick walls"
+  },
+  {
+    "id": "Q1954",
+    "legacyKey": "Brick can be accurately cut on the jobsite using:",
+    "q": "Brick can be accurately cut on the jobsite using:",
+    "options": [
+      "Only a hand saw designed for wood",
+      "A masonry (wet) saw for clean, precise cuts, or a brick hammer/chisel for rougher cuts",
+      "A garden hose alone",
+      "A paint scraper"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick walls"
+  },
+  {
+    "id": "Q1955",
+    "legacyKey": "A taut mason's line stretched between line blocks is used while laying brick primarily to:",
+    "q": "A taut mason's line stretched between line blocks is used while laying brick primarily to:",
+    "options": [
+      "Measure the compressive strength of the mortar",
+      "Keep each course straight and at a consistent height along the length of the wall",
+      "Mix the mortar to the correct consistency",
+      "Test the moisture content of the brick"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick walls"
+  },
+  {
+    "id": "Q1956",
+    "legacyKey": "For concrete block laid above the first course, mortar is generally applied only to:",
+    "q": "For concrete block laid above the first course, mortar is generally applied only to:",
+    "options": [
+      "The webs, never the face shells",
+      "The face shells (not the webs), known as face-shell mortar bedding, except where full mortar bedding is specifically required",
+      "The entire top surface including all webs and shells equally at every course",
+      "No mortar is applied above the first course"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 13: Laying Block"
+  },
+  {
+    "id": "Q1957",
+    "legacyKey": "When starting a block wall, masons typically begin by:",
+    "q": "When starting a block wall, masons typically begin by:",
+    "options": [
+      "Filling in the middle of the wall first",
+      "Laying the corner (or leads) first, then filling in between with a line strung between the corners",
+      "Installing the top course before any other course",
+      "Grouting the wall before any units are placed"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 13: Laying Block"
+  },
+  {
+    "id": "Q1958",
+    "legacyKey": "Concrete block can be accurately cut on the jobsite using:",
+    "q": "Concrete block can be accurately cut on the jobsite using:",
+    "options": [
+      "A masonry (wet) saw with a diamond or abrasive blade, or a block splitter",
+      "A standard wood-cutting circular saw blade only",
+      "A garden hose",
+      "A paint roller"
+    ],
+    "correct": 0,
+    "source": "Masonry, Chapter 13: Laying Block"
+  },
+  {
+    "id": "Q1959",
+    "legacyKey": "When a reinforced concrete masonry wall is being laid, vertical reinforcing bars are generally:",
+    "q": "When a reinforced concrete masonry wall is being laid, vertical reinforcing bars are generally:",
+    "options": [
+      "Installed only after the wall is fully grouted and cured",
+      "Positioned in the cells before grouting, and held in position (e.g., with bar positioners) so they remain properly located during the grout pour",
+      "Left loose in the cells with no positioning method",
+      "Welded directly to the concrete masonry units"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 13: Laying Block"
+  },
+  {
+    "id": "Q1960",
+    "legacyKey": "Grout is generally placed into reinforced concrete masonry walls in:",
+    "q": "Grout is generally placed into reinforced concrete masonry walls in:",
+    "options": [
+      "A single unlimited-height pour regardless of wall height",
+      "Lifts (pours) of a limited height, in accordance with the applicable grouting requirements, to avoid blowouts and ensure complete consolidation",
+      "Only after the wall has been painted",
+      "Only at the very top course of the wall"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 13: Laying Block"
+  },
+  {
+    "id": "Q1961",
+    "legacyKey": "As with brick, mortar joints in a block wall are generally tooled once the mortar has reached the:",
+    "q": "As with brick, mortar joints in a block wall are generally tooled once the mortar has reached the:",
+    "options": [
+      "Fully hardened stage, days after laying",
+      "Thumbprint-hard stage",
+      "Liquid, freshly mixed stage",
+      "Stage where it has begun to crumble"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 13: Laying Block"
+  },
+  {
+    "id": "Q1962",
+    "legacyKey": "When setting stone units in mortar, the mason generally applies mortar to:",
+    "q": "When setting stone units in mortar, the mason generally applies mortar to:",
+    "options": [
+      "Only the stone being set, never the bed below",
+      "Both the bed of the stone below and the stone being set, ensuring full contact and bond",
+      "Neither surface; stone is always set dry",
+      "Only the top of the previously set stone"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 14: Stonemasonry"
+  },
+  {
+    "id": "Q1963",
+    "legacyKey": "A 'dry-stack' (dry-laid) stone wall is constructed:",
+    "q": "A 'dry-stack' (dry-laid) stone wall is constructed:",
+    "options": [
+      "With a thick mortar bed at every joint",
+      "Without mortar, relying on the careful fitting and stacking of stones for stability",
+      "Using only glass block",
+      "With steel welds between each stone"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 14: Stonemasonry"
+  },
+  {
+    "id": "Q1964",
+    "legacyKey": "'Pointing' stone joints refers to:",
+    "q": "'Pointing' stone joints refers to:",
+    "options": [
+      "Cutting the stone to a sharp point",
+      "Finishing (tooling and filling) the mortar joints between stones after the stone has been set, often after the wall has partially set",
+      "Marking the location of future openings",
+      "Selecting stone at the quarry"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 14: Stonemasonry"
+  },
+  {
+    "id": "Q1965",
+    "legacyKey": "A structural stone wall differs from a stone veneer in that a structural wall is generally:",
+    "q": "A structural stone wall differs from a stone veneer in that a structural wall is generally:",
+    "options": [
+      "Thinner and lighter than veneer",
+      "Load-bearing and self-supporting, whereas veneer is a non-structural facing attached to a backup wall",
+      "Always built without mortar",
+      "Never used on exterior walls"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 14: Stonemasonry"
+  },
+  {
+    "id": "Q1966",
+    "legacyKey": "Heavy dimension stone units are generally moved and set into place using:",
+    "q": "Heavy dimension stone units are generally moved and set into place using:",
+    "options": [
+      "Manual lifting only, regardless of weight",
+      "Mechanical lifting equipment, such as a hoist, crane, or forklift, rather than manual lifting alone",
+      "A wheelbarrow exclusively",
+      "A garden cart"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 14: Stonemasonry"
+  },
+  {
+    "id": "Q1967",
+    "legacyKey": "'Coursed rubble' stonework is generally laid so that:",
+    "q": "'Coursed rubble' stonework is generally laid so that:",
+    "options": [
+      "The stones are precisely cut into identical rectangular blocks",
+      "The stones are roughly leveled into courses, even though individual stones remain irregular in size and shape",
+      "No attempt is made to level or course the stones at all",
+      "The stones are laid only in a running bond identical to brick"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 14: Stonemasonry"
+  },
+  {
+    "id": "Q1968",
+    "legacyKey": "The primary purpose of a footing beneath a masonry foundation wall is to:",
+    "q": "The primary purpose of a footing beneath a masonry foundation wall is to:",
+    "options": [
+      "Provide a decorative base for the wall",
+      "Distribute the building's load over a sufficient area of soil to prevent excessive settlement",
+      "Serve as the finished floor surface",
+      "Replace the need for a foundation wall entirely"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 15: Foundation Systems"
+  },
+  {
+    "id": "Q1969",
+    "legacyKey": "The required width of a footing is generally determined by:",
+    "q": "The required width of a footing is generally determined by:",
+    "options": [
+      "The color of the foundation wall",
+      "The load being supported and the allowable bearing capacity of the soil",
+      "The height of the building's roof",
+      "The type of siding used above grade"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 15: Foundation Systems"
+  },
+  {
+    "id": "Q1970",
+    "legacyKey": "A 'foundation wall' differs from a 'footing' in that the foundation wall:",
+    "q": "A 'foundation wall' differs from a 'footing' in that the foundation wall:",
+    "options": [
+      "Is always poured after the footing has been removed",
+      "Is the vertical masonry wall that transfers the building's load down to the footing",
+      "Serves no structural purpose",
+      "Is only used in commercial construction"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 15: Foundation Systems"
+  },
+  {
+    "id": "Q1971",
+    "legacyKey": "Foundation walls enclosing habitable or usable space below grade are generally required to be protected against water infiltration by:",
+    "q": "Foundation walls enclosing habitable or usable space below grade are generally required to be protected against water infiltration by:",
+    "options": [
+      "Leaving the exterior surface completely untreated",
+      "Dampproofing or waterproofing the exterior surface of the wall",
+      "Painting the interior surface only",
+      "Installing carpet directly against the wall"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 15: Foundation Systems"
+  },
+  {
+    "id": "Q1972",
+    "legacyKey": "Footings are generally required to be placed below the locally established:",
+    "q": "Footings are generally required to be placed below the locally established:",
+    "options": [
+      "Property line setback",
+      "Frost line/frost depth, to prevent frost heave from damaging the foundation",
+      "Maximum building height limit",
+      "Roof ridge elevation"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 15: Foundation Systems"
+  },
+  {
+    "id": "Q1973",
+    "legacyKey": "Concrete masonry foundation walls retaining unbalanced backfill are generally required to be:",
+    "q": "Concrete masonry foundation walls retaining unbalanced backfill are generally required to be:",
+    "options": [
+      "Left completely unreinforced in all cases",
+      "Reinforced (or otherwise engineered) to resist the lateral soil pressure",
+      "Built without a footing",
+      "Constructed only of glass block"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 15: Foundation Systems"
+  },
+  {
+    "id": "Q1974",
+    "legacyKey": "A foundation drain (footing drain), where used, is generally installed to:",
+    "q": "A foundation drain (footing drain), where used, is generally installed to:",
+    "options": [
+      "Increase hydrostatic pressure against the foundation wall",
+      "Collect and direct groundwater away from the foundation, reducing hydrostatic pressure against the wall",
+      "Supply irrigation water to landscaping",
+      "Serve as the building's primary water supply line"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 15: Foundation Systems"
+  },
+  {
+    "id": "Q1975",
+    "legacyKey": "A 'veneer wall' in masonry construction is generally defined as:",
+    "q": "A 'veneer wall' in masonry construction is generally defined as:",
+    "options": [
+      "A structural wall that carries the entire building load with no backup",
+      "A single wythe of masonry used as a non-structural facing, anchored to and supported laterally by a backup wall or structural frame",
+      "A wall built entirely of glass block",
+      "A below-grade retaining wall only"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 16: Wall Systems"
+  },
+  {
+    "id": "Q1976",
+    "legacyKey": "A 'cavity wall' is generally composed of:",
+    "q": "A 'cavity wall' is generally composed of:",
+    "options": [
+      "A single wythe with no air space",
+      "Two wythes of masonry separated by a continuous air space, tied together with metal wall ties or joint reinforcement",
+      "Three wythes bonded solid with no ties",
+      "A wythe of stone with no backup wall"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 16: Wall Systems"
+  },
+  {
+    "id": "Q1977",
+    "legacyKey": "A 'composite wall' differs from a cavity wall in that a composite wall's wythes are:",
+    "q": "A 'composite wall' differs from a cavity wall in that a composite wall's wythes are:",
+    "options": [
+      "Left completely unconnected to each other",
+      "Structurally bonded together (e.g., with header courses, ties, or filled collar joints) to act as a single structural unit, without a continuous open cavity",
+      "Always separated by a 4-inch open air space",
+      "Built using only concrete masonry units, never brick"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 16: Wall Systems"
+  },
+  {
+    "id": "Q1978",
+    "legacyKey": "A 'single-wythe' masonry wall is generally:",
+    "q": "A 'single-wythe' masonry wall is generally:",
+    "options": [
+      "Constructed using only one thickness of masonry unit for the entire wall thickness",
+      "Always composed of at least two separate wythes",
+      "Only used for interior partitions with no structural function",
+      "Never permitted in exterior wall construction"
+    ],
+    "correct": 0,
+    "source": "Masonry, Chapter 16: Wall Systems"
+  },
+  {
+    "id": "Q1979",
+    "legacyKey": "In multi-story masonry veneer construction, a 'shelf angle' is generally used to:",
+    "q": "In multi-story masonry veneer construction, a 'shelf angle' is generally used to:",
+    "options": [
+      "Decorate the top of a parapet wall",
+      "Support the weight of the veneer at each floor line, transferring the veneer's weight back to the structural frame rather than stacking the full height on the foundation alone",
+      "Replace the need for wall ties",
+      "Serve as the primary waterproofing membrane"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 16: Wall Systems"
+  },
+  {
+    "id": "Q1980",
+    "legacyKey": "Through-wall flashing in a masonry wall system is generally installed primarily to:",
+    "q": "Through-wall flashing in a masonry wall system is generally installed primarily to:",
+    "options": [
+      "Increase the wall's compressive strength",
+      "Intercept water that penetrates the outer wythe and direct it back out of the wall through weep holes",
+      "Serve as the wall's only structural reinforcement",
+      "Replace the need for mortar joints"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 16: Wall Systems"
+  },
+  {
+    "id": "Q1981",
+    "legacyKey": "A 'reinforced' masonry wall differs from an 'unreinforced' masonry wall primarily in that a reinforced wall includes:",
+    "q": "A 'reinforced' masonry wall differs from an 'unreinforced' masonry wall primarily in that a reinforced wall includes:",
+    "options": [
+      "No mortar joints",
+      "Steel reinforcement (bars) embedded in grouted cells or cavities to resist tensile and lateral forces",
+      "A thinner overall wall section in every case",
+      "Glass block units in place of standard units"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 16: Wall Systems"
+  },
+  {
+    "id": "Q1982",
+    "legacyKey": "Masonry veneer over a wood-framed backup wall is generally required to be supported by:",
+    "q": "Masonry veneer over a wood-framed backup wall is generally required to be supported by:",
+    "options": [
+      "The wood framing directly carrying the full veneer weight with no other support",
+      "A noncombustible, corrosion-resistant support, such as a shelf angle or foundation, rather than being carried directly by the wood framing alone",
+      "Adhesive alone, with no mechanical support",
+      "The interior drywall finish"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 16: Wall Systems"
+  },
+  {
+    "id": "Q1983",
+    "legacyKey": "The primary function of the continuous air space in a cavity wall is to:",
+    "q": "The primary function of the continuous air space in a cavity wall is to:",
+    "options": [
+      "Reduce the overall wall height",
+      "Provide a drainage plane and thermal break, helping to prevent moisture from reaching the interior wythe",
+      "Serve as a chase for plumbing pipes exclusively",
+      "Eliminate the need for any wall ties"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 16: Wall Systems"
+  },
+  {
+    "id": "Q1984",
+    "legacyKey": "A parapet wall is generally defined as:",
+    "q": "A parapet wall is generally defined as:",
+    "options": [
+      "A below-grade retaining wall",
+      "The portion of an exterior wall that extends above the roofline",
+      "An interior partition wall only",
+      "A wall built entirely underground"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 16: Wall Systems"
+  },
+  {
+    "id": "Q1985",
+    "legacyKey": "Clay brick used for pedestrian and light traffic paving applications is generally governed by:",
+    "q": "Clay brick used for pedestrian and light traffic paving applications is generally governed by:",
+    "options": [
+      "ASTM C90",
+      "ASTM C902",
+      "ASTM C270",
+      "ASTM C1314"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details"
+  },
+  {
+    "id": "Q1986",
+    "legacyKey": "A 'sand-set' (or 'dry-laid') paver installation relies on:",
+    "q": "A 'sand-set' (or 'dry-laid') paver installation relies on:",
+    "options": [
+      "A rigid mortar bed over a concrete slab",
+      "A compacted sand base and sand-filled joints, rather than mortar, to hold the pavers in place",
+      "Welded steel connections between pavers",
+      "Adhesive tape between each paver"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details"
+  },
+  {
+    "id": "Q1987",
+    "legacyKey": "In a sand-set paver installation, an 'edge restraint' is generally used to:",
+    "q": "In a sand-set paver installation, an 'edge restraint' is generally used to:",
+    "options": [
+      "Increase the drainage rate of the base",
+      "Hold the perimeter pavers in place and prevent the sand base from spreading outward under traffic",
+      "Color the surface of the pavers",
+      "Replace the need for a compacted base"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details"
+  },
+  {
+    "id": "Q1988",
+    "legacyKey": "A compacted aggregate base beneath exterior masonry paving is generally provided primarily to:",
+    "q": "A compacted aggregate base beneath exterior masonry paving is generally provided primarily to:",
+    "options": [
+      "Add decorative color to the finished surface",
+      "Provide a stable, well-drained foundation that resists settlement and frost heave",
+      "Eliminate the need for edge restraints",
+      "Increase the paver's surface gloss"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details"
+  },
+  {
+    "id": "Q1989",
+    "legacyKey": "Expansion joints in exterior masonry paving are generally provided to:",
+    "q": "Expansion joints in exterior masonry paving are generally provided to:",
+    "options": [
+      "Permanently bond adjacent paving sections together",
+      "Accommodate thermal movement of the paving materials and prevent cracking or buckling",
+      "Serve as the primary drainage channel",
+      "Reduce the number of pavers required"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details"
+  },
+  {
+    "id": "Q1990",
+    "legacyKey": "Mortar-set paving, as opposed to sand-set paving, generally requires:",
+    "q": "Mortar-set paving, as opposed to sand-set paving, generally requires:",
+    "options": [
+      "No base preparation of any kind",
+      "A rigid base, such as a concrete slab, to support the mortar bed and prevent cracking",
+      "A loose sand base with no compaction",
+      "Only a gravel base with no concrete"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details"
+  },
+  {
+    "id": "Q1991",
+    "legacyKey": "The basic components of concrete are generally:",
+    "q": "The basic components of concrete are generally:",
+    "options": [
+      "Only cement and water",
+      "Cement, aggregate (fine and coarse), and water, often combined with admixtures",
+      "Only sand and gravel",
+      "Only lime and clay"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+  },
+  {
+    "id": "Q1992",
+    "legacyKey": "Reducing the water-cement ratio in a concrete mix generally:",
+    "q": "Reducing the water-cement ratio in a concrete mix generally:",
+    "options": [
+      "Decreases the concrete's compressive strength",
+      "Increases the concrete's compressive strength and durability, up to a point, while reducing workability",
+      "Has no effect on strength or workability",
+      "Eliminates the need for aggregate"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+  },
+  {
+    "id": "Q1993",
+    "legacyKey": "The 'slump test' is used to measure:",
+    "q": "The 'slump test' is used to measure:",
+    "options": [
+      "The compressive strength of hardened concrete",
+      "The consistency (workability) of fresh concrete",
+      "The air content of concrete",
+      "The curing temperature of concrete"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+  },
+  {
+    "id": "Q1994",
+    "legacyKey": "Proper curing of concrete is important primarily because it:",
+    "q": "Proper curing of concrete is important primarily because it:",
+    "options": [
+      "Speeds up the initial set time beyond normal limits",
+      "Maintains adequate moisture and temperature so the cement can continue to hydrate and gain strength",
+      "Changes the color of the finished concrete",
+      "Eliminates the need for reinforcement"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+  },
+  {
+    "id": "Q1995",
+    "legacyKey": "Air-entrained concrete contains microscopic air bubbles introduced primarily to:",
+    "q": "Air-entrained concrete contains microscopic air bubbles introduced primarily to:",
+    "options": [
+      "Reduce the concrete's weight for easier transport",
+      "Improve the concrete's resistance to freeze-thaw damage",
+      "Increase the concrete's permeability to water",
+      "Eliminate the need for curing"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+  },
+  {
+    "id": "Q1996",
+    "legacyKey": "The standard method for testing the compressive strength of concrete involves:",
+    "q": "The standard method for testing the compressive strength of concrete involves:",
+    "options": [
+      "Bending a concrete beam until it cracks",
+      "Casting concrete test cylinders and testing them to failure in a compression testing machine",
+      "Measuring the concrete's color with a spectrometer",
+      "Weighing a sample of fresh concrete"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+  },
+  {
+    "id": "Q1997",
+    "legacyKey": "In a concrete mix, 'fine aggregate' generally refers to:",
+    "q": "In a concrete mix, 'fine aggregate' generally refers to:",
+    "options": [
+      "Gravel or crushed stone",
+      "Sand",
+      "Portland cement",
+      "Water-reducing admixture"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+  },
+  {
+    "id": "Q1998",
+    "legacyKey": "A 'water-reducing' admixture is added to concrete primarily to:",
+    "q": "A 'water-reducing' admixture is added to concrete primarily to:",
+    "options": [
+      "Increase the amount of water needed in the mix",
+      "Improve workability without adding additional water, or reduce water content while maintaining workability",
+      "Eliminate the need for cement",
+      "Permanently discolor the finished concrete"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+  },
+  {
+    "id": "Q1999",
+    "legacyKey": "The primary purpose of concrete formwork is to:",
+    "q": "The primary purpose of concrete formwork is to:",
+    "options": [
+      "Permanently reinforce the finished concrete",
+      "Contain and shape fresh (wet) concrete until it has gained sufficient strength to support itself",
+      "Replace the need for curing",
+      "Color the surface of the finished concrete"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 19: Form Construction"
+  },
+  {
+    "id": "Q2000",
+    "legacyKey": "Common formwork materials include:",
+    "q": "Common formwork materials include:",
+    "options": [
+      "Only glass and ceramic tile",
+      "Plywood, dimension lumber, and prefabricated steel or aluminum panel systems",
+      "Only fabric and cloth sheeting",
+      "Only loose sand"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 19: Form Construction"
+  },
+  {
+    "id": "Q2001",
+    "legacyKey": "Form ties are used in wall formwork primarily to:",
+    "q": "Form ties are used in wall formwork primarily to:",
+    "options": [
+      "Decorate the finished concrete surface",
+      "Hold the two form faces together against the lateral pressure exerted by the fresh concrete",
+      "Reinforce the hardened concrete permanently in place of rebar",
+      "Speed up the concrete's curing time"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 19: Form Construction"
+  },
+  {
+    "id": "Q2002",
+    "legacyKey": "A 'form release agent' is applied to formwork primarily to:",
+    "q": "A 'form release agent' is applied to formwork primarily to:",
+    "options": [
+      "Permanently bond the concrete to the form",
+      "Prevent the concrete from bonding to the form, allowing for easier form removal (stripping)",
+      "Increase the concrete's compressive strength",
+      "Color the exposed concrete surface"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 19: Form Construction"
+  },
+  {
+    "id": "Q2003",
+    "legacyKey": "Formwork is generally required to be braced and shored adequately to resist:",
+    "q": "Formwork is generally required to be braced and shored adequately to resist:",
+    "options": [
+      "Only the weight of the workers standing on top of it",
+      "The lateral pressure of the fresh, fluid concrete, which increases with the rate and height of the pour",
+      "Wind loads only, with no consideration of concrete pressure",
+      "Nothing, since concrete is self-supporting immediately after placement"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 19: Form Construction"
+  },
+  {
+    "id": "Q2004",
+    "legacyKey": "Before formwork is stripped (removed), the concrete is generally required to have:",
+    "q": "Before formwork is stripped (removed), the concrete is generally required to have:",
+    "options": [
+      "No minimum strength requirement",
+      "Gained sufficient strength to support its own weight and any anticipated construction loads",
+      "Reached its full 28-day design strength in every case",
+      "Been painted"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 19: Form Construction"
+  },
+  {
+    "id": "Q2005",
+    "legacyKey": "Footing formwork differs from wall formwork primarily in that footing forms generally:",
+    "q": "Footing formwork differs from wall formwork primarily in that footing forms generally:",
+    "options": [
+      "Must always be taller than wall forms",
+      "Need only contain the sides of the footing, while wall forms enclose the concrete on both faces over a greater height",
+      "Are never required for footings placed in stable soil",
+      "Require the same form ties as high wall pours"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 19: Form Construction"
+  },
+  {
+    "id": "Q2006",
+    "legacyKey": "'Flatwork' in concrete construction generally refers to:",
+    "q": "'Flatwork' in concrete construction generally refers to:",
+    "options": [
+      "Vertical wall sections only",
+      "Horizontal concrete surfaces such as slabs, sidewalks, driveways, and patios",
+      "Only formed decorative shapes",
+      "Only below-grade footings"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes"
+  },
+  {
+    "id": "Q2007",
+    "legacyKey": "'Screeding' freshly placed concrete is the process of:",
+    "q": "'Screeding' freshly placed concrete is the process of:",
+    "options": [
+      "Polishing the final finished surface",
+      "Striking off excess concrete to bring the surface to the correct, level grade using a straightedge",
+      "Applying a curing compound",
+      "Cutting control joints into hardened concrete"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes"
+  },
+  {
+    "id": "Q2008",
+    "legacyKey": "'Floating' a concrete surface is generally performed to:",
+    "q": "'Floating' a concrete surface is generally performed to:",
+    "options": [
+      "Apply the final curing compound",
+      "Embed large aggregate slightly below the surface and begin leveling minor imperfections, before final finishing",
+      "Cut expansion joints",
+      "Remove the formwork"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes"
+  },
+  {
+    "id": "Q2009",
+    "legacyKey": "Control joints (contraction joints) are generally cut or tooled into a concrete slab primarily to:",
+    "q": "Control joints (contraction joints) are generally cut or tooled into a concrete slab primarily to:",
+    "options": [
+      "Increase the slab's overall strength",
+      "Create planned weak points that control the location of shrinkage cracking",
+      "Serve as a decorative pattern with no functional purpose",
+      "Eliminate the need for a granular base"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes"
+  },
+  {
+    "id": "Q2010",
+    "legacyKey": "An 'edging' tool is used on freshly placed concrete slabs primarily to:",
+    "q": "An 'edging' tool is used on freshly placed concrete slabs primarily to:",
+    "options": [
+      "Cut the slab into finished panels",
+      "Round and compact the slab's edges, producing a durable, finished edge that resists chipping",
+      "Apply color pigment to the surface",
+      "Test the slab's compressive strength"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes"
+  },
+  {
+    "id": "Q2011",
+    "legacyKey": "A well-compacted granular base beneath a concrete slab-on-grade is generally provided to:",
+    "q": "A well-compacted granular base beneath a concrete slab-on-grade is generally provided to:",
+    "options": [
+      "Increase the slab's surface gloss",
+      "Provide uniform support and drainage, reducing the risk of settlement cracking",
+      "Replace the need for control joints",
+      "Eliminate the need for screeding"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes"
+  },
+  {
+    "id": "Q2012",
+    "legacyKey": "Adequate curing of a concrete flatwork slab is generally maintained by:",
+    "q": "Adequate curing of a concrete flatwork slab is generally maintained by:",
+    "options": [
+      "Allowing the slab to dry as quickly as possible with no moisture retention",
+      "Methods such as wet curing (ponding/burlap), curing compounds, or curing blankets, to retain moisture in the slab",
+      "Painting the slab immediately after finishing",
+      "Covering the slab with plastic only after it has fully dried"
+    ],
+    "correct": 1,
+    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes"
   }
 ]
