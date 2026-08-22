@@ -62,7 +62,7 @@
       "30 inches o.c."
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 3: Framing"
+    "source": "Gypsum, Chapter 3: Framing — Section: Maximum frame spacing—drywall construction"
   },
   {
     "id": "Q6",
@@ -231,7 +231,7 @@
       "50 feet"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 11: System Design Considerations"
+    "source": "Gypsum, Chapter 11: System Design Considerations — Section: Control Joints"
   },
   {
     "id": "Q19",
@@ -478,7 +478,7 @@
       "5/8 inch"
     ],
     "correct": 2,
-    "source": "Gypsum, Chapter 3: Framing"
+    "source": "Gypsum, Chapter 3: Framing — Section: Maximum frame spacing—drywall construction"
   },
   {
     "id": "Q38",
@@ -1765,7 +1765,7 @@
       "20 inches o.c."
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Screw application"
   },
   {
     "id": "Q137",
@@ -1856,7 +1856,7 @@
       "60°F"
     ],
     "correct": 2,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Adhesive application"
   },
   {
     "id": "Q144",
@@ -2181,7 +2181,7 @@
       "24 inches"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Screw application"
   },
   {
     "id": "Q169",
@@ -2194,7 +2194,7 @@
       "16 inches"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Screw application"
   },
   {
     "id": "Q170",
@@ -2519,7 +2519,7 @@
       "To mark the location of fire blocking"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Control joints"
   },
   {
     "id": "Q195",
@@ -2558,7 +2558,7 @@
       "Soundproofing only"
     ],
     "correct": 2,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Gypsum board"
   },
   {
     "id": "Q198",
@@ -2922,7 +2922,7 @@
       "32 inches"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Maximum frame spacing—drywall construction"
   },
   {
     "id": "Q226",
@@ -2935,7 +2935,7 @@
       "Texture paint"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems — Section: Joint compounds"
   },
   {
     "id": "Q227",
@@ -3208,7 +3208,7 @@
       "None of the edges"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Gypsum board edges"
   },
   {
     "id": "Q248",
@@ -3312,7 +3312,7 @@
       "60°F"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems — Section: Environmental conditions"
   },
   {
     "id": "Q256",
@@ -3598,7 +3598,7 @@
       "To seal the floor"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Trim accessories"
   },
   {
     "id": "Q278",
@@ -3780,7 +3780,7 @@
       "Paint then tape"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems — Section: Joint treatment"
   },
   {
     "id": "Q292",
@@ -3858,7 +3858,7 @@
       "70°F"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Adhesive application"
   },
   {
     "id": "Q298",
@@ -3884,7 +3884,7 @@
       "On the exterior side only"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Sound-control products"
   },
   {
     "id": "Q300",
@@ -3897,7 +3897,7 @@
       "Vertically only"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Water-resistant gypsum backing board"
   },
   {
     "id": "Q301",
@@ -4508,7 +4508,7 @@
       "To provide a path for electrical wires only"
     ],
     "correct": 0,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Furring channels"
   },
   {
     "id": "Q348",
@@ -4534,7 +4534,7 @@
       "Paper tape"
     ],
     "correct": 2,
-    "source": "Gypsum, Chapter 3: Framing"
+    "source": "Gypsum, Chapter 3: Framing — Section: Framing for arches"
   },
   {
     "id": "Q350",
@@ -4690,7 +4690,7 @@
       "Correct crooked studs"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Resilient channels"
   },
   {
     "id": "Q362",
@@ -4703,7 +4703,7 @@
       "150 grit or finer"
     ],
     "correct": 3,
-    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems — Section: Sanding"
   },
   {
     "id": "Q363",
@@ -4716,7 +4716,7 @@
       "Only at the top and bottom"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Corner bead"
   },
   {
     "id": "Q364",
@@ -4729,7 +4729,7 @@
       "Tile backer"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Foil-backed gypsum board"
   },
   {
     "id": "Q365",
@@ -5379,7 +5379,7 @@
       "1 inch"
     ],
     "correct": 2,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Fasteners"
   },
   {
     "id": "Q415",
@@ -5392,7 +5392,7 @@
       "The short edge"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Gypsum board edges"
   },
   {
     "id": "Q416",
@@ -5405,7 +5405,7 @@
       "Mix compound"
     ],
     "correct": 0,
-    "source": "Gypsum, Chapter 3: Framing"
+    "source": "Gypsum, Chapter 3: Framing — Section: Framing for openings"
   },
   {
     "id": "Q417",
@@ -5821,7 +5821,7 @@
       "Set the screws"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 3: Framing"
+    "source": "Gypsum, Chapter 3: Framing — Section: Tools and equipment"
   },
   {
     "id": "Q449",
@@ -5977,7 +5977,7 @@
       "Chisel"
     ],
     "correct": 0,
-    "source": "Gypsum, Chapter 3: Framing"
+    "source": "Gypsum, Chapter 3: Framing — Section: Tools and equipment"
   },
   {
     "id": "Q461",
@@ -5990,7 +5990,7 @@
       "Outward"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Resilient channels"
   },
   {
     "id": "Q462",
@@ -6016,7 +6016,7 @@
       "It is for exterior use"
     ],
     "correct": 0,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Foil-backed gypsum board"
   },
   {
     "id": "Q464",
@@ -6393,7 +6393,7 @@
       "Cut the board"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 3: Framing"
+    "source": "Gypsum, Chapter 3: Framing — Section: Tools and equipment"
   },
   {
     "id": "Q493",
@@ -6575,7 +6575,7 @@
       "Floors"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems — Section: Corner treatment"
   },
   {
     "id": "Q507",
@@ -6653,7 +6653,7 @@
       "Ceiling board"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Gypsum board"
   },
   {
     "id": "Q513",
@@ -6666,7 +6666,7 @@
       "L/480"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Framing requirements"
   },
   {
     "id": "Q514",
@@ -6679,7 +6679,7 @@
       "50 feet"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Control joints"
   },
   {
     "id": "Q515",
@@ -7251,7 +7251,7 @@
       "A plastic coating"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Abuse-resistant gypsum board"
   },
   {
     "id": "Q559",
@@ -7316,7 +7316,7 @@
       "Curved walls"
     ],
     "correct": 0,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Gypsum board"
   },
   {
     "id": "Q564",
@@ -7498,7 +7498,7 @@
       "Basements"
     ],
     "correct": 2,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum board"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Water-resistant gypsum backing board"
   },
   {
     "id": "Q578",
@@ -7784,7 +7784,7 @@
       "Flush (0 inch)"
     ],
     "correct": 0,
-    "source": "Gypsum, Chapter 4: Cladding; IRC, Chapter 7: Wall covering"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Water-resistant gypsum backing board; IRC, Chapter 7: Wall covering"
   },
   {
     "id": "Q600",
@@ -7940,7 +7940,7 @@
       "3/8 inch Type X"
     ],
     "correct": 2,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum board"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Fire-resistant gypsum board; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum board"
   },
   {
     "id": "Q612",
@@ -8161,7 +8161,7 @@
       "Flush with the surface"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding; IRC, Chapter 7: Wall covering"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Fasteners; IRC, Chapter 7: Wall covering"
   },
   {
     "id": "Q629",
@@ -8304,7 +8304,7 @@
       "Taped only"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Multilayer application; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster"
   },
   {
     "id": "Q640",
@@ -9370,7 +9370,7 @@
       "Foil-backed"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum board"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Fire-resistant gypsum board; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum board"
   },
   {
     "id": "Q722",
@@ -9708,7 +9708,7 @@
       "3/4 inch"
     ],
     "correct": 2,
-    "source": "Gypsum, Chapter 4: Cladding; IRC, Chapter 7: Wall covering"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Fasteners; IRC, Chapter 7: Wall covering"
   },
   {
     "id": "Q748",
@@ -9864,7 +9864,7 @@
       "Foil-backed"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products; Carpentry, Chapter 33: Exterior & Interior Paint — Section: Interior Finish"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Gypsum bases; Carpentry, Chapter 33: Exterior & Interior Paint — Section: Interior Finish"
   },
   {
     "id": "Q760",
@@ -10254,7 +10254,7 @@
       "12 inches"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding; IRC, Chapter 7: Wall covering"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Fasteners; IRC, Chapter 7: Wall covering"
   },
   {
     "id": "Q790",
@@ -10410,7 +10410,7 @@
       "200"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 8: Interior finishes; Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Interior texture finishes"
+    "source": "IBC, Chapter 8: Interior finishes; Gypsum, Chapter 1: Drywall and Veneer Plaster Products — Section: Interior Texture Finishes"
   },
   {
     "id": "Q802",
@@ -10579,7 +10579,7 @@
       "Foil-backed"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 1: Preliminary Pages — Section: General Requirements; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum board"
+    "source": "Gypsum, Chapter 1: Drywall and Veneer Plaster Products — Section: Gypsum Panel Products; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum Board"
   },
   {
     "id": "Q815",
@@ -10800,7 +10800,7 @@
       "At an angle"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 3: Framing — Section: Wood framing; IRC, Chapter 7: Wall covering"
+    "source": "Gypsum, Chapter 2: Framing — Section: Wood Framing; IRC, Chapter 7: Wall Covering"
   },
   {
     "id": "Q832",
@@ -10917,7 +10917,7 @@
       "200"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 8: Interior finishes; Gypsum, Chapter 8: Conventional Plaster Products — Section: Fire Resistance"
+    "source": "IBC, Chapter 8: Interior finishes; Gypsum, Chapter 15: Building Sciences — Section: Fire Resistance"
   },
   {
     "id": "Q841",
@@ -11073,7 +11073,7 @@
       "Out"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems — Section: Sound Control; Carpentry, Chapter 32: Wall & Ceiling Surfaces — Section: Drywall"
+    "source": "Gypsum, Chapter 2: Framing — Section: Resilient Channel Framing—Steel Framing; Carpentry, Chapter 32: Wall & Ceiling Surfaces — Section: Drywall"
   },
   {
     "id": "Q853",
@@ -11177,7 +11177,7 @@
       "Removing the back of the box"
     ],
     "correct": 0,
-    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection; IBC, Chapter 7: Fire and smoke protection features — Section: Fire walls"
+    "source": "Gypsum, Chapter 10: System Design Considerations — Section: Penetration Fire-Stop Systems; IBC, Chapter 7: Fire and smoke protection features — Section: Fire-Resistance-Rated Construction"
   },
   {
     "id": "Q861",
@@ -11281,7 +11281,7 @@
       "Rigid attachment"
     ],
     "correct": 0,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Application; IBC, Chapter 16: Structural design"
+    "source": "Gypsum, Chapter 10: System Design Considerations — Section: Head-of-Wall Construction Joints; IBC, Chapter 16: Structural Design"
   },
   {
     "id": "Q869",
@@ -11424,7 +11424,7 @@
       "Snow loads"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: Fire walls; Gypsum, Chapter 12: Planning, Execution and Inspection"
+    "source": "Gypsum, Chapter 10: System Design Considerations — Section: USG Shaft Walls; IBC, Chapter 7: Fire and smoke protection features — Section: Fire-Resistance-Rated Construction"
   },
   {
     "id": "Q880",
@@ -11567,7 +11567,7 @@
       "Are made of plastic"
     ],
     "correct": 2,
-    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems — Section: Sound Control; IBC, Chapter 12: Interior environment"
+    "source": "Gypsum, Chapter 1: Drywall and Veneer Plaster Products — Section: Sound Control and Insulation Products; IBC, Chapter 12: Interior Environment"
   },
   {
     "id": "Q891",
@@ -11710,7 +11710,7 @@
       "1 inch"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Application; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum board"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Application; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum Board"
   },
   {
     "id": "Q902",
@@ -11931,7 +11931,7 @@
       "12 inches"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Application; IRC, Chapter 7: Wall covering"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Application; IRC, Chapter 7: Wall Covering"
   },
   {
     "id": "Q919",
@@ -12243,7 +12243,7 @@
       "Left open"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Application; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum board"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Application; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum Board"
   },
   {
     "id": "Q943",
@@ -12347,7 +12347,7 @@
       "32 inches"
     ],
     "correct": 2,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Exterior gypsum ceiling board; IRC, Chapter 7: Wall covering"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Application; IRC, Chapter 8: Roof-Ceiling Construction — Section: Ceiling Finishes"
   },
   {
     "id": "Q951",
@@ -12386,7 +12386,7 @@
       "Nails are not allowed"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 3: Framing — Section: Fasteners; IRC, Chapter 7: Wall covering"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Application; IRC, Chapter 7: Wall Covering"
   },
   {
     "id": "Q954",
@@ -12672,7 +12672,7 @@
       "Only used in hospitals"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and smoke protection features; Gypsum, Chapter 12: Planning, Execution and Inspection"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: Smoke Barriers; Gypsum, Chapter 10: System Design Considerations — Section: Smoke Barriers and Smoke Partitions"
   },
   {
     "id": "Q976",
@@ -12841,7 +12841,7 @@
       "60°F"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Joint compounds; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Joint Compounds; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum Board"
   },
   {
     "id": "Q989",
@@ -12880,7 +12880,7 @@
       "4 hours"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: Fire partitions; Gypsum, Chapter 12: Planning, Execution and Inspection"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: Fire Partitions; Gypsum, Chapter 10: System Design Considerations — Section: Fire-Resistance-Rated Assemblies"
   },
   {
     "id": "Q992",
@@ -17755,7 +17755,7 @@
       "8 feet"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—gypsum bases"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—Gypsum Bases"
   },
   {
     "id": "Q1367",
@@ -17768,7 +17768,7 @@
       "Ceramic tile surface"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—gypsum bases"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—Gypsum Bases"
   },
   {
     "id": "Q1368",
@@ -17781,7 +17781,7 @@
       "As a vapor barrier under slabs"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—gypsum bases"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—Gypsum Bases"
   },
   {
     "id": "Q1369",
@@ -17794,7 +17794,7 @@
       "Eliminate the need for finishing"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—gypsum bases"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—Gypsum Bases"
   },
   {
     "id": "Q1370",
@@ -17807,7 +17807,7 @@
       "Thermal expansion"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—gypsum bases"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—Gypsum Bases"
   },
   {
     "id": "Q1371",
@@ -17820,7 +17820,7 @@
       "Waterproofing"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—gypsum bases"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Specifications—Gypsum Bases"
   },
   {
     "id": "Q1372",
@@ -17833,7 +17833,7 @@
       "60 inches on center"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 3: Framing — Section: Maximum frame spacing—drywall construction"
+    "source": "Gypsum, Chapter 3: Framing — Section: Maximum Frame Spacing—Drywall Construction"
   },
   {
     "id": "Q1373",
@@ -17846,7 +17846,7 @@
       "Resilient channels"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 3: Framing"
+    "source": "Gypsum, Chapter 3: Framing — Section: Steel Framing"
   },
   {
     "id": "Q1374",
@@ -17859,7 +17859,7 @@
       "The ceiling height exceeds 8 feet"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 3: Framing"
+    "source": "Gypsum, Chapter 3: Framing — Section: Backing"
   },
   {
     "id": "Q1375",
@@ -17872,7 +17872,7 @@
       "Wrapped in vapor barrier"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 3: Framing"
+    "source": "Gypsum, Chapter 3: Framing — Section: Framing Inspection"
   },
   {
     "id": "Q1376",
@@ -17898,7 +17898,7 @@
       "Reduce the number of fasteners required"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Multilayer Systems"
   },
   {
     "id": "Q1378",
@@ -17911,7 +17911,7 @@
       "Improve the fire rating"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Laminating"
   },
   {
     "id": "Q1379",
@@ -17924,7 +17924,7 @@
       "Reduce the number of layers required"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Back-Blocking"
   },
   {
     "id": "Q1380",
@@ -17937,7 +17937,7 @@
       "In a random pattern with no defined spacing"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Fastening"
   },
   {
     "id": "Q1381",
@@ -17950,7 +17950,7 @@
       "It makes no difference"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding"
+    "source": "Gypsum, Chapter 4: Cladding — Section: Application of Gypsum Board"
   },
   {
     "id": "Q1382",
@@ -17963,7 +17963,7 @@
       "Standard drywall screws intended for wood framing"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 5: Backerboard Installation"
+    "source": "Gypsum, Chapter 5: Backerboard Installation — Section: Fasteners"
   },
   {
     "id": "Q1383",
@@ -17976,7 +17976,7 @@
       "Improve the fire rating"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 5: Backerboard Installation"
+    "source": "Gypsum, Chapter 5: Backerboard Installation — Section: Tub and Shower Enclosures"
   },
   {
     "id": "Q1384",
@@ -17989,7 +17989,7 @@
       "Duct tape"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 5: Backerboard Installation"
+    "source": "Gypsum, Chapter 5: Backerboard Installation — Section: Joint Treatment"
   },
   {
     "id": "Q1385",
@@ -18002,7 +18002,7 @@
       "2 inches"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 5: Backerboard Installation"
+    "source": "Gypsum, Chapter 5: Backerboard Installation — Section: Installation"
   },
   {
     "id": "Q1386",
@@ -18015,7 +18015,7 @@
       "Is not manufactured in large enough sheets"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 5: Backerboard Installation"
+    "source": "Gypsum, Chapter 5: Backerboard Installation — Section: General Requirements"
   },
   {
     "id": "Q1387",
@@ -18028,7 +18028,7 @@
       "Ceiling height"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 5: Backerboard Installation"
+    "source": "Gypsum, Chapter 5: Backerboard Installation — Section: Framing"
   },
   {
     "id": "Q1388",
@@ -18041,7 +18041,7 @@
       "A masonry chisel exclusively"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 5: Backerboard Installation"
+    "source": "Gypsum, Chapter 5: Backerboard Installation — Section: Cutting Backerboard"
   },
   {
     "id": "Q1389",
@@ -18054,7 +18054,7 @@
       "Is only used for texturing, never for taping"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems — Section: Setting-Type Joint Compounds"
   },
   {
     "id": "Q1390",
@@ -18067,7 +18067,7 @@
       "Texture paint only"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems — Section: Joint Tape"
   },
   {
     "id": "Q1391",
@@ -18080,7 +18080,7 @@
       "Increase the compound's fire rating"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems — Section: Finishing Techniques"
   },
   {
     "id": "Q1392",
@@ -18093,7 +18093,7 @@
       "Applied only to the center of the joint"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems — Section: Finishing Techniques"
   },
   {
     "id": "Q1393",
@@ -18106,7 +18106,7 @@
       "Add a fire rating to the wall"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems — Section: Primer-Sealers"
   },
   {
     "id": "Q1394",
@@ -18119,7 +18119,7 @@
       "Are sanded"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 6: Finishing Drywall Systems"
+    "source": "Gypsum, Chapter 6: Finishing Drywall Systems — Section: Joint Compounds"
   },
   {
     "id": "Q1395",
@@ -18132,7 +18132,7 @@
       "Foil-backed board"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems"
+    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems — Section: Veneer Plaster Base"
   },
   {
     "id": "Q1396",
@@ -18145,7 +18145,7 @@
       "No coats; it is sprayed on as a liquid finish only"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems"
+    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems — Section: Veneer Plaster Systems"
   },
   {
     "id": "Q1397",
@@ -18158,7 +18158,7 @@
       "Require no base board at all"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems"
+    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems — Section: Advantages of Veneer Plaster"
   },
   {
     "id": "Q1398",
@@ -18171,7 +18171,7 @@
       "Only suitable for ceilings"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems"
+    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems — Section: Advantages of Veneer Plaster"
   },
   {
     "id": "Q1399",
@@ -18184,7 +18184,7 @@
       "A screed and bull float"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems"
+    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems — Section: Application"
   },
   {
     "id": "Q1400",
@@ -18197,7 +18197,7 @@
       "Be sanded down to bare blueboard"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems"
+    "source": "Gypsum, Chapter 7: Finishing Veneer Plaster Systems — Section: Decorating Veneer Plaster"
   },
   {
     "id": "Q1401",
@@ -18210,7 +18210,7 @@
       "Bond coat"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products — Section: Scratch Coat"
   },
   {
     "id": "Q1402",
@@ -18223,7 +18223,7 @@
       "Coat applied only to exterior stucco"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products — Section: Brown Coat"
   },
   {
     "id": "Q1403",
@@ -18236,7 +18236,7 @@
       "Only clay"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products — Section: Aggregates"
   },
   {
     "id": "Q1404",
@@ -18249,7 +18249,7 @@
       "Flexibility"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products — Section: Keene's Cement"
   },
   {
     "id": "Q1405",
@@ -18262,7 +18262,7 @@
       "Requires no water to mix"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products — Section: Gypsum Neat Plaster"
   },
   {
     "id": "Q1406",
@@ -18275,7 +18275,7 @@
       "Reduces the plaster's weight"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products — Section: Metal Lath"
   },
   {
     "id": "Q1407",
@@ -18288,7 +18288,7 @@
       "Add color to the finish"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products — Section: Admixtures"
   },
   {
     "id": "Q1408",
@@ -18301,7 +18301,7 @@
       "Only used for exterior stucco"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 8: Conventional Plaster Products"
+    "source": "Gypsum, Chapter 8: Conventional Plaster Products — Section: Lime Putty Finish"
   },
   {
     "id": "Q1409",
@@ -18314,7 +18314,7 @@
       "Reinforce the corner against impact"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications — Section: Grounds"
   },
   {
     "id": "Q1410",
@@ -18327,7 +18327,7 @@
       "Portland cement plaster cannot be applied over lath"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications — Section: Interior Plaster; Exterior Portland Cement Plaster"
   },
   {
     "id": "Q1411",
@@ -18340,7 +18340,7 @@
       "Reduce the plaster's weight"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications — Section: Scratch Coat"
   },
   {
     "id": "Q1412",
@@ -18353,7 +18353,7 @@
       "Add a vapor barrier"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications — Section: Bonding Agents and Dash-Bond Coats"
   },
   {
     "id": "Q1413",
@@ -18366,7 +18366,7 @@
       "Reduce the number of coats required"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications — Section: Curing"
   },
   {
     "id": "Q1414",
@@ -18379,7 +18379,7 @@
       "70°F"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications — Section: Plastering Under Adverse Conditions"
   },
   {
     "id": "Q1415",
@@ -18392,7 +18392,7 @@
       "Replace the need for grounds"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications — Section: Casing Beads"
   },
   {
     "id": "Q1416",
@@ -18405,7 +18405,7 @@
       "Increase the plaster's hardness"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications — Section: Control Joints"
   },
   {
     "id": "Q1417",
@@ -18418,7 +18418,7 @@
       "4 inches"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications — Section: Plaster Thickness"
   },
   {
     "id": "Q1418",
@@ -18431,7 +18431,7 @@
       "Sanded completely smooth"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 9: Conventional Plaster Applications"
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications — Section: Finish Coat"
   },
   {
     "id": "Q1419",
@@ -18444,7 +18444,7 @@
       "Furring channels"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application"
+    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application — Section: Suspension Systems"
   },
   {
     "id": "Q1420",
@@ -18457,7 +18457,7 @@
       "Replace the need for main runners"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application"
+    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application — Section: Suspension Systems"
   },
   {
     "id": "Q1421",
@@ -18483,7 +18483,7 @@
       "Soffit"
     ],
     "correct": 0,
-    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application"
+    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application — Section: Plenum Spaces"
   },
   {
     "id": "Q1423",
@@ -18496,7 +18496,7 @@
       "Fire-rated hanger wires only"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application"
+    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application — Section: Seismic Requirements"
   },
   {
     "id": "Q1424",
@@ -18509,7 +18509,7 @@
       "No particular design, as long as gypsum board is used"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 11: System Design Considerations"
+    "source": "Gypsum, Chapter 11: System Design Considerations — Section: Fire Resistance"
   },
   {
     "id": "Q1425",
@@ -18522,7 +18522,7 @@
       "Bathroom ceilings"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 11: System Design Considerations"
+    "source": "Gypsum, Chapter 11: System Design Considerations — Section: Shaft Walls"
   },
   {
     "id": "Q1426",
@@ -18535,7 +18535,7 @@
       "Serve only as a sound barrier with no fire rating"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 11: System Design Considerations"
+    "source": "Gypsum, Chapter 11: System Design Considerations — Section: Area Separation Walls"
   },
   {
     "id": "Q1427",
@@ -18548,7 +18548,7 @@
       "The ceiling tile pattern"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 11: System Design Considerations"
+    "source": "Gypsum, Chapter 11: System Design Considerations — Section: Deflection"
   },
   {
     "id": "Q1428",
@@ -18561,7 +18561,7 @@
       "The type of insulation used"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 11: System Design Considerations"
+    "source": "Gypsum, Chapter 11: System Design Considerations — Section: Curved Construction"
   },
   {
     "id": "Q1429",
@@ -18574,7 +18574,7 @@
       "The brand of screws available"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 11: System Design Considerations"
+    "source": "Gypsum, Chapter 11: System Design Considerations — Section: Fire Resistance and Sound Control"
   },
   {
     "id": "Q1430",
@@ -18587,7 +18587,7 @@
       "Only the paint sheen"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 11: System Design Considerations"
+    "source": "Gypsum, Chapter 11: System Design Considerations — Section: Sound Control"
   },
   {
     "id": "Q1431",
@@ -18600,7 +18600,7 @@
       "It eliminates the need for permits"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 11: System Design Considerations"
+    "source": "Gypsum, Chapter 11: System Design Considerations — Section: Tested Assemblies"
   },
   {
     "id": "Q1432",
@@ -18613,7 +18613,7 @@
       "Stacked vertically in direct sunlight"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection"
+    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection — Section: Storage and Handling"
   },
   {
     "id": "Q1433",
@@ -18626,7 +18626,7 @@
       "The landscaping"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection"
+    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection — Section: Inspection"
   },
   {
     "id": "Q1434",
@@ -18639,7 +18639,7 @@
       "That only screws (never nails) were used"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection"
+    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection — Section: Inspection of Fire-Resistance-Rated Assemblies"
   },
   {
     "id": "Q1435",
@@ -18652,7 +18652,7 @@
       "The insulation R-value only"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection"
+    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection — Section: Final Inspection"
   },
   {
     "id": "Q1436",
@@ -18665,7 +18665,7 @@
       "Satisfy a decorative requirement"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection"
+    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection — Section: Planning and Scheduling"
   },
   {
     "id": "Q1437",
@@ -18678,7 +18678,7 @@
       "It only affects the board's color"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection"
+    "source": "Gypsum, Chapter 12: Planning, Execution and Inspection — Section: Material Handling and Storage"
   },
   {
     "id": "Q1438",
@@ -18691,7 +18691,7 @@
       "Excessive humidity in summer"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures — Section: Truss Uplift"
   },
   {
     "id": "Q1439",
@@ -18704,7 +18704,7 @@
       "Painting too many coats"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures — Section: Picture Framing"
   },
   {
     "id": "Q1440",
@@ -18717,7 +18717,7 @@
       "Using setting-type compound"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures — Section: Tape Blistering"
   },
   {
     "id": "Q1441",
@@ -18730,7 +18730,7 @@
       "Painting too soon after installation"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures — Section: Sagging Ceilings"
   },
   {
     "id": "Q1442",
@@ -18743,7 +18743,7 @@
       "Applying texture immediately after hanging the board"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures — Section: Fastener Pops"
   },
   {
     "id": "Q1443",
@@ -18756,7 +18756,7 @@
       "Replacing the entire wall assembly"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures — Section: Cracks at Control Joints"
   },
   {
     "id": "Q1444",
@@ -18769,7 +18769,7 @@
       "No effect on the board"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures — Section: Moisture Damage"
   },
   {
     "id": "Q1445",
@@ -18782,7 +18782,7 @@
       "The type of ceiling texture applied"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures — Section: Fastener Pops"
   },
   {
     "id": "Q1446",
@@ -18795,7 +18795,7 @@
       "Repaint with a darker color to hide it"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures — Section: Preventive Measures"
   },
   {
     "id": "Q1447",
@@ -18808,7 +18808,7 @@
       "Using the wrong paint sheen"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures"
+    "source": "Gypsum, Chapter 13: Problems, Remedies and Preventive Measures — Section: Staining and Discoloration"
   },
   {
     "id": "Q1448",
@@ -18821,7 +18821,7 @@
       "Carrying panels on edge above shoulder height without assistance"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling — Section: Handling Gypsum Board"
   },
   {
     "id": "Q1449",
@@ -18834,7 +18834,7 @@
       "Sand finished joints"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling — Section: Panel Lifts"
   },
   {
     "id": "Q1450",
@@ -18847,7 +18847,7 @@
       "Only a face shield, with no respiratory protection"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling — Section: Dust Control"
   },
   {
     "id": "Q1451",
@@ -18860,7 +18860,7 @@
       "Avoid wearing safety glasses"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling — Section: Stilts"
   },
   {
     "id": "Q1452",
@@ -18873,7 +18873,7 @@
       "Stacked on top of wet materials"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling — Section: Storage and Handling"
   },
   {
     "id": "Q1453",
@@ -18886,7 +18886,7 @@
       "Electrical hazards"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling — Section: Personal Protective Equipment"
   },
   {
     "id": "Q1454",
@@ -18899,7 +18899,7 @@
       "Only used without a handle guard"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling — Section: Hand Tools"
   },
   {
     "id": "Q1455",
@@ -18912,7 +18912,7 @@
       "Use the tool only on wood framing"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling — Section: Powder-Actuated Tools"
   },
   {
     "id": "Q1456",
@@ -18925,7 +18925,7 @@
       "Required only for exterior products"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling"
+    "source": "Gypsum, Chapter 14: Safety Considerations and Material Handling — Section: Safety Data Sheets"
   },
   {
     "id": "Q1457",
@@ -18938,7 +18938,7 @@
       "24, 36, and 48 inches"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 15: Tools and Equipment"
+    "source": "Gypsum, Chapter 15: Tools and Equipment — Section: Finishing Knives"
   },
   {
     "id": "Q1458",
@@ -18951,7 +18951,7 @@
       "Mix plaster"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 15: Tools and Equipment"
+    "source": "Gypsum, Chapter 15: Tools and Equipment — Section: Taping Tools"
   },
   {
     "id": "Q1459",
@@ -18964,7 +18964,7 @@
       "Measure fastener spacing"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 15: Tools and Equipment"
+    "source": "Gypsum, Chapter 15: Tools and Equipment — Section: Mud Pans"
   },
   {
     "id": "Q1460",
@@ -18977,7 +18977,7 @@
       "Mix setting-type compound"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 15: Tools and Equipment"
+    "source": "Gypsum, Chapter 15: Tools and Equipment — Section: Corner Tools"
   },
   {
     "id": "Q1461",
@@ -18990,7 +18990,7 @@
       "Has no clutch or depth control"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 15: Tools and Equipment"
+    "source": "Gypsum, Chapter 15: Tools and Equipment — Section: Screw Guns"
   },
   {
     "id": "Q1462",
@@ -19003,7 +19003,7 @@
       "Apply texture finishes"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 15: Tools and Equipment"
+    "source": "Gypsum, Chapter 15: Tools and Equipment — Section: Cutout Tools"
   },
   {
     "id": "Q1463",
@@ -19016,7 +19016,7 @@
       "Mix joint compound"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 15: Tools and Equipment"
+    "source": "Gypsum, Chapter 15: Tools and Equipment — Section: Panel Lifts"
   },
   {
     "id": "Q1464",
@@ -19029,7 +19029,7 @@
       "Apply corner bead"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 15: Tools and Equipment"
+    "source": "Gypsum, Chapter 15: Tools and Equipment — Section: T-Squares"
   },
   {
     "id": "Q1465",
@@ -19042,7 +19042,7 @@
       "Improve the paint's adhesion"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 16: Building Sciences"
+    "source": "Gypsum, Chapter 16: Building Sciences — Section: Vapor Retarders"
   },
   {
     "id": "Q1466",
@@ -19055,7 +19055,7 @@
       "The height of the wall"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 16: Building Sciences"
+    "source": "Gypsum, Chapter 16: Building Sciences — Section: Vapor Drive"
   },
   {
     "id": "Q1467",
@@ -19068,7 +19068,7 @@
       "Improve the interior finish's fire rating"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 16: Building Sciences"
+    "source": "Gypsum, Chapter 16: Building Sciences — Section: Air Barriers"
   },
   {
     "id": "Q1468",
@@ -19081,7 +19081,7 @@
       "The wall has no insulation at all"
     ],
     "correct": 0,
-    "source": "Gypsum, Chapter 16: Building Sciences"
+    "source": "Gypsum, Chapter 16: Building Sciences — Section: Condensation"
   },
   {
     "id": "Q1469",
@@ -19094,7 +19094,7 @@
       "Sound transmission class"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 16: Building Sciences"
+    "source": "Gypsum, Chapter 16: Building Sciences — Section: Drying Potential"
   },
   {
     "id": "Q1470",
@@ -19107,7 +19107,7 @@
       "Increasing stud spacing only"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 16: Building Sciences"
+    "source": "Gypsum, Chapter 16: Building Sciences — Section: Thermal Bridging"
   },
   {
     "id": "Q1471",
@@ -19120,7 +19120,7 @@
       "Increasing the fastener spacing"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 16: Building Sciences"
+    "source": "Gypsum, Chapter 16: Building Sciences — Section: Moisture and Mold"
   },
   {
     "id": "Q1472",
@@ -19133,7 +19133,7 @@
       "Increase air leakage"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 16: Building Sciences"
+    "source": "Gypsum, Chapter 16: Building Sciences — Section: Vapor Retarders"
   },
   {
     "id": "Q1473",
@@ -19146,7 +19146,7 @@
       "Cement kiln dust"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 17: Sustainability"
+    "source": "Gypsum, Chapter 17: Sustainability — Section: Synthetic Gypsum"
   },
   {
     "id": "Q1474",
@@ -19159,7 +19159,7 @@
       "Only qualify under regional-materials credits, never recycled-content credits"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 17: Sustainability"
+    "source": "Gypsum, Chapter 17: Sustainability — Section: Recycled Content"
   },
   {
     "id": "Q1475",
@@ -19172,7 +19172,7 @@
       "Converted directly into Portland cement"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 17: Sustainability"
+    "source": "Gypsum, Chapter 17: Sustainability — Section: Recycling"
   },
   {
     "id": "Q1476",
@@ -19185,7 +19185,7 @@
       "Better fire resistance"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 17: Sustainability"
+    "source": "Gypsum, Chapter 17: Sustainability — Section: Indoor Environmental Quality"
   },
   {
     "id": "Q1477",
@@ -19198,7 +19198,7 @@
       "Eliminating the need for joint compound"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 17: Sustainability"
+    "source": "Gypsum, Chapter 17: Sustainability — Section: Waste Reduction"
   },
   {
     "id": "Q1478",
@@ -19211,7 +19211,7 @@
       "Recycled plastic film"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 17: Sustainability"
+    "source": "Gypsum, Chapter 17: Sustainability — Section: Recycled Materials"
   },
   {
     "id": "Q1479",
@@ -19224,7 +19224,7 @@
       "A government-run building materials program"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 18: USG: America's Building Industry Leader"
+    "source": "Gypsum, Chapter 18: USG: America's Building Industry Leader — Section: The Founding of USG"
   },
   {
     "id": "Q1480",
@@ -19237,7 +19237,7 @@
       "1980"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 18: USG: America's Building Industry Leader"
+    "source": "Gypsum, Chapter 18: USG: America's Building Industry Leader — Section: Sheetrock Brand"
   },
   {
     "id": "Q1481",
@@ -19250,7 +19250,7 @@
       "1975"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 18: USG: America's Building Industry Leader"
+    "source": "Gypsum, Chapter 18: USG: America's Building Industry Leader — Section: Development of Sheetrock Brand Gypsum Panels"
   },
   {
     "id": "Q1482",
@@ -19263,7 +19263,7 @@
       "The Hoover Dam"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 18: USG: America's Building Industry Leader"
+    "source": "Gypsum, Chapter 18: USG: America's Building Industry Leader — Section: Sheetrock Brand Gypsum Panels"
   },
   {
     "id": "Q1483",
