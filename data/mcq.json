@@ -101,7 +101,7 @@
       "Minimum swing radius clearance"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: Power line safety - up to 350kV"
+    "source": "OSHA, Subpart CC: Cranes and Derricks in Construction — Section: 1926.1408 Power line safety (up to 350 kV)—equipment operations"
   },
   {
     "id": "Q9",
@@ -257,7 +257,7 @@
       "6 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651(c)(2) Means of egress from trench excavations"
   },
   {
     "id": "Q21",
@@ -374,7 +374,7 @@
       "It does not matter"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart H: Materials Handling"
+    "source": "OSHA, Subpart H: Materials Handling, Storage, Use, and Disposal — Section: 1926.251(c)(5)(i) Rigging equipment for material handling"
   },
   {
     "id": "Q30",
@@ -517,7 +517,7 @@
       "5:1 ratio"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: 1926.451(d)(7) General requirements for supported scaffolds"
   },
   {
     "id": "Q41",
@@ -595,7 +595,7 @@
       "150 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart F: Fire Protection"
+    "source": "OSHA, Subpart F: Fire Protection and Prevention — Section: 1926.150(c)(1)(i) Fire extinguishers and small hose lines"
   },
   {
     "id": "Q47",
@@ -604,11 +604,11 @@
     "options": [
       "10 µg/m3",
       "25 µg/m3",
-      "30 µg/m3",
+      "30 µg/m³",
       "50 µg/m3"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart D: Occupational Health"
+    "source": "OSHA, Subpart D: Occupational Health and Environmental Controls — Section: 1926.62(b) Definitions"
   },
   {
     "id": "Q48",
@@ -621,7 +621,7 @@
       "140 dB"
     ],
     "correct": 3,
-    "source": "OSHA, Subpart D: Occupational Health — Section: Occupational noise exposure"
+    "source": "OSHA, Subpart D: Occupational Health and Environmental Controls — Section: 1926.52(e) Occupational noise exposure"
   },
   {
     "id": "Q49",
@@ -647,7 +647,7 @@
       "Monthly"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart CC: Cranes/Derricks"
+    "source": "OSHA, Subpart CC: Cranes and Derricks in Construction — Section: 1926.1412(d) Inspections"
   },
   {
     "id": "Q51",
@@ -660,7 +660,7 @@
       "36 inches"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: 1926.451(b)(2) Scaffold platform construction"
   },
   {
     "id": "Q52",
@@ -738,7 +738,7 @@
       "60 degrees"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart H: Materials Handling"
+    "source": "OSHA, Subpart H: Materials Handling, Storage, Use, and Disposal — Section: Rigging equipment for material handling (1926.251)"
   },
   {
     "id": "Q58",
@@ -816,7 +816,7 @@
       "12 inches"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: General requirements (1926.451)"
   },
   {
     "id": "Q64",
@@ -920,7 +920,7 @@
       "15 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart M: Fall Protection — Section: Training requirements (fall protection)"
+    "source": "OSHA, Subpart M: Fall Protection — Section: Duty to have fall protection (1926.501)"
   },
   {
     "id": "Q72",
@@ -972,7 +972,7 @@
       "Site Disposal System"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart D: Occupational Health"
+    "source": "OSHA, Subpart D: Occupational Health and Environmental Controls — Section: Hazard Communication (1926.59)"
   },
   {
     "id": "Q76",
@@ -1063,7 +1063,7 @@
       "6 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart P: Excavations — Section: Requirements for protective systems"
+    "source": "OSHA, Subpart P: Excavations — Section: Requirements for protective systems (1926.652)"
   },
   {
     "id": "Q83",
@@ -1102,7 +1102,7 @@
       "The sling becomes stronger"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart H: Materials Handling"
+    "source": "OSHA, Subpart H: Materials Handling — Section: Rigging equipment for material handling (1926.251)"
   },
   {
     "id": "Q86",
@@ -1193,7 +1193,7 @@
       "The Architect"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: Ground conditions"
+    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: Ground conditions (1926.1402)"
   },
   {
     "id": "Q93",
@@ -1245,7 +1245,7 @@
       "5 times"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: General requirements (1926.451)"
   },
   {
     "id": "Q97",
@@ -1349,7 +1349,7 @@
       "220 Volts"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart K: Electrical"
+    "source": "OSHA, Subpart K: Electrical — Section: Grounding requirements (1926.404(f))"
   },
   {
     "id": "Q105",
@@ -1466,7 +1466,7 @@
       "5 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart X: Stairways/Ladders"
+    "source": "OSHA, Subpart X: Stairways/Ladders — Section: Ladders (1926.1053(b)(1))"
   },
   {
     "id": "Q114",
@@ -1570,7 +1570,7 @@
       "30 inches"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: General requirements (1926.451(b)(1))"
   },
   {
     "id": "Q122",
@@ -1739,7 +1739,7 @@
       "220V only"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart K: Electrical"
+    "source": "OSHA, Subpart K: Electrical — Section: Ground-fault circuit interrupters (1926.404(b)(1))"
   },
   {
     "id": "Q135",
@@ -1817,7 +1817,7 @@
       "1.5:1 (34 degrees)"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart P: Excavations"
+    "source": "OSHA, Subpart P: Excavations — Section: Requirements for protective systems (1926.652)"
   },
   {
     "id": "Q141",
@@ -1895,7 +1895,7 @@
       "20 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: Power line safety - up to 350kV"
+    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: Power line safety (up to 350 kV) (1926.1407)"
   },
   {
     "id": "Q147",
@@ -1986,7 +1986,7 @@
       "36 in"
     ],
     "correct": 3,
-    "source": "OSHA, Subpart X: Stairways/Ladders"
+    "source": "OSHA, Subpart X: Stairways/Ladders — Section: Ladders (1926.1053(b)(1))"
   },
   {
     "id": "Q154",
@@ -1999,7 +1999,7 @@
       "10 ft"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart M: Fall Protection — Section: Training requirements (fall protection)"
+    "source": "OSHA, Subpart M: Fall Protection — Section: Duty to have fall protection (1926.501)"
   },
   {
     "id": "Q155",
@@ -2012,7 +2012,7 @@
       "8 ft"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations — Section: Requirements for protective systems"
+    "source": "OSHA, Subpart P: Excavations — Section: Requirements for protective systems (1926.652)"
   },
   {
     "id": "Q156",
@@ -2025,7 +2025,7 @@
       "30 ft"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart P: Excavations"
+    "source": "OSHA, Subpart P: Excavations — Section: Access and egress (1926.651(c)(2))"
   },
   {
     "id": "Q157",
@@ -2103,7 +2103,7 @@
       "Solid Rock"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart P: Excavations"
+    "source": "OSHA, Subpart P: Excavations — Section: Soil classification (1926.652(b))"
   },
   {
     "id": "Q163",
@@ -2324,7 +2324,7 @@
       "6 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart P: Excavations — Section: Requirements for protective systems"
+    "source": "OSHA, Subpart P: Excavations — Section: Requirements for protective systems (1926.652)"
   },
   {
     "id": "Q180",
@@ -2337,7 +2337,7 @@
       "4 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart X: Stairways/Ladders"
+    "source": "OSHA, Subpart X: Stairways/Ladders — Section: Ladders (1926.1053(b)(1))"
   },
   {
     "id": "Q181",
@@ -2454,7 +2454,7 @@
       "15 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart M: Fall Protection — Section: Training requirements (fall protection)"
+    "source": "OSHA, Subpart M: Fall Protection — Section: Duty to have fall protection (1926.501)"
   },
   {
     "id": "Q190",
@@ -2727,7 +2727,7 @@
       "Read blueprints"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart P: Excavations"
+    "source": "OSHA, Subpart P: Excavations — Section: Scope, application, and definitions applicable to this subpart"
   },
   {
     "id": "Q211",
@@ -2740,7 +2740,7 @@
       "Dedicated circuit breakers"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart K: Electrical"
+    "source": "OSHA, Subpart K: Electrical — Section: Wiring design and protection"
   },
   {
     "id": "Q212",
@@ -2844,7 +2844,7 @@
       "30 inches"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart X: Stairways/Ladders — Section: General requirements (stairways and ladders)"
+    "source": "OSHA, Subpart X: Stairways/Ladders — Section: General requirements"
   },
   {
     "id": "Q220",
@@ -3104,7 +3104,7 @@
       "6 feet high"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart J: Welding and Cutting"
+    "source": "OSHA, Subpart J: Welding and Cutting — Section: Gas welding and cutting"
   },
   {
     "id": "Q240",
@@ -3117,7 +3117,7 @@
       "5 times"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: General requirements"
   },
   {
     "id": "Q241",
@@ -3234,7 +3234,7 @@
       "Food brought by employees"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart D: Occupational Health"
+    "source": "OSHA, Subpart D: Occupational Health — Section: Hazard communication"
   },
   {
     "id": "Q250",
@@ -3494,7 +3494,7 @@
       "4 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations"
+    "source": "OSHA, Subpart P: Excavations — Section: General requirements"
   },
   {
     "id": "Q270",
@@ -3507,7 +3507,7 @@
       "60 inches ± 3 inches"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart M: Fall Protection — Section: Guardrail systems"
+    "source": "OSHA, Subpart M: Fall Protection — Section: Fall protection systems criteria and practices"
   },
   {
     "id": "Q271",
@@ -3741,7 +3741,7 @@
       "18 inches"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: General requirements"
   },
   {
     "id": "Q289",
@@ -4209,7 +4209,7 @@
       "15 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: General requirements"
   },
   {
     "id": "Q325",
@@ -4222,7 +4222,7 @@
       "At least 100 feet long"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart K: Electrical"
+    "source": "OSHA, Subpart K: Electrical — Section: Wiring methods, components, and equipment for general use"
   },
   {
     "id": "Q326",
@@ -4235,7 +4235,7 @@
       "Safety factor"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart CC: Cranes/Derricks"
+    "source": "OSHA, Subpart CC: Cranes and Derricks in Construction — Section: General"
   },
   {
     "id": "Q327",
@@ -4404,7 +4404,7 @@
       "A large bucket"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart H: Materials Handling"
+    "source": "OSHA, Subpart H: Materials Handling, Storage, Use, and Disposal — Section: Disposal of waste materials"
   },
   {
     "id": "Q340",
@@ -4625,7 +4625,7 @@
       "20 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart CC: Cranes/Derricks"
+    "source": "OSHA, Subpart CC: Cranes and Derricks in Construction — Section: Power line safety (up to 350 kV)—equipment operations"
   },
   {
     "id": "Q357",
@@ -5028,7 +5028,7 @@
       "20C"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart F: Fire Protection"
+    "source": "OSHA, Subpart F: Fire Protection and Prevention — Section: Fire protection"
   },
   {
     "id": "Q388",
@@ -5041,7 +5041,7 @@
       "Shared cups"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart D: Occupational Health"
+    "source": "OSHA, Subpart D: Occupational Health and Environmental Controls — Section: Sanitation"
   },
   {
     "id": "Q389",
@@ -5054,7 +5054,7 @@
       "Removed immediately"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart Q: Concrete/Masonry"
+    "source": "OSHA, Subpart Q: Concrete and Masonry Construction — Section: General requirements"
   },
   {
     "id": "Q390",
@@ -5067,7 +5067,7 @@
       "Chemicals"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment"
+    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment — Section: Head protection"
   },
   {
     "id": "Q391",
@@ -5080,7 +5080,7 @@
       "140 dB peak sound pressure level"
     ],
     "correct": 3,
-    "source": "OSHA, Subpart D: Occupational Health — Section: Occupational noise exposure"
+    "source": "OSHA, Subpart D: Occupational Health and Environmental Controls — Section: Occupational noise exposure"
   },
   {
     "id": "Q392",
@@ -5327,7 +5327,7 @@
       "Placed only by the supervisor"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart K: Electrical"
+    "source": "OSHA, Subpart K: Electrical — Section: Lockout and tagging of circuits"
   },
   {
     "id": "Q411",
@@ -5639,7 +5639,7 @@
       "15 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: General requirements"
   },
   {
     "id": "Q435",
@@ -5652,7 +5652,7 @@
       "Working faster"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Z: Toxic/Hazardous"
+    "source": "OSHA, Subpart Z: Toxic/Hazardous — Section: Respirable crystalline silica"
   },
   {
     "id": "Q436",
@@ -5665,7 +5665,7 @@
       "10,000 lbs"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart M: Fall Protection — Section: Personal fall arrest systems"
+    "source": "OSHA, Subpart M: Fall Protection — Section: Fall protection systems criteria and practices"
   },
   {
     "id": "Q437",
@@ -5678,7 +5678,7 @@
       "Is wet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart AA: Confined Spaces"
+    "source": "OSHA, Subpart AA: Confined Spaces in Construction — Section: Definitions"
   },
   {
     "id": "Q438",
@@ -5912,7 +5912,7 @@
       "The architect"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: Signal person qualifications"
+    "source": "OSHA, Subpart CC: Cranes and Derricks in Construction — Section: Signal person qualifications"
   },
   {
     "id": "Q456",
@@ -6250,7 +6250,7 @@
       "1:1"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart X: Stairways/Ladders"
+    "source": "OSHA, Subpart X: Stairways and Ladders — Section: Ladders"
   },
   {
     "id": "Q482",
@@ -6263,7 +6263,7 @@
       "Sharpened"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Q: Concrete/Masonry"
+    "source": "OSHA, Subpart Q: Concrete and Masonry Construction — Section: General requirements"
   },
   {
     "id": "Q483",
@@ -6484,7 +6484,7 @@
       "6 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations"
+    "source": "OSHA, Subpart P: Excavations — Section: Specific excavation requirements"
   },
   {
     "id": "Q500",
@@ -6497,7 +6497,7 @@
       "40 feet below"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: Safety net systems"
   },
   {
     "id": "Q501",
@@ -6900,7 +6900,7 @@
       "Metals"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart F: Fire Protection"
+    "source": "OSHA, Subpart F: Fire Protection and Prevention — Section: 1926.150(c)(1)(x), Table F-1: Fire Extinguishers Data"
   },
   {
     "id": "Q532",
@@ -6913,7 +6913,7 @@
       "100 psf"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: Appendix A to Subpart L: Scaffold Specifications"
   },
   {
     "id": "Q533",
@@ -6926,7 +6926,7 @@
       "2 hours"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart J: Welding and Cutting — Section: Fire prevention (welding and cutting)"
+    "source": "OSHA, Subpart J: Welding and Cutting — Section: 1926.352: Fire prevention"
   },
   {
     "id": "Q534",
@@ -7160,7 +7160,7 @@
       "Weekly"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart O: Motor Vehicles"
+    "source": "OSHA, Subpart O: Motor Vehicles — Section: Pre-start inspection"
   },
   {
     "id": "Q552",
@@ -7173,7 +7173,7 @@
       "The boss"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Training (steel erection)"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.751 Definitions"
   },
   {
     "id": "Q553",
@@ -7264,7 +7264,7 @@
       "50 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart P: Excavations"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651(c)(2) Means of egress from trench excavations"
   },
   {
     "id": "Q560",
@@ -7290,7 +7290,7 @@
       "20 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart CC: Cranes/Derricks"
+    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: 1926.1408 Power line safety (up to 350 kV)—equipment operations"
   },
   {
     "id": "Q562",
@@ -7342,7 +7342,7 @@
       "6 inches"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.500 Definitions"
   },
   {
     "id": "Q566",
@@ -7381,7 +7381,7 @@
       "Soil from a borrow pit"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart P: Excavations — Section: Soil Classification"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.652(b), Appendix A to Subpart P: Soil Classification"
   },
   {
     "id": "Q569",
@@ -7420,7 +7420,7 @@
       "Any height"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Controlled decking zones; SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Erection Stability"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.760(c), Controlled Decking Zone (CDZ)"
   },
   {
     "id": "Q572",
@@ -7472,7 +7472,7 @@
       "4 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651(j)(2), Protection of employees from loose rock or soil"
   },
   {
     "id": "Q576",
@@ -7511,7 +7511,7 @@
       "5 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart X: Stairways/Ladders; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "OSHA, Subpart X: Stairways/Ladders — Section: 1926.1053(b)(1), Ladders"
   },
   {
     "id": "Q579",
@@ -7550,7 +7550,7 @@
       "Dragging them"
     ],
     "correct": 0,
-    "source": "BCSI, B1: Summary Sheet — Section: Hoisting Trusses"
+    "source": "BCSI, B1: Summary Sheet; OSHA, Subpart R: Steel Erection — Section: 1926.754(a), Structural steel assembly"
   },
   {
     "id": "Q582",
@@ -7563,7 +7563,7 @@
       "36 inches"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 10: Means of egress; OSHA, Unverified: Subpart E (Means of Egress)"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1010.1.1, Size of doors"
   },
   {
     "id": "Q583",
@@ -7576,7 +7576,7 @@
       "Trench Box"
     ],
     "correct": 2,
-    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation; OSHA, Subpart P: Excavations"
+    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation; OSHA, Subpart P: Excavations — Section: 1926.652(b), Design of sloping and benching systems"
   },
   {
     "id": "Q584",
@@ -7628,7 +7628,7 @@
       "To hang flags"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Training (steel erection); SteelDeck, Chapter 3: Packaging — Section: Delivery, Unloading and Storage"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.753(d), Hoisting and rigging; SteelDeck, Chapter 3: Packaging — Section: Delivery, Unloading and Storage"
   },
   {
     "id": "Q588",
@@ -7654,7 +7654,7 @@
       "4 inches"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart L: Scaffolds; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "OSHA, Subpart L: Scaffolds — Section: 1926.451(b)(1), Scaffold platforms and walkways"
   },
   {
     "id": "Q590",
@@ -7693,7 +7693,7 @@
       "20 feet"
     ],
     "correct": 2,
-    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation; OSHA, Subpart P: Excavations"
+    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation; OSHA, Subpart P: Excavations — Section: 1926.650(b), Definitions"
   },
   {
     "id": "Q593",
@@ -7745,7 +7745,7 @@
       "Every 5 years"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart F: Fire Protection; IBC, Chapter 9: Fire protection systems and life safety systems"
+    "source": "OSHA, Subpart F: Fire Protection — Section: 1926.150(d)(1), Portable fire extinguishers"
   },
   {
     "id": "Q597",
@@ -7797,7 +7797,7 @@
       "Four"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products; OSHA, Subpart R: Steel Erection"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products; OSHA, Subpart R: Steel Erection — Section: 1926.757(a)(1), Open web steel joists"
   },
   {
     "id": "Q601",
@@ -7849,7 +7849,7 @@
       "Demolition"
     ],
     "correct": 0,
-    "source": "SteelJoists, Chapter 6: Field Inspection — Section: Erection Stability; OSHA, Subpart R: Steel Erection — Section: Controlled decking zones"
+    "source": "SteelJoists, Chapter 6: Field Inspection — Section: Erection Stability; OSHA, Subpart R: Steel Erection — Section: Fall protection"
   },
   {
     "id": "Q605",
@@ -7875,7 +7875,7 @@
       "The overhang"
     ],
     "correct": 1,
-    "source": "BCSI, B1: Summary Sheet — Section: Fall Protection"
+    "source": "BCSI, B1: Summary Sheet; OSHA, Subpart M: Fall Protection — Section: Personal fall arrest systems"
   },
   {
     "id": "Q607",
@@ -7953,7 +7953,7 @@
       "They are double-bridged"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection; SteelJoists, Chapter 6: Field Inspection — Section: Erection Stability"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Fall protection; SteelJoists, Chapter 6: Field Inspection — Section: Erection Stability"
   },
   {
     "id": "Q613",
@@ -7992,7 +7992,7 @@
       "80 feet"
     ],
     "correct": 2,
-    "source": "BCSI, B1: Summary Sheet — Section: Restraint/Bracing Plan"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Steel erection training; BCSI, B1: Summary Sheet"
   },
   {
     "id": "Q616",
@@ -8018,7 +8018,7 @@
       "Full design strength"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Training (steel erection); SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Site layout and concrete in steel erection; SteelJoists, Chapter 5: Erecting Joist Products"
   },
   {
     "id": "Q618",
@@ -8057,7 +8057,7 @@
       "Covers the top half only"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart I: Tools (Hand/Power); Carpentry, Chapter 5: Power Saws"
+    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: Hand-held power saws; Carpentry, Chapter 5: Power Saws"
   },
   {
     "id": "Q621",
@@ -8083,7 +8083,7 @@
       "Any material"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart Q: Concrete/Masonry; Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "OSHA, Subpart Q: Concrete/Masonry — Section: Concrete and masonry construction; Concrete, Chapter 11: Concrete Placement and Finishing"
   },
   {
     "id": "Q623",
@@ -8109,7 +8109,7 @@
       "The architect approves"
     ],
     "correct": 1,
-    "source": "BCSI, B4: Construction Loading — Section: Construction Loads"
+    "source": "BCSI, B4: Construction Loading; OSHA, Subpart R: Steel Erection — Section: Steel joists"
   },
   {
     "id": "Q625",
@@ -8135,7 +8135,7 @@
       "Ever"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart R: Steel Erection; SteelDeck, Chapter 4: Loading and shipping — Section: Installation"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Shear connectors; SteelDeck, Chapter 4: Loading and shipping — Section: Installation"
   },
   {
     "id": "Q627",
@@ -8174,7 +8174,7 @@
       "Only if someone faints"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: Testing of atmospheres; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
   },
   {
     "id": "Q630",
@@ -8213,7 +8213,7 @@
       "A light"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Q: Concrete/Masonry; Concrete, Chapter 1: Safety"
+    "source": "OSHA, Subpart Q: Concrete/Masonry — Section: Masonry saws; Concrete, Chapter 1: Safety"
   },
   {
     "id": "Q633",
@@ -8239,7 +8239,7 @@
       "Removed for speed"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection; OSHA, Subpart R: Steel Erection"
+    "source": "SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection; OSHA, Subpart R: Steel Erection — Section: Hoisting and rigging"
   },
   {
     "id": "Q635",
@@ -8265,7 +8265,7 @@
       "40 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart T: Demolition; Carpentry, Chapter 3: Construction Safety & Health — Section: Job Site Safety"
+    "source": "OSHA, Subpart T: Demolition — Section: Chutes; Carpentry, Chapter 3: Construction Safety & Health — Section: Job Site Safety"
   },
   {
     "id": "Q637",
@@ -8317,7 +8317,7 @@
       "10 floors"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Training (steel erection); SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Structural steel assembly; SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection"
   },
   {
     "id": "Q641",
@@ -8343,7 +8343,7 @@
       "Drainage"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation; OSHA, Subpart P: Excavations"
+    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation; OSHA, Subpart P: Excavations — Section: Specific excavation requirements"
   },
   {
     "id": "Q643",
@@ -8369,7 +8369,7 @@
       "Sign a waiver"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart M: Fall Protection — Section: Duty to Have Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: Duty to have fall protection; BCSI, B1: Summary Sheet"
   },
   {
     "id": "Q645",
@@ -8408,7 +8408,7 @@
       "Wood"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart I: Tools (Hand/Power); Carpentry, Chapter 6: Other Power & Pneumatic Tools"
+    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: Powder-actuated tools; Carpentry, Chapter 6: Other Power & Pneumatic Tools"
   },
   {
     "id": "Q648",
@@ -8434,7 +8434,7 @@
       "Welded later"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads; OSHA, Subpart R: Steel Erection"
+    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads; OSHA, Subpart R: Steel Erection — Section: Steel joists"
   },
   {
     "id": "Q650",
@@ -8460,7 +8460,7 @@
       "Hearing loss"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 1: Safety; OSHA, Subpart Q: Concrete/Masonry"
+    "source": "Concrete, Chapter 1: Safety; OSHA, Subpart Q: Concrete/Masonry — Section: Concrete and masonry construction"
   },
   {
     "id": "Q652",
@@ -8486,7 +8486,7 @@
       "Use in water"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart I: Tools (Hand/Power); Carpentry, Chapter 5: Power Saws"
+    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: Hand-held power saws; Carpentry, Chapter 5: Power Saws"
   },
   {
     "id": "Q654",
@@ -8538,7 +8538,7 @@
       "12 inches in their least dimension"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart R: Steel Erection; SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Erection Stability"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Falling object protection; SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Erection Stability"
   },
   {
     "id": "Q658",
@@ -8577,7 +8577,7 @@
       "Moisture loss"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: Specific excavation requirements; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
   },
   {
     "id": "Q661",
@@ -8603,7 +8603,7 @@
       "Using nylon straps"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection; SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Steel joists; SteelJoists, Chapter 5: Erecting Joist Products"
   },
   {
     "id": "Q663",
@@ -8642,7 +8642,7 @@
       "Headphones"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment — Section: Eye and Face Protection"
+    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment — Section: Eye and face protection; BCSI, Introduction: Introduction"
   },
   {
     "id": "Q666",
@@ -8668,7 +8668,7 @@
       "Four bolts"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Training (steel erection)"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Structural steel assembly"
   },
   {
     "id": "Q668",
@@ -8707,7 +8707,7 @@
       "A plastic blade"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart I: Tools (Hand/Power); Carpentry, Chapter 5: Power Saws"
+    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: Hand-held power saws; Carpentry, Chapter 5: Power Saws"
   },
   {
     "id": "Q671",
@@ -8733,7 +8733,7 @@
       "Backup alarms"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Q: Concrete/Masonry; Concrete, Chapter 1: Safety"
+    "source": "OSHA, Subpart Q: Concrete/Masonry — Section: Concrete and masonry construction; Concrete, Chapter 1: Safety"
   },
   {
     "id": "Q673",
@@ -8785,7 +8785,7 @@
       "The ironworkers agree"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection; SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Multiple lift rigging procedure; SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection"
   },
   {
     "id": "Q677",
@@ -8824,7 +8824,7 @@
       "4 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: Access and egress; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
   },
   {
     "id": "Q680",
@@ -8863,7 +8863,7 @@
       "Stand on a ladder"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Q: Concrete/Masonry; Concrete, Chapter 1: Safety"
+    "source": "OSHA, Subpart Q: Concrete/Masonry — Section: Concrete pumping; Concrete, Chapter 1: Safety"
   },
   {
     "id": "Q683",
@@ -8889,7 +8889,7 @@
       "Welds only"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection; OSHA, Subpart R: Steel Erection"
+    "source": "SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection; OSHA, Subpart R: Steel Erection — Section: Column anchorage"
   },
   {
     "id": "Q685",
@@ -8915,7 +8915,7 @@
       "Orange"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart K: Electrical; Carpentry, Chapter 6: Other Power & Pneumatic Tools"
+    "source": "OSHA, Subpart K: Electrical — Section: Grounding requirements; Carpentry, Chapter 6: Other Power & Pneumatic Tools"
   },
   {
     "id": "Q687",
@@ -8941,7 +8941,7 @@
       "The concrete supplier"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork; OSHA, Subpart Q: Concrete/Masonry"
+    "source": "Concrete, Chapter 5: Formwork; OSHA, Subpart Q: Concrete/Masonry — Section: Shoring and reshoring"
   },
   {
     "id": "Q689",
@@ -8967,7 +8967,7 @@
       "50 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Fall protection (steel erection); SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Erection Stability"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Fall protection; SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Erection Stability"
   },
   {
     "id": "Q691",
@@ -8993,7 +8993,7 @@
       "Using a box"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation; OSHA, Subpart P: Excavations"
+    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation; OSHA, Subpart P: Excavations — Section: Requirements for protective systems"
   },
   {
     "id": "Q693",
@@ -9019,7 +9019,7 @@
       "The only way to install"
     ],
     "correct": 1,
-    "source": "BCSI, B1: Summary Sheet — Section: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: Duty to have fall protection; BCSI, B1: Summary Sheet"
   },
   {
     "id": "Q695",
@@ -9058,7 +9058,7 @@
       "30 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart X: Stairways/Ladders; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "OSHA, Subpart X: Stairways/Ladders — Section: Fixed ladders; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
   },
   {
     "id": "Q698",
@@ -9084,7 +9084,7 @@
       "700 lbs"
     ],
     "correct": 3,
-    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads; OSHA, Subpart R: Steel Erection"
+    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads; OSHA, Subpart R: Steel Erection — Section: Steel joists"
   },
   {
     "id": "Q700",
@@ -9110,7 +9110,7 @@
       "Spray water"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing; OSHA, Subpart I: Tools (Hand/Power)"
+    "source": "OSHA, Subpart Q: Concrete and Masonry Construction — Section: 1926.702 Requirements for equipment and tools"
   },
   {
     "id": "Q702",
@@ -9136,7 +9136,7 @@
       "A light"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart I: Tools (Hand/Power); Carpentry, Chapter 5: Power Saws"
+    "source": "OSHA, Subpart I: Tools - Hand and Power — Section: 1926.304 Woodworking tools"
   },
   {
     "id": "Q704",
@@ -9175,7 +9175,7 @@
       "The scaffold is removed"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart Q: Concrete/Masonry; Masonry, Chapter 4: Safety"
+    "source": "OSHA, Subpart Q: Concrete and Masonry Construction — Section: 1926.706 Requirements for masonry construction"
   },
   {
     "id": "Q707",
@@ -9188,7 +9188,7 @@
       "10 feet for both"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Fall protection (steel erection); SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Erection Stability"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.760 Fall protection"
   },
   {
     "id": "Q708",
@@ -9227,7 +9227,7 @@
       "6 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.652 Requirements for protective systems"
   },
   {
     "id": "Q711",
@@ -9253,7 +9253,7 @@
       "18 inches"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart L: Scaffolds; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "OSHA, Subpart L: Scaffolds — Section: 1926.451 General requirements"
   },
   {
     "id": "Q713",
@@ -9305,7 +9305,7 @@
       "The general contractor"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: Signal person qualifications; SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection"
+    "source": "OSHA, Subpart CC: Cranes and Derricks in Construction — Section: 1926.1428 Signal person qualifications"
   },
   {
     "id": "Q717",
@@ -9357,7 +9357,7 @@
       "4 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651 Specific excavation requirements"
   },
   {
     "id": "Q721",
@@ -9383,7 +9383,7 @@
       "As designed/engineered"
     ],
     "correct": 3,
-    "source": "IBC, Chapter 16: Structural design; OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.502 Fall protection systems criteria and practices"
   },
   {
     "id": "Q723",
@@ -9396,7 +9396,7 @@
       "The crane must power down"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products; OSHA, Subpart R: Steel Erection"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.757 Open web steel joists"
   },
   {
     "id": "Q724",
@@ -9448,7 +9448,7 @@
       "Only for brick veneer"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Q: Concrete/Masonry — Section: Requirements for masonry construction; Masonry, Chapter 4: Safety"
+    "source": "OSHA, Subpart Q: Concrete and Masonry Construction — Section: 1926.706 Requirements for masonry construction"
   },
   {
     "id": "Q728",
@@ -9474,7 +9474,7 @@
       "5 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart X: Stairways/Ladders; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "OSHA, Subpart X: Stairways and Ladders — Section: 1926.1053 Ladders"
   },
   {
     "id": "Q730",
@@ -9487,7 +9487,7 @@
       "Stable Rock"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 2: Crew & Equipment Productivity — Section: Soil Characteristics"
+    "source": "OSHA, Subpart P: Excavations — Section: Appendix A to Subpart P—Soil classification"
   },
   {
     "id": "Q731",
@@ -9552,7 +9552,7 @@
       "The city inspector"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651 Specific excavation requirements"
   },
   {
     "id": "Q736",
@@ -9604,7 +9604,7 @@
       "Four"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Beams and columns; SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.756 Beams and columns"
   },
   {
     "id": "Q740",
@@ -9630,7 +9630,7 @@
       "60 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress; OSHA, Unverified: Subpart E (Means of Egress)"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1020.2 Width and capacity"
   },
   {
     "id": "Q742",
@@ -9643,7 +9643,7 @@
       "Unlimited"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Controlled decking zones; SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Erection Stability"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.760 Fall protection"
   },
   {
     "id": "Q743",
@@ -9695,7 +9695,7 @@
       "10 to 1"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart CC: Cranes/Derricks; SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection"
+    "source": "OSHA, Subpart H: Materials Handling, Storage, Use, and Disposal — Section: 1926.251 Rigging equipment for material handling"
   },
   {
     "id": "Q747",
@@ -9721,7 +9721,7 @@
       "6 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651 Specific excavation requirements"
   },
   {
     "id": "Q749",
@@ -9773,7 +9773,7 @@
       "150 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart F: Fire Protection; IBC, Chapter 33: Safeguards during construction"
+    "source": "OSHA, Subpart F: Fire Protection — Section: 1926.150 Fire protection"
   },
   {
     "id": "Q753",
@@ -9903,7 +9903,7 @@
       "6"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Training (steel erection); SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.755 Column anchorage"
   },
   {
     "id": "Q763",
@@ -9929,7 +9929,7 @@
       "1:20"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 10: Means of egress; OSHA, Unverified: Subpart E (Exit Routes and Emergency Planning)"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1012.2 Slope"
   },
   {
     "id": "Q765",
@@ -9955,7 +9955,7 @@
       "4 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart X: Stairways/Ladders; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support — Section: 7.1 Using Ladders & Scaffolds"
+    "source": "OSHA, Subpart X: Stairways and Ladders — Section: 1926.1053 Ladders"
   },
   {
     "id": "Q767",
@@ -9981,7 +9981,7 @@
       "20 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart L: Scaffolds; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "OSHA, Subpart L: Scaffolds — Section: 1926.451 General requirements"
   },
   {
     "id": "Q769",
@@ -10020,7 +10020,7 @@
       "1-1/2:1"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: Appendix B to Subpart P—Sloping and benching"
   },
   {
     "id": "Q772",
@@ -10072,7 +10072,7 @@
       "6 inches"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart M: Fall Protection; OSHA, Subpart R: Steel Erection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.500 Scope, application, and definitions applicable to this subpart"
   },
   {
     "id": "Q776",
@@ -10085,7 +10085,7 @@
       "45 inches"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart M: Fall Protection — Section: Guardrail systems; IBC, Chapter 10: Means of egress"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.502 Fall protection systems criteria and practices"
   },
   {
     "id": "Q777",
@@ -10137,7 +10137,7 @@
       "The foreman approves"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection; SteelJoists, Chapter 4: Receiving, Unloading and Storing — Section: Handling and Erection"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.757 Open web steel joists"
   },
   {
     "id": "Q781",
@@ -10202,7 +10202,7 @@
       "The basement"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 10: Means of egress; OSHA, Unverified: Subpart E (Exit Routes and Emergency Planning)"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1003.1 General"
   },
   {
     "id": "Q786",
@@ -10215,7 +10215,7 @@
       "8 AWG"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart K: Electrical; Carpentry, Chapter 30: Mechanicals — Section: Electrical Wiring"
+    "source": "OSHA, Subpart K: Electrical — Section: 1926.404 Wiring design and protection"
   },
   {
     "id": "Q787",
@@ -10228,7 +10228,7 @@
       "Support the overhang"
     ],
     "correct": 1,
-    "source": "BCSI, B1: Summary Sheet — Section: Temporary Lateral Restraint"
+    "source": "BCSI, B1: Summary Sheet — Section: Temporary Restraint and Bracing"
   },
   {
     "id": "Q788",
@@ -10306,7 +10306,7 @@
       "15 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart M: Fall Protection — Section: Training requirements (fall protection); Carpentry, Chapter 3: Construction Safety & Health — Section: Job Site Safety"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.501 Duty to have fall protection"
   },
   {
     "id": "Q794",
@@ -10371,7 +10371,7 @@
       "Stacking deck"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Training (steel erection); SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.753 Hoisting and rigging"
   },
   {
     "id": "Q799",
@@ -10384,7 +10384,7 @@
       "2 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress; OSHA, Subpart M: Fall Protection"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1014.3 Handrail graspability"
   },
   {
     "id": "Q800",
@@ -10462,7 +10462,7 @@
       "The owner"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations — Section: Requirements for protective systems; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.652 Requirements for protective systems"
   },
   {
     "id": "Q806",
@@ -10540,7 +10540,7 @@
       "12 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Training (steel erection); SteelDeck, Chapter 7: Safety notes — Section: Installation"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.753 Hoisting and rigging"
   },
   {
     "id": "Q812",
@@ -10566,7 +10566,7 @@
       "24 inches"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Safety and Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.652 Requirements for protective systems"
   },
   {
     "id": "Q814",
@@ -10670,7 +10670,7 @@
       "36 inches"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 10: Means of egress; OSHA, Unverified: Subpart E (Exit Routes)"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1010.1.1 Size of doors"
   },
   {
     "id": "Q822",
@@ -10683,7 +10683,7 @@
       "5 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart X: Stairways/Ladders; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support — Section: Ladder Safety"
+    "source": "OSHA, Subpart X: Stairways and Ladders — Section: 1926.1053 Ladders"
   },
   {
     "id": "Q823",
@@ -10722,7 +10722,7 @@
       "10 floors"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Training (steel erection); SteelDeck, Chapter 7: Safety notes — Section: Installation"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.754 Structural steel assembly"
   },
   {
     "id": "Q826",
@@ -10748,7 +10748,7 @@
       "Stable Rock"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart P: Excavations — Section: Soil Classification; Pipe&Excavation, Chapter 6: Soil Compaction"
+    "source": "OSHA, Subpart P: Excavations — Section: Appendix A to Subpart P—Soil classification"
   },
   {
     "id": "Q828",
@@ -10787,7 +10787,7 @@
       "1:20"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 10: Means of egress; OSHA, Unverified: Subpart E (Exit Routes)"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1012.2 Slope"
   },
   {
     "id": "Q831",
@@ -10813,7 +10813,7 @@
       "150 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart F: Fire Protection; IBC, Chapter 33: Safeguards during construction"
+    "source": "OSHA, Subpart F: Fire Protection — Section: 1926.150 Fire protection"
   },
   {
     "id": "Q833",
@@ -10878,7 +10878,7 @@
       "6 inches"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection; OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.500 Scope, application, and definitions applicable to this subpart"
   },
   {
     "id": "Q838",
@@ -10930,7 +10930,7 @@
       "Once at the beginning of the job"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Safety and Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651 Specific excavation requirements"
   },
   {
     "id": "Q842",
@@ -10956,7 +10956,7 @@
       "10,000 lbs"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Hoisting and rigging; SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.757 Open web steel joists"
   },
   {
     "id": "Q844",
@@ -11021,7 +11021,7 @@
       "15 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart M: Fall Protection — Section: Training requirements (fall protection); Carpentry, Chapter 3: Construction Safety & Health"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.501 Duty to have fall protection"
   },
   {
     "id": "Q849",
@@ -11099,7 +11099,7 @@
       "The soil is Type C"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Safety"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651 Specific excavation requirements"
   },
   {
     "id": "Q855",
@@ -11138,7 +11138,7 @@
       " discoloration"
     ],
     "correct": 1,
-    "source": "BCSI, B1: Summary Sheet — Section: Truss Storage"
+    "source": "BCSI, B1: Summary Sheet — Section: Truss Storage and Handling"
   },
   {
     "id": "Q858",
@@ -11164,7 +11164,7 @@
       "The center"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products; OSHA, Subpart R: Steel Erection"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.757 Open web steel joists"
   },
   {
     "id": "Q860",
@@ -11216,7 +11216,7 @@
       "Objects falling from the box itself"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Safety and Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.652 Requirements for protective systems"
   },
   {
     "id": "Q864",
@@ -11268,7 +11268,7 @@
       "The bridging is installed"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection; SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.757 Open web steel joists"
   },
   {
     "id": "Q868",
@@ -11307,7 +11307,7 @@
       "300 or more"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress — Section: Occupant load; OSHA, Unverified: Subpart E (Exit Routes)"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1010.2.9 Panic and fire exit hardware"
   },
   {
     "id": "Q871",
@@ -11333,7 +11333,7 @@
       "Cold temperatures"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Safety and Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651 Specific excavation requirements"
   },
   {
     "id": "Q873",
@@ -11411,7 +11411,7 @@
       "30 feet (2 stories)"
     ],
     "correct": 3,
-    "source": "OSHA, Subpart R: Steel Erection; SteelDeck, Chapter 7: Safety notes — Section: Installation"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.754 Structural steel assembly"
   },
   {
     "id": "Q879",
@@ -11450,7 +11450,7 @@
       "Filled with trash"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Safety and Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.652 Requirements for protective systems"
   },
   {
     "id": "Q882",
@@ -11515,7 +11515,7 @@
       "Rot"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart X: Stairways/Ladders; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "OSHA, Subpart X: Stairways and Ladders — Section: 1926.1053 Ladders"
   },
   {
     "id": "Q887",
@@ -11554,7 +11554,7 @@
       "Does not affect strength"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection; SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.757 Open web steel joists"
   },
   {
     "id": "Q890",
@@ -11593,7 +11593,7 @@
       "25 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart P: Excavations — Section: Sloping and benching; Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Safety and Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.652 Requirements for protective systems"
   },
   {
     "id": "Q893",
@@ -11632,7 +11632,7 @@
       "Removing webs"
     ],
     "correct": 1,
-    "source": "BCSI, B1: Summary Sheet — Section: Long-Span Trusses"
+    "source": "BCSI, B1: Summary Sheet — Section: Long Span Truss Installation"
   },
   {
     "id": "Q896",
@@ -11658,7 +11658,7 @@
       "12 inches"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart L: Scaffolds; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "OSHA, Subpart L: Scaffolds — Section: 1926.451 General requirements"
   },
   {
     "id": "Q898",
@@ -11697,7 +11697,7 @@
       "Stop work"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Falling object protection; SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.760 Fall protection"
   },
   {
     "id": "Q901",
@@ -12750,7 +12750,7 @@
       "Uplift"
     ],
     "correct": 0,
-    "source": "BCSI, B3: Permanent Restraint/Bracing of Chords & Web Members — Section: Web Member Permanent Bracing"
+    "source": "BCSI, B1: Summary Sheet; OSHA, Subpart R: Steel Erection"
   },
   {
     "id": "Q982",
@@ -12997,7 +12997,7 @@
       "Optional"
     ],
     "correct": 0,
-    "source": "BCSI, B1: Summary Sheet — Section: Ground Bracing"
+    "source": "BCSI, B1: Summary Sheet; OSHA, Subpart R: Steel Erection"
   },
   {
     "id": "Q1001",
@@ -18327,7 +18327,7 @@
       "Portland cement plaster cannot be applied over lath"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 9: Conventional Plaster Applications — Section: Interior Plaster; Exterior Portland Cement Plaster"
+    "source": "Gypsum, Chapter 9: Conventional Plaster Applications — Section: Interior Plaster and Exterior Portland Cement Plaster"
   },
   {
     "id": "Q1411",
@@ -26166,12 +26166,12 @@
       "Only agricultural operations"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart A: General"
+    "source": "OSHA, Subpart A: General — Section: 1926.1 Purpose and scope"
   },
   {
     "id": "Q2014",
-    "legacyKey": "Under OSHA 1926, an employer is generally permitted to follow a state occupational safety and health program instead of federal OSHA only if that state program is:",
-    "q": "Under OSHA 1926, an employer is generally permitted to follow a state occupational safety and health program instead of federal OSHA only if that state program is:",
+    "legacyKey": "an employer is generally permitted to follow a state occupational safety and health program instead of federal OSHA only if that state program is:",
+    "q": "an employer is generally permitted to follow a state occupational safety and health program instead of federal OSHA only if that state program is:",
     "options": [
       "Less protective than federal OSHA",
       "Approved by federal OSHA and at least as effective as the federal program",
@@ -26179,12 +26179,12 @@
       "Optional for the employer to ignore"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart A: General"
+    "source": "OSHA, Subpart A: General — Section: 1926.3 Inspections—right of entry"
   },
   {
     "id": "Q2015",
-    "legacyKey": "Under OSHA 1926 Subpart A, the standards are generally intended to establish:",
-    "q": "Under OSHA 1926 Subpart A, the standards are generally intended to establish:",
+    "legacyKey": "Under OSHA  Subpart A, the standards are generally intended to establish:",
+    "q": "Under OSHA  Subpart A, the standards are generally intended to establish:",
     "options": [
       "Voluntary guidelines with no enforcement",
       "Minimum safety and health requirements for construction work",
@@ -26192,12 +26192,12 @@
       "Requirements that apply only after an accident occurs"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart A: General"
+    "source": "OSHA, Subpart A: General — Section: 1926.1 Purpose and scope"
   },
   {
     "id": "Q2016",
-    "legacyKey": "OSHA 1926 Subpart B generally addresses:",
-    "q": "OSHA 1926 Subpart B generally addresses:",
+    "legacyKey": "OSHA  Subpart B generally addresses:",
+    "q": "OSHA  Subpart B generally addresses:",
     "options": [
       "Fall protection distances",
       "Interpretation of statutory terms and the applicability of certain general industry standards to construction work",
@@ -26205,12 +26205,12 @@
       "Excavation protective systems"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart B: General Interpretations"
+    "source": "OSHA, Subpart B: General Interpretations — Section: 1926.10 Scope of subpart"
   },
   {
     "id": "Q2017",
-    "legacyKey": "Under OSHA 1926 Subpart B, where a general industry standard (29 CFR 1910) and a construction standard (29 CFR 1926) both address the same hazard on a construction site, the standard that generally applies is:",
-    "q": "Under OSHA 1926 Subpart B, where a general industry standard (29 CFR 1910) and a construction standard (29 CFR 1926) both address the same hazard on a construction site, the standard that generally applies is:",
+    "legacyKey": "Under OSHA  Subpart B, where a general industry standard (29 CFR 1910) and a construction standard (29 CFR 1926) both address the same hazard on a construction site, the standard that generally applies is:",
+    "q": "Under OSHA  Subpart B, where a general industry standard (29 CFR 1910) and a construction standard (29 CFR 1926) both address the same hazard on a construction site, the standard that generally applies is:",
     "options": [
       "Always the general industry standard, 1910",
       "The construction standard, 1926, since it specifically applies to construction work",
@@ -26218,12 +26218,12 @@
       "Neither; construction sites are exempt from both"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart B: General Interpretations"
+    "source": "OSHA, Subpart B: General Interpretations — Section: 1926.10 Scope of subpart"
   },
   {
     "id": "Q2018",
-    "legacyKey": "Under OSHA 1926, a 'competent person' is generally defined as someone who is:",
-    "q": "Under OSHA 1926, a 'competent person' is generally defined as someone who is:",
+    "legacyKey": "a 'competent person' is generally defined as someone who is:",
+    "q": "a 'competent person' is generally defined as someone who is:",
     "options": [
       "Only required to hold a college engineering degree",
       "Capable of identifying existing and predictable hazards and who has authorization to take prompt corrective measures to eliminate them",
@@ -26231,12 +26231,12 @@
       "Only the site's general contractor"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart C: General Safety and Health Provisions"
+    "source": "OSHA, Subpart C: General Safety and Health Provisions — Section: 1926.32 Definitions"
   },
   {
     "id": "Q2019",
-    "legacyKey": "Under OSHA 1926, where a medical clinic, infirmary, or hospital is not reasonably accessible for treatment of injured employees, the employer is generally required to ensure:",
-    "q": "Under OSHA 1926, where a medical clinic, infirmary, or hospital is not reasonably accessible for treatment of injured employees, the employer is generally required to ensure:",
+    "legacyKey": "where a medical clinic, infirmary, or hospital is not reasonably accessible for treatment of injured employees, the employer is generally required to ensure:",
+    "q": "where a medical clinic, infirmary, or hospital is not reasonably accessible for treatment of injured employees, the employer is generally required to ensure:",
     "options": [
       "No first aid provisions are necessary",
       "A person or persons adequately trained to render first aid are available at the worksite",
@@ -26244,12 +26244,12 @@
       "First aid supplies are optional"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart C: General Safety and Health Provisions"
+    "source": "OSHA, Subpart C: General Safety and Health Provisions — Section: 1926.50 Medical services and first aid"
   },
   {
     "id": "Q2020",
-    "legacyKey": "Under OSHA 1926 Subpart A/C, initial responsibility for compliance with applicable safety and health standards on a construction site generally rests with:",
-    "q": "Under OSHA 1926 Subpart A/C, initial responsibility for compliance with applicable safety and health standards on a construction site generally rests with:",
+    "legacyKey": "Under OSHA  Subpart A/C, initial responsibility for compliance with applicable safety and health standards on a construction site generally rests with:",
+    "q": "Under OSHA  Subpart A/C, initial responsibility for compliance with applicable safety and health standards on a construction site generally rests with:",
     "options": [
       "The employee alone",
       "Each employer",
@@ -26257,12 +26257,12 @@
       "Only the architect"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart C: General Safety and Health Provisions"
+    "source": "OSHA, Subpart C: General Safety and Health Provisions — Section: 1926.20 General safety and health provisions"
   },
   {
     "id": "Q2021",
-    "legacyKey": "Under OSHA 1926, employers are generally required to instruct each employee in:",
-    "q": "Under OSHA 1926, employers are generally required to instruct each employee in:",
+    "legacyKey": "employers are generally required to instruct each employee in:",
+    "q": "employers are generally required to instruct each employee in:",
     "options": [
       "Only the tasks assigned to senior employees",
       "The recognition and avoidance of unsafe conditions applicable to their work environment",
@@ -26270,12 +26270,12 @@
       "Nothing beyond basic orientation"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart C: General Safety and Health Provisions"
+    "source": "OSHA, Subpart C: General Safety and Health Provisions — Section: 1926.21 Safety training and education"
   },
   {
     "id": "Q2022",
-    "legacyKey": "Under OSHA 1926, potable water on a construction jobsite is generally required to be:",
-    "q": "Under OSHA 1926, potable water on a construction jobsite is generally required to be:",
+    "legacyKey": "potable water on a construction jobsite is generally required to be:",
+    "q": "potable water on a construction jobsite is generally required to be:",
     "options": [
       "Available in any container, including one previously used for other purposes",
       "Provided from an approved source, and if a common container is used, equipped with a tap (not a dipping method) unless it is a single-use disposable container",
@@ -26283,12 +26283,12 @@
       "Untested and unregulated"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart C: General Safety and Health Provisions"
+    "source": "OSHA, Subpart C: General Safety and Health Provisions — Section: 1926.51 Sanitation"
   },
   {
     "id": "Q2023",
-    "legacyKey": "Under OSHA 1926, toilet facilities on a construction jobsite are generally required to be provided based on:",
-    "q": "Under OSHA 1926, toilet facilities on a construction jobsite are generally required to be provided based on:",
+    "legacyKey": "toilet facilities on a construction jobsite are generally required to be provided based on:",
+    "q": "toilet facilities on a construction jobsite are generally required to be provided based on:",
     "options": [
       "No specific standard applies",
       "The number of employees at the site, in accordance with the applicable minimum-facilities table",
@@ -26296,12 +26296,12 @@
       "The site's square footage alone"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart C: General Safety and Health Provisions"
+    "source": "OSHA, Subpart C: General Safety and Health Provisions — Section: 1926.51 Sanitation"
   },
   {
     "id": "Q2024",
-    "legacyKey": "Under OSHA 1926, employers are generally required to provide a place of employment that is:",
-    "q": "Under OSHA 1926, employers are generally required to provide a place of employment that is:",
+    "legacyKey": "employers are generally required to provide a place of employment that is:",
+    "q": "employers are generally required to provide a place of employment that is:",
     "options": [
       "Free from recognized hazards likely to cause death or serious physical harm, and in compliance with applicable standards",
       "Free of all risk of any kind, with a zero-incident guarantee",
@@ -26309,12 +26309,12 @@
       "Exempt from inspection if the employer is small"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart C: General Safety and Health Provisions"
+    "source": "OSHA, Subpart C: General Safety and Health Provisions — Section: 1926.20 General safety and health provisions"
   },
   {
     "id": "Q2025",
-    "legacyKey": "Under OSHA 1926, general construction work areas are generally required to have illumination of not less than:",
-    "q": "Under OSHA 1926, general construction work areas are generally required to have illumination of not less than:",
+    "legacyKey": "general construction work areas are generally required to have illumination of not less than:",
+    "q": "general construction work areas are generally required to have illumination of not less than:",
     "options": [
       "1 foot-candle",
       "5 foot-candles",
@@ -26322,12 +26322,12 @@
       "No illumination requirement applies"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart D: Occupational Health"
+    "source": "OSHA, Subpart D: Occupational Health — Section: 1926.56 Illumination"
   },
   {
     "id": "Q2026",
-    "legacyKey": "Under OSHA 1926, hazardous chemicals used on a construction site are generally required to be accompanied by a hazard communication program that includes:",
-    "q": "Under OSHA 1926, hazardous chemicals used on a construction site are generally required to be accompanied by a hazard communication program that includes:",
+    "legacyKey": "hazardous chemicals used on a construction site are generally required to be accompanied by a hazard communication program that includes:",
+    "q": "hazardous chemicals used on a construction site are generally required to be accompanied by a hazard communication program that includes:",
     "options": [
       "Nothing beyond the original manufacturer's packaging",
       "Container labeling, safety data sheets, and employee training",
@@ -26335,12 +26335,12 @@
       "A program only for chemicals stored longer than one year"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart D: Occupational Health"
+    "source": "OSHA, Subpart D: Occupational Health — Section: 1926.59 Hazard communication"
   },
   {
     "id": "Q2027",
-    "legacyKey": "Under OSHA 1926, where feasible engineering and work-practice controls are not sufficient to reduce employee exposure to a harmful substance, an employer is generally required to provide:",
-    "q": "Under OSHA 1926, where feasible engineering and work-practice controls are not sufficient to reduce employee exposure to a harmful substance, an employer is generally required to provide:",
+    "legacyKey": "where feasible engineering and work-practice controls are not sufficient to reduce employee exposure to a harmful substance, an employer is generally required to provide:",
+    "q": "where feasible engineering and work-practice controls are not sufficient to reduce employee exposure to a harmful substance, an employer is generally required to provide:",
     "options": [
       "No additional protection",
       "Appropriate personal protective equipment, such as respiratory protection",
@@ -26348,12 +26348,12 @@
       "A pay differential in lieu of protection"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart D: Occupational Health"
+    "source": "OSHA, Subpart D: Occupational Health — Section: 1926.55 Gases, vapors, fumes, dusts, and mists"
   },
   {
     "id": "Q2028",
-    "legacyKey": "Under OSHA 1926, employees required to wear respirators are generally required to be covered by a written respiratory protection program that includes:",
-    "q": "Under OSHA 1926, employees required to wear respirators are generally required to be covered by a written respiratory protection program that includes:",
+    "legacyKey": "employees required to wear respirators are generally required to be covered by a written respiratory protection program that includes:",
+    "q": "employees required to wear respirators are generally required to be covered by a written respiratory protection program that includes:",
     "options": [
       "No medical evaluation of any kind",
       "Medical evaluation, fit testing, and training on proper use",
@@ -26361,12 +26361,12 @@
       "Optional annual review"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart D: Occupational Health"
+    "source": "OSHA, Subpart D: Occupational Health — Section: 1926.103 Respiratory protection"
   },
   {
     "id": "Q2029",
-    "legacyKey": "Under OSHA 1926, employees working in areas where there is a possible danger of head injury from impact or falling/flying objects are generally required to wear:",
-    "q": "Under OSHA 1926, employees working in areas where there is a possible danger of head injury from impact or falling/flying objects are generally required to wear:",
+    "legacyKey": "employees working in areas where there is a possible danger of head injury from impact or falling/flying objects are generally required to wear:",
+    "q": "employees working in areas where there is a possible danger of head injury from impact or falling/flying objects are generally required to wear:",
     "options": [
       "No protection unless requested",
       "Protective helmets",
@@ -26374,12 +26374,12 @@
       "Sunglasses"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment"
+    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment — Section: 1926.100 Head protection"
   },
   {
     "id": "Q2030",
-    "legacyKey": "Under OSHA 1926, employees exposed to occupational noise exceeding the permissible exposure level are generally required to be provided with:",
-    "q": "Under OSHA 1926, employees exposed to occupational noise exceeding the permissible exposure level are generally required to be provided with:",
+    "legacyKey": "employees exposed to occupational noise exceeding the permissible exposure level are generally required to be provided with:",
+    "q": "employees exposed to occupational noise exceeding the permissible exposure level are generally required to be provided with:",
     "options": [
       "No hearing protection is required under any circumstance",
       "Hearing protective devices",
@@ -26387,12 +26387,12 @@
       "A permanent transfer, with no protective equipment offered"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment"
+    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment — Section: 1926.101 Hearing protection"
   },
   {
     "id": "Q2031",
-    "legacyKey": "Under OSHA 1926, employees are generally required to wear appropriate hand protection when their hands are exposed to hazards such as:",
-    "q": "Under OSHA 1926, employees are generally required to wear appropriate hand protection when their hands are exposed to hazards such as:",
+    "legacyKey": "employees are generally required to wear appropriate hand protection when their hands are exposed to hazards such as:",
+    "q": "employees are generally required to wear appropriate hand protection when their hands are exposed to hazards such as:",
     "options": [
       "No hazard justifies hand protection",
       "Cuts, punctures, abrasions, chemical burns, or harmful temperature extremes",
@@ -26400,12 +26400,12 @@
       "Only cold weather, with no other trigger"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment"
+    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment — Section: 1926.95 Criteria for personal protective equipment"
   },
   {
     "id": "Q2032",
-    "legacyKey": "Under OSHA 1926, employees are generally required to wear appropriate foot protection where there is a danger of foot injury from sources such as:",
-    "q": "Under OSHA 1926, employees are generally required to wear appropriate foot protection where there is a danger of foot injury from sources such as:",
+    "legacyKey": "employees are generally required to wear appropriate foot protection where there is a danger of foot injury from sources such as:",
+    "q": "employees are generally required to wear appropriate foot protection where there is a danger of foot injury from sources such as:",
     "options": [
       "No source of foot injury is regulated",
       "Falling or rolling objects, objects piercing the sole, or exposure to electrical hazards",
@@ -26413,12 +26413,12 @@
       "Only extreme heat"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment"
+    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment — Section: 1926.96 Occupational foot protection"
   },
   {
     "id": "Q2033",
-    "legacyKey": "Under OSHA 1926, where engineering and administrative controls cannot adequately reduce airborne contaminant exposure, respirators are generally required to be:",
-    "q": "Under OSHA 1926, where engineering and administrative controls cannot adequately reduce airborne contaminant exposure, respirators are generally required to be:",
+    "legacyKey": "where engineering and administrative controls cannot adequately reduce airborne contaminant exposure, respirators are generally required to be:",
+    "q": "where engineering and administrative controls cannot adequately reduce airborne contaminant exposure, respirators are generally required to be:",
     "options": [
       "Optional at the employee's own expense",
       "Provided by the employer and used in accordance with a written respiratory protection program",
@@ -26426,12 +26426,12 @@
       "Used without any training"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment"
+    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment — Section: 1926.103 Respiratory protection"
   },
   {
     "id": "Q2034",
-    "legacyKey": "Under OSHA 1926, personal protective equipment required due to workplace hazards is generally required to be:",
-    "q": "Under OSHA 1926, personal protective equipment required due to workplace hazards is generally required to be:",
+    "legacyKey": "personal protective equipment required due to workplace hazards is generally required to be:",
+    "q": "personal protective equipment required due to workplace hazards is generally required to be:",
     "options": [
       "Paid for by the employee in all cases",
       "Provided by the employer at no cost to the employee, with limited specific exceptions",
@@ -26439,12 +26439,12 @@
       "Optional if the employee declines it"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment"
+    "source": "OSHA, Subpart E: Personal Protective and Life Saving Equipment — Section: 1926.95 Criteria for personal protective equipment"
   },
   {
     "id": "Q2035",
-    "legacyKey": "Under OSHA 1926, a fire extinguisher rated for flammable liquid fires is generally required within 50 feet of a location where 5 gallons or more of flammable or combustible liquids are used, with a minimum rating of:",
-    "q": "Under OSHA 1926, a fire extinguisher rated for flammable liquid fires is generally required within 50 feet of a location where 5 gallons or more of flammable or combustible liquids are used, with a minimum rating of:",
+    "legacyKey": "a fire extinguisher rated for flammable liquid fires is generally required within 50 feet of a location where 5 gallons or more of flammable or combustible liquids are used, with a minimum rating of:",
+    "q": "a fire extinguisher rated for flammable liquid fires is generally required within 50 feet of a location where 5 gallons or more of flammable or combustible liquids are used, with a minimum rating of:",
     "options": [
       "1-A",
       "10-B",
@@ -26452,12 +26452,12 @@
       "There is no minimum rating"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart F: Fire Protection"
+    "source": "OSHA, Subpart F: Fire Protection — Section: 1926.150 Fire protection"
   },
   {
     "id": "Q2036",
-    "legacyKey": "Under OSHA 1926, flammable liquids on a construction site are generally required to be stored in:",
-    "q": "Under OSHA 1926, flammable liquids on a construction site are generally required to be stored in:",
+    "legacyKey": "flammable liquids on a construction site are generally required to be stored in:",
+    "q": "flammable liquids on a construction site are generally required to be stored in:",
     "options": [
       "Any container available on site",
       "Approved containers, and in quantities exceeding specified limits, in approved storage cabinets or rooms",
@@ -26465,12 +26465,12 @@
       "Cardboard boxes"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart F: Fire Protection"
+    "source": "OSHA, Subpart F: Fire Protection — Section: 1926.152 Flammable liquids"
   },
   {
     "id": "Q2037",
-    "legacyKey": "Under OSHA 1926, temporary heating devices are generally required to be located so that they:",
-    "q": "Under OSHA 1926, temporary heating devices are generally required to be located so that they:",
+    "legacyKey": "temporary heating devices are generally required to be located so that they:",
+    "q": "temporary heating devices are generally required to be located so that they:",
     "options": [
       "May be placed directly against combustible material for efficiency",
       "Maintain clearance from combustible material in accordance with their listing and manufacturer's instructions",
@@ -26478,12 +26478,12 @@
       "Are only used indoors with no ventilation"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart F: Fire Protection"
+    "source": "OSHA, Subpart F: Fire Protection — Section: 1926.154 Temporary heating devices"
   },
   {
     "id": "Q2038",
-    "legacyKey": "Under OSHA 1926, standpipes in multistory buildings under construction are generally required to be:",
-    "q": "Under OSHA 1926, standpipes in multistory buildings under construction are generally required to be:",
+    "legacyKey": "standpipes in multistory buildings under construction are generally required to be:",
+    "q": "standpipes in multistory buildings under construction are generally required to be:",
     "options": [
       "Omitted until the building is fully enclosed",
       "Installed and maintained as construction progresses, so that they are within one floor of the highest point of construction",
@@ -26491,12 +26491,12 @@
       "Optional for buildings under 3 stories"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart F: Fire Protection"
+    "source": "OSHA, Subpart F: Fire Protection — Section: 1926.150 Fire protection"
   },
   {
     "id": "Q2039",
-    "legacyKey": "Under OSHA 1926, 'Danger' signs are generally required to use the color combination of:",
-    "q": "Under OSHA 1926, 'Danger' signs are generally required to use the color combination of:",
+    "legacyKey": "'Danger' signs are generally required to use the color combination of:",
+    "q": "'Danger' signs are generally required to use the color combination of:",
     "options": [
       "Yellow background with black lettering",
       "Red, black, and white",
@@ -26504,12 +26504,12 @@
       "Blue and orange"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart G: Signs, Signals, and Barricades"
+    "source": "OSHA, Subpart G: Signs, Signals, and Barricades — Section: 1926.200 Accident prevention signs and tags"
   },
   {
     "id": "Q2040",
-    "legacyKey": "Under OSHA 1926, 'Caution' signs are generally required to use the color combination of:",
-    "q": "Under OSHA 1926, 'Caution' signs are generally required to use the color combination of:",
+    "legacyKey": "'Caution' signs are generally required to use the color combination of:",
+    "q": "'Caution' signs are generally required to use the color combination of:",
     "options": [
       "Red, black, and white",
       "Yellow background with black lettering or symbols",
@@ -26517,12 +26517,12 @@
       "Solid orange"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart G: Signs, Signals, and Barricades"
+    "source": "OSHA, Subpart G: Signs, Signals, and Barricades — Section: 1926.200 Accident prevention signs and tags"
   },
   {
     "id": "Q2041",
-    "legacyKey": "Under OSHA 1926, signs, signals, and barricades are generally required wherever:",
-    "q": "Under OSHA 1926, signs, signals, and barricades are generally required wherever:",
+    "legacyKey": "signs, signals, and barricades are generally required wherever:",
+    "q": "signs, signals, and barricades are generally required wherever:",
     "options": [
       "No hazard exists",
       "Operations expose employees or the public to hazards that must be controlled or communicated",
@@ -26530,12 +26530,12 @@
       "Only during nighttime work"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart G: Signs, Signals, and Barricades"
+    "source": "OSHA, Subpart G: Signs, Signals, and Barricades — Section: 1926.200 Accident prevention signs and tags"
   },
   {
     "id": "Q2042",
-    "legacyKey": "Under OSHA 1926, traffic signs and control devices used for construction work affecting public vehicular or pedestrian traffic are generally required to conform to:",
-    "q": "Under OSHA 1926, traffic signs and control devices used for construction work affecting public vehicular or pedestrian traffic are generally required to conform to:",
+    "legacyKey": "traffic signs and control devices used for construction work affecting public vehicular or pedestrian traffic are generally required to conform to:",
+    "q": "traffic signs and control devices used for construction work affecting public vehicular or pedestrian traffic are generally required to conform to:",
     "options": [
       "The employer's own custom design",
       "The Manual on Uniform Traffic Control Devices (MUTCD)",
@@ -26543,12 +26543,12 @@
       "Only local landscaping ordinances"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart G: Signs, Signals, and Barricades"
+    "source": "OSHA, Subpart G: Signs, Signals, and Barricades — Section: 1926.200 Accident prevention signs and tags"
   },
   {
     "id": "Q2043",
-    "legacyKey": "Under OSHA 1926, flaggers directing traffic near a construction work zone are generally required to wear:",
-    "q": "Under OSHA 1926, flaggers directing traffic near a construction work zone are generally required to wear:",
+    "legacyKey": "flaggers directing traffic near a construction work zone are generally required to wear:",
+    "q": "flaggers directing traffic near a construction work zone are generally required to wear:",
     "options": [
       "Standard work clothing with no special requirement",
       "High-visibility warning garments meeting the applicable class requirement",
@@ -26556,7 +26556,7 @@
       "Dark-colored clothing to avoid distracting drivers"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart G: Signs, Signals, and Barricades"
+    "source": "OSHA, Subpart G: Signs, Signals, and Barricades — Section: 1926.201 Signaling"
   },
   {
     "id": "Q2044",
@@ -26573,8 +26573,8 @@
   },
   {
     "id": "Q2045",
-    "legacyKey": "Under OSHA 1926, rigging equipment for material handling is generally required to be inspected:",
-    "q": "Under OSHA 1926, rigging equipment for material handling is generally required to be inspected:",
+    "legacyKey": "rigging equipment for material handling is generally required to be inspected:",
+    "q": "rigging equipment for material handling is generally required to be inspected:",
     "options": [
       "Only once, at the time of purchase",
       "Prior to use on each shift, and as necessary during use, by a competent person",
@@ -26582,12 +26582,12 @@
       "Only after a failure occurs"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart H: Materials Handling"
+    "source": "OSHA, Subpart H: Materials Handling — Section: 1926.251 Rigging equipment for material handling"
   },
   {
     "id": "Q2046",
-    "legacyKey": "Under OSHA 1926, materials stored on a construction site are generally required to be stacked, blocked, interlocked, and limited in height so that they are:",
-    "q": "Under OSHA 1926, materials stored on a construction site are generally required to be stacked, blocked, interlocked, and limited in height so that they are:",
+    "legacyKey": "materials stored on a construction site are generally required to be stacked, blocked, interlocked, and limited in height so that they are:",
+    "q": "materials stored on a construction site are generally required to be stacked, blocked, interlocked, and limited in height so that they are:",
     "options": [
       "Stacked as high as possible regardless of stability",
       "Stable and secure against sliding or collapse",
@@ -26595,12 +26595,12 @@
       "Stored only outdoors"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart H: Materials Handling"
+    "source": "OSHA, Subpart H: Materials Handling — Section: 1926.250 General requirements for storage"
   },
   {
     "id": "Q2047",
-    "legacyKey": "Under OSHA 1926, general housekeeping requirements provide that debris and scrap materials are generally required to be:",
-    "q": "Under OSHA 1926, general housekeeping requirements provide that debris and scrap materials are generally required to be:",
+    "legacyKey": "general housekeeping requirements provide that debris and scrap materials are generally required to be:",
+    "q": "general housekeeping requirements provide that debris and scrap materials are generally required to be:",
     "options": [
       "Left to accumulate until the project ends",
       "Kept cleared from work areas, passageways, and stairs in and around buildings or structures",
@@ -26608,12 +26608,12 @@
       "Ignored unless a hazard is reported"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart H: Materials Handling"
+    "source": "OSHA, Subpart H: Materials Handling — Section: 1926.250 General requirements for storage"
   },
   {
     "id": "Q2048",
-    "legacyKey": "Under OSHA 1926, employees engaged in rigging operations are generally required to receive training that addresses:",
-    "q": "Under OSHA 1926, employees engaged in rigging operations are generally required to receive training that addresses:",
+    "legacyKey": "employees engaged in rigging operations are generally required to receive training that addresses:",
+    "q": "employees engaged in rigging operations are generally required to receive training that addresses:",
     "options": [
       "No particular topic",
       "The hazards associated with the specific rigging equipment and procedures they will use",
@@ -26621,12 +26621,12 @@
       "Marketing of rigging equipment brands"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart H: Materials Handling"
+    "source": "OSHA, Subpart H: Materials Handling — Section: 1926.251 Rigging equipment for material handling"
   },
   {
     "id": "Q2049",
-    "legacyKey": "Under OSHA 1926, hand tools are generally required to be maintained in a condition that is:",
-    "q": "Under OSHA 1926, hand tools are generally required to be maintained in a condition that is:",
+    "legacyKey": "hand tools are generally required to be maintained in a condition that is:",
+    "q": "hand tools are generally required to be maintained in a condition that is:",
     "options": [
       "Free from defects that could create a hazard to the user",
       "Left in any condition, since hand tools are not powered",
@@ -26634,12 +26634,12 @@
       "Regulated only for power tools, not hand tools"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart I: Tools (Hand/Power)"
+    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: 1926.300 General requirements"
   },
   {
     "id": "Q2050",
-    "legacyKey": "Under OSHA 1926, abrasive wheel grinding machines are generally required to be equipped with:",
-    "q": "Under OSHA 1926, abrasive wheel grinding machines are generally required to be equipped with:",
+    "legacyKey": "abrasive wheel grinding machines are generally required to be equipped with:",
+    "q": "abrasive wheel grinding machines are generally required to be equipped with:",
     "options": [
       "No guard, to allow full visibility",
       "A safety guard covering the spindle end, nut, and flange projections, and a portion of the wheel",
@@ -26647,12 +26647,12 @@
       "A guard only if the wheel exceeds 12 inches in diameter"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart I: Tools (Hand/Power)"
+    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: 1926.303 Abrasive wheels and tools"
   },
   {
     "id": "Q2051",
-    "legacyKey": "Under OSHA 1926, pneumatic power tools that use impact attachments (such as chisels) not manually held are generally required to be fitted with:",
-    "q": "Under OSHA 1926, pneumatic power tools that use impact attachments (such as chisels) not manually held are generally required to be fitted with:",
+    "legacyKey": "pneumatic power tools that use impact attachments (such as chisels) not manually held are generally required to be fitted with:",
+    "q": "pneumatic power tools that use impact attachments (such as chisels) not manually held are generally required to be fitted with:",
     "options": [
       "No retaining device",
       "A safety clip or retainer to prevent the attachment from being unintentionally expelled",
@@ -26660,12 +26660,12 @@
       "A warning horn only"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart I: Tools (Hand/Power)"
+    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: 1926.302 Power-operated hand tools"
   },
   {
     "id": "Q2052",
-    "legacyKey": "Under OSHA 1926, compressed air used for cleaning purposes is generally required to be reduced to a pressure of:",
-    "q": "Under OSHA 1926, compressed air used for cleaning purposes is generally required to be reduced to a pressure of:",
+    "legacyKey": "compressed air used for cleaning purposes is generally required to be reduced to a pressure of:",
+    "q": "compressed air used for cleaning purposes is generally required to be reduced to a pressure of:",
     "options": [
       "No limit applies",
       "Less than 30 psi, with effective chip guarding and appropriate PPE",
@@ -26673,12 +26673,12 @@
       "Exactly 100 psi"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart I: Tools (Hand/Power)"
+    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: 1926.302 Power-operated hand tools"
   },
   {
     "id": "Q2053",
-    "legacyKey": "Under OSHA 1926, when welding or cutting operations may expose nearby employees to harmful arc rays, the employer is generally required to provide:",
-    "q": "Under OSHA 1926, when welding or cutting operations may expose nearby employees to harmful arc rays, the employer is generally required to provide:",
+    "legacyKey": "when welding or cutting operations may expose nearby employees to harmful arc rays, the employer is generally required to provide:",
+    "q": "when welding or cutting operations may expose nearby employees to harmful arc rays, the employer is generally required to provide:",
     "options": [
       "No protection, since arc rays are not regulated",
       "Screens, shields, or other protective means to protect nearby employees",
@@ -26686,12 +26686,12 @@
       "Protection only if requested"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart J: Welding and Cutting"
+    "source": "OSHA, Subpart J: Welding and Cutting — Section: 1926.351 Arc welding and cutting"
   },
   {
     "id": "Q2054",
-    "legacyKey": "Under OSHA 1926, welding, cutting, or heating in confined spaces generally requires:",
-    "q": "Under OSHA 1926, welding, cutting, or heating in confined spaces generally requires:",
+    "legacyKey": "welding, cutting, or heating in confined spaces generally requires:",
+    "q": "welding, cutting, or heating in confined spaces generally requires:",
     "options": [
       "No special ventilation, since the space is temporary",
       "Adequate ventilation to prevent the accumulation of toxic fumes or oxygen-deficient atmospheres",
@@ -26699,12 +26699,12 @@
       "Ventilation only for gas welding, not arc welding"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart J: Welding and Cutting"
+    "source": "OSHA, Subpart J: Welding and Cutting — Section: 1926.353 Ventilation and protection in welding, cutting, and heating"
   },
   {
     "id": "Q2055",
-    "legacyKey": "Under OSHA 1926, compressed gas cylinders not in use or being transported are generally required to have:",
-    "q": "Under OSHA 1926, compressed gas cylinders not in use or being transported are generally required to have:",
+    "legacyKey": "compressed gas cylinders not in use or being transported are generally required to have:",
+    "q": "compressed gas cylinders not in use or being transported are generally required to have:",
     "options": [
       "No protection for the valve",
       "Valve protection caps in place",
@@ -26712,12 +26712,12 @@
       "The regulator left attached and pressurized"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart J: Welding and Cutting"
+    "source": "OSHA, Subpart J: Welding and Cutting — Section: 1926.350 Gas welding and cutting"
   },
   {
     "id": "Q2056",
-    "legacyKey": "Under OSHA 1926, combustible materials near welding or cutting operations are generally required to be:",
-    "q": "Under OSHA 1926, combustible materials near welding or cutting operations are generally required to be:",
+    "legacyKey": "combustible materials near welding or cutting operations are generally required to be:",
+    "q": "combustible materials near welding or cutting operations are generally required to be:",
     "options": [
       "Left in place regardless of distance",
       "Removed to a safe distance, or protected with a fire-resistant covering or a fire watch, as applicable",
@@ -26725,12 +26725,12 @@
       "Ignored unless they visibly ignite"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart J: Welding and Cutting — Section: Fire prevention (welding and cutting)"
+    "source": "OSHA, Subpart J: Welding and Cutting — Section: 1926.352 Fire prevention"
   },
   {
     "id": "Q2057",
-    "legacyKey": "Under OSHA 1926, oxygen and fuel-gas manifolds used in welding/cutting operations are generally required to be:",
-    "q": "Under OSHA 1926, oxygen and fuel-gas manifolds used in welding/cutting operations are generally required to be:",
+    "legacyKey": "oxygen and fuel-gas manifolds used in welding/cutting operations are generally required to be:",
+    "q": "oxygen and fuel-gas manifolds used in welding/cutting operations are generally required to be:",
     "options": [
       "Located in an unmarked area",
       "Placed in a safe, accessible location and marked to identify the substance and flow direction",
@@ -26738,12 +26738,12 @@
       "Buried underground"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart J: Welding and Cutting"
+    "source": "OSHA, Subpart J: Welding and Cutting — Section: 1926.350 Gas welding and cutting"
   },
   {
     "id": "Q2058",
-    "legacyKey": "Under OSHA 1926, as an alternative to GFCI protection on construction sites, an employer may implement:",
-    "q": "Under OSHA 1926, as an alternative to GFCI protection on construction sites, an employer may implement:",
+    "legacyKey": "as an alternative to GFCI protection on construction sites, an employer may implement:",
+    "q": "as an alternative to GFCI protection on construction sites, an employer may implement:",
     "options": [
       "No alternative is permitted",
       "An assured equipment grounding conductor program",
@@ -26751,12 +26751,12 @@
       "Reduced voltage equipment with no other safeguard"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart K: Electrical"
+    "source": "OSHA, Subpart K: Electrical — Section: 1926.404 Wiring design and protection"
   },
   {
     "id": "Q2059",
-    "legacyKey": "Under OSHA 1926, before employees work on electrical circuits or equipment, the circuit is generally required to be:",
-    "q": "Under OSHA 1926, before employees work on electrical circuits or equipment, the circuit is generally required to be:",
+    "legacyKey": "before employees work on electrical circuits or equipment, the circuit is generally required to be:",
+    "q": "before employees work on electrical circuits or equipment, the circuit is generally required to be:",
     "options": [
       "Left energized to save time",
       "De-energized and locked/tagged out, unless de-energizing introduces additional hazards or is infeasible",
@@ -26764,12 +26764,12 @@
       "Energized but covered with tape"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart K: Electrical"
+    "source": "OSHA, Subpart K: Electrical — Section: 1926.417 Lockout and tagging of circuits"
   },
   {
     "id": "Q2060",
-    "legacyKey": "Under OSHA 1926, electrical equipment used on a construction site is generally required to be:",
-    "q": "Under OSHA 1926, electrical equipment used on a construction site is generally required to be:",
+    "legacyKey": "electrical equipment used on a construction site is generally required to be:",
+    "q": "electrical equipment used on a construction site is generally required to be:",
     "options": [
       "Homemade, with no certification needed",
       "Approved (listed, labeled, or certified) for the purpose",
@@ -26777,12 +26777,12 @@
       "Purchased at the lowest cost regardless of listing"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart K: Electrical"
+    "source": "OSHA, Subpart K: Electrical — Section: 1926.403 General requirements"
   },
   {
     "id": "Q2061",
-    "legacyKey": "Under OSHA 1926, working space around electrical equipment likely to require examination or servicing while energized is generally required to be maintained to provide:",
-    "q": "Under OSHA 1926, working space around electrical equipment likely to require examination or servicing while energized is generally required to be maintained to provide:",
+    "legacyKey": "working space around electrical equipment likely to require examination or servicing while energized is generally required to be maintained to provide:",
+    "q": "working space around electrical equipment likely to require examination or servicing while energized is generally required to be maintained to provide:",
     "options": [
       "No clearance requirement",
       "Sufficient access and working space for safe operation and maintenance",
@@ -26790,12 +26790,12 @@
       "Clearance only on the equipment's back side"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart K: Electrical"
+    "source": "OSHA, Subpart K: Electrical — Section: 1926.403 General requirements"
   },
   {
     "id": "Q2062",
-    "legacyKey": "Under OSHA 1926, flexible cords and cables are generally:",
-    "q": "Under OSHA 1926, flexible cords and cables are generally:",
+    "legacyKey": "flexible cords and cables are generally:",
+    "q": "flexible cords and cables are generally:",
     "options": [
       "Permitted as a permanent substitute for fixed wiring",
       "Not permitted as a substitute for the fixed wiring of a structure, with limited exceptions",
@@ -26803,12 +26803,12 @@
       "Regulated identically to underground conduit"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart K: Electrical"
+    "source": "OSHA, Subpart K: Electrical — Section: 1926.405 Wiring methods, components, and equipment for general use"
   },
   {
     "id": "Q2063",
-    "legacyKey": "Under OSHA 1926, the erection, moving, dismantling, or altering of scaffolds is generally required to be performed under the supervision of:",
-    "q": "Under OSHA 1926, the erection, moving, dismantling, or altering of scaffolds is generally required to be performed under the supervision of:",
+    "legacyKey": "the erection, moving, dismantling, or altering of scaffolds is generally required to be performed under the supervision of:",
+    "q": "the erection, moving, dismantling, or altering of scaffolds is generally required to be performed under the supervision of:",
     "options": [
       "Any available worker",
       "A competent person qualified in scaffold erection, with such work performed by experienced/trained employees",
@@ -26816,12 +26816,12 @@
       "No supervision is required"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: 1926.451 General requirements"
   },
   {
     "id": "Q2064",
-    "legacyKey": "Under OSHA 1926, guardrails on a scaffold are generally required to have a top rail height of approximately:",
-    "q": "Under OSHA 1926, guardrails on a scaffold are generally required to have a top rail height of approximately:",
+    "legacyKey": "guardrails on a scaffold are generally required to have a top rail height of approximately:",
+    "q": "guardrails on a scaffold are generally required to have a top rail height of approximately:",
     "options": [
       "18 to 24 inches",
       "38 to 45 inches",
@@ -26829,12 +26829,12 @@
       "There is no specified height range"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: 1926.451 General requirements"
   },
   {
     "id": "Q2065",
-    "legacyKey": "Under OSHA 1926, when a scaffold platform is more than 2 feet above or below a point of access, the employer is generally required to provide:",
-    "q": "Under OSHA 1926, when a scaffold platform is more than 2 feet above or below a point of access, the employer is generally required to provide:",
+    "legacyKey": "when a scaffold platform is more than 2 feet above or below a point of access, the employer is generally required to provide:",
+    "q": "when a scaffold platform is more than 2 feet above or below a point of access, the employer is generally required to provide:",
     "options": [
       "No access accommodation",
       "A ladder, ramp, walkway, or other safe means of access",
@@ -26842,12 +26842,12 @@
       "Access only via the scaffold's cross bracing"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: 1926.451 General requirements"
   },
   {
     "id": "Q2066",
-    "legacyKey": "Under OSHA 1926, fall protection is generally required for employees on a scaffold working at a height of:",
-    "q": "Under OSHA 1926, fall protection is generally required for employees on a scaffold working at a height of:",
+    "legacyKey": "fall protection is generally required for employees on a scaffold working at a height of:",
+    "q": "fall protection is generally required for employees on a scaffold working at a height of:",
     "options": [
       "4 feet or more",
       "10 feet or more above a lower level",
@@ -26855,12 +26855,12 @@
       "Fall protection is never required on scaffolds"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: 1926.451 General requirements"
   },
   {
     "id": "Q2067",
-    "legacyKey": "Under OSHA 1926, a 'positioning device system' is generally intended to:",
-    "q": "Under OSHA 1926, a 'positioning device system' is generally intended to:",
+    "legacyKey": "a 'positioning device system' is generally intended to:",
+    "q": "a 'positioning device system' is generally intended to:",
     "options": [
       "Replace the need for any fall protection",
       "Allow an employee to be supported on an elevated vertical surface, such as a wall, and work with both hands free",
@@ -26868,12 +26868,12 @@
       "Serve only as a decorative safety harness"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.500 Scope, application, and definitions applicable to this subpart"
   },
   {
     "id": "Q2068",
-    "legacyKey": "Under OSHA 1926, a 'controlled access zone,' used as an alternative to conventional fall protection during certain leading-edge work, is generally established and controlled by:",
-    "q": "Under OSHA 1926, a 'controlled access zone,' used as an alternative to conventional fall protection during certain leading-edge work, is generally established and controlled by:",
+    "legacyKey": "a 'controlled access zone,' used as an alternative to conventional fall protection during certain leading-edge work, is generally established and controlled by:",
+    "q": "a 'controlled access zone,' used as an alternative to conventional fall protection during certain leading-edge work, is generally established and controlled by:",
     "options": [
       "No particular person; any employee may enter freely",
       "A control line and, where required, a designated competent person",
@@ -26881,12 +26881,12 @@
       "The property owner exclusively"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.502 Fall protection systems criteria and practices"
   },
   {
     "id": "Q2069",
-    "legacyKey": "Under OSHA 1926, a 'safety monitoring system' used as a fall protection alternative in limited circumstances generally requires a competent person who:",
-    "q": "Under OSHA 1926, a 'safety monitoring system' used as a fall protection alternative in limited circumstances generally requires a competent person who:",
+    "legacyKey": "a 'safety monitoring system' used as a fall protection alternative in limited circumstances generally requires a competent person who:",
+    "q": "a 'safety monitoring system' used as a fall protection alternative in limited circumstances generally requires a competent person who:",
     "options": [
       "Performs other job duties simultaneously with monitoring",
       "Is dedicated solely to recognizing and warning employees of fall hazards",
@@ -26894,12 +26894,12 @@
       "Is not required to be trained"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.502 Fall protection systems criteria and practices"
   },
   {
     "id": "Q2070",
-    "legacyKey": "Under OSHA 1926, residential construction work is generally addressed with fall protection provisions that:",
-    "q": "Under OSHA 1926, residential construction work is generally addressed with fall protection provisions that:",
+    "legacyKey": "residential construction work is generally addressed with fall protection provisions that:",
+    "q": "residential construction work is generally addressed with fall protection provisions that:",
     "options": [
       "Eliminate fall protection requirements entirely",
       "May allow alternative procedures in lieu of conventional fall protection when conventional methods are infeasible, if a written plan is developed",
@@ -26907,12 +26907,12 @@
       "Require no documentation of any kind"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.501 Duty to have fall protection"
   },
   {
     "id": "Q2071",
-    "legacyKey": "Under OSHA 1926, motor vehicles and mechanized equipment operated on a construction site are generally required to be equipped with:",
-    "q": "Under OSHA 1926, motor vehicles and mechanized equipment operated on a construction site are generally required to be equipped with:",
+    "legacyKey": "motor vehicles and mechanized equipment operated on a construction site are generally required to be equipped with:",
+    "q": "motor vehicles and mechanized equipment operated on a construction site are generally required to be equipped with:",
     "options": [
       "No specific safety equipment",
       "Seat belts and other equipment required by the applicable standard, such as brakes and backup alarms where relevant",
@@ -26920,12 +26920,12 @@
       "Decorative lighting"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart O: Motor Vehicles"
+    "source": "OSHA, Subpart O: Motor Vehicles — Section: 1926.601 Motor vehicles"
   },
   {
     "id": "Q2072",
-    "legacyKey": "Under OSHA 1926, vehicles with an obstructed view to the rear are generally required to have:",
-    "q": "Under OSHA 1926, vehicles with an obstructed view to the rear are generally required to have:",
+    "legacyKey": "vehicles with an obstructed view to the rear are generally required to have:",
+    "q": "vehicles with an obstructed view to the rear are generally required to have:",
     "options": [
       "No requirement addressing rear visibility",
       "A reverse signal alarm audible above the surrounding noise level, or be backed up only with a signal person's direction",
@@ -26933,12 +26933,12 @@
       "A horn sounded continuously while driving forward"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart O: Motor Vehicles"
+    "source": "OSHA, Subpart O: Motor Vehicles — Section: 1926.601 Motor vehicles"
   },
   {
     "id": "Q2073",
-    "legacyKey": "Under OSHA 1926, all vehicles used on a construction site are generally required to have:",
-    "q": "Under OSHA 1926, all vehicles used on a construction site are generally required to have:",
+    "legacyKey": "all vehicles used on a construction site are generally required to have:",
+    "q": "all vehicles used on a construction site are generally required to have:",
     "options": [
       "No brake requirement",
       "Adequate service brakes, and where applicable, an emergency/parking brake system",
@@ -26946,12 +26946,12 @@
       "Brakes only if operating above 20 mph"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart O: Motor Vehicles"
+    "source": "OSHA, Subpart O: Motor Vehicles — Section: 1926.601 Motor vehicles"
   },
   {
     "id": "Q2074",
-    "legacyKey": "Under OSHA 1926, haul roads and grades used by construction vehicles are generally required to be:",
-    "q": "Under OSHA 1926, haul roads and grades used by construction vehicles are generally required to be:",
+    "legacyKey": "haul roads and grades used by construction vehicles are generally required to be:",
+    "q": "haul roads and grades used by construction vehicles are generally required to be:",
     "options": [
       "Left unmaintained",
       "Maintained in a safe condition, considering factors such as grade, alignment, drainage, and width",
@@ -26959,12 +26959,12 @@
       "Open to unrestricted public access"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart O: Motor Vehicles"
+    "source": "OSHA, Subpart O: Motor Vehicles — Section: 1926.602 Material handling equipment"
   },
   {
     "id": "Q2075",
-    "legacyKey": "Under OSHA 1926, where an elevated roadway is used by construction equipment, the employer is generally required to provide:",
-    "q": "Under OSHA 1926, where an elevated roadway is used by construction equipment, the employer is generally required to provide:",
+    "legacyKey": "where an elevated roadway is used by construction equipment, the employer is generally required to provide:",
+    "q": "where an elevated roadway is used by construction equipment, the employer is generally required to provide:",
     "options": [
       "No edge protection",
       "Bumper blocks, curbs, or other protection where a hazard of running off the edge exists",
@@ -26972,12 +26972,12 @@
       "Protection only if the roadway exceeds one mile in length"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart O: Motor Vehicles"
+    "source": "OSHA, Subpart O: Motor Vehicles — Section: 1926.602 Material handling equipment"
   },
   {
     "id": "Q2076",
-    "legacyKey": "Under OSHA 1926, heavy machinery, equipment, or parts thereof that are suspended or elevated are generally required to be:",
-    "q": "Under OSHA 1926, heavy machinery, equipment, or parts thereof that are suspended or elevated are generally required to be:",
+    "legacyKey": "heavy machinery, equipment, or parts thereof that are suspended or elevated are generally required to be:",
+    "q": "heavy machinery, equipment, or parts thereof that are suspended or elevated are generally required to be:",
     "options": [
       "Left unattended once positioned",
       "Blocked or secured to prevent falling or shifting before employees work under or between them",
@@ -26985,12 +26985,12 @@
       "Marked with tape only"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart O: Motor Vehicles"
+    "source": "OSHA, Subpart O: Motor Vehicles — Section: 1926.600 Equipment"
   },
   {
     "id": "Q2077",
-    "legacyKey": "Under OSHA 1926, employees exposed to vehicular traffic while working in or near an excavation are generally required to be provided with, and required to wear:",
-    "q": "Under OSHA 1926, employees exposed to vehicular traffic while working in or near an excavation are generally required to be provided with, and required to wear:",
+    "legacyKey": "employees exposed to vehicular traffic while working in or near an excavation are generally required to be provided with, and required to wear:",
+    "q": "employees exposed to vehicular traffic while working in or near an excavation are generally required to be provided with, and required to wear:",
     "options": [
       "Standard work clothing only",
       "Warning vests or other high-visibility clothing",
@@ -26998,12 +26998,12 @@
       "Only a hard hat"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651 Specific excavation requirements"
   },
   {
     "id": "Q2078",
-    "legacyKey": "Under OSHA 1926, before beginning excavation work, the employer is generally required to:",
-    "q": "Under OSHA 1926, before beginning excavation work, the employer is generally required to:",
+    "legacyKey": "before beginning excavation work, the employer is generally required to:",
+    "q": "before beginning excavation work, the employer is generally required to:",
     "options": [
       "Skip utility location if the schedule is tight",
       "Determine the estimated location of utility installations, such as by contacting the utility company or a utility locate service",
@@ -27011,12 +27011,12 @@
       "Rely solely on the excavation crew's visual inspection"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651 Specific excavation requirements"
   },
   {
     "id": "Q2079",
-    "legacyKey": "Under OSHA 1926, wells, pits, shafts, and similar excavations are generally required to be:",
-    "q": "Under OSHA 1926, wells, pits, shafts, and similar excavations are generally required to be:",
+    "legacyKey": "wells, pits, shafts, and similar excavations are generally required to be:",
+    "q": "wells, pits, shafts, and similar excavations are generally required to be:",
     "options": [
       "Left open and unmarked",
       "Barricaded or covered, or otherwise guarded",
@@ -27024,12 +27024,12 @@
       "Marked only with a small flag"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651 Specific excavation requirements"
   },
   {
     "id": "Q2080",
-    "legacyKey": "Under OSHA 1926, formwork is generally required to remain in place until the concrete has:",
-    "q": "Under OSHA 1926, formwork is generally required to remain in place until the concrete has:",
+    "legacyKey": "formwork is generally required to remain in place until the concrete has:",
+    "q": "formwork is generally required to remain in place until the concrete has:",
     "options": [
       "No minimum strength requirement",
       "Gained sufficient strength to support its weight and superimposed loads, as determined by a test or an approved removal plan",
@@ -27037,12 +27037,12 @@
       "Been painted"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Q: Concrete/Masonry"
+    "source": "OSHA, Subpart Q: Concrete/Masonry — Section: 1926.703 Requirements for cast-in-place concrete"
   },
   {
     "id": "Q2081",
-    "legacyKey": "Under OSHA 1926, lift-slab operations are generally required to be designed and planned by:",
-    "q": "Under OSHA 1926, lift-slab operations are generally required to be designed and planned by:",
+    "legacyKey": "lift-slab operations are generally required to be designed and planned by:",
+    "q": "lift-slab operations are generally required to be designed and planned by:",
     "options": [
       "Any available worker",
       "A registered professional engineer experienced in lift-slab construction",
@@ -27050,12 +27050,12 @@
       "No design requirement applies"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Q: Concrete/Masonry"
+    "source": "OSHA, Subpart Q: Concrete/Masonry — Section: 1926.705 Requirements for lift-slab construction operations"
   },
   {
     "id": "Q2082",
-    "legacyKey": "Under OSHA 1926, jacks or lifting units used in lift-slab construction are generally required to have:",
-    "q": "Under OSHA 1926, jacks or lifting units used in lift-slab construction are generally required to have:",
+    "legacyKey": "jacks or lifting units used in lift-slab construction are generally required to have:",
+    "q": "jacks or lifting units used in lift-slab construction are generally required to have:",
     "options": [
       "No safety mechanism",
       "A positive locking device to prevent slab movement in case of loss of pressure",
@@ -27063,12 +27063,12 @@
       "A single point of failure with no backup"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Q: Concrete/Masonry"
+    "source": "OSHA, Subpart Q: Concrete/Masonry — Section: 1926.705 Requirements for lift-slab construction operations"
   },
   {
     "id": "Q2083",
-    "legacyKey": "Under OSHA 1926, precast concrete members are generally required to be adequately supported to prevent overturning or collapse until:",
-    "q": "Under OSHA 1926, precast concrete members are generally required to be adequately supported to prevent overturning or collapse until:",
+    "legacyKey": "precast concrete members are generally required to be adequately supported to prevent overturning or collapse until:",
+    "q": "precast concrete members are generally required to be adequately supported to prevent overturning or collapse until:",
     "options": [
       "Immediately after being set in place, with no further precaution",
       "Permanent connections are completed",
@@ -27076,12 +27076,12 @@
       "The next workday begins"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Q: Concrete/Masonry"
+    "source": "OSHA, Subpart Q: Concrete/Masonry — Section: 1926.704 Requirements for precast concrete"
   },
   {
     "id": "Q2084",
-    "legacyKey": "Under OSHA 1926, 'multiple lift rigging' (sometimes called 'Christmas treeing') used in steel erection is generally limited to lifting no more than:",
-    "q": "Under OSHA 1926, 'multiple lift rigging' (sometimes called 'Christmas treeing') used in steel erection is generally limited to lifting no more than:",
+    "legacyKey": "'multiple lift rigging' (sometimes called 'Christmas treeing') used in steel erection is generally limited to lifting no more than:",
+    "q": "'multiple lift rigging' (sometimes called 'Christmas treeing') used in steel erection is generally limited to lifting no more than:",
     "options": [
       "Any number of members, without limit",
       "5 members per lift, using rigging specifically designed for multiple lifts",
@@ -27089,12 +27089,12 @@
       "10 members per lift"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Hoisting and rigging"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.753 Hoisting and rigging"
   },
   {
     "id": "Q2085",
-    "legacyKey": "Under OSHA 1926, perimeter safety cables used in steel erection in lieu of a standard guardrail system are generally required to be installed at a height of approximately:",
-    "q": "Under OSHA 1926, perimeter safety cables used in steel erection in lieu of a standard guardrail system are generally required to be installed at a height of approximately:",
+    "legacyKey": "perimeter safety cables used in steel erection in lieu of a standard guardrail system are generally required to be installed at a height of approximately:",
+    "q": "perimeter safety cables used in steel erection in lieu of a standard guardrail system are generally required to be installed at a height of approximately:",
     "options": [
       "12 inches",
       "42 inches",
@@ -27102,12 +27102,12 @@
       "There is no specified height"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.760 Fall protection"
   },
   {
     "id": "Q2086",
-    "legacyKey": "Under OSHA 1926, prior to permitting employees to begin demolition work, the employer is generally required to have:",
-    "q": "Under OSHA 1926, prior to permitting employees to begin demolition work, the employer is generally required to have:",
+    "legacyKey": "prior to permitting employees to begin demolition work, the employer is generally required to have:",
+    "q": "prior to permitting employees to begin demolition work, the employer is generally required to have:",
     "options": [
       "No preliminary review of any kind",
       "An engineering survey of the structure made by a competent person to determine the condition and possibility of unplanned collapse",
@@ -27115,12 +27115,12 @@
       "A demolition permit only, with no structural review"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart T: Demolition"
+    "source": "OSHA, Subpart T: Demolition — Section: 1926.850 Preparatory operations"
   },
   {
     "id": "Q2087",
-    "legacyKey": "Under OSHA 1926, before demolition operations begin, utilities serving the structure (such as electric, gas, water, and steam) are generally required to be:",
-    "q": "Under OSHA 1926, before demolition operations begin, utilities serving the structure (such as electric, gas, water, and steam) are generally required to be:",
+    "legacyKey": "before demolition operations begin, utilities serving the structure (such as electric, gas, water, and steam) are generally required to be:",
+    "q": "before demolition operations begin, utilities serving the structure (such as electric, gas, water, and steam) are generally required to be:",
     "options": [
       "Left connected throughout demolition",
       "Shut off, capped, or otherwise controlled outside the demolition area, with the utility company/owner notified",
@@ -27128,12 +27128,12 @@
       "Disconnected only after the structure is fully demolished"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart T: Demolition"
+    "source": "OSHA, Subpart T: Demolition — Section: 1926.850 Preparatory operations"
   },
   {
     "id": "Q2088",
-    "legacyKey": "Under OSHA 1926, during demolition, floors are generally not permitted to be loaded with demolition debris or materials beyond:",
-    "q": "Under OSHA 1926, during demolition, floors are generally not permitted to be loaded with demolition debris or materials beyond:",
+    "legacyKey": "during demolition, floors are generally not permitted to be loaded with demolition debris or materials beyond:",
+    "q": "during demolition, floors are generally not permitted to be loaded with demolition debris or materials beyond:",
     "options": [
       "Any amount, since floors are assumed to support unlimited load",
       "The safe load-carrying capacity of the floor",
@@ -27141,12 +27141,12 @@
       "The limit is only a recommendation, not a requirement"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart T: Demolition"
+    "source": "OSHA, Subpart T: Demolition — Section: 1926.850 Preparatory operations"
   },
   {
     "id": "Q2089",
-    "legacyKey": "Under OSHA 1926, all glass in a structure is generally required to be removed or otherwise addressed before:",
-    "q": "Under OSHA 1926, all glass in a structure is generally required to be removed or otherwise addressed before:",
+    "legacyKey": "all glass in a structure is generally required to be removed or otherwise addressed before:",
+    "q": "all glass in a structure is generally required to be removed or otherwise addressed before:",
     "options": [
       "Any demolition planning begins",
       "Demolition operations proceed in that area, to reduce the hazard of falling or shattering glass",
@@ -27154,12 +27154,12 @@
       "The final walkthrough after demolition is complete"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart T: Demolition"
+    "source": "OSHA, Subpart T: Demolition — Section: 1926.850 Preparatory operations"
   },
   {
     "id": "Q2090",
-    "legacyKey": "Under OSHA 1926, stairs, passageways, and ladders providing access to a structure being demolished are generally required to be:",
-    "q": "Under OSHA 1926, stairs, passageways, and ladders providing access to a structure being demolished are generally required to be:",
+    "legacyKey": "stairs, passageways, and ladders providing access to a structure being demolished are generally required to be:",
+    "q": "stairs, passageways, and ladders providing access to a structure being demolished are generally required to be:",
     "options": [
       "Removed first, before any other demolition work",
       "Maintained clear of debris and other obstructions while still needed for employee egress",
@@ -27167,12 +27167,12 @@
       "Replaced with rope ladders exclusively"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart T: Demolition"
+    "source": "OSHA, Subpart T: Demolition — Section: 1926.851 Stairs, passageways, and ladders"
   },
   {
     "id": "Q2091",
-    "legacyKey": "Under OSHA 1926, when mechanical demolition equipment (such as a wrecking ball or excavator) is being used to pull down a wall or structure, employees are generally required to:",
-    "q": "Under OSHA 1926, when mechanical demolition equipment (such as a wrecking ball or excavator) is being used to pull down a wall or structure, employees are generally required to:",
+    "legacyKey": "when mechanical demolition equipment (such as a wrecking ball or excavator) is being used to pull down a wall or structure, employees are generally required to:",
+    "q": "when mechanical demolition equipment (such as a wrecking ball or excavator) is being used to pull down a wall or structure, employees are generally required to:",
     "options": [
       "Work as close as possible to assist the operation",
       "Be kept out of the affected area, at a distance not less than the height of the structure being demolished plus an additional margin, or another distance established by a competent person",
@@ -27180,12 +27180,12 @@
       "Continue unrelated work nearby with no restriction"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart T: Demolition"
+    "source": "OSHA, Subpart T: Demolition — Section: 1926.859 Mechanical demolition"
   },
   {
     "id": "Q2092",
-    "legacyKey": "Under OSHA 1926, underground construction operations are generally required to maintain a system for:",
-    "q": "Under OSHA 1926, underground construction operations are generally required to maintain a system for:",
+    "legacyKey": "underground construction operations are generally required to maintain a system for:",
+    "q": "underground construction operations are generally required to maintain a system for:",
     "options": [
       "No tracking of personnel underground",
       "Checking employees in and out of the underground work area, so their location and status are known",
@@ -27193,12 +27193,12 @@
       "Recording only the shift supervisor's location"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart S: Underground Construction, Caissons, Cofferdams and Compressed Air"
+    "source": "OSHA, Subpart S: Underground Construction, Caissons, Cofferdams and Compressed Air — Section: 1926.800 Underground construction"
   },
   {
     "id": "Q2093",
-    "legacyKey": "Under OSHA 1926, the air quality in underground construction work areas is generally required to be:",
-    "q": "Under OSHA 1926, the air quality in underground construction work areas is generally required to be:",
+    "legacyKey": "the air quality in underground construction work areas is generally required to be:",
+    "q": "the air quality in underground construction work areas is generally required to be:",
     "options": [
       "Left unmonitored",
       "Tested and monitored for hazardous atmospheres, such as oxygen deficiency or flammable gases",
@@ -27206,12 +27206,12 @@
       "Monitored only if a worker reports symptoms"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart S: Underground Construction, Caissons, Cofferdams and Compressed Air"
+    "source": "OSHA, Subpart S: Underground Construction, Caissons, Cofferdams and Compressed Air — Section: 1926.800 Underground construction"
   },
   {
     "id": "Q2094",
-    "legacyKey": "Under OSHA 1926, open flames and other sources of ignition are generally prohibited in underground construction areas where:",
-    "q": "Under OSHA 1926, open flames and other sources of ignition are generally prohibited in underground construction areas where:",
+    "legacyKey": "open flames and other sources of ignition are generally prohibited in underground construction areas where:",
+    "q": "open flames and other sources of ignition are generally prohibited in underground construction areas where:",
     "options": [
       "No conditions warrant restriction",
       "A gassy operation classification or the potential for a flammable/hazardous atmosphere exists",
@@ -27219,12 +27219,12 @@
       "Employees are on a break"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart S: Underground Construction, Caissons, Cofferdams and Compressed Air"
+    "source": "OSHA, Subpart S: Underground Construction, Caissons, Cofferdams and Compressed Air — Section: 1926.800 Underground construction"
   },
   {
     "id": "Q2095",
-    "legacyKey": "Under OSHA 1926, employees working in compressed air environments (such as caissons) are generally required to receive:",
-    "q": "Under OSHA 1926, employees working in compressed air environments (such as caissons) are generally required to receive:",
+    "legacyKey": "employees working in compressed air environments (such as caissons) are generally required to receive:",
+    "q": "employees working in compressed air environments (such as caissons) are generally required to receive:",
     "options": [
       "No special medical consideration",
       "Medical evaluation and monitoring appropriate to compressed air work, including decompression procedures",
@@ -27232,12 +27232,12 @@
       "A one-time safety video with no medical evaluation"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart S: Underground Construction, Caissons, Cofferdams and Compressed Air"
+    "source": "OSHA, Subpart S: Underground Construction, Caissons, Cofferdams and Compressed Air — Section: 1926.803 Compressed air"
   },
   {
     "id": "Q2096",
-    "legacyKey": "Under OSHA 1926, emergency communication systems in underground construction are generally required to be maintained so that:",
-    "q": "Under OSHA 1926, emergency communication systems in underground construction are generally required to be maintained so that:",
+    "legacyKey": "emergency communication systems in underground construction are generally required to be maintained so that:",
+    "q": "emergency communication systems in underground construction are generally required to be maintained so that:",
     "options": [
       "Communication is optional",
       "Employees underground can communicate with personnel on the surface in an emergency",
@@ -27245,12 +27245,12 @@
       "Communication is required only during blasting operations"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart S: Underground Construction, Caissons, Cofferdams and Compressed Air"
+    "source": "OSHA, Subpart S: Underground Construction, Caissons, Cofferdams and Compressed Air — Section: 1926.800 Underground construction"
   },
   {
     "id": "Q2097",
-    "legacyKey": "Under OSHA 1926, blasting operations are generally required to be conducted only under the direction of:",
-    "q": "Under OSHA 1926, blasting operations are generally required to be conducted only under the direction of:",
+    "legacyKey": "blasting operations are generally required to be conducted only under the direction of:",
+    "q": "blasting operations are generally required to be conducted only under the direction of:",
     "options": [
       "Any laborer on site",
       "A qualified/authorized blaster",
@@ -27258,12 +27258,12 @@
       "An unlicensed apprentice"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart U: Blasting and Use of Explosives"
+    "source": "OSHA, Subpart U: Blasting and Use of Explosives — Section: 1926.900 General provisions"
   },
   {
     "id": "Q2098",
-    "legacyKey": "Under OSHA 1926, before a blast is fired, employees and the public in the danger area are generally required to be given:",
-    "q": "Under OSHA 1926, before a blast is fired, employees and the public in the danger area are generally required to be given:",
+    "legacyKey": "before a blast is fired, employees and the public in the danger area are generally required to be given:",
+    "q": "before a blast is fired, employees and the public in the danger area are generally required to be given:",
     "options": [
       "No advance notice",
       "An audible warning signal",
@@ -27271,12 +27271,12 @@
       "A signal only if requested"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart U: Blasting and Use of Explosives"
+    "source": "OSHA, Subpart U: Blasting and Use of Explosives — Section: 1926.909 Firing the blast"
   },
   {
     "id": "Q2099",
-    "legacyKey": "Under OSHA 1926, after a blast has been fired, an 'all clear' signal is generally given only after:",
-    "q": "Under OSHA 1926, after a blast has been fired, an 'all clear' signal is generally given only after:",
+    "legacyKey": "after a blast has been fired, an 'all clear' signal is generally given only after:",
+    "q": "after a blast has been fired, an 'all clear' signal is generally given only after:",
     "options": [
       "A fixed time of exactly 5 minutes has elapsed, regardless of conditions",
       "An inspection confirms the area is safe, including checks for misfires",
@@ -27284,12 +27284,12 @@
       "The blaster leaves the site"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart U: Blasting and Use of Explosives"
+    "source": "OSHA, Subpart U: Blasting and Use of Explosives — Section: 1926.909 Firing the blast"
   },
   {
     "id": "Q2100",
-    "legacyKey": "Under OSHA 1926, explosives not in use are generally required to be stored in:",
-    "q": "Under OSHA 1926, explosives not in use are generally required to be stored in:",
+    "legacyKey": "explosives not in use are generally required to be stored in:",
+    "q": "explosives not in use are generally required to be stored in:",
     "options": [
       "Any unsecured location convenient to the crew",
       "Approved, secure magazines meeting applicable requirements",
@@ -27297,12 +27297,12 @@
       "The cab of a work vehicle"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart U: Blasting and Use of Explosives"
+    "source": "OSHA, Subpart U: Blasting and Use of Explosives — Section: 1926.904 Storage of explosives and blasting agents"
   },
   {
     "id": "Q2101",
-    "legacyKey": "Under OSHA 1926, in the event of a suspected misfire, employees are generally required to:",
-    "q": "Under OSHA 1926, in the event of a suspected misfire, employees are generally required to:",
+    "legacyKey": "in the event of a suspected misfire, employees are generally required to:",
+    "q": "in the event of a suspected misfire, employees are generally required to:",
     "options": [
       "Immediately approach and inspect the charge",
       "Wait a specified minimum period before cautiously investigating, following established misfire procedures",
@@ -27310,12 +27310,12 @@
       "Detonate a second charge immediately without inspection"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart U: Blasting and Use of Explosives"
+    "source": "OSHA, Subpart U: Blasting and Use of Explosives — Section: Misfires (1926.911)"
   },
   {
     "id": "Q2102",
-    "legacyKey": "Under OSHA 1926, employees performing work on or near energized power transmission and distribution lines are generally required to be:",
-    "q": "Under OSHA 1926, employees performing work on or near energized power transmission and distribution lines are generally required to be:",
+    "legacyKey": "employees performing work on or near energized power transmission and distribution lines are generally required to be:",
+    "q": "employees performing work on or near energized power transmission and distribution lines are generally required to be:",
     "options": [
       "Untrained laborers",
       "Qualified employees trained to recognize and avoid the electrical hazards involved",
@@ -27323,7 +27323,7 @@
       "Supervised only after an incident occurs"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart V: Power Transmission and Distribution"
+    "source": "OSHA, Subpart V: Power Transmission and Distribution — Section: Working on or near exposed energized parts (1926.960)"
   },
   {
     "id": "Q2103",
@@ -27340,8 +27340,8 @@
   },
   {
     "id": "Q2104",
-    "legacyKey": "Under OSHA 1926, the minimum approach distance a qualified employee must maintain from an energized line generally depends primarily on:",
-    "q": "Under OSHA 1926, the minimum approach distance a qualified employee must maintain from an energized line generally depends primarily on:",
+    "legacyKey": "the minimum approach distance a qualified employee must maintain from an energized line generally depends primarily on:",
+    "q": "the minimum approach distance a qualified employee must maintain from an energized line generally depends primarily on:",
     "options": [
       "The employee's height",
       "The voltage of the line",
@@ -27349,12 +27349,12 @@
       "The color of the employee's PPE"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart V: Power Transmission and Distribution"
+    "source": "OSHA, Subpart V: Power Transmission and Distribution — Section: Working on or near exposed energized parts (1926.960)"
   },
   {
     "id": "Q2105",
-    "legacyKey": "Under OSHA 1926, personal protective grounding equipment used in power transmission and distribution work is generally intended to:",
-    "q": "Under OSHA 1926, personal protective grounding equipment used in power transmission and distribution work is generally intended to:",
+    "legacyKey": "personal protective grounding equipment used in power transmission and distribution work is generally intended to:",
+    "q": "personal protective grounding equipment used in power transmission and distribution work is generally intended to:",
     "options": [
       "Increase the voltage available for testing",
       "Protect employees from hazardous voltage by limiting potential differences",
@@ -27362,12 +27362,12 @@
       "Serve only a decorative marking purpose"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart V: Power Transmission and Distribution"
+    "source": "OSHA, Subpart V: Power Transmission and Distribution — Section: Grounding for the protection of employees (1926.962)"
   },
   {
     "id": "Q2106",
-    "legacyKey": "Under OSHA 1926, an employee who has not been trained to recognize and avoid the electrical hazards of power transmission work is generally classified as:",
-    "q": "Under OSHA 1926, an employee who has not been trained to recognize and avoid the electrical hazards of power transmission work is generally classified as:",
+    "legacyKey": "an employee who has not been trained to recognize and avoid the electrical hazards of power transmission work is generally classified as:",
+    "q": "an employee who has not been trained to recognize and avoid the electrical hazards of power transmission work is generally classified as:",
     "options": [
       "A qualified employee",
       "An unqualified employee, subject to additional restrictions near energized parts",
@@ -27375,12 +27375,12 @@
       "Automatically qualified after one day on site"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart V: Power Transmission and Distribution"
+    "source": "OSHA, Subpart V: Power Transmission and Distribution — Section: Definitions (1926.968)"
   },
   {
     "id": "Q2107",
-    "legacyKey": "Under OSHA 1926, 'bare-hand' work techniques on energized power transmission lines are generally permitted only when performed by:",
-    "q": "Under OSHA 1926, 'bare-hand' work techniques on energized power transmission lines are generally permitted only when performed by:",
+    "legacyKey": "'bare-hand' work techniques on energized power transmission lines are generally permitted only when performed by:",
+    "q": "'bare-hand' work techniques on energized power transmission lines are generally permitted only when performed by:",
     "options": [
       "Any employee wearing rubber gloves",
       "Specifically trained employees using specialized equipment and procedures for that technique",
@@ -27388,12 +27388,12 @@
       "No one; bare-hand techniques are always prohibited"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart V: Power Transmission and Distribution"
+    "source": "OSHA, Subpart V: Power Transmission and Distribution — Section: Overhead lines and live-line barehand work (1926.964)"
   },
   {
     "id": "Q2108",
-    "legacyKey": "Under OSHA 1926, rollover protective structures (ROPS) are generally required on certain heavy construction equipment, such as:",
-    "q": "Under OSHA 1926, rollover protective structures (ROPS) are generally required on certain heavy construction equipment, such as:",
+    "legacyKey": "rollover protective structures (ROPS) are generally required on certain heavy construction equipment, such as:",
+    "q": "rollover protective structures (ROPS) are generally required on certain heavy construction equipment, such as:",
     "options": [
       "Hand-held power tools",
       "Crawler and wheel tractors, bulldozers, graders, and loaders",
@@ -27401,12 +27401,12 @@
       "Portable generators"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart W: Rollover Protective Structures and Overhead Protection"
+    "source": "OSHA, Subpart W: Rollover Protective Structures and Overhead Protection — Section: Scope (1926.1000)"
   },
   {
     "id": "Q2109",
-    "legacyKey": "Under OSHA 1926, equipment operators using machinery equipped with a rollover protective structure are generally required to also use:",
-    "q": "Under OSHA 1926, equipment operators using machinery equipped with a rollover protective structure are generally required to also use:",
+    "legacyKey": "equipment operators using machinery equipped with a rollover protective structure are generally required to also use:",
+    "q": "equipment operators using machinery equipped with a rollover protective structure are generally required to also use:",
     "options": [
       "No additional restraint",
       "A seat belt",
@@ -27414,12 +27414,12 @@
       "A hard hat only, with no seat belt"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart W: Rollover Protective Structures and Overhead Protection"
+    "source": "OSHA, Subpart W: Rollover Protective Structures and Overhead Protection — Section: Material handling equipment (1926.602)"
   },
   {
     "id": "Q2110",
-    "legacyKey": "Under OSHA 1926, a rollover protective structure that has been damaged is generally required to be:",
-    "q": "Under OSHA 1926, a rollover protective structure that has been damaged is generally required to be:",
+    "legacyKey": "a rollover protective structure that has been damaged is generally required to be:",
+    "q": "a rollover protective structure that has been damaged is generally required to be:",
     "options": [
       "Left in place and used as-is",
       "Repaired or replaced in accordance with the manufacturer's specifications before the equipment is returned to service",
@@ -27427,12 +27427,12 @@
       "Painted over to hide the damage"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart W: Rollover Protective Structures and Overhead Protection"
+    "source": "OSHA, Subpart W: Rollover Protective Structures and Overhead Protection — Section: Scope (1926.1000)"
   },
   {
     "id": "Q2111",
-    "legacyKey": "Under OSHA 1926, equipment operators exposed to falling material hazards are generally required to be protected by:",
-    "q": "Under OSHA 1926, equipment operators exposed to falling material hazards are generally required to be protected by:",
+    "legacyKey": "equipment operators exposed to falling material hazards are generally required to be protected by:",
+    "q": "equipment operators exposed to falling material hazards are generally required to be protected by:",
     "options": [
       "No specific protection",
       "Overhead protective structures appropriate to the hazard",
@@ -27440,12 +27440,12 @@
       "Relocation of the operator with no structural protection"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart W: Rollover Protective Structures and Overhead Protection"
+    "source": "OSHA, Subpart W: Rollover Protective Structures and Overhead Protection — Section: Overhead protection for operators of agricultural and industrial tractors used in construction (1926.1003)"
   },
   {
     "id": "Q2112",
-    "legacyKey": "Under OSHA 1926, stairway landings are generally required to have a minimum dimension, measured in the direction of travel, of:",
-    "q": "Under OSHA 1926, stairway landings are generally required to have a minimum dimension, measured in the direction of travel, of:",
+    "legacyKey": "stairway landings are generally required to have a minimum dimension, measured in the direction of travel, of:",
+    "q": "stairway landings are generally required to have a minimum dimension, measured in the direction of travel, of:",
     "options": [
       "6 inches",
       "30 inches",
@@ -27453,12 +27453,12 @@
       "There is no minimum dimension"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart X: Stairways/Ladders — Section: General requirements (stairways and ladders)"
+    "source": "OSHA, Subpart X: Stairways/Ladders — Section: Stairways (1926.1052)"
   },
   {
     "id": "Q2113",
-    "legacyKey": "Under OSHA 1926, stair rail systems on a stairway with 4 or more risers are generally required to have a top rail height of:",
-    "q": "Under OSHA 1926, stair rail systems on a stairway with 4 or more risers are generally required to have a top rail height of:",
+    "legacyKey": "stair rail systems on a stairway with 4 or more risers are generally required to have a top rail height of:",
+    "q": "stair rail systems on a stairway with 4 or more risers are generally required to have a top rail height of:",
     "options": [
       "18 to 24 inches",
       "36 to 38 inches (with some exceptions for existing systems)",
@@ -27466,12 +27466,12 @@
       "There is no specified height"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart X: Stairways/Ladders — Section: General requirements (stairways and ladders)"
+    "source": "OSHA, Subpart X: Stairways/Ladders — Section: Stairways (1926.1052)"
   },
   {
     "id": "Q2114",
-    "legacyKey": "Under OSHA 1926, ladders are generally required to be rated to support at least:",
-    "q": "Under OSHA 1926, ladders are generally required to be rated to support at least:",
+    "legacyKey": "ladders are generally required to be rated to support at least:",
+    "q": "ladders are generally required to be rated to support at least:",
     "options": [
       "Only the average weight of a single worker with no margin",
       "4 times the maximum intended load (or the applicable duty rating with its safety factor)",
@@ -27479,12 +27479,12 @@
       "Only 50 pounds"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart X: Stairways/Ladders"
+    "source": "OSHA, Subpart X: Stairways/Ladders — Section: Ladders (1926.1053)"
   },
   {
     "id": "Q2115",
-    "legacyKey": "Under OSHA 1926, job-made (site-built) wooden ladders are generally required to be constructed:",
-    "q": "Under OSHA 1926, job-made (site-built) wooden ladders are generally required to be constructed:",
+    "legacyKey": "job-made (site-built) wooden ladders are generally required to be constructed:",
+    "q": "job-made (site-built) wooden ladders are generally required to be constructed:",
     "options": [
       "Without regard to any design standard",
       "In accordance with the applicable construction requirements for job-made ladders, including cleat/rung spacing and material strength",
@@ -27492,12 +27492,12 @@
       "Only for use as a temporary decorative item"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart X: Stairways/Ladders"
+    "source": "OSHA, Subpart X: Stairways/Ladders — Section: Ladders (1926.1053)"
   },
   {
     "id": "Q2116",
-    "legacyKey": "Under OSHA 1926, commercial diving operations conducted in construction work are generally required to have a designated:",
-    "q": "Under OSHA 1926, commercial diving operations conducted in construction work are generally required to have a designated:",
+    "legacyKey": "commercial diving operations conducted in construction work are generally required to have a designated:",
+    "q": "commercial diving operations conducted in construction work are generally required to have a designated:",
     "options": [
       "No responsible individual",
       "Person-in-charge, responsible for the safety and health of the diving team",
@@ -27505,12 +27505,12 @@
       "Only a lifeguard"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Y: Commercial Diving Operations"
+    "source": "OSHA, Subpart Y: Commercial Diving Operations — Section: Qualifications of dive team (1926.1076)"
   },
   {
     "id": "Q2117",
-    "legacyKey": "Under OSHA 1926, commercial diving operations are generally required to have a standby diver available:",
-    "q": "Under OSHA 1926, commercial diving operations are generally required to have a standby diver available:",
+    "legacyKey": "commercial diving operations are generally required to have a standby diver available:",
+    "q": "commercial diving operations are generally required to have a standby diver available:",
     "options": [
       "Never; a single diver may always work alone",
       "Under specified conditions, ready to assist a diver in the water",
@@ -27518,12 +27518,12 @@
       "Only for training dives"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Y: Commercial Diving Operations"
+    "source": "OSHA, Subpart Y: Commercial Diving Operations — Section: Qualifications of dive team (1926.1076)"
   },
   {
     "id": "Q2118",
-    "legacyKey": "Under OSHA 1926, decompression procedures for commercial diving operations are generally required to be:",
-    "q": "Under OSHA 1926, decompression procedures for commercial diving operations are generally required to be:",
+    "legacyKey": "decompression procedures for commercial diving operations are generally required to be:",
+    "q": "decompression procedures for commercial diving operations are generally required to be:",
     "options": [
       "Left entirely to the individual diver's judgment",
       "Followed in accordance with established decompression tables or procedures appropriate to the dive",
@@ -27531,25 +27531,25 @@
       "Unnecessary if the diver feels fine"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Y: Commercial Diving Operations"
+    "source": "OSHA, Subpart Y: Commercial Diving Operations — Section: Procedures during dive (1926.1082)"
   },
   {
     "id": "Q2119",
-    "legacyKey": "Under OSHA 1926, a 'permissible exposure limit' (PEL) generally refers to:",
-    "q": "Under OSHA 1926, a 'permissible exposure limit' (PEL) generally refers to:",
+    "legacyKey": "a 'permissible exposure limit' (PEL) generally refers to:",
+    "q": "a 'permissible exposure limit' (PEL) generally refers to:",
     "options": [
       "The maximum amount of a substance an employee may be exposed to over a specified period, such as an 8-hour time-weighted average",
-      "The total amount of a substance stored on site",
+      "The maximum permitted airborne concentration of a hazardous substance to which employees may be exposed",
       "A recommended, non-enforceable guideline only",
       "The cost limit for hazardous material disposal"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Z: Toxic/Hazardous"
+    "source": "OSHA, Subpart Z: Toxic/Hazardous Substances — Section: Asbestos (1926.1101)"
   },
   {
     "id": "Q2120",
-    "legacyKey": "Under OSHA 1926, work involving asbestos-containing material is generally required to be supervised by:",
-    "q": "Under OSHA 1926, work involving asbestos-containing material is generally required to be supervised by:",
+    "legacyKey": "work involving asbestos-containing material is generally required to be supervised by:",
+    "q": "work involving asbestos-containing material is generally required to be supervised by:",
     "options": [
       "Any available worker with no training",
       "A competent person trained in asbestos hazard recognition and control",
@@ -27557,12 +27557,12 @@
       "No supervision is required"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Z: Toxic/Hazardous"
+    "source": "OSHA, Subpart Z: Toxic/Hazardous Substances — Section: Asbestos (1926.1101)"
   },
   {
     "id": "Q2121",
-    "legacyKey": "Under OSHA 1926, employees with blood lead levels at or above a specified trigger level are generally required to be:",
-    "q": "Under OSHA 1926, employees with blood lead levels at or above a specified trigger level are generally required to be:",
+    "legacyKey": "employees with blood lead levels at or above a specified trigger level are generally required to be:",
+    "q": "employees with blood lead levels at or above a specified trigger level are generally required to be:",
     "options": [
       "Ignored, since blood lead levels are not monitored",
       "Removed from lead exposure and medically monitored, in accordance with the medical removal protection provisions",
@@ -27570,12 +27570,12 @@
       "Given a bonus with no other action"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Z: Toxic/Hazardous"
+    "source": "OSHA, Subpart Z: Toxic/Hazardous Substances — Section: Lead (1926.62)"
   },
   {
     "id": "Q2122",
-    "legacyKey": "Under OSHA 1926, hazardous chemicals transferred into a secondary (portable) container on a construction site are generally required to be:",
-    "q": "Under OSHA 1926, hazardous chemicals transferred into a secondary (portable) container on a construction site are generally required to be:",
+    "legacyKey": "hazardous chemicals transferred into a secondary (portable) container on a construction site are generally required to be:",
+    "q": "hazardous chemicals transferred into a secondary (portable) container on a construction site are generally required to be:",
     "options": [
       "Left unlabeled if used within the same shift",
       "Labeled with the identity of the chemical and appropriate hazard warnings, unless the container is for immediate use by the employee who filled it",
@@ -27583,12 +27583,12 @@
       "Exempt from labeling if the container is metal"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Z: Toxic/Hazardous"
+    "source": "OSHA, Subpart Z: Toxic/Hazardous Substances — Section: Hazard Communication (1926.59)"
   },
   {
     "id": "Q2123",
-    "legacyKey": "Under OSHA 1926, respirable crystalline silica exposure during tasks such as cutting or grinding concrete or masonry is generally required to be controlled using methods such as:",
-    "q": "Under OSHA 1926, respirable crystalline silica exposure during tasks such as cutting or grinding concrete or masonry is generally required to be controlled using methods such as:",
+    "legacyKey": "respirable crystalline silica exposure during tasks such as cutting or grinding concrete or masonry is generally required to be controlled using methods such as:",
+    "q": "respirable crystalline silica exposure during tasks such as cutting or grinding concrete or masonry is generally required to be controlled using methods such as:",
     "options": [
       "No control methods are specified",
       "Wet cutting methods and/or approved dust collection/vacuum systems, in accordance with the applicable exposure control table",
@@ -27596,12 +27596,12 @@
       "Working only at night"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Z: Toxic/Hazardous"
+    "source": "OSHA, Subpart Z: Toxic/Hazardous Substances — Section: Respirable crystalline silica (1926.1153)"
   },
   {
     "id": "Q2124",
-    "legacyKey": "Under OSHA 1926, a 'permit-required confined space' is generally characterized by having:",
-    "q": "Under OSHA 1926, a 'permit-required confined space' is generally characterized by having:",
+    "legacyKey": "a 'permit-required confined space' is generally characterized by having:",
+    "q": "a 'permit-required confined space' is generally characterized by having:",
     "options": [
       "Unlimited means of entry and exit with continuous occupancy intended",
       "Limited or restricted means for entry/exit, is not designed for continuous employee occupancy, and contains or has the potential to contain a hazard such as a hazardous atmosphere",
@@ -27609,12 +27609,12 @@
       "No relevance to construction work"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart AA: Confined Spaces"
+    "source": "OSHA, Subpart AA: Confined Spaces — Section: Definitions (1926.1202)"
   },
   {
     "id": "Q2125",
-    "legacyKey": "Under OSHA 1926, an 'attendant' for a permit-required confined space entry is generally responsible for:",
-    "q": "Under OSHA 1926, an 'attendant' for a permit-required confined space entry is generally responsible for:",
+    "legacyKey": "an 'attendant' for a permit-required confined space entry is generally responsible for:",
+    "q": "an 'attendant' for a permit-required confined space entry is generally responsible for:",
     "options": [
       "Entering the space to perform the work alongside the entrant",
       "Remaining outside the space, monitoring entrants, and initiating emergency procedures when necessary",
@@ -27622,12 +27622,12 @@
       "Testing the atmosphere only, with no other duties"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart AA: Confined Spaces"
+    "source": "OSHA, Subpart AA: Confined Spaces — Section: Duties of attendants (1926.1209)"
   },
   {
     "id": "Q2126",
-    "legacyKey": "Under OSHA 1926, the 'entry supervisor' for a permit-required confined space is generally responsible for:",
-    "q": "Under OSHA 1926, the 'entry supervisor' for a permit-required confined space is generally responsible for:",
+    "legacyKey": "the 'entry supervisor' for a permit-required confined space is generally responsible for:",
+    "q": "the 'entry supervisor' for a permit-required confined space is generally responsible for:",
     "options": [
       "No responsibilities; the role is purely administrative",
       "Determining if acceptable entry conditions exist and authorizing entry",
@@ -27635,12 +27635,12 @@
       "Serving only as a backup attendant"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart AA: Confined Spaces"
+    "source": "OSHA, Subpart AA: Confined Spaces — Section: Duties of entry supervisors (1926.1210)"
   },
   {
     "id": "Q2127",
-    "legacyKey": "Under OSHA 1926, rescue equipment used for permit-required confined space entry is generally required to allow for:",
-    "q": "Under OSHA 1926, rescue equipment used for permit-required confined space entry is generally required to allow for:",
+    "legacyKey": "rescue equipment used for permit-required confined space entry is generally required to allow for:",
+    "q": "rescue equipment used for permit-required confined space entry is generally required to allow for:",
     "options": [
       "Rescue only by fully entering the space with no retrieval system",
       "Non-entry rescue (such as a retrieval line and mechanical device) whenever feasible",
@@ -27648,12 +27648,12 @@
       "Rescue only by calling 911, with no on-site equipment"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart AA: Confined Spaces"
+    "source": "OSHA, Subpart AA: Confined Spaces — Section: Rescue and emergency services (1926.1211)"
   },
   {
     "id": "Q2128",
-    "legacyKey": "Under OSHA 1926, when testing the atmosphere of a permit-required confined space, the order of testing is generally:",
-    "q": "Under OSHA 1926, when testing the atmosphere of a permit-required confined space, the order of testing is generally:",
+    "legacyKey": "when testing the atmosphere of a permit-required confined space, the order of testing is generally:",
+    "q": "when testing the atmosphere of a permit-required confined space, the order of testing is generally:",
     "options": [
       "Toxics first, then oxygen, then flammability",
       "Oxygen content first, then flammable gases/vapors, then toxic air contaminants",
@@ -27661,12 +27661,12 @@
       "Testing order does not matter"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart AA: Confined Spaces"
+    "source": "OSHA, Subpart AA: Confined Spaces — Section: General requirements (1926.1203)"
   },
   {
     "id": "Q2129",
-    "legacyKey": "Under OSHA 1926, crane operators on construction sites are generally required to be:",
-    "q": "Under OSHA 1926, crane operators on construction sites are generally required to be:",
+    "legacyKey": "crane operators on construction sites are generally required to be:",
+    "q": "crane operators on construction sites are generally required to be:",
     "options": [
       "Untrained volunteers",
       "Certified or qualified to operate the specific type of equipment, in accordance with the applicable requirements",
@@ -27674,12 +27674,12 @@
       "Exempt from any qualification requirement if experienced informally"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart CC: Cranes/Derricks"
+    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: Operator training, certification, and evaluation (1926.1427)"
   },
   {
     "id": "Q2130",
-    "legacyKey": "Under OSHA 1926, the assembly and disassembly of a crane is generally required to be directed by:",
-    "q": "Under OSHA 1926, the assembly and disassembly of a crane is generally required to be directed by:",
+    "legacyKey": "the assembly and disassembly of a crane is generally required to be directed by:",
+    "q": "the assembly and disassembly of a crane is generally required to be directed by:",
     "options": [
       "Any available crew member",
       "A person meeting the criteria for an assembly/disassembly director",
@@ -27687,12 +27687,12 @@
       "No particular person"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart CC: Cranes/Derricks"
+    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: Assembly/Disassembly—general requirements (1926.1404)"
   },
   {
     "id": "Q2131",
-    "legacyKey": "Under OSHA 1926, wire rope used on a crane is generally required to be inspected:",
-    "q": "Under OSHA 1926, wire rope used on a crane is generally required to be inspected:",
+    "legacyKey": "wire rope used on a crane is generally required to be inspected:",
+    "q": "wire rope used on a crane is generally required to be inspected:",
     "options": [
       "Only once, at the time of purchase",
       "Prior to each shift, with a more thorough periodic inspection at specified intervals",
@@ -27700,12 +27700,12 @@
       "Annually only"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart CC: Cranes/Derricks"
+    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: Wire rope—inspection (1926.1413)"
   },
   {
     "id": "Q2132",
-    "legacyKey": "Under OSHA 1926, to prevent encroachment on power lines during crane operations, the employer is generally required to use one of several options, such as:",
-    "q": "Under OSHA 1926, to prevent encroachment on power lines during crane operations, the employer is generally required to use one of several options, such as:",
+    "legacyKey": "to prevent encroachment on power lines during crane operations, the employer is generally required to use one of several options, such as:",
+    "q": "to prevent encroachment on power lines during crane operations, the employer is generally required to use one of several options, such as:",
     "options": [
       "Ignoring the power line if the crane operator is experienced",
       "De-energizing and grounding the line, or maintaining the applicable minimum clearance distance",
@@ -27713,12 +27713,12 @@
       "Removing the crane's boom angle indicator"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: Power line safety - up to 350kV"
+    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: Power line safety (up to 350 kV)—equipment operations (1926.1408)"
   },
   {
     "id": "Q2133",
-    "legacyKey": "Under OSHA 1926, a lift performed using more than one crane to support a single load is generally referred to as a multi-crane (tandem) lift and generally requires:",
-    "q": "Under OSHA 1926, a lift performed using more than one crane to support a single load is generally referred to as a multi-crane (tandem) lift and generally requires:",
+    "legacyKey": "a lift performed using more than one crane to support a single load is generally referred to as a multi-crane (tandem) lift and generally requires:",
+    "q": "a lift performed using more than one crane to support a single load is generally referred to as a multi-crane (tandem) lift and generally requires:",
     "options": [
       "No additional planning beyond a standard single-crane lift",
       "Additional planning, such as a lift plan addressing load distribution and coordination between operators",
@@ -27726,6 +27726,6 @@
       "The use of the smaller of the two cranes to lead the lift"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart CC: Cranes/Derricks"
+    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: Multiple-crane/derrick lifts—supplemental requirements (1926.1432)"
   }
 ]
