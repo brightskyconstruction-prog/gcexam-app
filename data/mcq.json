@@ -36,7 +36,7 @@
       "40 bar diameters"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement"
+    "source": "Masonry, Chapter 9: Anchors, Ties, and Reinforcement — Section: Reinforcing Rods or Bars"
   },
   {
     "id": "Q4",
@@ -88,7 +88,7 @@
       "Type M"
     ],
     "correct": 3,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 8: Mortar and Grout — Section: Mortar Properties"
   },
   {
     "id": "Q8",
@@ -205,7 +205,7 @@
       "48 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry — Section: 2104.1.2.1 Wall Ties"
+    "source": "Masonry, Chapter 9: Anchors, Ties, and Reinforcement — Section: Metal Ties or Wires; IBC, Chapter 21: Masonry — Section: 2104 Construction"
   },
   {
     "id": "Q17",
@@ -270,7 +270,7 @@
       "Type M"
     ],
     "correct": 3,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 8: Mortar and Grout — Section: Mortar Proportions and Uses"
   },
   {
     "id": "Q22",
@@ -504,7 +504,7 @@
       "Type O"
     ],
     "correct": 3,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 8: Mortar and Grout — Section: Mortar Properties"
   },
   {
     "id": "Q40",
@@ -712,7 +712,7 @@
       "30 inches"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties"
+    "source": "Masonry, Chapter 9: Anchors, Ties, and Reinforcement — Section: Metal Ties or Wires"
   },
   {
     "id": "Q56",
@@ -790,7 +790,7 @@
       "To allow drainage"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick walls"
+    "source": "Masonry, Chapter 10: Laying Brick — Section: Laying Common Brick Walls"
   },
   {
     "id": "Q62",
@@ -803,7 +803,7 @@
       "ASTM C1329"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 8: Mortar and Grout — Section: Mortar Proportions and Uses"
   },
   {
     "id": "Q63",
@@ -894,7 +894,7 @@
       "3000 psi"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 8: Mortar and Grout — Section: Mortar Properties"
   },
   {
     "id": "Q70",
@@ -959,7 +959,7 @@
       "1/2 inch"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall Ties"
   },
   {
     "id": "Q75",
@@ -1076,7 +1076,7 @@
       "Load-bearing walls"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Mortar Types"
   },
   {
     "id": "Q84",
@@ -1141,7 +1141,7 @@
       "Stack Bond"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 12: Laying Brick"
+    "source": "Masonry, Chapter 12: Laying Brick — Section: Masonry Bonds"
   },
   {
     "id": "Q89",
@@ -1167,7 +1167,7 @@
       "40 bar diameters"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Joint Reinforcement"
   },
   {
     "id": "Q91",
@@ -1414,7 +1414,7 @@
       "4 hours"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 10: Mortar and Grout — Section: 10.3 mixing mortar"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: 10.3 Mixing Mortar"
   },
   {
     "id": "Q110",
@@ -2350,7 +2350,7 @@
       "Common Bond"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Masonry"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Masonry Bonds"
   },
   {
     "id": "Q182",
@@ -2363,7 +2363,7 @@
       "To provide a sightline for leveling"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall Ties"
   },
   {
     "id": "Q183",
@@ -2493,7 +2493,7 @@
       "Type K"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Mortar Types"
   },
   {
     "id": "Q193",
@@ -2766,7 +2766,7 @@
       "Sill"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Expansion Joints"
   },
   {
     "id": "Q214",
@@ -3130,7 +3130,7 @@
       "Float"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Masonry"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Mortar Joints"
   },
   {
     "id": "Q242",
@@ -3143,7 +3143,7 @@
       "Add antifreeze to the mix"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Water for mixing"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Water for Mixing"
   },
   {
     "id": "Q243",
@@ -3520,7 +3520,7 @@
       "Throwing it away"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Retempering Mortar"
   },
   {
     "id": "Q272",
@@ -3533,7 +3533,7 @@
       "15 minutes"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 10: Mortar and Grout — Section: 10.3 mixing mortar"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: 10.3 Mixing Mortar"
   },
   {
     "id": "Q273",
@@ -3702,7 +3702,7 @@
       "Construction Method"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete Masonry Units (CMUs)"
   },
   {
     "id": "Q286",
@@ -4248,7 +4248,7 @@
       "Diagonally"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Masonry"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Positions"
   },
   {
     "id": "Q328",
@@ -4261,7 +4261,7 @@
       "Mortar contains gravel; grout does not"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Mortar and Grout"
   },
   {
     "id": "Q329",
@@ -4274,7 +4274,7 @@
       "Does not enter the tie"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall Ties"
   },
   {
     "id": "Q330",
@@ -4391,7 +4391,7 @@
       "Stop ants"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall Ties"
   },
   {
     "id": "Q339",
@@ -4638,7 +4638,7 @@
       "They look modern"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Concave joints"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Mortar Joints"
   },
   {
     "id": "Q358",
@@ -5106,7 +5106,7 @@
       "4 hours"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Mixing Mortar"
   },
   {
     "id": "Q394",
@@ -5119,7 +5119,7 @@
       "In a herringbone pattern"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Masonry"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Positions"
   },
   {
     "id": "Q395",
@@ -5132,7 +5132,7 @@
       "A type of trowel"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Compressive strength"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Compressive Strength"
   },
   {
     "id": "Q396",
@@ -5691,7 +5691,7 @@
       "The mixer"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Grout"
   },
   {
     "id": "Q439",
@@ -5704,7 +5704,7 @@
       "A vertical column"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Bond Beams"
   },
   {
     "id": "Q440",
@@ -5717,7 +5717,7 @@
       "Laying the first course"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Parging"
   },
   {
     "id": "Q441",
@@ -5925,7 +5925,7 @@
       "Cleaning it with acid"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Masonry"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Positions"
   },
   {
     "id": "Q457",
@@ -6068,7 +6068,7 @@
       "Used to save mortar"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Mortar bond"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Mortar Bond"
   },
   {
     "id": "Q468",
@@ -6510,7 +6510,7 @@
       "The bond pattern"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Compressive strength"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Compressive Strength"
   },
   {
     "id": "Q502",
@@ -6952,7 +6952,7 @@
       "Diagonally"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Masonry"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Positions"
   },
   {
     "id": "Q536",
@@ -6965,7 +6965,7 @@
       "To prevent water entry"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Joint Reinforcement"
   },
   {
     "id": "Q537",
@@ -7186,7 +7186,7 @@
       "Air flow"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall Ties"
   },
   {
     "id": "Q554",
@@ -7394,7 +7394,7 @@
       "48 inches"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement; IBC, Chapter 21: Masonry; Concrete, Chapter 7: Joints and Embedments in Structures — Section: Reinforcement"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Reinforcement; IBC, Chapter 21: Masonry — Section: Lap Splices; Concrete, Chapter 7: Joints and Embedments in Structures — Section: Reinforcement"
   },
   {
     "id": "Q570",
@@ -7485,7 +7485,7 @@
       "Colored mortar"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 21: Masonry — Section: 2106.1 Seismic Design Categories D, E and F; Masonry, Chapter 10: Mortar and Grout — Section: Mortar"
+    "source": "IBC, Chapter 21: Masonry — Section: Seismic Design (Masonry); Masonry, Chapter 10: Mortar and Grout — Section: Mortar Types"
   },
   {
     "id": "Q577",
@@ -7615,7 +7615,7 @@
       "10 feet"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 21: Masonry — Section: 2103.13.5 Cleanouts; Masonry, Chapter 10: Mortar and Grout — Section: Cleanouts"
+    "source": "IBC, Chapter 21: Masonry — Section: Cleanouts; Masonry, Chapter 10: Mortar and Grout — Section: Grout"
   },
   {
     "id": "Q587",
@@ -7706,7 +7706,7 @@
       "48 inches o.c."
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement; IBC, Chapter 21: Masonry — Section: 2114.3.2 Weep holes"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall Ties; IBC, Chapter 21: Masonry — Section: Flashing and Weepholes"
   },
   {
     "id": "Q594",
@@ -7836,7 +7836,7 @@
       "Brick scraps"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 21: Masonry — Section: 2102.1 Definitions"
+    "source": "IBC, Chapter 21: Masonry — Section: Reinforced Masonry; Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Bond Beams"
   },
   {
     "id": "Q604",
@@ -7914,7 +7914,7 @@
       "So that vertical alignment of cells is maintained"
     ],
     "correct": 3,
-    "source": "IBC, Chapter 21: Masonry — Section: 2104.1.2 Placing Mortar and Units"
+    "source": "IBC, Chapter 21: Masonry — Section: Construction; Masonry, Chapter 9: Stone — Section: Masonry Wall Construction"
   },
   {
     "id": "Q610",
@@ -8044,7 +8044,7 @@
       "4 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 14: Exterior Walls — Section: 1404.6.1 General"
+    "source": "Masonry, Chapter 9: Stone — Section: Masonry Wall Construction; IBC, Chapter 21: Masonry — Section: Cavity Wall Construction"
   },
   {
     "id": "Q620",
@@ -8122,7 +8122,7 @@
       "Uplift"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 4: Foundations — Section: R404.1.1 Masonry foundation walls; Masonry, Chapter 9: Stone — Section: Masonry Wall Construction"
+    "source": "IRC, Chapter 4: Foundations — Section: R404.1.1 Masonry Foundation Walls; Masonry, Chapter 9: Stone — Section: Masonry Wall Construction"
   },
   {
     "id": "Q626",
@@ -8200,7 +8200,7 @@
       "Never"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 14: Exterior Walls — Section: 1404.6 Anchored Masonry Veneer"
+    "source": "Masonry, Chapter 9: Stone — Section: Masonry Wall Construction; IBC, Chapter 21: Masonry — Section: Expansion Joints"
   },
   {
     "id": "Q632",
@@ -8382,7 +8382,7 @@
       "Fire"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry — Section: 2104.1.6 Concrete Masonry Control Joints"
+    "source": "Masonry, Chapter 9: Stone — Section: Masonry Wall Construction; IBC, Chapter 21: Masonry — Section: Control Joints"
   },
   {
     "id": "Q646",
@@ -8525,7 +8525,7 @@
       "20 feet"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart Q: Concrete/Masonry — Section: Requirements for masonry construction; Masonry, Chapter 4: Safety"
+    "source": "OSHA, Subpart Q: Concrete/Masonry — Section: Requirements for Masonry Construction; Masonry, Chapter 4: Safety"
   },
   {
     "id": "Q657",
@@ -8551,7 +8551,7 @@
       "The full thickness"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 21: Masonry — Section: 2104.1 Masonry Construction"
+    "source": "IBC, Chapter 21: Masonry — Section: Corbelling; Masonry, Chapter 9: Stone — Section: Masonry Wall Construction"
   },
   {
     "id": "Q659",
@@ -8694,7 +8694,7 @@
       "1/2 inch"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 21: Masonry — Section: 2103.13 Joint Reinforcement"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall Ties; IBC, Chapter 21: Masonry — Section: Wall Ties"
   },
   {
     "id": "Q670",
@@ -8772,7 +8772,7 @@
       "Glue"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 6: Wall construction — Section: R610.3.2 Framing; Masonry, Chapter 13: Laying Block — Section: Glass Block"
+    "source": "IRC, Chapter 6: Wall Construction — Section: R610.3.2 Framing; Masonry, Chapter 13: Laying Block — Section: Glass Block"
   },
   {
     "id": "Q676",
@@ -8850,7 +8850,7 @@
       "Vertical joints only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry — Section: 2104.1.2.2 Hollow Units"
+    "source": "Masonry, Chapter 9: Stone — Section: Masonry Wall Construction; IBC, Chapter 21: Masonry — Section: Glass Unit Masonry"
   },
   {
     "id": "Q682",
@@ -9032,7 +9032,7 @@
       "2 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry — Section: 2103.12.2 Wall Ties"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement; IBC, Chapter 21: Masonry — Section: Glass Unit Masonry"
   },
   {
     "id": "Q696",
@@ -9266,7 +9266,7 @@
       "Rebound hammer test"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry — Section: 2105.2.2 Prism test"
+    "source": "IBC, Chapter 21: Masonry — Section: Quality Assurance; Masonry, Chapter 10: Mortar and Grout — Section: Compressive Strength"
   },
   {
     "id": "Q714",
@@ -9331,7 +9331,7 @@
       "3 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 14: Exterior walls — Section: 1404.6 Anchored veneer"
+    "source": "IBC, Chapter 21: Masonry — Section: Cavity Wall Construction; Masonry, Chapter 9: Stone — Section: Masonry Wall Construction"
   },
   {
     "id": "Q719",
@@ -9669,7 +9669,7 @@
       "4 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry — Section: 2111.11 Clearance from combustibles"
+    "source": "IRC, Chapter 10: Chimneys and Fireplaces — Section: R1003.18 Clearance; IBC, Chapter 21: Masonry — Section: 2111.11 Clearance; Masonry, Chapter 8: Concrete Masonry Units — Section: Fireplaces and Chimneys"
   },
   {
     "id": "Q745",
@@ -9682,7 +9682,7 @@
       "Portland Cement/Lime"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 21: Masonry — Section: 2103.8 Mortar"
+    "source": "IBC, Chapter 21: Masonry — Section: Seismic Design (Masonry); Masonry, Chapter 10: Mortar and Grout — Section: Mortar Types"
   },
   {
     "id": "Q746",
@@ -9799,7 +9799,7 @@
       "4 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 14: Exterior walls — Section: 1404.6 Anchored masonry veneer"
+    "source": "IBC, Chapter 14: Exterior Walls — Section: 1404.6.2 Air Space; Masonry, Chapter 9: Stone — Section: Masonry Wall Construction; IRC, Chapter 7: Wall Covering — Section: R703.8 Flashing"
   },
   {
     "id": "Q755",
@@ -9968,7 +9968,7 @@
       "5/8 inch"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry — Section: 2103.8 Mortar joints"
+    "source": "Masonry, Chapter 9: Stone — Section: Masonry Wall Construction; IBC, Chapter 21: Masonry — Section: Construction (Masonry)"
   },
   {
     "id": "Q768",
@@ -10124,7 +10124,7 @@
       "96 inches"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 21: Masonry — Section: 2106.1 Seismic design requirements"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Reinforcement; IBC, Chapter 21: Masonry — Section: Reinforcement"
   },
   {
     "id": "Q780",
@@ -10319,7 +10319,7 @@
       "Wood"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry — Section: 2104.5.1 Bond beams"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Bond Beams; IBC, Chapter 21: Masonry — Section: Reinforcement"
   },
   {
     "id": "Q795",
@@ -10358,7 +10358,7 @@
       "Never"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry — Section: 2104.7 Cleanouts"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Grout; IBC, Chapter 21: Masonry — Section: Grout Placement"
   },
   {
     "id": "Q798",
@@ -10657,7 +10657,7 @@
       "1 inch"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Anchored Veneer; IBC, Chapter 21: Masonry — Section: 2109 Empirical Masonry"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Anchored Veneer; IBC, Chapter 21: Masonry — Section: Construction (Masonry)"
   },
   {
     "id": "Q821",
@@ -10735,7 +10735,7 @@
       "3 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 14: Exterior walls — Section: 1404.12 Masonry veneer; Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Anchored Veneer"
+    "source": "IBC, Chapter 14: Exterior Walls — Section: 1404.6.2 Air Space; Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Anchored Veneer"
   },
   {
     "id": "Q827",
@@ -10839,7 +10839,7 @@
       "To prevent water penetration"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties; IBC, Chapter 21: Masonry — Section: 2101 General"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Bond Beams; IBC, Chapter 21: Masonry — Section: Reinforcement"
   },
   {
     "id": "Q835",
@@ -11320,7 +11320,7 @@
       "10 square feet of wall area"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 7: Wall covering — Section: R703.8.4.1 Tie attachment and air space; Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties"
+    "source": "IRC, Chapter 7: Wall Covering — Section: R703.8.4.1 Tie Attachment and Air Space; Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall Ties"
   },
   {
     "id": "Q872",
@@ -11437,7 +11437,7 @@
       "2 inches"
     ],
     "correct": 0,
-    "source": "IRC, Chapter 6: Wall construction — Section: R606.6 Grouting; Masonry, Chapter 10: Mortar and Grout — Section: Grout spaces"
+    "source": "IRC, Chapter 6: Wall Construction — Section: R606.6 Grouting; Masonry, Chapter 10: Mortar and Grout — Section: Grout Spaces"
   },
   {
     "id": "Q881",
@@ -11645,7 +11645,7 @@
       "The brand of mixer"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry — Section: 2103 Mortar and Grout; Masonry, Chapter 10: Mortar and Grout"
+    "source": "IBC, Chapter 21: Masonry — Section: 2103 Mortar and Grout; Masonry, Chapter 10: Mortar and Grout — Section: Mortar Properties"
   },
   {
     "id": "Q897",
@@ -11723,7 +11723,7 @@
       "10 inches"
     ],
     "correct": 2,
-    "source": "IRC, Chapter 4: Foundations — Section: Table R404.1.1(1) Concrete and masonry foundation wall dimensions; Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Reinforced Masonry"
+    "source": "IRC, Chapter 4: Foundations — Section: Table R404.1.1(1) Concrete and Masonry Foundation Wall Dimensions; Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Reinforced Masonry"
   },
   {
     "id": "Q903",
@@ -11801,7 +11801,7 @@
       "32 inches"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties; IBC, Chapter 21: Masonry — Section: 2113.2.1 Wall ties"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall Ties; IBC, Chapter 21: Masonry — Section: 2113.2.1 Wall Ties"
   },
   {
     "id": "Q909",
@@ -11840,7 +11840,7 @@
       "48 bar diameters"
     ],
     "correct": 3,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Reinforced Masonry; IBC, Chapter 21: Masonry — Section: 2108.3.1 Lap splices"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Reinforced Masonry; IBC, Chapter 21: Masonry — Section: 2108.3.1 Lap Splices"
   },
   {
     "id": "Q912",
@@ -11996,7 +11996,7 @@
       "In block walls"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Composite Masonry; IBC, Chapter 21: Masonry — Section: 2110.1 Structural continuity"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Composite Masonry; IBC, Chapter 21: Masonry — Section: 2110.1 Structural Continuity"
   },
   {
     "id": "Q924",
@@ -12126,7 +12126,7 @@
       "Full width"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties; IBC, Chapter 21: Masonry — Section: 2104.1.1 Placement of wall ties"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall Ties; IBC, Chapter 21: Masonry — Section: 2104.1.1 Placement of Wall Ties"
   },
   {
     "id": "Q934",
@@ -12204,7 +12204,7 @@
       "30 inches"
     ],
     "correct": 3,
-    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 705.11 Parapets; Masonry, Chapter 13: Laying Block — Section: Masonry Walls"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: 705.11 Parapets; Masonry, Chapter 13: Laying Block — Section: Masonry Walls"
   },
   {
     "id": "Q940",
@@ -24580,7 +24580,7 @@
       "Elimination of the need for further training"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 1: Careers in the Masonry Industry"
+    "source": "Masonry, Chapter 19: Careers in the Masonry Trades — Section: Advancement Opportunities"
   },
   {
     "id": "Q1892",
@@ -24593,7 +24593,7 @@
       "Avoiding any contact with the general contractor"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 2: Job Performance, Leadership, Ethics, and Entrepreneurship"
+    "source": "Masonry, Chapter 20: Job Performance, Leadership, Ethics, and Entrepreneurship — Section: Teamwork and Leadership"
   },
   {
     "id": "Q1893",
@@ -24606,7 +24606,7 @@
       "Avoid disclosing project delays to the client"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 2: Job Performance, Leadership, Ethics, and Entrepreneurship"
+    "source": "Masonry, Chapter 20: Job Performance, Leadership, Ethics, and Entrepreneurship — Section: Entrepreneurship"
   },
   {
     "id": "Q1894",
@@ -24619,7 +24619,7 @@
       "A trademark for the company logo"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 2: Job Performance, Leadership, Ethics, and Entrepreneurship"
+    "source": "Masonry, Chapter 20: Job Performance, Leadership, Ethics, and Entrepreneurship — Section: Entrepreneurship"
   },
   {
     "id": "Q1895",
@@ -24632,7 +24632,7 @@
       "Avoiding communication with supervisors"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 2: Job Performance, Leadership, Ethics, and Entrepreneurship"
+    "source": "Masonry, Chapter 20: Job Performance, Leadership, Ethics, and Entrepreneurship — Section: Work Ethic"
   },
   {
     "id": "Q1896",
@@ -24645,7 +24645,7 @@
       "Reduce the amount of documentation on a project"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 2: Job Performance, Leadership, Ethics, and Entrepreneurship"
+    "source": "Masonry, Chapter 20: Job Performance, Leadership, Ethics, and Entrepreneurship — Section: Teamwork and Leadership"
   },
   {
     "id": "Q1897",
@@ -24658,7 +24658,7 @@
       "Test the compressive strength of mortar"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 3: Tools and Equipment"
+    "source": "Masonry, Chapter 1: Tools and Equipment — Section: Masonry Tools and Equipment"
   },
   {
     "id": "Q1898",
@@ -24671,7 +24671,7 @@
       "Test the mortar's setting time"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 3: Tools and Equipment"
+    "source": "Masonry, Chapter 1: Tools and Equipment — Section: Masonry Tools and Equipment"
   },
   {
     "id": "Q1899",
@@ -24684,7 +24684,7 @@
       "Only usable on stone masonry"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 3: Tools and Equipment"
+    "source": "Masonry, Chapter 1: Tools and Equipment — Section: Masonry Tools and Equipment"
   },
   {
     "id": "Q1900",
@@ -24697,7 +24697,7 @@
       "Story pole"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 3: Tools and Equipment"
+    "source": "Masonry, Chapter 1: Tools and Equipment — Section: Masonry Tools and Equipment"
   },
   {
     "id": "Q1901",
@@ -24710,7 +24710,7 @@
       "Level the top course of a wall"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 3: Tools and Equipment"
+    "source": "Masonry, Chapter 3: Tools and Equipment — Section: Masonry Tools and Equipment"
   },
   {
     "id": "Q1902",
@@ -24723,7 +24723,7 @@
       "Apply mortar to the bed joint"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 3: Tools and Equipment"
+    "source": "Masonry, Chapter 3: Tools and Equipment — Section: Masonry Tools and Equipment"
   },
   {
     "id": "Q1903",
@@ -24736,7 +24736,7 @@
       "The color consistency of clay brick"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 3: Tools and Equipment"
+    "source": "Masonry, Chapter 3: Tools and Equipment — Section: Masonry Tools and Equipment"
   },
   {
     "id": "Q1904",
@@ -24749,7 +24749,7 @@
       "Automatically tools the mortar joints"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 3: Tools and Equipment"
+    "source": "Masonry, Chapter 3: Tools and Equipment — Section: Masonry Tools and Equipment"
   },
   {
     "id": "Q1905",
@@ -24762,7 +24762,7 @@
       "Increasing the cutting speed of the saw"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 4: Safety"
+    "source": "Masonry, Chapter 4: Safety — Section: Silica Dust"
   },
   {
     "id": "Q1906",
@@ -24775,7 +24775,7 @@
       "Steel-toed boots only"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 4: Safety"
+    "source": "Masonry, Chapter 4: Safety — Section: Personal Protective Equipment"
   },
   {
     "id": "Q1907",
@@ -24788,7 +24788,7 @@
       "No specific load requirement"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 4: Safety"
+    "source": "Masonry, Chapter 4: Safety — Section: Scaffolding"
   },
   {
     "id": "Q1908",
@@ -24801,7 +24801,7 @@
       "Fall protection is never required on masonry scaffolds"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 4: Safety"
+    "source": "Masonry, Chapter 4: Safety — Section: Scaffolding"
   },
   {
     "id": "Q1909",
@@ -24814,7 +24814,7 @@
       "A secondary operator station"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 4: Safety"
+    "source": "Masonry, Chapter 4: Safety — Section: Power Tools"
   },
   {
     "id": "Q1910",
@@ -24827,7 +24827,7 @@
       "The scaffold has been removed"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 4: Safety"
+    "source": "Masonry, Chapter 4: Safety — Section: Masonry Wall Bracing"
   },
   {
     "id": "Q1911",
@@ -24840,7 +24840,7 @@
       "The plumbing riser diagram"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 5: Print Reading"
+    "source": "Masonry, Chapter 5: Print Reading — Section: Elevations"
   },
   {
     "id": "Q1912",
@@ -24853,7 +24853,7 @@
       "The landscaping plan"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 5: Print Reading"
+    "source": "Masonry, Chapter 5: Print Reading — Section: Sections"
   },
   {
     "id": "Q1913",
@@ -24866,7 +24866,7 @@
       "Measure the pH of mortar"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 5: Print Reading"
+    "source": "Masonry, Chapter 5: Print Reading — Section: Scales"
   },
   {
     "id": "Q1914",
@@ -24879,7 +24879,7 @@
       "Omitting all hatching for masonry materials"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 5: Print Reading"
+    "source": "Masonry, Chapter 5: Print Reading — Section: Symbols and Conventions"
   },
   {
     "id": "Q1915",
@@ -24892,7 +24892,7 @@
       "Proceed using personal judgment and never document the conflict"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 5: Print Reading"
+    "source": "Masonry, Chapter 5: Print Reading — Section: Specifications"
   },
   {
     "id": "Q1916",
@@ -24905,7 +24905,7 @@
       "6 inches per course"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 6: Math for Masonry Careers"
+    "source": "Masonry, Chapter 6: Math for Masonry Careers — Section: Masonry Units and Modular Dimensions"
   },
   {
     "id": "Q1917",
@@ -24918,7 +24918,7 @@
       "24 inches per course"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 6: Math for Masonry Careers"
+    "source": "Masonry, Chapter 6: Math for Masonry Careers — Section: Masonry Units and Modular Dimensions"
   },
   {
     "id": "Q1918",
@@ -24931,7 +24931,7 @@
       "The color of the mortar"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 6: Math for Masonry Careers"
+    "source": "Masonry, Chapter 6: Math for Masonry Careers — Section: Estimating Materials"
   },
   {
     "id": "Q1919",
@@ -24944,7 +24944,7 @@
       "Permit fees"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 6: Math for Masonry Careers"
+    "source": "Masonry, Chapter 6: Math for Masonry Careers — Section: Estimating Materials"
   },
   {
     "id": "Q1920",
@@ -24957,7 +24957,7 @@
       "Perimeter by its thickness"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 6: Math for Masonry Careers"
+    "source": "Masonry, Chapter 6: Math for Masonry Careers — Section: Estimating Materials"
   },
   {
     "id": "Q1921",
@@ -24970,7 +24970,7 @@
       "The compressive strength of the unit"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 6: Math for Masonry Careers"
+    "source": "Masonry, Chapter 6: Math for Masonry Careers — Section: Estimating Materials"
   },
   {
     "id": "Q1922",
@@ -24983,7 +24983,7 @@
       "Casting in a liquid slurry mold only"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Manufacturing"
   },
   {
     "id": "Q1923",
@@ -24996,7 +24996,7 @@
       "Underwater applications exclusively"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Masonry"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Classifications"
   },
   {
     "id": "Q1924",
@@ -25009,7 +25009,7 @@
       "ASTM C902"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Masonry"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Classifications"
   },
   {
     "id": "Q1925",
@@ -25022,7 +25022,7 @@
       "Only the mason's hands during installation"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Analysis of Structural Masonry"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Properties of Brick"
   },
   {
     "id": "Q1926",
@@ -25035,7 +25035,7 @@
       "Exposure to sunlight during shipping"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Masonry"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Properties of Brick"
   },
   {
     "id": "Q1927",
@@ -25048,7 +25048,7 @@
       "1 inch wide x 1 inch high x 2 inches long"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Masonry"
+    "source": "Masonry, Chapter 7: Clay Masonry Materials — Section: Brick Sizes"
   },
   {
     "id": "Q1928",
@@ -25061,7 +25061,7 @@
       "ASTM C1314"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: CMU Properties"
   },
   {
     "id": "Q1929",
@@ -25074,7 +25074,7 @@
       "Grade SW, MW, and NW"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: CMU Properties"
   },
   {
     "id": "Q1930",
@@ -25087,7 +25087,7 @@
       "Bullnose unit exclusively"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: CMU Sizes and Shapes"
   },
   {
     "id": "Q1931",
@@ -25100,7 +25100,7 @@
       "A glazed ceramic finish"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: CMU Sizes and Shapes"
   },
   {
     "id": "Q1932",
@@ -25113,7 +25113,7 @@
       "6 inches"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: CMU Sizes and Shapes"
   },
   {
     "id": "Q1933",
@@ -25126,7 +25126,7 @@
       "Open-flame kiln firing, as with clay brick"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: CMU Manufacturing"
   },
   {
     "id": "Q1934",
@@ -25139,7 +25139,7 @@
       "Only as a decorative cap unit"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: CMU Sizes and Shapes"
   },
   {
     "id": "Q1935",
@@ -25152,7 +25152,7 @@
       "Change the unit's color"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: Concrete masonry units (cmus)"
+    "source": "Masonry, Chapter 8: Concrete Masonry Units — Section: CMU Properties"
   },
   {
     "id": "Q1936",
@@ -25165,7 +25165,7 @@
       "Type M, S, and N"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 9: Stone"
+    "source": "Masonry, Chapter 9: Stone — Section: Classification of Stone"
   },
   {
     "id": "Q1937",
@@ -25178,7 +25178,7 @@
       "Loose stone with no mortar of any kind"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 9: Stone"
+    "source": "Masonry, Chapter 9: Stone — Section: Ashlar Masonry"
   },
   {
     "id": "Q1938",
@@ -25191,7 +25191,7 @@
       "Glass block units"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 9: Stone"
+    "source": "Masonry, Chapter 9: Stone — Section: Rubble Masonry"
   },
   {
     "id": "Q1939",
@@ -25204,7 +25204,7 @@
       "Used only as rubble fill"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 9: Stone"
+    "source": "Masonry, Chapter 9: Stone — Section: Dimension Stone"
   },
   {
     "id": "Q1940",
@@ -25217,7 +25217,7 @@
       "The quarry's shipping pallet orientation"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 9: Stone"
+    "source": "Masonry, Chapter 9: Stone — Section: Stone Characteristics"
   },
   {
     "id": "Q1941",
@@ -25230,7 +25230,7 @@
       "A textured, hammered surface"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 9: Stone"
+    "source": "Masonry, Chapter 9: Stone — Section: Stone Finishes"
   },
   {
     "id": "Q1942",
@@ -25243,7 +25243,7 @@
       "No attachment; it relies on gravity and friction alone"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 9: Stone"
+    "source": "Masonry, Chapter 9: Stone — Section: Stone Veneer"
   },
   {
     "id": "Q1943",
@@ -25256,7 +25256,7 @@
       "A fixed ratio that never varies regardless of mortar type"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Mortar Proportions"
   },
   {
     "id": "Q1944",
@@ -25269,7 +25269,7 @@
       "Increase the mortar's water absorption indefinitely"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Admixtures"
   },
   {
     "id": "Q1945",
@@ -25282,7 +25282,7 @@
       "Make the mortar waterproof"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Mortar Properties"
   },
   {
     "id": "Q1946",
@@ -25295,7 +25295,7 @@
       "Salt-water sand exclusively"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 10: Mortar and Grout"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Mortar Materials"
   },
   {
     "id": "Q1947",
@@ -25308,7 +25308,7 @@
       "Plastic with no metal content"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall Ties"
   },
   {
     "id": "Q1948",
@@ -25321,7 +25321,7 @@
       "Only decorative surface reinforcement"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Reinforced Masonry"
   },
   {
     "id": "Q1949",
@@ -25334,7 +25334,7 @@
       "The number of workers on site"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Control Joints"
   },
   {
     "id": "Q1950",
@@ -25347,7 +25347,7 @@
       "A chalk line only"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick walls"
+    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick Walls"
   },
   {
     "id": "Q1951",
@@ -25360,7 +25360,7 @@
       "Completely dry and dusty"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick walls"
+    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick Walls"
   },
   {
     "id": "Q1952",
@@ -25373,7 +25373,7 @@
       "Brick used exclusively for coping"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick walls"
+    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick Walls"
   },
   {
     "id": "Q1953",
@@ -25386,7 +25386,7 @@
       "Installs it before any other brick in the course"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick walls"
+    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick Walls"
   },
   {
     "id": "Q1954",
@@ -25399,7 +25399,7 @@
       "A paint scraper"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick walls"
+    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick Walls"
   },
   {
     "id": "Q1955",
@@ -25412,7 +25412,7 @@
       "Test the moisture content of the brick"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick walls"
+    "source": "Masonry, Chapter 12: Laying Brick — Section: Brick Walls"
   },
   {
     "id": "Q1956",
@@ -25425,7 +25425,7 @@
       "No mortar is applied above the first course"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 13: Laying Block"
+    "source": "Masonry, Chapter 13: Laying Block — Section: Laying Concrete Block"
   },
   {
     "id": "Q1957",
@@ -25438,7 +25438,7 @@
       "Grouting the wall before any units are placed"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 13: Laying Block"
+    "source": "Masonry, Chapter 13: Laying Block — Section: Laying Concrete Block"
   },
   {
     "id": "Q1958",
@@ -25451,7 +25451,7 @@
       "A paint roller"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 13: Laying Block"
+    "source": "Masonry, Chapter 13: Laying Block — Section: Laying Concrete Block"
   },
   {
     "id": "Q1959",
@@ -25464,7 +25464,7 @@
       "Welded directly to the concrete masonry units"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 13: Laying Block"
+    "source": "Masonry, Chapter 13: Laying Block — Section: Reinforced Concrete Masonry"
   },
   {
     "id": "Q1960",
@@ -25477,7 +25477,7 @@
       "Only at the very top course of the wall"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 13: Laying Block"
+    "source": "Masonry, Chapter 13: Laying Block — Section: Grouting"
   },
   {
     "id": "Q1961",
@@ -25490,7 +25490,7 @@
       "Stage where it has begun to crumble"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 13: Laying Block"
+    "source": "Masonry, Chapter 13: Laying Block — Section: Tooling Joints"
   },
   {
     "id": "Q1962",
@@ -25503,7 +25503,7 @@
       "Only the top of the previously set stone"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 14: Stonemasonry"
+    "source": "Masonry, Chapter 14: Stonemasonry — Section: Setting Stone"
   },
   {
     "id": "Q1963",
@@ -25516,7 +25516,7 @@
       "With steel welds between each stone"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 14: Stonemasonry"
+    "source": "Masonry, Chapter 14: Stonemasonry — Section: Dry-Stack Masonry"
   },
   {
     "id": "Q1964",
@@ -25529,7 +25529,7 @@
       "Selecting stone at the quarry"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 14: Stonemasonry"
+    "source": "Masonry, Chapter 14: Stonemasonry — Section: Pointing"
   },
   {
     "id": "Q1965",
@@ -25542,7 +25542,7 @@
       "Never used on exterior walls"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 14: Stonemasonry"
+    "source": "Masonry, Chapter 14: Stonemasonry — Section: Structural Stone Walls"
   },
   {
     "id": "Q1966",
@@ -25555,7 +25555,7 @@
       "A garden cart"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 14: Stonemasonry"
+    "source": "Masonry, Chapter 14: Stonemasonry — Section: Handling and Setting Stone"
   },
   {
     "id": "Q1967",
@@ -25568,7 +25568,7 @@
       "The stones are laid only in a running bond identical to brick"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 14: Stonemasonry"
+    "source": "Masonry, Chapter 14: Stonemasonry — Section: Rubble Masonry"
   },
   {
     "id": "Q1968",
@@ -25581,7 +25581,7 @@
       "Replace the need for a foundation wall entirely"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 15: Foundation Systems"
+    "source": "Masonry, Chapter 15: Foundation Systems — Section: Footings"
   },
   {
     "id": "Q1969",
@@ -25594,7 +25594,7 @@
       "The type of siding used above grade"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 15: Foundation Systems"
+    "source": "Masonry, Chapter 15: Foundation Systems — Section: Footings"
   },
   {
     "id": "Q1970",
@@ -25607,7 +25607,7 @@
       "Is only used in commercial construction"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 15: Foundation Systems"
+    "source": "Masonry, Chapter 15: Foundation Systems — Section: Foundation Walls"
   },
   {
     "id": "Q1971",
@@ -25620,7 +25620,7 @@
       "Installing carpet directly against the wall"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 15: Foundation Systems"
+    "source": "Masonry, Chapter 15: Foundation Systems — Section: Waterproofing"
   },
   {
     "id": "Q1972",
@@ -25633,7 +25633,7 @@
       "Roof ridge elevation"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 15: Foundation Systems"
+    "source": "Masonry, Chapter 15: Foundation Systems — Section: Footings"
   },
   {
     "id": "Q1973",
@@ -25646,7 +25646,7 @@
       "Constructed only of glass block"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 15: Foundation Systems"
+    "source": "Masonry, Chapter 15: Foundation Systems — Section: Foundation Walls"
   },
   {
     "id": "Q1974",
@@ -25659,7 +25659,7 @@
       "Serve as the building's primary water supply line"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 15: Foundation Systems"
+    "source": "Masonry, Chapter 15: Foundation Systems — Section: Drainage"
   },
   {
     "id": "Q1975",
@@ -25672,7 +25672,7 @@
       "A below-grade retaining wall only"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 16: Wall Systems"
+    "source": "Masonry, Chapter 16: Wall Systems — Section: Veneer Walls"
   },
   {
     "id": "Q1976",
@@ -25685,7 +25685,7 @@
       "A wythe of stone with no backup wall"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 16: Wall Systems"
+    "source": "Masonry, Chapter 16: Wall Systems — Section: Cavity Walls"
   },
   {
     "id": "Q1977",
@@ -25698,7 +25698,7 @@
       "Built using only concrete masonry units, never brick"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 16: Wall Systems"
+    "source": "Masonry, Chapter 16: Wall Systems — Section: Composite Walls"
   },
   {
     "id": "Q1978",
@@ -25711,7 +25711,7 @@
       "Never permitted in exterior wall construction"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 16: Wall Systems"
+    "source": "Masonry, Chapter 16: Wall Systems — Section: Masonry Wall Types"
   },
   {
     "id": "Q1979",
@@ -25724,7 +25724,7 @@
       "Serve as the primary waterproofing membrane"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 16: Wall Systems"
+    "source": "Masonry, Chapter 16: Wall Systems — Section: Veneer Walls"
   },
   {
     "id": "Q1980",
@@ -25737,7 +25737,7 @@
       "Replace the need for mortar joints"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 16: Wall Systems"
+    "source": "Masonry, Chapter 16: Wall Systems — Section: Flashing and Weep Holes"
   },
   {
     "id": "Q1981",
@@ -25750,7 +25750,7 @@
       "Glass block units in place of standard units"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 16: Wall Systems"
+    "source": "Masonry, Chapter 16: Wall Systems — Section: Reinforced Masonry"
   },
   {
     "id": "Q1982",
@@ -25763,7 +25763,7 @@
       "The interior drywall finish"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 16: Wall Systems"
+    "source": "Masonry, Chapter 16: Wall Systems — Section: Veneer Walls"
   },
   {
     "id": "Q1983",
@@ -25776,7 +25776,7 @@
       "Eliminate the need for any wall ties"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 16: Wall Systems"
+    "source": "Masonry, Chapter 16: Wall Systems — Section: Cavity Walls"
   },
   {
     "id": "Q1984",
@@ -25789,7 +25789,7 @@
       "A wall built entirely underground"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 16: Wall Systems"
+    "source": "Masonry, Chapter 16: Wall Systems — Section: Masonry Wall Types"
   },
   {
     "id": "Q1985",
@@ -25802,7 +25802,7 @@
       "ASTM C1314"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details"
+    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details — Section: Paving"
   },
   {
     "id": "Q1986",
@@ -25815,7 +25815,7 @@
       "Adhesive tape between each paver"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details"
+    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details — Section: Paving"
   },
   {
     "id": "Q1987",
@@ -25828,7 +25828,7 @@
       "Replace the need for a compacted base"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details"
+    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details — Section: Paving"
   },
   {
     "id": "Q1988",
@@ -25841,7 +25841,7 @@
       "Increase the paver's surface gloss"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details"
+    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details — Section: Paving"
   },
   {
     "id": "Q1989",
@@ -25854,7 +25854,7 @@
       "Reduce the number of pavers required"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details"
+    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details — Section: Paving"
   },
   {
     "id": "Q1990",
@@ -25867,7 +25867,7 @@
       "Only a gravel base with no concrete"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details"
+    "source": "Masonry, Chapter 17: Paving and Masonry Construction Details — Section: Paving"
   },
   {
     "id": "Q1991",
@@ -25880,7 +25880,7 @@
       "Only lime and clay"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications — Section: Concrete Materials"
   },
   {
     "id": "Q1992",
@@ -25893,7 +25893,7 @@
       "Eliminates the need for aggregate"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications — Section: Concrete Mixes"
   },
   {
     "id": "Q1993",
@@ -25906,7 +25906,7 @@
       "The curing temperature of concrete"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications — Section: Concrete Testing"
   },
   {
     "id": "Q1994",
@@ -25919,7 +25919,7 @@
       "Eliminates the need for reinforcement"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications — Section: Curing Concrete"
   },
   {
     "id": "Q1995",
@@ -25932,7 +25932,7 @@
       "Eliminate the need for curing"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications — Section: Air-Entraining Admixtures"
   },
   {
     "id": "Q1996",
@@ -25945,7 +25945,7 @@
       "Weighing a sample of fresh concrete"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications — Section: Concrete Testing"
   },
   {
     "id": "Q1997",
@@ -25958,7 +25958,7 @@
       "Water-reducing admixture"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications — Section: Aggregates"
   },
   {
     "id": "Q1998",
@@ -25971,7 +25971,7 @@
       "Permanently discolor the finished concrete"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 18: Concrete Materials and Applications"
+    "source": "Masonry, Chapter 18: Concrete Materials and Applications — Section: Admixtures"
   },
   {
     "id": "Q1999",
@@ -25984,7 +25984,7 @@
       "Color the surface of the finished concrete"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 19: Form Construction"
+    "source": "Masonry, Chapter 19: Form Construction — Section: Formwork"
   },
   {
     "id": "Q2000",
@@ -25997,7 +25997,7 @@
       "Only loose sand"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 19: Form Construction"
+    "source": "Masonry, Chapter 19: Form Construction — Section: Formwork"
   },
   {
     "id": "Q2001",
@@ -26010,7 +26010,7 @@
       "Speed up the concrete's curing time"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 19: Form Construction"
+    "source": "Masonry, Chapter 19: Form Construction — Section: Wall Forms"
   },
   {
     "id": "Q2002",
@@ -26023,7 +26023,7 @@
       "Color the exposed concrete surface"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 19: Form Construction"
+    "source": "Masonry, Chapter 19: Form Construction — Section: Form Release Agents"
   },
   {
     "id": "Q2003",
@@ -26036,7 +26036,7 @@
       "Nothing, since concrete is self-supporting immediately after placement"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 19: Form Construction"
+    "source": "Masonry, Chapter 19: Form Construction — Section: Formwork"
   },
   {
     "id": "Q2004",
@@ -26049,7 +26049,7 @@
       "Been painted"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 19: Form Construction"
+    "source": "Masonry, Chapter 19: Form Construction — Section: Removing Forms"
   },
   {
     "id": "Q2005",
@@ -26062,7 +26062,7 @@
       "Require the same form ties as high wall pours"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 19: Form Construction"
+    "source": "Masonry, Chapter 19: Form Construction — Section: Footing Forms"
   },
   {
     "id": "Q2006",
@@ -26075,7 +26075,7 @@
       "Only below-grade footings"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes"
+    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes — Section: Flatwork"
   },
   {
     "id": "Q2007",
@@ -26088,7 +26088,7 @@
       "Cutting control joints into hardened concrete"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes"
+    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes — Section: Screeding"
   },
   {
     "id": "Q2008",
@@ -26101,7 +26101,7 @@
       "Remove the formwork"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes"
+    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes — Section: Finishing Concrete"
   },
   {
     "id": "Q2009",
@@ -26114,7 +26114,7 @@
       "Eliminate the need for a granular base"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes"
+    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes — Section: Control Joints"
   },
   {
     "id": "Q2010",
@@ -26127,7 +26127,7 @@
       "Test the slab's compressive strength"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes"
+    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes — Section: Finishing Concrete"
   },
   {
     "id": "Q2011",
@@ -26140,7 +26140,7 @@
       "Eliminate the need for screeding"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes"
+    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes — Section: Slab-on-Grade Construction"
   },
   {
     "id": "Q2012",
@@ -26153,7 +26153,7 @@
       "Covering the slab with plastic only after it has fully dried"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes"
+    "source": "Masonry, Chapter 20: Concrete Flatwork and Formed Shapes — Section: Curing Concrete"
   },
   {
     "id": "Q2013",
