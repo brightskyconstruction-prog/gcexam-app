@@ -187,12 +187,12 @@
     "q": "Which document provides the 'Standard Specification for Agencies Engaged in Construction Inspection and/or Testing'?",
     "options": [
       "ASTM C150",
-      "IBC, ASTM E329",
+      "ASTM E329",
       "ANSI A10.5",
       "OSHA 1926"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 17: Special inspections and tests"
+    "source": "IBC, Chapter 17: Special Inspections and Tests — Section: 1703.1 Approved Agency"
   },
   {
     "id": "Q16",
@@ -205,7 +205,7 @@
       "48 inches"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties; IBC, Chapter 21: Masonry"
+    "source": "IBC, Chapter 21: Masonry — Section: 2104.1.2.1 Wall Ties"
   },
   {
     "id": "Q17",
@@ -413,7 +413,7 @@
       "Either direction"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress — Section: Occupant load"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1010.1.2.1 Direction of Swing"
   },
   {
     "id": "Q33",
@@ -439,7 +439,7 @@
       "6 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 14: Exterior walls"
+    "source": "IBC, Chapter 14: Exterior Walls — Section: 1403.2 Water-Resistive Barrier"
   },
   {
     "id": "Q35",
@@ -1011,7 +1011,7 @@
       "Group M"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 3: Occupancy classification and use"
+    "source": "IBC, Chapter 3: Occupancy Classification and Use — Section: 303.3 Assembly Group A-2"
   },
   {
     "id": "Q79",
@@ -1206,7 +1206,7 @@
       "Group I"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 3: Occupancy classification and use"
+    "source": "IBC, Chapter 3: Occupancy Classification and Use — Section: 305 Educational Group E"
   },
   {
     "id": "Q94",
@@ -1219,7 +1219,7 @@
       "4:12"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+    "source": "IBC, Chapter 15: Roof Assemblies and Rooftop Structures — Section: 1507.4.2 Deck Slope"
   },
   {
     "id": "Q95",
@@ -1557,7 +1557,7 @@
       "2 units vertical in 12 units horizontal"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+    "source": "IBC, Chapter 15: Roof Assemblies and Rooftop Structures — Section: 1507.10.1 Slope"
   },
   {
     "id": "Q121",
@@ -1843,7 +1843,7 @@
       "6 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry; IBC, Chapter 23: Wood"
+    "source": "IBC, Chapter 23: Wood — Section: 2308.4.2.2 Bearing"
   },
   {
     "id": "Q143",
@@ -2077,7 +2077,7 @@
       "13 ft"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 10: Means of egress"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1011.8 Vertical Rise"
   },
   {
     "id": "Q161",
@@ -2285,7 +2285,7 @@
       "48 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1015.3 Height"
   },
   {
     "id": "Q177",
@@ -2649,7 +2649,7 @@
       "Mercantile / Retail stores"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 3: Occupancy classification and use"
+    "source": "IBC, Chapter 3: Occupancy Classification and Use — Section: 310.5 Residential Group R-3"
   },
   {
     "id": "Q205",
@@ -2662,7 +2662,7 @@
       "Increasing the rebar size"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 18: Soils and foundations"
+    "source": "IBC, Chapter 18: Soils and Foundations — Section: 1809.5 Frost Protection"
   },
   {
     "id": "Q206",
@@ -3026,7 +3026,7 @@
       "1:20"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 10: Means of egress"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1012.2 Slope"
   },
   {
     "id": "Q234",
@@ -3039,7 +3039,7 @@
       "Steel framed high-rises"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 6: Types of construction"
+    "source": "IBC, Chapter 6: Types of Construction — Section: 602.5 Type V"
   },
   {
     "id": "Q235",
@@ -3416,7 +3416,7 @@
       "9 feet"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1003.2 Ceiling Height"
   },
   {
     "id": "Q264",
@@ -3429,7 +3429,7 @@
       "Be made of glass"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: Fire walls"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: 706.2 Structural Stability"
   },
   {
     "id": "Q265",
@@ -3676,7 +3676,7 @@
       "A deadlock"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and smoke protection features"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: 716.2.6 Fire Door Hardware and Closures"
   },
   {
     "id": "Q284",
@@ -4066,7 +4066,7 @@
       "Number of bathrooms"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress — Section: Occupant load"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1004.5 Areas without fixed seating"
   },
   {
     "id": "Q314",
@@ -4079,7 +4079,7 @@
       "100 or more"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 10: Means of egress — Section: Occupant load"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1010.1.10 Panic and fire exit hardware"
   },
   {
     "id": "Q315",
@@ -4092,7 +4092,7 @@
       "Does not require fire caulking"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and smoke protection features"
+    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 707.5 Continuity"
   },
   {
     "id": "Q316",
@@ -4105,7 +4105,7 @@
       "The architect's responsibility"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 17: Special inspections and tests"
+    "source": "IBC, Chapter 17: Special inspections and tests — Section: 1705.3 Concrete construction"
   },
   {
     "id": "Q317",
@@ -4863,8 +4863,8 @@
   },
   {
     "id": "Q375",
-    "legacyKey": "Under IBC 2018, 'Group M' occupancy refers to:",
-    "q": "Under IBC 2018, 'Group M' occupancy refers to:",
+    "legacyKey": "'Group M' occupancy refers to:",
+    "q": "'Group M' occupancy refers to:",
     "options": [
       "Mercantile (department stores, markets)",
       "Manufacturing",
@@ -4872,7 +4872,7 @@
       "Miscellaneous"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 3: Occupancy classification and use — Section: Mercantile Group M"
+    "source": "IBC, Chapter 3: Occupancy classification and use — Section: 309.1 Mercantile Group M"
   },
   {
     "id": "Q376",
@@ -4885,7 +4885,7 @@
       "500 or more"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 9: Fire protection systems and life safety systems — Section: Automatic sprinkler systems"
+    "source": "IBC, Chapter 9: Fire protection systems and life safety systems — Section: 903.2.1.2 Group A-2"
   },
   {
     "id": "Q377",
@@ -4898,7 +4898,7 @@
       "125 psf"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 16: Structural design — Section: Live loads"
+    "source": "IBC, Chapter 16: Structural design — Section: Table 1607.1 Minimum Uniformly Distributed Live Loads"
   },
   {
     "id": "Q378",
@@ -4911,7 +4911,7 @@
       "20 foot-candles"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress — Section: Exit signs"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1013.3 Illumination"
   },
   {
     "id": "Q379",
@@ -5301,7 +5301,7 @@
       "Wall to wall only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: Fire walls"
+    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 706.6 Vertical continuity"
   },
   {
     "id": "Q409",
@@ -5522,7 +5522,7 @@
       "Combustible materials"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 6: Types of construction — Section: Types of construction (fire-resistance)"
+    "source": "IBC, Chapter 6: Types of construction — Section: 602.2 Types I and II"
   },
   {
     "id": "Q426",
@@ -5535,7 +5535,7 @@
       "4 hours"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress — Section: Occupant load"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1020.1 Corridors"
   },
   {
     "id": "Q427",
@@ -5548,7 +5548,7 @@
       "30 inches"
     ],
     "correct": 3,
-    "source": "IBC, Chapter 7: Fire and smoke protection features"
+    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 705.11 Parapets"
   },
   {
     "id": "Q428",
@@ -5873,7 +5873,7 @@
       "Soundproofing"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 5: General building heights and areas"
+    "source": "IBC, Chapter 5: General building heights and areas — Section: 508.4 Occupancy separations"
   },
   {
     "id": "Q453",
@@ -6133,7 +6133,7 @@
       "72 inches"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+    "source": "IBC, Chapter 9: Fire protection systems and life safety systems — Section: 906.9 Extinguishers"
   },
   {
     "id": "Q473",
@@ -6146,7 +6146,7 @@
       "2/3"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 5: General building heights and areas"
+    "source": "IBC, Chapter 5: General building heights and areas — Section: 505.2 Mezzanine area limitations"
   },
   {
     "id": "Q474",
@@ -6159,7 +6159,7 @@
       "Improve aesthetics"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 7: Fire and smoke protection features"
+    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 713.14.1 Elevator lobby"
   },
   {
     "id": "Q475",
@@ -6445,7 +6445,7 @@
       "The roofing material"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 16: Structural design — Section: Live loads"
+    "source": "IBC, Chapter 16: Structural design — Section: 1607.1 General"
   },
   {
     "id": "Q497",
@@ -6774,16 +6774,16 @@
   },
   {
     "id": "Q522",
-    "legacyKey": "Under IBC 2018, 'exit access' is defined as:",
-    "q": "Under IBC 2018, 'exit access' is defined as:",
+    "legacyKey": "'exit access' is defined as:",
+    "q": "'exit access' is defined as:",
     "options": [
       "The door to the outside",
-      "That portion of a means of egress system that leads from any occupied portion of a building to an exit",
+      "That portion of a means of egress system that leads from any occupied portion of a building or structure to an exit",
       "The fire escape",
       "The lobby"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress — Section: Exit access"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1016 Exit Access"
   },
   {
     "id": "Q523",
@@ -6796,7 +6796,7 @@
       "Remove all doors"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 5: General building heights and areas — Section: Allowable building heights and areas"
+    "source": "IBC, Chapter 5: General building heights and areas — Section: 504 Building Height and Number of Stories / 506 Building Area"
   },
   {
     "id": "Q524",
@@ -6809,7 +6809,7 @@
       "48 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 11: Accessibility — Section: Accessible route"
+    "source": "IBC, Chapter 11: Accessibility — Section: 1104 Accessible Route"
   },
   {
     "id": "Q525",
@@ -7112,8 +7112,8 @@
   },
   {
     "id": "Q548",
-    "legacyKey": "Under IBC 2018, 'Type II' construction is typically:",
-    "q": "Under IBC 2018, 'Type II' construction is typically:",
+    "legacyKey": "'Type II' construction is typically:",
+    "q": "'Type II' construction is typically:",
     "options": [
       "Combustible",
       "Non-combustible (Steel/Concrete) but with lower fire ratings than Type I",
@@ -7121,7 +7121,7 @@
       "Wood frame"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 6: Types of construction"
+    "source": "IBC, Chapter 6: Types of construction — Section: 602.2 Types I and II"
   },
   {
     "id": "Q549",
@@ -7329,7 +7329,7 @@
       "Non-reinforced"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 2: The Concrete Mixture; IBC, Chapter 19: Concrete"
+    "source": "Concrete, Chapter 2: The Concrete Mixture; IBC, Chapter 19: Concrete — Section: 1904.1 Durability Requirements"
   },
   {
     "id": "Q565",
@@ -7368,7 +7368,7 @@
       "40 and 48 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1014.2 Height"
   },
   {
     "id": "Q568",
@@ -7433,7 +7433,7 @@
       "4 inches"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Reinforcement; IBC, Chapter 19: Concrete"
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Reinforcement; IBC, Chapter 19: Concrete — Section: 1907.7.1 Cast-in-place concrete"
   },
   {
     "id": "Q573",
@@ -7485,7 +7485,7 @@
       "Colored mortar"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 21: Masonry — Section: Seismic design (masonry); Masonry, Chapter 10: Mortar and Grout"
+    "source": "IBC, Chapter 21: Masonry — Section: 2106.1 Seismic Design Categories D, E and F; Masonry, Chapter 10: Mortar and Grout — Section: Mortar"
   },
   {
     "id": "Q577",
@@ -7563,7 +7563,7 @@
       "36 inches"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 10: Means of egress — Section: 1010.1.1, Size of doors"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1010.1.1 Size of doors"
   },
   {
     "id": "Q583",
@@ -7589,7 +7589,7 @@
       "Before water is added"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork — Section: Testing Concrete; IBC, Chapter 19: Concrete"
+    "source": "Concrete, Chapter 5: Formwork — Section: Testing Concrete; IBC, Chapter 19: Concrete — Section: 1905.6.2 Frequency of sampling"
   },
   {
     "id": "Q585",
@@ -7615,7 +7615,7 @@
       "10 feet"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 21: Masonry; Masonry, Chapter 10: Mortar and Grout"
+    "source": "IBC, Chapter 21: Masonry — Section: 2103.13.5 Cleanouts; Masonry, Chapter 10: Mortar and Grout — Section: Cleanouts"
   },
   {
     "id": "Q587",
@@ -7641,7 +7641,7 @@
       "Every 24 inches"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application — Section: Fire rated ceilings; IBC, Chapter 7: Fire and smoke protection features"
+    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application — Section: Fire-rated assemblies; IBC, Chapter 7: Fire and smoke protection features — Section: 703.10.1 Penetrations"
   },
   {
     "id": "Q589",
@@ -7680,7 +7680,7 @@
       "No noise is made"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 19: Concrete; Concrete, Chapter 5: Formwork"
+    "source": "IBC, Chapter 19: Concrete — Section: 1906.2 Removal of forms; Concrete, Chapter 5: Formwork"
   },
   {
     "id": "Q592",
@@ -7706,7 +7706,7 @@
       "48 inches o.c."
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement; IBC, Chapter 21: Masonry"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement; IBC, Chapter 21: Masonry — Section: 2114.3.2 Weep holes"
   },
   {
     "id": "Q594",
@@ -7719,7 +7719,7 @@
       "The roofing membrane"
     ],
     "correct": 2,
-    "source": "SteelJoists, Chapter 4: Receiving, Unloading and Storing — Section: Installation; IBC, Chapter 22: Steel"
+    "source": "SteelJoists, Chapter 4: Receiving, Unloading and Storing — Section: Installation; IBC, Chapter 22: Steel — Section: 2210.2.1 Welding"
   },
   {
     "id": "Q595",
@@ -7836,7 +7836,7 @@
       "Brick scraps"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 21: Masonry; Masonry, Chapter 11: Anchors, Ties, and Reinforcement"
+    "source": "IBC, Chapter 21: Masonry — Section: 2102.1 Definitions"
   },
   {
     "id": "Q604",
@@ -7914,7 +7914,7 @@
       "So that vertical alignment of cells is maintained"
     ],
     "correct": 3,
-    "source": "IBC, Chapter 21: Masonry — Section: Glass unit masonry; Masonry, Chapter 9: Stone — Section: Masonry Wall Construction"
+    "source": "IBC, Chapter 21: Masonry — Section: 2104.1.2 Placing Mortar and Units"
   },
   {
     "id": "Q610",
@@ -7940,7 +7940,7 @@
       "3/8 inch Type X"
     ],
     "correct": 2,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Fire-resistant gypsum board; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum board"
+    "source": "IBC, Chapter 25: Gypsum Board, Gypsum Panel Products and Plaster — Section: 2506.2 Gypsum Board and Gypsum Panel Product Materials"
   },
   {
     "id": "Q612",
@@ -7966,7 +7966,7 @@
       "20 feet"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing; IBC, Chapter 19: Concrete"
+    "source": "IBC, Chapter 19: Concrete — Section: 1901.2 Structural Concrete"
   },
   {
     "id": "Q614",
@@ -8005,7 +8005,7 @@
       "Ceilings only"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 7: Fire and smoke protection features; Gypsum, Chapter 10: Acoustical Ceiling Design and Application — Section: Fire rated ceilings"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: 722.6.2 Gypsum Board Protection"
   },
   {
     "id": "Q617",
@@ -8044,7 +8044,7 @@
       "4 inches"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 9: Stone — Section: Masonry Wall Construction; IBC, Chapter 21: Masonry"
+    "source": "IBC, Chapter 14: Exterior Walls — Section: 1404.6.1 General"
   },
   {
     "id": "Q620",
@@ -8070,7 +8070,7 @@
       "Driving over it with a truck"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 6: Soil Compaction; IBC, Chapter 18: Soils and foundations"
+    "source": "IBC, Chapter 18: Soils and Foundations — Section: 1803.5.8 Compacted Fill Material"
   },
   {
     "id": "Q622",
@@ -8096,7 +8096,7 @@
       "Only at the ceiling"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and smoke protection features; Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: 718.2.2 Fireblocking"
   },
   {
     "id": "Q624",
@@ -8148,7 +8148,7 @@
       "Heat"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: General Information; IBC, Chapter 16: Structural design — Section: Wind loads"
+    "source": "IBC, Chapter 16: Structural Design — Section: 1604.4 Analysis"
   },
   {
     "id": "Q628",
@@ -8187,7 +8187,7 @@
       "Cabinetry"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 23: Wood; Carpentry, Chapter 15: Floor Framing"
+    "source": "IBC, Chapter 23: Wood — Section: 2304.12.2.4 Sleepers and Sills"
   },
   {
     "id": "Q631",
@@ -8200,7 +8200,7 @@
       "Never"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 9: Stone — Section: Masonry Wall Construction; IBC, Chapter 21: Masonry"
+    "source": "IBC, Chapter 14: Exterior Walls — Section: 1404.6 Anchored Masonry Veneer"
   },
   {
     "id": "Q632",
@@ -8278,7 +8278,7 @@
       "Common nails"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 4: Loading and shipping — Section: Installation; IBC, Chapter 22: Steel"
+    "source": "IBC, Chapter 22: Steel — Section: 2210.1 Cold-formed Steel"
   },
   {
     "id": "Q638",
@@ -8304,7 +8304,7 @@
       "Taped only"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 4: Cladding — Section: Multilayer application; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster"
+    "source": "IBC, Chapter 25: Gypsum Board, Gypsum Panel Products and Plaster — Section: 2508.4 Joint Treatment"
   },
   {
     "id": "Q640",
@@ -8356,7 +8356,7 @@
       "Hold water"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 19: Concrete; Concrete, Chapter 7: Joints and Embedments in Structures"
+    "source": "IBC, Chapter 19: Concrete — Section: 1901.2 Structural Concrete"
   },
   {
     "id": "Q644",
@@ -8382,7 +8382,7 @@
       "Fire"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 9: Stone — Section: Masonry Wall Construction; IBC, Chapter 21: Masonry"
+    "source": "IBC, Chapter 21: Masonry — Section: 2104.1.6 Concrete Masonry Control Joints"
   },
   {
     "id": "Q646",
@@ -8421,7 +8421,7 @@
       "L/600"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 16: Structural design; Gypsum, Chapter 3: Framing"
+    "source": "IBC, Chapter 16: Structural Design — Section: 1604.3 Serviceability"
   },
   {
     "id": "Q649",
@@ -8473,7 +8473,7 @@
       "Flat"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 18: Soils and foundations; Pipe&Excavation, Chapter 1: Estimating, Bidding, Bonding — Section: Introduction to Pipe and Excavation"
+    "source": "IBC, Chapter 18: Soils and Foundations — Section: 1804.4 Site Grading"
   },
   {
     "id": "Q653",
@@ -8512,7 +8512,7 @@
       "Reduce noise"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: General Information; IBC, Chapter 22: Steel"
+    "source": "IBC, Chapter 22: Steel — Section: 2210.1 Cold-Formed Steel"
   },
   {
     "id": "Q656",
@@ -8551,7 +8551,7 @@
       "The full thickness"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 21: Masonry; Masonry, Chapter 9: Stone — Section: Masonry Wall Construction"
+    "source": "IBC, Chapter 21: Masonry — Section: 2104.1 Masonry Construction"
   },
   {
     "id": "Q659",
@@ -8590,7 +8590,7 @@
       "Stuffed with paper"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application — Section: Fire rated ceilings; IBC, Chapter 7: Fire and smoke protection features"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: 714.5.4 Exterior curtain wall/floor intersection; Gypsum, Chapter 10: Acoustical Ceiling Design and Application — Section: Fire Rated Ceilings"
   },
   {
     "id": "Q662",
@@ -8616,7 +8616,7 @@
       "70°F"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Curing and Protection; IBC, Chapter 19: Concrete"
+    "source": "IBC, Chapter 19: Concrete — Section: 1901.2 Structural Concrete"
   },
   {
     "id": "Q664",
@@ -8655,7 +8655,7 @@
       "Horizontal application only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum board; Gypsum, Chapter 4: Cladding"
+    "source": "IBC, Chapter 25: Gypsum Board, Gypsum Panel Products and Plaster — Section: 2508.5 Application of Gypsum Board"
   },
   {
     "id": "Q667",
@@ -8694,7 +8694,7 @@
       "1/2 inch"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties; IBC, Chapter 21: Masonry"
+    "source": "IBC, Chapter 21: Masonry — Section: 2103.13 Joint Reinforcement"
   },
   {
     "id": "Q670",
@@ -8720,7 +8720,7 @@
       "The color"
     ],
     "correct": 0,
-    "source": "Pipe&Excavation, Chapter 6: Soil Compaction; IBC, Chapter 18: Soils and foundations"
+    "source": "IBC, Chapter 18: Soils and Foundations — Section: 1803.5.8 Compacted Fill"
   },
   {
     "id": "Q672",
@@ -8746,7 +8746,7 @@
       "30 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress — Section: Emergency escape and rescue; Carpentry, Chapter 20: Windows & Skylights — Section: Windows and Exterior Doors"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1030.2.1 Minimum Dimensions"
   },
   {
     "id": "Q674",
@@ -8798,7 +8798,7 @@
       "HVAC units"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: General Information; IBC, Chapter 16: Structural design"
+    "source": "IBC, Chapter 16: Structural Design — Section: 1609.1.1 Determination of Wind Loads"
   },
   {
     "id": "Q678",
@@ -8837,7 +8837,7 @@
       "Not required"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 12: Interior environment; Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "IBC, Chapter 12: Interior Environment — Section: 1202.2 Attic Spaces"
   },
   {
     "id": "Q681",
@@ -8850,7 +8850,7 @@
       "Vertical joints only"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 9: Stone — Section: Masonry Wall Construction; IBC, Chapter 21: Masonry — Section: Glass unit masonry"
+    "source": "IBC, Chapter 21: Masonry — Section: 2104.1.2.2 Hollow Units"
   },
   {
     "id": "Q682",
@@ -8928,7 +8928,7 @@
       "The ceiling tiles"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: General Information; IBC, Chapter 16: Structural design"
+    "source": "IBC, Chapter 16: Structural Design — Section: 1604.4 Analysis"
   },
   {
     "id": "Q688",
@@ -8954,7 +8954,7 @@
       "Painting"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application — Section: Sound Control; IBC, Chapter 12: Interior environment — Section: Sound transmission"
+    "source": "IBC, Chapter 12: Interior Environment — Section: 1206.2 Airborne Sound"
   },
   {
     "id": "Q690",
@@ -9006,7 +9006,7 @@
       "They are not used"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 19: Concrete; Concrete, Chapter 2: The Concrete Mixture"
+    "source": "IBC, Chapter 19: Concrete — Section: 1907.1 Minimum Slab Provisions"
   },
   {
     "id": "Q694",
@@ -9032,7 +9032,7 @@
       "2 inches"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement; IBC, Chapter 21: Masonry — Section: Glass unit masonry"
+    "source": "IBC, Chapter 21: Masonry — Section: 2103.12.2 Wall Ties"
   },
   {
     "id": "Q696",
@@ -9071,7 +9071,7 @@
       "Corner to corner"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: Smoke barriers; Gypsum, Chapter 10: Acoustical Ceiling Design and Application — Section: Fire-Resistant Construction"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: 709.4 Continuity"
   },
   {
     "id": "Q699",
@@ -9123,7 +9123,7 @@
       "Touch the grass"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 18: Soils and foundations; Pipe&Excavation, Chapter 1: Estimating, Bidding, Bonding — Section: Introduction to Pipe and Excavation"
+    "source": "IBC, Chapter 18: Soils and foundations — Section: 1804.4 Site grading"
   },
   {
     "id": "Q703",
@@ -9162,7 +9162,7 @@
       "Decorative"
     ],
     "correct": 2,
-    "source": "SteelDeck, Chapter 4: Loading and shipping — Section: Installation; IBC, Chapter 22: Steel"
+    "source": "IBC, Chapter 22: Steel — Section: 2210.3.2 Steel deck attachments"
   },
   {
     "id": "Q706",
@@ -9214,7 +9214,7 @@
       "4 inches"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 19: Concrete; Concrete, Chapter 7: Joints and Embedments in Structures — Section: Reinforcement"
+    "source": "IBC, Chapter 19: Concrete — Section: 1905.1.1 Modifications to ACI 318"
   },
   {
     "id": "Q710",
@@ -9240,7 +9240,7 @@
       "30 inches"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 10: Means of egress — Section: 1031 Emergency escape and rescue; IRC, Chapter 3: Building planning — Section: R310.2.1 Minimum opening area; Carpentry, Chapter 20: Windows & Skylights — Section: Windows and Exterior Doors"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1030.2.1 Minimum dimensions"
   },
   {
     "id": "Q712",
@@ -9266,7 +9266,7 @@
       "Rebound hammer test"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry; Masonry, Chapter 10: Mortar and Grout"
+    "source": "IBC, Chapter 21: Masonry — Section: 2105.2.2 Prism test"
   },
   {
     "id": "Q714",
@@ -9279,7 +9279,7 @@
       "To allow for drainage"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: General Information; IBC, Chapter 22: Steel"
+    "source": "IBC, Chapter 22: Steel — Section: 2210.5 Composite steel deck"
   },
   {
     "id": "Q715",
@@ -9292,7 +9292,7 @@
       "4 hours"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 706.4 Structural stability; IRC, Chapter 3: Building planning — Section: R302.2 Townhouses; Gypsum, Chapter 10: Acoustical Ceiling Design and Application — Section: Fire rated ceilings"
+    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 706.4 Fire-resistance rating"
   },
   {
     "id": "Q716",
@@ -9331,7 +9331,7 @@
       "3 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry; Masonry, Chapter 9: Stone — Section: Masonry Wall Construction"
+    "source": "IBC, Chapter 14: Exterior walls — Section: 1404.6 Anchored veneer"
   },
   {
     "id": "Q719",
@@ -9344,7 +9344,7 @@
       "1/2 inch"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 10: Means of egress — Section: 1011.5.4.1 Dimensional uniformity; IRC, Chapter 3: Building planning — Section: R311.7.5.1 Risers; Carpentry, Chapter 25: Stairways — Section: Flights and landings in stairways"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1011.5.4.1 Dimensional uniformity"
   },
   {
     "id": "Q720",
@@ -9370,7 +9370,7 @@
       "Foil-backed"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Fire-resistant gypsum board; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum board"
+    "source": "IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: 2508.3.1 Gypsum board in fire-resistance-rated construction"
   },
   {
     "id": "Q722",
@@ -9422,7 +9422,7 @@
       "30 bar diameters or 12 inches minimum"
     ],
     "correct": 3,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Reinforcement; IBC, Chapter 19: Concrete"
+    "source": "IBC, Chapter 19: Concrete — Section: 1901.2 Structural concrete"
   },
   {
     "id": "Q726",
@@ -9435,7 +9435,7 @@
       "L/480"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 16: Structural design — Section: Table 1604.3 Deflection limits; IRC, Chapter 5: Floors — Section: R301.7 Allowable deflection; Carpentry, Chapter 15: Floor Framing"
+    "source": "IBC, Chapter 16: Structural design — Section: Table 1604.3 Deflection limits"
   },
   {
     "id": "Q727",
@@ -9461,7 +9461,7 @@
       "6 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 19: Concrete — Section: 1907.1 Minimum slab thickness; IRC, Chapter 5: Floors — Section: R506.1 General; Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "IBC, Chapter 19: Concrete — Section: 1907.1 Minimum slab thickness"
   },
   {
     "id": "Q729",
@@ -9513,7 +9513,7 @@
       "Both vertically at floor/ceiling and horizontally at 10 feet"
     ],
     "correct": 3,
-    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 718.2 Concealed spaces; IRC, Chapter 3: Building planning — Section: R302.11 Fireblocking; Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 718.2.2 Concealed wall spaces"
   },
   {
     "id": "Q733",
@@ -9526,7 +9526,7 @@
       "Doors shall not open directly into a pool enclosure unless they are self-closing and self-latching"
     ],
     "correct": 3,
-    "source": "IBC, Chapter 31: Special construction — Section: 3109 Swimming pool enclosures and safety devices; IRC, Appendix G: Swimming Pools — Section: AG105.2 Outdoor swimming pool"
+    "source": "IBC, Chapter 31: Special construction — Section: 3109.4.1.8 Doors"
   },
   {
     "id": "Q734",
@@ -9565,7 +9565,7 @@
       "3/4 inch"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 23: Wood — Section: 2308.6.1 Foundation sill plates; IRC, Chapter 4: Foundations — Section: R403.1.6 Foundation anchorage; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Sill plate anchorage"
+    "source": "IBC, Chapter 23: Wood — Section: 2308.3.1 Sill plates"
   },
   {
     "id": "Q737",
@@ -9578,7 +9578,7 @@
       "Glue only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 23: Wood — Section: 2304.10.1 Fastening; IRC, Chapter 8: Roof-ceiling construction — Section: R803.2.3 Fastening; Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "IBC, Chapter 23: Wood — Section: 2304.10.1 Fastening"
   },
   {
     "id": "Q738",
@@ -9591,7 +9591,7 @@
       "To prevent moisture"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 10: Acoustical Ceiling Design and Application — Section: Sound Control; IBC, Chapter 12: Interior environment — Section: Sound transmission"
+    "source": "IBC, Chapter 12: Interior environment — Section: 1206.2 Airborne sound"
   },
   {
     "id": "Q739",
@@ -9617,7 +9617,7 @@
       "6 inches"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture; IBC, Chapter 19: Concrete"
+    "source": "IBC, Chapter 19: Concrete — Section: 1905.1.1 Concrete construction"
   },
   {
     "id": "Q741",
@@ -9630,7 +9630,7 @@
       "60 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of Egress — Section: 1020.2 Width and capacity"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1020.2 Width and capacity"
   },
   {
     "id": "Q742",
@@ -9669,7 +9669,7 @@
       "4 inches"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 10: Chimneys and fireplaces — Section: R1003.18 Clearance; IBC, Chapter 21: Masonry — Section: 2111.11 Clearance; Masonry, Chapter 8: Concrete Masonry Units — Section: Fireplaces and Chimneys"
+    "source": "IBC, Chapter 21: Masonry — Section: 2111.11 Clearance from combustibles"
   },
   {
     "id": "Q745",
@@ -9682,7 +9682,7 @@
       "Portland Cement/Lime"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 21: Masonry — Section: Seismic design (masonry); Masonry, Chapter 10: Mortar and Grout"
+    "source": "IBC, Chapter 21: Masonry — Section: 2103.8 Mortar"
   },
   {
     "id": "Q746",
@@ -9734,7 +9734,7 @@
       "24 inches"
     ],
     "correct": 0,
-    "source": "IRC, Chapter 4: Foundations — Section: Table R403.1(1) Minimum width of concrete or masonry footings; IBC, Chapter 18: Soils and foundations — Section: 1809.7 Prescriptive footings"
+    "source": "IBC, Chapter 18: Soils and foundations — Section: 1809.7 Prescriptive footings"
   },
   {
     "id": "Q750",
@@ -9760,7 +9760,7 @@
       "Wire glass"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 24: Glass and glazing — Section: 2406.4 Hazardous locations; IRC, Chapter 3: Building planning — Section: R308.4 Hazardous locations"
+    "source": "IBC, Chapter 24: Glass and glazing — Section: 2406.4 Hazardous locations"
   },
   {
     "id": "Q752",
@@ -9786,7 +9786,7 @@
       "48 inches"
     ],
     "correct": 2,
-    "source": "SteelDeck, Chapter 4: Loading and shipping — Section: Installation; IBC, Chapter 22: Steel — Section: Steel deck"
+    "source": "IBC, Chapter 22: Steel — Section: 2210.5 Steel deck"
   },
   {
     "id": "Q754",
@@ -9799,7 +9799,7 @@
       "4 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 14: Exterior walls — Section: 1404.6.2 Air space; Masonry, Chapter 9: Stone — Section: Masonry Wall Construction; IRC, Chapter 7: Wall covering — Section: R703.8 Flashing"
+    "source": "IBC, Chapter 14: Exterior walls — Section: 1404.6 Anchored masonry veneer"
   },
   {
     "id": "Q755",
@@ -9825,7 +9825,7 @@
       "Any temperature"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork — Section: Testing Concrete; IBC, Chapter 19: Concrete"
+    "source": "IBC, Chapter 19: Concrete — Section: 1905.6.2 Strength test specimens"
   },
   {
     "id": "Q757",
@@ -9850,8 +9850,8 @@
       "12 feet 7 inches",
       "15 feet"
     ],
-    "correct": 2,
-    "source": "IBC, Chapter 10: Means of egress — Section: 1011.8 Vertical rise; IRC, Chapter 3: Building planning — Section: R311.7.6 Landings for stairways; Carpentry, Chapter 25: Stairways — Section: Stair Construction"
+    "correct": 1,
+    "source": "IBC, Chapter 10: Means of egress — Section: 1011.8 Vertical rise"
   },
   {
     "id": "Q759",
@@ -9890,7 +9890,7 @@
       "3,500 psi"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 18: Soils and foundations — Section: 1808.8 Concrete foundations; IRC, Chapter 4: Foundations — Section: R402.2 Concrete; Concrete, Chapter 2: The Concrete Mixture"
+    "source": "IBC, Chapter 18: Soils and foundations — Section: 1808.8 Concrete foundations"
   },
   {
     "id": "Q762",
@@ -9929,7 +9929,7 @@
       "1:20"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 10: Means of Egress — Section: 1012.2 Slope"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1012.2 Slope"
   },
   {
     "id": "Q765",
@@ -9942,7 +9942,7 @@
       "5 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 19: Concrete — Section: 1907.1 Minimum slab thickness; IRC, Chapter 5: Floors — Section: R506.1 General; Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "IBC, Chapter 19: Concrete — Section: 1907.1 Minimum slab thickness"
   },
   {
     "id": "Q766",
@@ -9968,7 +9968,7 @@
       "5/8 inch"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 9: Stone — Section: Masonry Wall Construction; IBC, Chapter 21: Masonry — Section: Construction (masonry)"
+    "source": "IBC, Chapter 21: Masonry — Section: 2103.8 Mortar joints"
   },
   {
     "id": "Q768",
@@ -10007,7 +10007,7 @@
       "20 feet"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 718.2.2 Fireblocking; IRC, Chapter 3: Building planning — Section: R302.11 Fireblocking; Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 718.2.2 Fireblocking"
   },
   {
     "id": "Q771",
@@ -10033,7 +10033,7 @@
       "36 inches"
     ],
     "correct": 2,
-    "source": "IRC, Chapter 3: Building planning — Section: R311.2 Egress door; IBC, Chapter 10: Means of egress — Section: 1010.1.1 Size of doors"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1010.1.1 Size of doors"
   },
   {
     "id": "Q773",
@@ -10046,7 +10046,7 @@
       "4 inches"
     ],
     "correct": 3,
-    "source": "SteelDeck, Chapter 4: Loading and shipping — Section: Installation; IBC, Chapter 22: Steel — Section: Steel deck"
+    "source": "IBC, Chapter 22: Steel — Section: 2210.5 Steel deck"
   },
   {
     "id": "Q774",
@@ -10059,7 +10059,7 @@
       "48 hours"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures; IBC, Chapter 19: Concrete"
+    "source": "IBC, Chapter 19: Concrete — Section: 1909.2 Joints"
   },
   {
     "id": "Q775",
@@ -10098,7 +10098,7 @@
       "A louvered door"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 3: Building planning — Section: R302.5.1 Opening protection; IBC, Chapter 4: Special detailed requirements based on use and occupancy — Section: 406.1.4 Separation"
+    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy — Section: 406.1.4 Separation"
   },
   {
     "id": "Q778",
@@ -10111,7 +10111,7 @@
       "24 inches"
     ],
     "correct": 2,
-    "source": "IRC, Chapter 3: Building planning — Section: R317.1.1 Field treatment; IBC, Chapter 23: Wood — Section: 2304.12 Protection against decay and termites; Carpentry, Chapter 15: Floor Framing — Section: Crawl-space clearance"
+    "source": "IBC, Chapter 23: Wood — Section: 2304.12.1.1 Joists, girders and subfloor"
   },
   {
     "id": "Q779",
@@ -10124,7 +10124,7 @@
       "96 inches"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement; IBC, Chapter 21: Masonry"
+    "source": "IBC, Chapter 21: Masonry — Section: 2106.1 Seismic design requirements"
   },
   {
     "id": "Q780",
@@ -10150,7 +10150,7 @@
       "There is no exemption; all glass in doors must generally be safety glazing"
     ],
     "correct": 3,
-    "source": "IBC, Chapter 24: Glass and glazing — Section: 2406.4 Hazardous locations; IRC, Chapter 3: Building planning — Section: R308.4 Hazardous locations"
+    "source": "IBC, Chapter 24: Glass and glazing — Section: 2406.4 Hazardous locations"
   },
   {
     "id": "Q782",
@@ -10163,7 +10163,7 @@
       "To darken the color"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Ingredients; IBC, Chapter 19: Concrete"
+    "source": "IBC, Chapter 19: Concrete — Section: 1904.2 Air entrainment"
   },
   {
     "id": "Q783",
@@ -10202,7 +10202,7 @@
       "The basement"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 10: Means of Egress — Section: 1003.1 General"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1003.6 Means of egress continuity"
   },
   {
     "id": "Q786",
@@ -10267,7 +10267,7 @@
       "Temperature"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork — Section: Testing Concrete; IBC, Chapter 19: Concrete"
+    "source": "IBC, Chapter 19: Concrete — Section: 1905.1.1 Concrete construction"
   },
   {
     "id": "Q791",
@@ -10280,7 +10280,7 @@
       "Hold insulation"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 4: Loading and shipping — Section: Installation; IBC, Chapter 22: Steel — Section: Steel deck"
+    "source": "IBC, Chapter 22: Steel — Section: 2210.5 Steel deck"
   },
   {
     "id": "Q792",
@@ -10319,7 +10319,7 @@
       "Wood"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement; IBC, Chapter 21: Masonry"
+    "source": "IBC, Chapter 21: Masonry — Section: 2104.5.1 Bond beams"
   },
   {
     "id": "Q795",
@@ -10332,7 +10332,7 @@
       "1/500 of the area"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 12: Interior environment — Section: 1202.2.1 Ventilation; IRC, Chapter 8: Roof-ceiling construction — Section: R806.2 Minimum vent area; Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: Thermal and Sound Insulation"
+    "source": "IBC, Chapter 12: Interior environment — Section: 1202.2.1 Ventilation"
   },
   {
     "id": "Q796",
@@ -10358,7 +10358,7 @@
       "Never"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 10: Mortar and Grout; IBC, Chapter 21: Masonry"
+    "source": "IBC, Chapter 21: Masonry — Section: 2104.7 Cleanouts"
   },
   {
     "id": "Q798",
@@ -10410,7 +10410,7 @@
       "200"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 8: Interior finishes; Gypsum, Chapter 1: Drywall and Veneer Plaster Products — Section: Interior Texture Finishes"
+    "source": "IBC, Chapter 8: Interior finishes — Section: 803.1.1 Interior wall and ceiling finish materials"
   },
   {
     "id": "Q802",
@@ -10423,7 +10423,7 @@
       "The full slab thickness"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures; IBC, Chapter 19: Concrete"
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: 7.2 Contraction Joints; IBC, Chapter 19: Concrete — Section: 1907 Slabs-on-Ground"
   },
   {
     "id": "Q803",
@@ -10475,7 +10475,7 @@
       "4 inches"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 5: Floors — Section: R502.6 Bearing; Carpentry, Chapter 15: Floor Framing; IBC, Chapter 23: Wood"
+    "source": "IRC, Chapter 5: Floors — Section: R502.6 Bearing; Carpentry, Chapter 15: Floor Framing — Section: 15.3 Beam Bearing; IBC, Chapter 23: Wood — Section: 2304.12 Framing Details"
   },
   {
     "id": "Q807",
@@ -10527,7 +10527,7 @@
       "30%"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 5: Floors — Section: R502.1.1 Sawn lumber; IBC, Chapter 23: Wood — Section: 2303.1.8 Structural log members; Carpentry, Chapter 8: Concrete as a Building Material"
+    "source": "IRC, Chapter 5: Floors — Section: R502.1.1 Sawn lumber; IBC, Chapter 23: Wood — Section: 2303.1.9.2 Moisture Content; Carpentry, Chapter 8: Concrete as a Building Material — Section: 8.4 Moisture Control"
   },
   {
     "id": "Q811",
@@ -10579,7 +10579,7 @@
       "Foil-backed"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 1: Drywall and Veneer Plaster Products — Section: Gypsum Panel Products; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum Board"
+    "source": "Gypsum, Chapter 1: Drywall and Veneer Plaster Products — Section: Gypsum Panel Products; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: 2508 General"
   },
   {
     "id": "Q815",
@@ -10592,7 +10592,7 @@
       "4 inches"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 19: Concrete; Concrete, Chapter 5: Formwork"
+    "source": "IBC, Chapter 19: Concrete — Section: 1901.3 ACI 318 References; Concrete, Chapter 5: Formwork — Section: 5.2 Reinforcement Cover"
   },
   {
     "id": "Q816",
@@ -10618,7 +10618,7 @@
       "4 inches"
     ],
     "correct": 2,
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation; IBC, Chapter 22: Steel — Section: Steel deck"
+    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
   },
   {
     "id": "Q818",
@@ -10631,7 +10631,7 @@
       "15 feet"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 718.2 Concealed spaces; IRC, Chapter 3: Building planning — Section: R302.11 Fireblocking"
+    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 718.2.1 Fireblocking materials; IRC, Chapter 3: Building planning — Section: R302.11 Fireblocking"
   },
   {
     "id": "Q819",
@@ -10657,7 +10657,7 @@
       "1 inch"
     ],
     "correct": 2,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Anchored Veneer; IBC, Chapter 21: Masonry — Section: Construction (masonry)"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Anchored Veneer; IBC, Chapter 21: Masonry — Section: 2109 Empirical Masonry"
   },
   {
     "id": "Q821",
@@ -10709,7 +10709,7 @@
       "Time"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Mix Proportioning and Testing; IBC, Chapter 19: Concrete"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Mix Proportioning and Testing; IBC, Chapter 19: Concrete — Section: 1903 Specifications for Tests and Materials"
   },
   {
     "id": "Q825",
@@ -10735,7 +10735,7 @@
       "3 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 14: Exterior walls; Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Anchored Veneer"
+    "source": "IBC, Chapter 14: Exterior walls — Section: 1404.12 Masonry veneer; Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Anchored Veneer"
   },
   {
     "id": "Q827",
@@ -10839,7 +10839,7 @@
       "To prevent water penetration"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties; IBC, Chapter 21: Masonry"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties; IBC, Chapter 21: Masonry — Section: 2101 General"
   },
   {
     "id": "Q835",
@@ -10852,7 +10852,7 @@
       "Clamps"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation; IBC, Chapter 22: Steel — Section: Steel deck"
+    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
   },
   {
     "id": "Q836",
@@ -10917,7 +10917,7 @@
       "200"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 8: Interior finishes; Gypsum, Chapter 15: Building Sciences — Section: Fire Resistance"
+    "source": "IBC, Chapter 8: Interior finishes — Section: 803.1.1 Interior wall and ceiling finish materials; Gypsum, Chapter 15: Building Sciences — Section: Fire Resistance"
   },
   {
     "id": "Q841",
@@ -10982,7 +10982,7 @@
       "Type O"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 10: Mortar and Grout; IBC, Chapter 21: Masonry — Section: Strength design of masonry"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: 10.2 Mortar Types; IBC, Chapter 21: Masonry — Section: 2103 Mortar and Grout"
   },
   {
     "id": "Q846",
@@ -11008,7 +11008,7 @@
       "30 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 23: Wood — Section: 2304.12.1.2 Field treatment; IRC, Chapter 3: Building planning — Section: R317.1.1 Field treatment; Carpentry, Chapter 15: Floor Framing — Section: Crawl-space clearance"
+    "source": "IBC, Chapter 23: Wood — Section: 2304.12.1.2 Ground clearance; IRC, Chapter 3: Building planning — Section: R317.1.1 Ground clearance; Carpentry, Chapter 15: Floor Framing — Section: Crawl-space clearance"
   },
   {
     "id": "Q848",
@@ -11034,7 +11034,7 @@
       "6 inches"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture; IBC, Chapter 19: Concrete"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Slump Test; IBC, Chapter 19: Concrete — Section: 1903 Specifications for Tests and Materials"
   },
   {
     "id": "Q850",
@@ -11047,7 +11047,7 @@
       "Louvered"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 3: Building planning — Section: R302.5.1 Opening protection; IBC, Chapter 4: Special detailed requirements based on use and occupancy — Section: 406.1.4 Separation"
+    "source": "IRC, Chapter 3: Building planning — Section: R302.5.1 Opening protection; IBC, Chapter 4: Special detailed requirements based on use and occupancy — Section: 406.3.5 Separation"
   },
   {
     "id": "Q851",
@@ -11060,7 +11060,7 @@
       "36 inches"
     ],
     "correct": 3,
-    "source": "IRC, Chapter 3: Building planning — Section: R311.6 Hallways; IBC, Chapter 10: Means of egress — Section: 1018.2 Width"
+    "source": "IRC, Chapter 3: Building planning — Section: R311.6 Hallways; IBC, Chapter 10: Means of egress — Section: 1020.2 Width"
   },
   {
     "id": "Q852",
@@ -11086,7 +11086,7 @@
       "2-1/2 inches"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 3: Building planning — Section: R311.7.8.1 Handrail graspability; IBC, Chapter 10: Means of egress — Section: 1014.7 Clearance"
+    "source": "IRC, Chapter 3: Building planning — Section: R311.7.8.2 Handrail clearance; IBC, Chapter 10: Means of egress — Section: 1014.7 Clearance"
   },
   {
     "id": "Q854",
@@ -11112,7 +11112,7 @@
       "The project architect's specs"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 21: Masonry; Masonry, Chapter 4: Safety — Section: Standards and Quality Control"
+    "source": "IBC, Chapter 21: Masonry — Section: 2105 Quality Assurance; Masonry, Chapter 4: Safety — Section: Standards and Quality Control"
   },
   {
     "id": "Q856",
@@ -11125,7 +11125,7 @@
       "Add color"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture; IBC, Chapter 19: Concrete"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Mineral Admixtures; IBC, Chapter 19: Concrete — Section: 1903 Specifications for Tests and Materials"
   },
   {
     "id": "Q857",
@@ -11177,7 +11177,7 @@
       "Removing the back of the box"
     ],
     "correct": 0,
-    "source": "Gypsum, Chapter 10: System Design Considerations — Section: Penetration Fire-Stop Systems; IBC, Chapter 7: Fire and smoke protection features — Section: Fire-Resistance-Rated Construction"
+    "source": "Gypsum, Chapter 10: System Design Considerations — Section: Penetration Fire-Stop Systems; IBC, Chapter 7: Fire and smoke protection features — Section: 714 Penetrations"
   },
   {
     "id": "Q861",
@@ -11190,7 +11190,7 @@
       "Concrete flow"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Floor Deck; IBC, Chapter 22: Steel"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Floor Deck; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
   },
   {
     "id": "Q862",
@@ -11229,7 +11229,7 @@
       "12 inches"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 21: Masonry; Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Reinforced Masonry"
+    "source": "IBC, Chapter 21: Masonry — Section: 2109 Empirical Masonry; Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Reinforced Masonry"
   },
   {
     "id": "Q865",
@@ -11242,7 +11242,7 @@
       "The driver's discretion"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Mix Proportioning and Testing; IBC, Chapter 19: Concrete"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Mix Proportioning and Testing; IBC, Chapter 19: Concrete — Section: 1905 Modifications to ACI 318"
   },
   {
     "id": "Q866",
@@ -11281,7 +11281,7 @@
       "Rigid attachment"
     ],
     "correct": 0,
-    "source": "Gypsum, Chapter 10: System Design Considerations — Section: Head-of-Wall Construction Joints; IBC, Chapter 16: Structural Design"
+    "source": "Gypsum, Chapter 10: System Design Considerations — Section: Head-of-Wall Construction Joints; IBC, Chapter 16: Structural Design — Section: 1604 General Design Requirements"
   },
   {
     "id": "Q869",
@@ -11346,7 +11346,7 @@
       "Magnetic properties"
     ],
     "correct": 0,
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Deck Materials; IBC, Chapter 22: Steel — Section: Steel deck"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Deck Materials; IBC, Chapter 22: Steel — Section: 2203 Identification and Protection"
   },
   {
     "id": "Q874",
@@ -11359,7 +11359,7 @@
       "Randomly"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 19: Concrete; Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "IBC, Chapter 19: Concrete — Section: 1901.3 ACI 318 References; Concrete, Chapter 11: Concrete Placement and Finishing — Section: 11.2 Construction Joints"
   },
   {
     "id": "Q875",
@@ -11424,7 +11424,7 @@
       "Snow loads"
     ],
     "correct": 0,
-    "source": "Gypsum, Chapter 10: System Design Considerations — Section: USG Shaft Walls; IBC, Chapter 7: Fire and smoke protection features — Section: Fire-Resistance-Rated Construction"
+    "source": "Gypsum, Chapter 10: System Design Considerations — Section: USG Shaft Walls; IBC, Chapter 7: Fire and smoke protection features — Section: 713 Shaft Enclosures"
   },
   {
     "id": "Q880",
@@ -11463,7 +11463,7 @@
       "Before the bleed water appears"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 9: Planning for Quality — Section: Curing and Protection; IBC, Chapter 19: Concrete"
+    "source": "Concrete, Chapter 9: Planning for Quality — Section: Curing and Protection; IBC, Chapter 19: Concrete — Section: 1903 Specifications for Tests and Materials"
   },
   {
     "id": "Q883",
@@ -11502,7 +11502,7 @@
       "A roofing material"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry — Section: Glass unit masonry; Masonry, Chapter 13: Laying Block — Section: Glass Unit Masonry"
+    "source": "IBC, Chapter 21: Masonry — Section: 2110 Glass Unit Masonry; Masonry, Chapter 13: Laying Block — Section: Glass Unit Masonry"
   },
   {
     "id": "Q886",
@@ -11528,7 +11528,7 @@
       "Acoustics"
     ],
     "correct": 0,
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Floor Deck Design; IBC, Chapter 22: Steel"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Floor Deck Design; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
   },
   {
     "id": "Q888",
@@ -11567,7 +11567,7 @@
       "Are made of plastic"
     ],
     "correct": 2,
-    "source": "Gypsum, Chapter 1: Drywall and Veneer Plaster Products — Section: Sound Control and Insulation Products; IBC, Chapter 12: Interior Environment"
+    "source": "Gypsum, Chapter 1: Drywall and Veneer Plaster Products — Section: Sound Control and Insulation Products; IBC, Chapter 12: Interior Environment — Section: 1203 Sound Transmission"
   },
   {
     "id": "Q891",
@@ -11606,7 +11606,7 @@
       "Rusting rebar"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Problems and Repairs; IBC, Chapter 21: Masonry — Section: Masonry construction materials"
+    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Problems and Repairs; IBC, Chapter 21: Masonry — Section: 2104 Construction"
   },
   {
     "id": "Q894",
@@ -11645,7 +11645,7 @@
       "The brand of mixer"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry; Masonry, Chapter 10: Mortar and Grout"
+    "source": "IBC, Chapter 21: Masonry — Section: 2103 Mortar and Grout; Masonry, Chapter 10: Mortar and Grout"
   },
   {
     "id": "Q897",
@@ -11671,7 +11671,7 @@
       "Roof traffic"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Accessories; IBC, Chapter 22: Steel"
+    "source": "SteelDeck, Chapter 7: Safety notes — Section: Accessories; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
   },
   {
     "id": "Q899",
@@ -11801,7 +11801,7 @@
       "32 inches"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties; IBC, Chapter 21: Masonry"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties; IBC, Chapter 21: Masonry — Section: 2113.2.1 Wall ties"
   },
   {
     "id": "Q909",
@@ -11827,7 +11827,7 @@
       "No restriction"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 10: Means of egress; OSHA, Unverified: Subpart E (Exit Routes)"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1010.1.5 Landings; OSHA, Unverified: Subpart E (Exit Routes)"
   },
   {
     "id": "Q911",
@@ -11840,7 +11840,7 @@
       "48 bar diameters"
     ],
     "correct": 3,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Reinforced Masonry; IBC, Chapter 21: Masonry"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Reinforced Masonry; IBC, Chapter 21: Masonry — Section: 2108.3.1 Lap splices"
   },
   {
     "id": "Q912",
@@ -11892,7 +11892,7 @@
       "7 inches"
     ],
     "correct": 3,
-    "source": "IRC, Chapter 4: Foundations — Section: R403.1.6 Foundation anchorage; IBC, Chapter 19: Concrete — Section: Anchoring to concrete"
+    "source": "IRC, Chapter 4: Foundations — Section: R403.1.6 Foundation anchorage; IBC, Chapter 19: Concrete — Section: 1908.5 Anchorage to concrete"
   },
   {
     "id": "Q916",
@@ -11944,7 +11944,7 @@
       "24 inches on center"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation; IBC, Chapter 22: Steel — Section: Steel deck"
+    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation; IBC, Chapter 22: Steel — Section: 2210.5 Steel deck"
   },
   {
     "id": "Q920",
@@ -11970,7 +11970,7 @@
       "No protection needed"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 14: Exterior walls; Carpentry, Chapter 33: Exterior & Interior Paint — Section: Exterior Finish"
+    "source": "IBC, Chapter 14: Exterior walls — Section: 1404.3 Water-resistive barrier; Carpentry, Chapter 33: Exterior & Interior Paint — Section: Exterior Finish"
   },
   {
     "id": "Q922",
@@ -11983,7 +11983,7 @@
       "48 inches"
     ],
     "correct": 2,
-    "source": "IRC, Chapter 3: Building planning — Section: R310.2.3.1 Ladder and steps; IBC, Chapter 10: Means of egress — Section: 1030.4.2 Ladders or steps"
+    "source": "IRC, Chapter 3: Building planning — Section: R310.2.3.1 Ladder and steps; IBC, Chapter 10: Means of egress — Section: 1030.5 Emergency escape and rescue openings"
   },
   {
     "id": "Q923",
@@ -11996,7 +11996,7 @@
       "In block walls"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Composite Masonry; IBC, Chapter 21: Masonry"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Composite Masonry; IBC, Chapter 21: Masonry — Section: 2110.1 Structural continuity"
   },
   {
     "id": "Q924",
@@ -12048,7 +12048,7 @@
       "28 days"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 9: Planning for Quality — Section: Curing and Protection; IBC, Chapter 19: Concrete"
+    "source": "Concrete, Chapter 9: Planning for Quality — Section: Curing and Protection; IBC, Chapter 19: Concrete — Section: 1904.1 Concrete materials"
   },
   {
     "id": "Q928",
@@ -12100,7 +12100,7 @@
       "Dependent on deck gage and profile (refer to load tables)"
     ],
     "correct": 3,
-    "source": "SteelDeck, Chapter 4: Loading and shipping — Section: Roof Deck Design; IBC, Chapter 22: Steel — Section: Steel deck"
+    "source": "SteelDeck, Chapter 4: Loading and shipping — Section: Roof Deck Design; IBC, Chapter 22: Steel — Section: 2210.5 Steel deck"
   },
   {
     "id": "Q932",
@@ -12126,7 +12126,7 @@
       "Full width"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties; IBC, Chapter 21: Masonry"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Wall ties; IBC, Chapter 21: Masonry — Section: 2104.1.1 Placement of wall ties"
   },
   {
     "id": "Q934",
@@ -12165,7 +12165,7 @@
       "3/8 inch"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and smoke protection features"
+    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 716.2.8.1 Door clearances"
   },
   {
     "id": "Q937",
@@ -12204,7 +12204,7 @@
       "30 inches"
     ],
     "correct": 3,
-    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: Fire walls; Masonry, Chapter 13: Laying Block — Section: Masonry Walls"
+    "source": "IBC, Chapter 7: Fire and smoke protection features — Section: 705.11 Parapets; Masonry, Chapter 13: Laying Block — Section: Masonry Walls"
   },
   {
     "id": "Q940",
@@ -12243,7 +12243,7 @@
       "Left open"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Application; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum Board"
+    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Application; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: 2508.4 Joints"
   },
   {
     "id": "Q943",
@@ -12282,7 +12282,7 @@
       "Vertical only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 28: Mechanical systems"
+    "source": "IBC, Chapter 28: Mechanical systems — Section: 506.5.2.1 Grease duct horizontal assemblies"
   },
   {
     "id": "Q946",
@@ -12295,7 +12295,7 @@
       "Equals the specified compressive strength of the masonry (f'm) but not less than 2000 psi"
     ],
     "correct": 3,
-    "source": "Masonry, Chapter 10: Mortar and Grout; IBC, Chapter 21: Masonry — Section: Strength design of masonry"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Grout; IBC, Chapter 21: Masonry — Section: 2103.9 Grout"
   },
   {
     "id": "Q947",
@@ -12334,7 +12334,7 @@
       "The vents are all at the ridge"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 12: Interior environment — Section: 1202.2.1 Ventilation openings; IRC, Chapter 8: Roof-ceiling construction — Section: R806.2 Minimum vent area"
+    "source": "IBC, Chapter 12: Interior environment — Section: 1202.2.1 Ventilated attics and rafter spaces"
   },
   {
     "id": "Q950",
@@ -12360,7 +12360,7 @@
       "Removed"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 16: Structural design — Section: 1609.1.2 Protection of openings; IRC, Chapter 3: Building planning — Section: R301.2.1.2 Protection of openings"
+    "source": "IBC, Chapter 16: Structural design — Section: 1609.1.2 Protection of openings"
   },
   {
     "id": "Q952",
@@ -12425,7 +12425,7 @@
       "32 inches"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: 11.4 joint reinforcement; IBC, Chapter 21: Masonry"
+    "source": "IBC, Chapter 21: Masonry — Section: 2103.8 Joint reinforcement"
   },
   {
     "id": "Q957",
@@ -12451,7 +12451,7 @@
       "Allowed with a smoke seal"
     ],
     "correct": 0,
-    "source": "IRC, Chapter 3: Building planning — Section: R302.5.1 Opening protection; IBC, Chapter 4: Special detailed requirements based on use and occupancy — Section: 406.1.4 Separation"
+    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy — Section: 406.1.4 Separation"
   },
   {
     "id": "Q959",
@@ -12477,7 +12477,7 @@
       "30 bar diameters (or 12 inches minimum)"
     ],
     "correct": 3,
-    "source": "Concrete, Chapter 5: Formwork; IBC, Chapter 19: Concrete"
+    "source": "IBC, Chapter 19: Concrete — Section: 1901.2 Structural concrete"
   },
   {
     "id": "Q961",
@@ -12503,7 +12503,7 @@
       "28%"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 23: Wood; Carpentry, Chapter 8: Concrete as a Building Material"
+    "source": "IBC, Chapter 23: Wood — Section: 2303.2.5 Moisture content"
   },
   {
     "id": "Q963",
@@ -12550,12 +12550,12 @@
     "q": "When verifying the quality of concrete, a single strength test result is defined as the average of how many cylinders?",
     "options": [
       "One",
-      "Two (or sometimes three depending on cylinder size)",
+      "Two cylinders",
       "Four",
       "Five"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 9: Planning for Quality — Section: Compressive Strength; IBC, Chapter 19: Concrete"
+    "source": "IBC, Chapter 19: Concrete — Section: 1905.6 Structural concrete; ACI 318-14, Section: 26.12.1.1 Strength test"
   },
   {
     "id": "Q967",
@@ -12594,20 +12594,20 @@
       "48 inches"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 3: Building planning — Section: R311.3 Floors and landings at exterior doors; IBC, Chapter 10: Means of egress — Section: 1010.1.5 Landings at doors"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1010.1.5 Landings at doors"
   },
   {
     "id": "Q970",
     "legacyKey": "In masonry, a 'collar joint' is the:",
     "q": "In masonry, a 'collar joint' is the:",
     "options": [
-      "Vertical joint between two wythes of masonry",
+      "Vertical longitudinal joint between two wythes of masonry",
       "Horizontal bed joint",
       "Head joint",
       "Control joint"
     ],
     "correct": 0,
-    "source": "Masonry, Chapter 2: Job Performance, Leadership, Ethics, and Entrepreneurship — Section: Definitions; IBC, Chapter 21: Masonry"
+    "source": "IBC, Chapter 2: Definitions — Section: 202 General Definitions; Masonry, Chapter 2: Job Performance, Leadership, Ethics, and Entrepreneurship — Section: Definitions"
   },
   {
     "id": "Q971",
@@ -12633,7 +12633,7 @@
       "Utility grade"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures; Carpentry, Chapter 22: Roofing & Gutters — Section: wood shingles and shakes"
+    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures — Section: 1507.8.5 Material standards"
   },
   {
     "id": "Q973",
@@ -12667,12 +12667,12 @@
     "q": "A 'smoke barrier' differs from a 'smoke partition' in that a smoke barrier must be:",
     "options": [
       "Thicker",
-      "Continuous from outside wall to outside wall and floor to roof/deck",
+      "Continuous from outside wall to outside wall and from the top of the foundation or floor/ceiling assembly below to the underside of the floor or roof sheathing, deck or slab above",
       "Made of glass",
       "Only used in hospitals"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: Smoke Barriers; Gypsum, Chapter 10: System Design Considerations — Section: Smoke Barriers and Smoke Partitions"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: 709.4.1 Smoke-barrier walls separating smoke compartments"
   },
   {
     "id": "Q976",
@@ -12698,7 +12698,7 @@
       "Using white cement"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Problems and Repairs; IBC, Chapter 19: Concrete"
+    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Problems and Repairs; IBC, Chapter 19: Concrete — Section: 1905.6 Structural concrete"
   },
   {
     "id": "Q978",
@@ -12724,7 +12724,7 @@
       "24 inches"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation; IBC, Chapter 22: Steel — Section: Steel deck"
+    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation; IBC, Chapter 22: Steel — Section: 2210.2 Steel deck"
   },
   {
     "id": "Q980",
@@ -12763,7 +12763,7 @@
       "36 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 11: Accessibility; OSHA, Unverified: Subpart E (Exit Routes)"
+    "source": "IBC, Chapter 11: Accessibility — Section: 1108.2.2 Doorways; IBC, Chapter 10: Means of egress — Section: 1010.1.1 Size of doors"
   },
   {
     "id": "Q983",
@@ -12776,7 +12776,7 @@
       "7 days"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 10: Mortar and Grout; IBC, Chapter 21: Masonry"
+    "source": "Masonry, Chapter 10: Mortar and Grout — Section: Grout; IBC, Chapter 21: Masonry — Section: 2103.13 Grout"
   },
   {
     "id": "Q984",
@@ -12802,7 +12802,7 @@
       "1:5"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 18: Soils and foundations; Pipe&Excavation, Chapter 5: Operating a Backhoe — Section: Site Work"
+    "source": "IBC, Chapter 18: Soils and foundations — Section: 1804.3 Site grading"
   },
   {
     "id": "Q986",
@@ -12841,7 +12841,7 @@
       "60°F"
     ],
     "correct": 1,
-    "source": "Gypsum, Chapter 2: Drywall and Veneer Plaster Products — Section: Joint Compounds; IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum Board"
+    "source": "IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: 2508.3 Application"
   },
   {
     "id": "Q989",
@@ -12854,7 +12854,7 @@
       "Low temperature"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing; IBC, Chapter 19: Concrete"
+    "source": "IBC, Chapter 19: Concrete — Section: 1905.6 Structural concrete"
   },
   {
     "id": "Q990",
@@ -12880,7 +12880,7 @@
       "4 hours"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: Fire Partitions; Gypsum, Chapter 10: System Design Considerations — Section: Fire-Resistance-Rated Assemblies"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: 708.3 Fire-resistance rating"
   },
   {
     "id": "Q992",
@@ -12945,7 +12945,7 @@
       "1/4 inch bolt"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Fasteners; IBC, Chapter 22: Steel"
+    "source": "SteelDeck, Chapter 7: Safety notes — Section: Fasteners; IBC, Chapter 22: Steel — Section: 2210.3 Steel deck fasteners"
   },
   {
     "id": "Q997",
@@ -12984,7 +12984,7 @@
       "38 inches"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress; OSHA, Subpart M: Fall Protection"
+    "source": "IBC, Chapter 10: Means of egress — Section: 1014.2 Height; OSHA, Subpart M: Fall Protection"
   },
   {
     "id": "Q1000",
@@ -13010,7 +13010,7 @@
       "4000 psi"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 19: Concrete — Section: 1904.2 Strength; IRC, Chapter 4: Foundations — Section: R402.2 Concrete"
+    "source": "IBC, Chapter 19: Concrete — Section: 1904.2 Nonstructural Concrete; IRC, Chapter 4: Foundations — Section: Table R402.2 Minimum Specified Compressive Strength of Concrete"
   },
   {
     "id": "Q1002",
@@ -19276,7 +19276,7 @@
       "Regulate only residential single-family construction"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 1: Scope and Administration"
+    "source": "IBC, Chapter 1: Scope and Administration — Section: 101.3 Intent"
   },
   {
     "id": "Q1484",
@@ -19289,7 +19289,7 @@
       "Selling building permits at a fixed fee"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 1: Scope and Administration"
+    "source": "IBC, Chapter 1: Scope and Administration — Section: 103.1 Creation of Enforcement Agency"
   },
   {
     "id": "Q1485",
@@ -19302,7 +19302,7 @@
       "Building materials may be delivered to the site"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 1: Scope and Administration"
+    "source": "IBC, Chapter 1: Scope and Administration — Section: 111.1 Use and Occupancy"
   },
   {
     "id": "Q1486",
@@ -19315,7 +19315,7 @@
       "Require a Certificate of Occupancy for each repair"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 1: Scope and Administration"
+    "source": "IBC, Chapter 1: Scope and Administration — Section: 105.2.2 Minor Repairs"
   },
   {
     "id": "Q1487",
@@ -19328,7 +19328,7 @@
       "A subcontractor changes without notice"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 1: Scope and Administration"
+    "source": "IBC, Chapter 1: Scope and Administration — Section: 115.1 Authority"
   },
   {
     "id": "Q1488",
@@ -19341,7 +19341,7 @@
       "Property tax assessments"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 1: Scope and Administration"
+    "source": "IBC, Chapter 1: Scope and Administration — Section: 113.1 General"
   },
   {
     "id": "Q1489",
@@ -19354,7 +19354,7 @@
       "Require demolition of the entire building"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 1: Scope and Administration"
+    "source": "IBC, Chapter 1: Scope and Administration — Section: 102.6 Existing Structures"
   },
   {
     "id": "Q1490",
@@ -19367,7 +19367,7 @@
       "Prohibited under all circumstances"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 1: Scope and Administration"
+    "source": "IBC, Chapter 1: Scope and Administration — Section: 108.1 General"
   },
   {
     "id": "Q1491",
@@ -19380,7 +19380,7 @@
       "The shortest path between any two rooms"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 2: Definitions"
+    "source": "IBC, Chapter 2: Definitions — Section: 202 Definitions"
   },
   {
     "id": "Q1492",
@@ -19393,7 +19393,7 @@
       "Listed in a manufacturer's catalog"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 2: Definitions"
+    "source": "IBC, Chapter 2: Definitions — Section: 202 Definitions"
   },
   {
     "id": "Q1493",
@@ -19419,12 +19419,12 @@
       "The footprint of the building's foundation"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 2: Definitions"
+    "source": "IBC, Chapter 2: Definitions — Section: 202 Definitions"
   },
   {
     "id": "Q1495",
-    "legacyKey": "Under IBC 2018, a 'story above grade plane' is generally defined as a story having its finished floor surface:",
-    "q": "Under IBC 2018, a 'story above grade plane' is generally defined as a story having its finished floor surface:",
+    "legacyKey": "a 'story above grade plane' is generally defined as a story having its finished floor surface:",
+    "q": "a 'story above grade plane' is generally defined as a story having its finished floor surface:",
     "options": [
       "Entirely below grade plane",
       "Entirely above grade plane, or meeting specific limited exceptions related to finished ceiling height above grade",
@@ -19432,7 +19432,7 @@
       "Below the lowest level of fire department access"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 2: Definitions"
+    "source": "IBC, Chapter 2: Definitions — Section: 202 Definitions"
   },
   {
     "id": "Q1496",
@@ -19445,12 +19445,12 @@
       "Store equipment only, with no human presence"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 2: Definitions"
+    "source": "IBC, Chapter 2: Definitions — Section: 202 Definitions"
   },
   {
     "id": "Q1497",
-    "legacyKey": "Under IBC 2018, the term 'alteration' refers to:",
-    "q": "Under IBC 2018, the term 'alteration' refers to:",
+    "legacyKey": "the term 'alteration' refers to:",
+    "q": "the term 'alteration' refers to:",
     "options": [
       "Routine cosmetic painting only",
       "Any construction or renovation to an existing structure other than a repair or an addition",
@@ -19458,7 +19458,7 @@
       "Demolition of an entire structure"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 2: Definitions"
+    "source": "IBC, Chapter 2: Definitions — Section: 202 Definitions"
   },
   {
     "id": "Q1498",
@@ -19471,12 +19471,12 @@
       "Limited to portable fire extinguishers"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 2: Definitions"
+    "source": "IBC, Chapter 2: Definitions — Section: 202 Definitions"
   },
   {
     "id": "Q1499",
-    "legacyKey": "Under IBC 2018, a typical office building is classified under:",
-    "q": "Under IBC 2018, a typical office building is classified under:",
+    "legacyKey": "a typical office building is classified under:",
+    "q": "a typical office building is classified under:",
     "options": [
       "Group F (Factory)",
       "Group B (Business)",
@@ -19484,7 +19484,7 @@
       "Group U (Utility)"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 3: Occupancy classification and use"
+    "source": "IBC, Chapter 3: Occupancy Classification and Use — Section: 304.1 Business Group B"
   },
   {
     "id": "Q1500",
@@ -19497,7 +19497,7 @@
       "Group R (Residential)"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 3: Occupancy classification and use"
+    "source": "IBC, Chapter 3: Occupancy Classification and Use — Section: 306.2 Moderate-Hazard Factory Industrial, Group F-1"
   },
   {
     "id": "Q1501",
@@ -19510,7 +19510,7 @@
       "Group R (Residential)"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 3: Occupancy classification and use"
+    "source": "IBC, Chapter 3: Occupancy Classification and Use — Section: 307.1 High-Hazard Group H"
   },
   {
     "id": "Q1502",
@@ -19523,7 +19523,7 @@
       "Group F (Factory)"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 3: Occupancy classification and use"
+    "source": "IBC, Chapter 3: Occupancy Classification and Use — Section: 308.3 Institutional Group I-2"
   },
   {
     "id": "Q1503",
@@ -19536,7 +19536,7 @@
       "Group I (Institutional)"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 3: Occupancy classification and use"
+    "source": "IBC, Chapter 3: Occupancy Classification and Use — Section: 312.1 General"
   },
   {
     "id": "Q1504",
@@ -19549,7 +19549,7 @@
       "Exemption from all fire-resistance requirements"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy"
+    "source": "IBC, Chapter 4: Special Detailed Requirements Based on Use and Occupancy — Section: 404.5 Smoke Control"
   },
   {
     "id": "Q1505",
@@ -19562,7 +19562,7 @@
       "10 stories above grade"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy"
+    "source": "IBC, Chapter 4: Special Detailed Requirements Based on Use and Occupancy — Section: 403.1 Applicability"
   },
   {
     "id": "Q1506",
@@ -19575,7 +19575,7 @@
       "A single stairwell regardless of size"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy"
+    "source": "IBC, Chapter 4: Special Detailed Requirements Based on Use and Occupancy — Section: 403.3 Automatic Sprinkler System"
   },
   {
     "id": "Q1507",
@@ -19588,7 +19588,7 @@
       "Prohibiting any vehicle over a certain weight"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy"
+    "source": "IBC, Chapter 4: Special Detailed Requirements Based on Use and Occupancy — Section: 406.5.2 Openings"
   },
   {
     "id": "Q1508",
@@ -19601,7 +19601,7 @@
       "Only signage size"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy"
+    "source": "IBC, Chapter 4: Special Detailed Requirements Based on Use and Occupancy — Section: 402.1 Applicability"
   },
   {
     "id": "Q1509",
@@ -19614,7 +19614,7 @@
       "Landscaping requirements"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy"
+    "source": "IBC, Chapter 4: Special Detailed Requirements Based on Use and Occupancy — Section: 406.7 Motor Fuel-Dispensing Facilities"
   },
   {
     "id": "Q1510",
@@ -19627,7 +19627,7 @@
       "Exemption from all fire alarm requirements"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 4: Special detailed requirements based on use and occupancy"
+    "source": "IBC, Chapter 4: Special Detailed Requirements Based on Use and Occupancy — Section: 420.1 General"
   },
   {
     "id": "Q1511",
@@ -19640,7 +19640,7 @@
       "The building's purchase price"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 5: General building heights and areas"
+    "source": "IBC, Chapter 5: General Building Heights and Areas — Section: 506.2 Minimum Allowable Area Determination"
   },
   {
     "id": "Q1512",
@@ -19653,7 +19653,7 @@
       "The color of the roof covering"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 5: General building heights and areas"
+    "source": "IBC, Chapter 5: General Building Heights and Areas — Section: 506.3 Frontage Increase"
   },
   {
     "id": "Q1513",
@@ -19666,7 +19666,7 @@
       "A reduction in required plumbing fixtures"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 5: General building heights and areas"
+    "source": "IBC, Chapter 5: General Building Heights and Areas — Section: Table 504.3 Allowable Building Height in Feet Above Grade Plane, Table 504.4 Allowable Number of Stories Above Grade Plane, and Table 506.2 Allowable Area Determination"
   },
   {
     "id": "Q1514",
@@ -19679,7 +19679,7 @@
       "Increase allowable occupant load without limit"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 5: General building heights and areas"
+    "source": "IBC, Chapter 5: General Building Heights and Areas — Section: 503.1 General"
   },
   {
     "id": "Q1515",
@@ -19692,7 +19692,7 @@
       "Residential occupancies over 3 stories"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 5: General building heights and areas"
+    "source": "IBC, Chapter 5: General Building Heights and Areas — Section: 507.3 Nonsprinklered, One-Story Buildings and 507.4 Sprinklered, One-Story Buildings"
   },
   {
     "id": "Q1516",
@@ -19705,7 +19705,7 @@
       "The color scheme of the exterior"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 5: General building heights and areas"
+    "source": "IBC, Chapter 5: General Building Heights and Areas — Section: 504.4 Number of Stories"
   },
   {
     "id": "Q1517",
@@ -19718,7 +19718,7 @@
       "No fire-resistance rating requirements at all"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 6: Types of construction"
+    "source": "IBC, Chapter 6: Types of Construction — Section: 602.3 Type III"
   },
   {
     "id": "Q1518",
@@ -19731,7 +19731,7 @@
       "Unlimited combustible concealed spaces"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 6: Types of construction"
+    "source": "IBC, Chapter 6: Types of Construction — Section: 602.4 Type IV"
   },
   {
     "id": "Q1519",
@@ -19744,7 +19744,7 @@
       "The building's geographic location"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 6: Types of construction"
+    "source": "IBC, Chapter 6: Types of Construction — Section: 602.1 General"
   },
   {
     "id": "Q1520",
@@ -19757,7 +19757,7 @@
       "Applies only to exterior walls"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 6: Types of construction"
+    "source": "IBC, Chapter 6: Types of Construction — Section: Table 601 Fire-Resistance Rating Requirements for Building Elements"
   },
   {
     "id": "Q1521",
@@ -19770,7 +19770,7 @@
       "Exempt from construction-type classification"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 6: Types of construction"
+    "source": "IBC, Chapter 6: Types of Construction — Section: 601.1 Scope"
   },
   {
     "id": "Q1522",
@@ -19783,7 +19783,7 @@
       "Cannot be used in any building"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 6: Types of construction"
+    "source": "IBC, Chapter 6: Types of Construction — Section: 703.5.1 Elementary Materials"
   },
   {
     "id": "Q1523",
@@ -19796,7 +19796,7 @@
       "The manufacturer's marketing materials"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and smoke protection features"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: 703.2 Fire-Resistance Ratings"
   },
   {
     "id": "Q1524",
@@ -19809,7 +19809,7 @@
       "Requiring occupants to exit through a roof hatch"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and smoke protection features"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: 707.3.5 Horizontal Exits"
   },
   {
     "id": "Q1525",
@@ -19822,7 +19822,7 @@
       "The building's occupant load only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and smoke protection features"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: 716.2.2.1 Fire-Resistance-Rated Walls"
   },
   {
     "id": "Q1526",
@@ -19835,12 +19835,12 @@
       "Resist wind pressure only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 7: Fire and smoke protection features"
+    "source": "IBC, Chapter 7: Fire and Smoke Protection Features — Section: 716.2.2.1.1 Smoke and Draft Control"
   },
   {
     "id": "Q1527",
-    "legacyKey": "Under IBC 2018, a Class B interior wall/ceiling finish has a maximum flame spread index of:",
-    "q": "Under IBC 2018, a Class B interior wall/ceiling finish has a maximum flame spread index of:",
+    "legacyKey": "a Class B interior wall/ceiling finish has a maximum flame spread index of:",
+    "q": "a Class B interior wall/ceiling finish has a maximum flame spread index of:",
     "options": [
       "25",
       "75",
@@ -19848,12 +19848,12 @@
       "450"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 8: Interior finishes"
+    "source": "IBC, Chapter 8: Interior Finishes — Section: 803.1.2 Interior Wall and Ceiling Finish Materials Testing"
   },
   {
     "id": "Q1528",
-    "legacyKey": "Under IBC 2018, a Class C interior wall/ceiling finish has a maximum flame spread index of:",
-    "q": "Under IBC 2018, a Class C interior wall/ceiling finish has a maximum flame spread index of:",
+    "legacyKey": "a Class C interior wall/ceiling finish has a maximum flame spread index of:",
+    "q": "a Class C interior wall/ceiling finish has a maximum flame spread index of:",
     "options": [
       "25",
       "75",
@@ -19861,7 +19861,7 @@
       "500"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 8: Interior finishes"
+    "source": "IBC, Chapter 8: Interior Finishes — Section: 803.1.2 Interior Wall and Ceiling Finish Materials Testing"
   },
   {
     "id": "Q1529",
@@ -19874,7 +19874,7 @@
       "Retail price"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 8: Interior finishes"
+    "source": "IBC, Chapter 8: Interior Finishes — Section: 803.1.2 Interior Wall and Ceiling Finish Materials Testing"
   },
   {
     "id": "Q1530",
@@ -19887,7 +19887,7 @@
       "Applies only to unsprinklered buildings, with no requirement once sprinklers are added"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 8: Interior finishes"
+    "source": "IBC, Chapter 8: Interior Finishes — Section: Table 803.13 Interior Wall and Ceiling Finish Requirements by Occupancy"
   },
   {
     "id": "Q1531",
@@ -19900,7 +19900,7 @@
       "The smoke-developed index alone"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 8: Interior finishes"
+    "source": "IBC, Chapter 8: Interior Finishes — Section: 804.2 Classification"
   },
   {
     "id": "Q1532",
@@ -19913,7 +19913,7 @@
       "Are exempt from flame spread classification"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 8: Interior finishes"
+    "source": "IBC, Chapter 8: Interior Finishes — Section: 803.13 Textile Wall Coverings and 803.14 Textile Ceiling Coverings"
   },
   {
     "id": "Q1533",
@@ -19926,7 +19926,7 @@
       "The building's purchase price"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+    "source": "IBC, Chapter 9: Fire Protection and Life Safety Systems — Section: 905.3 Required Installations"
   },
   {
     "id": "Q1534",
@@ -19939,7 +19939,7 @@
       "HVAC contractors"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+    "source": "IBC, Chapter 9: Fire Protection and Life Safety Systems — Section: 905.1 General and 905.3.1 Height"
   },
   {
     "id": "Q1535",
@@ -19952,7 +19952,7 @@
       "A fire pump and a water heater"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+    "source": "IBC, Chapter 9: Fire Protection and Life Safety Systems — Section: 905.1 General"
   },
   {
     "id": "Q1536",
@@ -19965,7 +19965,7 @@
       "Provide irrigation water"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+    "source": "IBC, Chapter 9: Fire Protection and Life Safety Systems — Section: 912.1 Installation"
   },
   {
     "id": "Q1537",
@@ -19978,7 +19978,7 @@
       "Only if the building lacks a fire alarm system"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+    "source": "IBC, Chapter 9: Fire Protection and Life Safety Systems — Section: 907.2.11.1 Group R-1 and 907.2.11.2 Groups R-2, R-3, R-4 and I-1"
   },
   {
     "id": "Q1538",
@@ -19991,7 +19991,7 @@
       "Serve only as a public address system for events"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+    "source": "IBC, Chapter 9: Fire Protection and Life Safety Systems — Section: 907.5.2.2 Emergency Voice/Alarm Communication Systems"
   },
   {
     "id": "Q1539",
@@ -20004,12 +20004,12 @@
       "Heat water for domestic use"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 9: Fire protection systems and life safety systems"
+    "source": "IBC, Chapter 9: Fire Protection and Life Safety Systems — Section: 913.1 General"
   },
   {
     "id": "Q1540",
-    "legacyKey": "Under IBC 2018, a space or story with an occupant load exceeding a specified threshold generally requires a minimum of:",
-    "q": "Under IBC 2018, a space or story with an occupant load exceeding a specified threshold generally requires a minimum of:",
+    "legacyKey": "a space or story with an occupant load exceeding a specified threshold generally requires a minimum of:",
+    "q": "a space or story with an occupant load exceeding a specified threshold generally requires a minimum of:",
     "options": [
       "One means of egress only, regardless of occupant load",
       "Two separate, remotely located means of egress",
@@ -20017,7 +20017,7 @@
       "No fixed minimum; it is left to the owner's discretion"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1006.2.1 Egress Based on Occupant Load and Common Path of Egress Travel Distance"
   },
   {
     "id": "Q1541",
@@ -20030,7 +20030,7 @@
       "The path used only during fire drills"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress — Section: Exit access"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1002.1 Definitions"
   },
   {
     "id": "Q1542",
@@ -20043,7 +20043,7 @@
       "There is no limit under IBC 2018"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 10: Means of egress — Section: Exit access"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1020.4 Dead Ends"
   },
   {
     "id": "Q1543",
@@ -20056,7 +20056,7 @@
       "The occupant load calculation for a room"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 10: Means of egress"
+    "source": "IBC, Chapter 10: Means of Egress — Section: 1028.1 General"
   },
   {
     "id": "Q1544",
@@ -20069,7 +20069,7 @@
       "The building's mechanical room"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 11: Accessibility"
+    "source": "IBC, Chapter 11: Accessibility — Section: 1104.1 Site Arrival Points"
   },
   {
     "id": "Q1545",
@@ -20082,7 +20082,7 @@
       "The building's height"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 11: Accessibility"
+    "source": "IBC, Chapter 11: Accessibility — Section: 1106.1 Required"
   },
   {
     "id": "Q1546",
@@ -20095,7 +20095,7 @@
       "Bicycles"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 11: Accessibility"
+    "source": "IBC, Chapter 11: Accessibility — Section: 1106.5 Van Spaces"
   },
   {
     "id": "Q1547",
@@ -20108,7 +20108,7 @@
       "1:4 (25%)"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 11: Accessibility"
+    "source": "IBC, Chapter 11: Accessibility — Section: 1104.1 Site Arrival Points"
   },
   {
     "id": "Q1548",
@@ -20121,7 +20121,7 @@
       "1:6 (16.7%)"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 11: Accessibility"
+    "source": "IBC, Chapter 11: Accessibility — Section: 1104.1 Site Arrival Points"
   },
   {
     "id": "Q1549",
@@ -20134,7 +20134,7 @@
       "Located outside the building's footprint"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 11: Accessibility"
+    "source": "IBC, Chapter 11: Accessibility — Section: 1009.6 Areas of Refuge"
   },
   {
     "id": "Q1550",
@@ -20147,7 +20147,7 @@
       "Exempt from door hardware requirements"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 11: Accessibility"
+    "source": "IBC, Chapter 11: Accessibility — Section: 1105.1 Public Entrances"
   },
   {
     "id": "Q1551",
@@ -20160,12 +20160,12 @@
       "A single sink only, with no toilet"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 11: Accessibility"
+    "source": "IBC, Chapter 11: Accessibility — Section: 1109.2 Toilet and Bathing Facilities"
   },
   {
     "id": "Q1552",
-    "legacyKey": "Under IBC 2018, where natural ventilation is provided for a room rather than mechanical ventilation, the required openable exterior opening area is generally not less than:",
-    "q": "Under IBC 2018, where natural ventilation is provided for a room rather than mechanical ventilation, the required openable exterior opening area is generally not less than:",
+    "legacyKey": "where natural ventilation is provided for a room rather than mechanical ventilation, the required openable exterior opening area is generally not less than:",
+    "q": "where natural ventilation is provided for a room rather than mechanical ventilation, the required openable exterior opening area is generally not less than:",
     "options": [
       "1 percent of the floor area of the room",
       "4 percent of the floor area of the room",
@@ -20173,7 +20173,7 @@
       "50 percent of the floor area of the room"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 12: Interior environment"
+    "source": "IBC, Chapter 12: Interior Environment — Section: 1202.5.1 Ventilation Area Required"
   },
   {
     "id": "Q1553",
@@ -20186,12 +20186,12 @@
       "Emergency lighting only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 12: Interior environment"
+    "source": "IBC, Chapter 12: Interior Environment — Section: 1204.2 Natural Light and 1204.3 Artificial Light"
   },
   {
     "id": "Q1554",
-    "legacyKey": "Under IBC 2018, habitable spaces are generally required to have a minimum ceiling height of:",
-    "q": "Under IBC 2018, habitable spaces are generally required to have a minimum ceiling height of:",
+    "legacyKey": "habitable spaces are generally required to have a minimum ceiling height of:",
+    "q": "habitable spaces are generally required to have a minimum ceiling height of:",
     "options": [
       "6 feet 8 inches",
       "7 feet 6 inches, with specific exceptions for certain areas",
@@ -20199,7 +20199,7 @@
       "10 feet in commercial buildings only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 12: Interior environment"
+    "source": "IBC, Chapter 12: Interior Environment — Section: 1207.2 Minimum Ceiling Heights"
   },
   {
     "id": "Q1555",
@@ -20212,7 +20212,7 @@
       "A skylight in every case"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 12: Interior environment"
+    "source": "IBC, Chapter 12: Interior Environment — Section: 1202.5.2.1 Bathrooms"
   },
   {
     "id": "Q1556",
@@ -20225,7 +20225,7 @@
       "The International Plumbing Code"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 13: Energy efficiency"
+    "source": "IBC, Chapter 13: Energy Efficiency — Section: 1301.1.1 Criteria"
   },
   {
     "id": "Q1557",
@@ -20238,7 +20238,7 @@
       "No compliance path is required for commercial buildings"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 13: Energy efficiency"
+    "source": "IBC, Chapter 13: Energy Efficiency — Section: 1301.1.1 Criteria"
   },
   {
     "id": "Q1558",
@@ -20251,7 +20251,7 @@
       "Serve as the primary structural bracing system"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 13: Energy efficiency"
+    "source": "IBC, Chapter 13: Energy Efficiency — Section: 1301.1.1 Criteria"
   },
   {
     "id": "Q1559",
@@ -20264,7 +20264,7 @@
       "No energy conservation provisions for commercial buildings"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 13: Energy efficiency"
+    "source": "IBC, Chapter 13: Energy Efficiency — Section: 1301.1.1 Criteria"
   },
   {
     "id": "Q1560",
@@ -20277,7 +20277,7 @@
       "Only interior wall finishes"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 13: Energy efficiency"
+    "source": "IBC, Chapter 13: Energy Efficiency — Section: 1301.1.1 Criteria"
   },
   {
     "id": "Q1561",
@@ -20290,7 +20290,7 @@
       "The type of interior finish used"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 14: Exterior walls"
+    "source": "IBC, Chapter 14: Exterior Walls — Section: 1405.1 General"
   },
   {
     "id": "Q1562",
@@ -20303,7 +20303,7 @@
       "Is eliminated entirely"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 14: Exterior walls"
+    "source": "IBC, Chapter 14: Exterior Walls — Section: 1405.1 General"
   },
   {
     "id": "Q1563",
@@ -20316,7 +20316,7 @@
       "Elevator shaft enclosures"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 14: Exterior walls"
+    "source": "IBC, Chapter 14: Exterior Walls — Section: 1407.4.1 Water-Resistive Barrier"
   },
   {
     "id": "Q1564",
@@ -20342,7 +20342,7 @@
       "Requirements identical to interior finishes"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 14: Exterior walls"
+    "source": "IBC, Chapter 14: Exterior Walls — Section: 1405.1 General"
   },
   {
     "id": "Q1566",
@@ -20355,7 +20355,7 @@
       "Class 1 through Class 10"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+    "source": "IBC, Chapter 15: Roof Assemblies and Rooftop Structures — Section: 1505.1 General"
   },
   {
     "id": "Q1567",
@@ -20368,7 +20368,7 @@
       "A new building permit only for roofs over 50 years old"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+    "source": "IBC, Chapter 15: Roof Assemblies and Rooftop Structures — Section: 1511.1 General"
   },
   {
     "id": "Q1568",
@@ -20381,7 +20381,7 @@
       "Serve as the sole source of roof drainage"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+    "source": "IBC, Chapter 15: Roof Assemblies and Rooftop Structures — Section: 1502.2 Secondary (Emergency Overflow) Drains or Scuppers"
   },
   {
     "id": "Q1569",
@@ -20394,7 +20394,7 @@
       "Its distance from the nearest fire hydrant"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+    "source": "IBC, Chapter 15: Roof Assemblies and Rooftop Structures — Section: 1510.2 Penthouses"
   },
   {
     "id": "Q1570",
@@ -20407,7 +20407,7 @@
       "Only snow loads"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+    "source": "IBC, Chapter 15: Roof Assemblies and Rooftop Structures — Section: 1504.4 Ballasted Low-Slope Roofs"
   },
   {
     "id": "Q1571",
@@ -20420,7 +20420,7 @@
       "Reduce the building's overall height classification"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+    "source": "IBC, Chapter 15: Roof Assemblies and Rooftop Structures — Section: 1011.12 Stairway to Roof"
   },
   {
     "id": "Q1572",
@@ -20433,7 +20433,7 @@
       "Only the weight of interior finishes"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 16: Structural design"
+    "source": "IBC, Chapter 16: Structural Design — Section: 1605.1 General"
   },
   {
     "id": "Q1573",
@@ -20446,7 +20446,7 @@
       "The building's construction budget"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 16: Structural design"
+    "source": "IBC, Chapter 16: Structural Design — Section: 1613.2.5 Determination of Seismic Design Category"
   },
   {
     "id": "Q1574",
@@ -20459,7 +20459,7 @@
       "The building's roof color"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 16: Structural design — Section: Wind loads"
+    "source": "IBC, Chapter 16: Structural Design — Section: 1609.3 Basic Design Wind Speed"
   },
   {
     "id": "Q1575",
@@ -20472,7 +20472,7 @@
       "The type of HVAC system installed"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 16: Structural design"
+    "source": "IBC, Chapter 16: Structural Design — Section: 1608.2 Ground Snow Loads"
   },
   {
     "id": "Q1576",
@@ -20485,12 +20485,12 @@
       "Parking lot striping"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 16: Structural design"
+    "source": "IBC, Chapter 16: Structural Design — Section: 1612.4 Design and Construction"
   },
   {
     "id": "Q1577",
-    "legacyKey": "Under IBC 2018, 'special inspections' are generally performed by:",
-    "q": "Under IBC 2018, 'special inspections' are generally performed by:",
+    "legacyKey": "'special inspections' are generally performed by:",
+    "q": "'special inspections' are generally performed by:",
     "options": [
       "Any available construction worker",
       "A qualified special inspector, approved by the building official, who is independent of the contractor performing the work",
@@ -20498,7 +20498,7 @@
       "The material supplier's sales representative"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 17: Special inspections and tests"
+    "source": "IBC, Chapter 17: Special Inspections and Tests — Section: 1704.2.1 Special Inspector Qualifications"
   },
   {
     "id": "Q1578",
@@ -20511,7 +20511,7 @@
       "Serve only as a billing document"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 17: Special inspections and tests"
+    "source": "IBC, Chapter 17: Special Inspections and Tests — Section: 1704.3 Statement of Special Inspections"
   },
   {
     "id": "Q1579",
@@ -20524,7 +20524,7 @@
       "Inspection only by the building owner"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 17: Special inspections and tests"
+    "source": "IBC, Chapter 17: Special Inspections and Tests — Section: 1702.1 Definitions"
   },
   {
     "id": "Q1580",
@@ -20537,7 +20537,7 @@
       "The concrete supplier"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 17: Special inspections and tests"
+    "source": "IBC, Chapter 17: Special Inspections and Tests — Section: 1704.6 Structural Observations"
   },
   {
     "id": "Q1581",
@@ -20550,7 +20550,7 @@
       "No inspection is needed for welding"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 17: Special inspections and tests"
+    "source": "IBC, Chapter 17: Special Inspections and Tests — Section: 1705.2.1 Structural Steel"
   },
   {
     "id": "Q1582",
@@ -20563,7 +20563,7 @@
       "Reduce the project's insurance costs"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 17: Special inspections and tests"
+    "source": "IBC, Chapter 17: Special Inspections and Tests — Section: 1704.4 Contractor Responsibility"
   },
   {
     "id": "Q1583",
@@ -20576,7 +20576,7 @@
       "Only for buildings under 500 square feet"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 18: Soils and foundations"
+    "source": "IBC, Chapter 18: Soils and Foundations — Section: 1803.1 General"
   },
   {
     "id": "Q1584",
@@ -20589,7 +20589,7 @@
       "Replace all structural engineering requirements"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 18: Soils and foundations"
+    "source": "IBC, Chapter 18: Soils and Foundations — Section: Table 1806.2 Presumptive Load-Bearing Values"
   },
   {
     "id": "Q1585",
@@ -20602,7 +20602,7 @@
       "Only for landscaping features"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 18: Soils and foundations"
+    "source": "IBC, Chapter 18: Soils and Foundations — Section: 1810.1 General"
   },
   {
     "id": "Q1586",
@@ -20615,7 +20615,7 @@
       "Only seismic loads, with no consideration of soil pressure"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 18: Soils and foundations"
+    "source": "IBC, Chapter 18: Soils and Foundations — Section: 1807.2 Retaining Walls"
   },
   {
     "id": "Q1587",
@@ -20628,7 +20628,7 @@
       "The interior finish flame spread table"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 19: Concrete"
+    "source": "IBC, Chapter 19: Concrete — Section: 1901.2 Minimum Standards"
   },
   {
     "id": "Q1588",
@@ -20641,7 +20641,7 @@
       "Only the finishing technique used"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 19: Concrete"
+    "source": "IBC, Chapter 19: Concrete — Section: 1904.1 Structural Concrete"
   },
   {
     "id": "Q1589",
@@ -20654,7 +20654,7 @@
       "The Brick Industry Association"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 20: Aluminum"
+    "source": "IBC, Chapter 20: Aluminum — Section: 2001.1 Scope"
   },
   {
     "id": "Q1590",
@@ -20667,7 +20667,7 @@
       "Fire-rated gypsum assemblies"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 20: Aluminum"
+    "source": "IBC, Chapter 20: Aluminum — Section: 2001.1 Scope"
   },
   {
     "id": "Q1591",
@@ -20680,7 +20680,7 @@
       "Painting the aluminum a specific mandated color"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 20: Aluminum"
+    "source": "IBC, Chapter 20: Aluminum — Section: 2002.1 Materials"
   },
   {
     "id": "Q1592",
@@ -20693,7 +20693,7 @@
       "Magnetic fasteners"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry"
+    "source": "IBC, Chapter 21: Masonry — Section: 2101.2.1 TMS 402/ACI 530/ASCE 5 and TMS 602/ACI 530.1/ASCE 6"
   },
   {
     "id": "Q1593",
@@ -20706,12 +20706,12 @@
       "Friction fit alone"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry"
+    "source": "IBC, Chapter 21: Masonry — Section: 2101.2.1 TMS 402/ACI 530/ASCE 5 and TMS 602/ACI 530.1/ASCE 6"
   },
   {
     "id": "Q1594",
-    "legacyKey": "Autoclaved aerated concrete (AAC) masonry, as a specific masonry material recognized under IBC 2018, is characterized by:",
-    "q": "Autoclaved aerated concrete (AAC) masonry, as a specific masonry material recognized under IBC 2018, is characterized by:",
+    "legacyKey": "Autoclaved aerated concrete (AAC) masonry, as a specific masonry material recognized  is characterized by:",
+    "q": "Autoclaved aerated concrete (AAC) masonry, as a specific masonry material recognized  is characterized by:",
     "options": [
       "A solid, extremely dense structure",
       "A lightweight, cellular structure achieved through an autoclaving manufacturing process",
@@ -20719,7 +20719,7 @@
       "Being used only for interior partitions with no structural role"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 21: Masonry"
+    "source": "IBC, Chapter 21: Masonry — Section: 2102.1 Definitions"
   },
   {
     "id": "Q1595",
@@ -20732,7 +20732,7 @@
       "The Gypsum Association (GA)"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 22: Steel"
+    "source": "IBC, Chapter 22: Steel — Section: 2205.1 General"
   },
   {
     "id": "Q1596",
@@ -20745,7 +20745,7 @@
       "The American Concrete Institute (ACI)"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 22: Steel"
+    "source": "IBC, Chapter 22: Steel — Section: 2210.1 General"
   },
   {
     "id": "Q1597",
@@ -20758,7 +20758,7 @@
       "The National Ready Mixed Concrete Association (NRMCA)"
     ],
     "correct": 0,
-    "source": "IBC, Chapter 22: Steel"
+    "source": "IBC, Chapter 22: Steel — Section: 2207.1 General"
   },
   {
     "id": "Q1598",
@@ -20771,7 +20771,7 @@
       "The interior finish flame spread table"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 23: Wood"
+    "source": "IBC, Chapter 23: Wood — Section: 2303.1.5 Wood Structural Panels"
   },
   {
     "id": "Q1599",
@@ -20784,7 +20784,7 @@
       "Buildings located only in flood hazard areas"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 23: Wood"
+    "source": "IBC, Chapter 23: Wood — Section: 2308.1 General"
   },
   {
     "id": "Q1600",
@@ -20797,7 +20797,7 @@
       "Used only in non-structural applications"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 23: Wood"
+    "source": "IBC, Chapter 23: Wood — Section: 2303.1.2 Prefabricated Wood I-Joists and 2303.1.10 Structural Composite Lumber"
   },
   {
     "id": "Q1601",
@@ -20810,7 +20810,7 @@
       "The insulation R-value"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 23: Wood — Section: General shear wall provisions"
+    "source": "IBC, Chapter 23: Wood — Section: 2305.1 General Design Requirements for Lateral Force-Resisting Systems"
   },
   {
     "id": "Q1602",
@@ -20823,7 +20823,7 @@
       "The masonry mortar type table"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 23: Wood"
+    "source": "IBC, Chapter 23: Wood — Section: 2303.1.3 Structural Glued-Laminated Timber"
   },
   {
     "id": "Q1603",
@@ -20836,7 +20836,7 @@
       "Only fire-resistance requirements, with no consideration of wind"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 24: Glass and glazing"
+    "source": "IBC, Chapter 24: Glass and Glazing — Section: 2403.1 General"
   },
   {
     "id": "Q1604",
@@ -20849,7 +20849,7 @@
       "Excessive structural strength"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 24: Glass and glazing"
+    "source": "IBC, Chapter 24: Glass and Glazing — Section: 2405.3 Screening"
   },
   {
     "id": "Q1605",
@@ -20862,7 +20862,7 @@
       "Exempt from all structural requirements"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 24: Glass and glazing"
+    "source": "IBC, Chapter 24: Glass and Glazing — Section: 2407.1.1 Loads"
   },
   {
     "id": "Q1606",
@@ -20875,7 +20875,7 @@
       "Exempt from labeling requirements"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 24: Glass and glazing"
+    "source": "IBC, Chapter 24: Glass and Glazing — Section: 2404.1 Vertical Glass"
   },
   {
     "id": "Q1607",
@@ -20888,12 +20888,12 @@
       "Eliminating the need for any safety factor"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 24: Glass and glazing"
+    "source": "IBC, Chapter 24: Glass and Glazing — Section: 2409.1 General"
   },
   {
     "id": "Q1608",
-    "legacyKey": "Under IBC 2018, gypsum board is generally required to be protected from:",
-    "q": "Under IBC 2018, gypsum board is generally required to be protected from:",
+    "legacyKey": "gypsum board is generally required to be protected from:",
+    "q": "gypsum board is generally required to be protected from:",
     "options": [
       "Normal room-temperature indoor air",
       "Exposure to weather during construction and from direct water exposure in service, unless specifically manufactured/rated for such exposure",
@@ -20901,7 +20901,7 @@
       "Standard fastener installation"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Gypsum board"
+    "source": "IBC, Chapter 25: Gypsum Board, Gypsum Panel Products and Plaster — Section: 2508.1 General"
   },
   {
     "id": "Q1609",
@@ -20914,7 +20914,7 @@
       "Zero; a single spray application suffices"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 25: Gypsum board, gypsum panel products and plaster — Section: Exterior plaster"
+    "source": "IBC, Chapter 25: Gypsum Board, Gypsum Panel Products and Plaster — Section: Table 2512.6 Cement Plaster"
   },
   {
     "id": "Q1610",
@@ -20927,7 +20927,7 @@
       "The masonry mortar joint table"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 25: Gypsum board, gypsum panel products and plaster"
+    "source": "IBC, Chapter 25: Gypsum Board, Gypsum Panel Products and Plaster — Section: 2507.1 General"
   },
   {
     "id": "Q1611",
@@ -20940,7 +20940,7 @@
       "A coat of paint only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 26: Plastic"
+    "source": "IBC, Chapter 26: Plastic — Section: 2603.4 Thermal Barrier"
   },
   {
     "id": "Q1612",
@@ -20953,7 +20953,7 @@
       "Its compatibility with wood trim only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 26: Plastic"
+    "source": "IBC, Chapter 26: Plastic — Section: 2610.1 General"
   },
   {
     "id": "Q1613",
@@ -20966,7 +20966,7 @@
       "Its shipping weight"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 26: Plastic"
+    "source": "IBC, Chapter 26: Plastic — Section: 2605.1 Interior Use and 2605.2 Exterior Use"
   },
   {
     "id": "Q1614",
@@ -20979,7 +20979,7 @@
       "An electrical component"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 26: Plastic"
+    "source": "IBC, Chapter 26: Plastic — Section: 2604.1 General"
   },
   {
     "id": "Q1615",
@@ -20992,7 +20992,7 @@
       "The Aluminum Design Manual"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 27: Electrical"
+    "source": "IBC, Chapter 27: Electrical — Section: 2701.1 Scope"
   },
   {
     "id": "Q1616",
@@ -21005,7 +21005,7 @@
       "The masonry mortar type table"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 27: Electrical"
+    "source": "IBC, Chapter 27: Electrical — Section: 2702.1 General"
   },
   {
     "id": "Q1617",
@@ -21018,7 +21018,7 @@
       "Exempt from inspection"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 27: Electrical"
+    "source": "IBC, Chapter 27: Electrical — Section: 2701.1 Scope"
   },
   {
     "id": "Q1618",
@@ -21031,7 +21031,7 @@
       "The Aluminum Design Manual"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 28: Mechanical systems"
+    "source": "IBC, Chapter 28: Mechanical Systems — Section: 2801.1 Scope"
   },
   {
     "id": "Q1619",
@@ -21044,7 +21044,7 @@
       "Installed only on the ground floor"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 28: Mechanical systems"
+    "source": "IBC, Chapter 28: Mechanical Systems — Section: 2801.1 Scope"
   },
   {
     "id": "Q1620",
@@ -21057,7 +21057,7 @@
       "A grille cover only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 28: Mechanical systems"
+    "source": "IBC, Chapter 28: Mechanical Systems — Section: 717.5 Where Required"
   },
   {
     "id": "Q1621",
@@ -21070,7 +21070,7 @@
       "A smoke detector only, with no suppression"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 28: Mechanical systems"
+    "source": "IBC, Chapter 28: Mechanical Systems — Section: 904.12 Commercial Cooking Systems"
   },
   {
     "id": "Q1622",
@@ -21083,7 +21083,7 @@
       "Outdoor air only during a fire alarm"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 28: Mechanical systems"
+    "source": "IBC, Chapter 28: Mechanical Systems — Section: 1202.1 General"
   },
   {
     "id": "Q1623",
@@ -21096,7 +21096,7 @@
       "The Aluminum Design Manual"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 29: Plumbing systems"
+    "source": "IBC, Chapter 29: Plumbing Systems — Section: 2901.1 Scope"
   },
   {
     "id": "Q1624",
@@ -21109,7 +21109,7 @@
       "The contractor's preference"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 29: Plumbing systems"
+    "source": "IBC, Chapter 29: Plumbing Systems — Section: Table 2902.1 Minimum Number of Required Plumbing Fixtures"
   },
   {
     "id": "Q1625",
@@ -21122,7 +21122,7 @@
       "In buildings taller than three stories"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 29: Plumbing systems"
+    "source": "IBC, Chapter 29: Plumbing Systems — Section: 2902.2 Separate Facilities"
   },
   {
     "id": "Q1626",
@@ -21135,7 +21135,7 @@
       "Located only on the ground floor of every building"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 29: Plumbing systems"
+    "source": "IBC, Chapter 29: Plumbing Systems — Section: 2902.4 Accessible Plumbing Facilities"
   },
   {
     "id": "Q1627",
@@ -21148,7 +21148,7 @@
       "Water only to the ground floor"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 29: Plumbing systems"
+    "source": "IBC, Chapter 29: Plumbing Systems — Section: 2901.1 Scope"
   },
   {
     "id": "Q1628",
@@ -21161,7 +21161,7 @@
       "Fixtures from being accessible"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 29: Plumbing systems"
+    "source": "IBC, Chapter 29: Plumbing Systems — Section: 2901.1 Scope"
   },
   {
     "id": "Q1629",
@@ -21174,7 +21174,7 @@
       "Glass with no fire rating"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 30: Elevators and conveying systems"
+    "source": "IBC, Chapter 30: Elevators and Conveying Systems — Section: 3002.1 Hoistway Enclosure Required"
   },
   {
     "id": "Q1630",
@@ -21187,7 +21187,7 @@
       "Manual hand-crank operation only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 30: Elevators and conveying systems"
+    "source": "IBC, Chapter 30: Elevators and Conveying Systems — Section: 3003.1.3 Firefighters' Emergency Operation"
   },
   {
     "id": "Q1631",
@@ -21200,7 +21200,7 @@
       "Exempt from all fire-protection requirements"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 30: Elevators and conveying systems"
+    "source": "IBC, Chapter 30: Elevators and Conveying Systems — Section: 3006.2 Hoistway Opening Protection Required"
   },
   {
     "id": "Q1632",
@@ -21213,7 +21213,7 @@
       "Only in single-family homes"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 30: Elevators and conveying systems"
+    "source": "IBC, Chapter 30: Elevators and Conveying Systems — Section: 1009.5 Platform Lifts"
   },
   {
     "id": "Q1633",
@@ -21226,7 +21226,7 @@
       "Located outdoors with no weather protection"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 30: Elevators and conveying systems"
+    "source": "IBC, Chapter 30: Elevators and Conveying Systems — Section: 3005.1 General"
   },
   {
     "id": "Q1634",
@@ -21239,7 +21239,7 @@
       "Only their signage"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 31: Special construction"
+    "source": "IBC, Chapter 31: Special Construction — Section: 3102.1 General"
   },
   {
     "id": "Q1635",
@@ -21252,7 +21252,7 @@
       "Elimination of all fire-resistance requirements between the buildings"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 31: Special construction"
+    "source": "IBC, Chapter 31: Special Construction — Section: 3104.1 General"
   },
   {
     "id": "Q1636",
@@ -21265,7 +21265,7 @@
       "Increase the pool's structural capacity"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 31: Special construction"
+    "source": "IBC, Chapter 31: Special Construction — Section: 3109.1 General"
   },
   {
     "id": "Q1637",
@@ -21278,7 +21278,7 @@
       "Be limited to residential use only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 31: Special construction"
+    "source": "IBC, Chapter 31: Special Construction — Section: 3103.1 General"
   },
   {
     "id": "Q1638",
@@ -21291,7 +21291,7 @@
       "Only their aesthetic appearance"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 31: Special construction"
+    "source": "IBC, Chapter 31: Special Construction — Section: 3111.1 General"
   },
   {
     "id": "Q1639",
@@ -21304,7 +21304,7 @@
       "Parking requirements only"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 31: Special construction"
+    "source": "IBC, Chapter 31: Special Construction — Section: 3108.1 General"
   },
   {
     "id": "Q1640",
@@ -21317,7 +21317,7 @@
       "Be built only of combustible materials"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 32: Encroachments into the public right-of-way"
+    "source": "IBC, Chapter 32: Encroachments into the Public Right-of-Way — Section: 3201.1 Scope"
   },
   {
     "id": "Q1641",
@@ -21330,7 +21330,7 @@
       "Have no minimum clearance above the sidewalk"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 32: Encroachments into the public right-of-way"
+    "source": "IBC, Chapter 32: Encroachments into the Public Right-of-Way — Section: 3202.3.1 Awnings, Canopies, Marquees and Signs"
   },
   {
     "id": "Q1642",
@@ -21343,7 +21343,7 @@
       "Be built without regard to structural adequacy"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 32: Encroachments into the public right-of-way"
+    "source": "IBC, Chapter 32: Encroachments into the Public Right-of-Way — Section: 3202.5 Temporary Encroachments"
   },
   {
     "id": "Q1643",
@@ -21356,7 +21356,7 @@
       "Used only for irrigation of landscaping"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 33: Safeguards during construction"
+    "source": "IBC, Chapter 33: Safeguards During Construction — Section: 3311.1 Where Required"
   },
   {
     "id": "Q1644",
@@ -21369,7 +21369,7 @@
       "Exempt from all fire safety provisions"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 33: Safeguards during construction"
+    "source": "IBC, Chapter 33: Safeguards During Construction — Section: 3303.1 Transportation and Storage"
   },
   {
     "id": "Q1645",
@@ -21382,7 +21382,7 @@
       "Apply only to residential construction"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 33: Safeguards during construction"
+    "source": "IBC, Chapter 33: Safeguards During Construction — Section: 3306.1 Protection Required"
   },
   {
     "id": "Q1646",
@@ -21395,7 +21395,7 @@
       "Be eliminated until construction is complete"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 33: Safeguards during construction"
+    "source": "IBC, Chapter 33: Safeguards During Construction — Section: 3310.1 Means of Egress"
   },
   {
     "id": "Q1647",
@@ -21408,7 +21408,7 @@
       "Exempt from all safety provisions"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 33: Safeguards during construction"
+    "source": "IBC, Chapter 33: Safeguards During Construction — Section: 3304.2 Storage of Flammable and Combustible Materials"
   },
   {
     "id": "Q1648",
@@ -21421,7 +21421,7 @@
       "List only standards related to plumbing"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 35: Referenced standards"
+    "source": "IBC, Chapter 35: Referenced Standards — Section: Chapter 35 Referenced Standards"
   },
   {
     "id": "Q1649",
@@ -21434,7 +21434,7 @@
       "Applies only to the jurisdiction that wrote the standard"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 35: Referenced standards"
+    "source": "IBC, Chapter 35: Referenced Standards — Section: 102.4 Referenced Codes and Standards"
   },
   {
     "id": "Q1650",
@@ -21447,7 +21447,7 @@
       "The most recently published document always governs regardless of source"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 35: Referenced standards"
+    "source": "IBC, Chapter 35: Referenced Standards — Section: 102.4.1 Conflicts"
   },
   {
     "id": "Q1651",
@@ -22170,12 +22170,12 @@
     "q": "a 'dwelling unit' is defined as:",
     "options": [
       "Any room with a bed",
-      "A single unit providing complete independent living facilities, including permanent provisions for living, sleeping, eating, cooking, and sanitation",
+      "A single unit providing complete independent living facilities for one or more persons, including permanent provisions for living, sleeping, eating, cooking, and sanitation",
       "A hotel guest room",
       "A garage converted for storage"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 2: Definitions — Section: R202 Definitions"
+    "source": "IBC, Chapter 2: Definitions — Section: 202 Definitions"
   },
   {
     "id": "Q1707",
