@@ -1401,7 +1401,7 @@
       "1 inch x 3 inch"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 12: Wood as a Building Material"
+    "source": "Carpentry, Chapter 12: Wood as a Building Material — Section: Lumber sizes"
   },
   {
     "id": "Q109",
@@ -1752,7 +1752,7 @@
       "28 inches"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 27: Cabinets & Countertops"
+    "source": "Carpentry, Chapter 27: Cabinets & Countertops — Section: Countertops"
   },
   {
     "id": "Q136",
@@ -1791,7 +1791,7 @@
       "1 inch x 5 inch"
     ],
     "correct": 2,
-    "source": "Carpentry, Chapter 12: Wood as a Building Material"
+    "source": "Carpentry, Chapter 12: Wood as a Building Material — Section: Lumber sizes"
   },
   {
     "id": "Q139",
@@ -2402,7 +2402,7 @@
       "To mark the location of studs"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing"
+    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing — Section: Roof sheathing"
   },
   {
     "id": "Q186",
@@ -2415,7 +2415,7 @@
       "A defect in lumber caused by drying"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 5: Power Saws"
+    "source": "Carpentry, Chapter 5: Power Saws — Section: Circular saws"
   },
   {
     "id": "Q187",
@@ -2805,7 +2805,7 @@
       "The metal composition"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 11: Concrete Flatwork — Section: Fasteners"
+    "source": "Carpentry, Chapter 11: Fasteners — Section: Nails and staples"
   },
   {
     "id": "Q217",
@@ -3182,7 +3182,7 @@
       "Sill"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: trimmer or jack studs"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Window and door openings"
   },
   {
     "id": "Q246",
@@ -3195,7 +3195,7 @@
       "12 inches"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: roof slope calculation"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof slope and pitch"
   },
   {
     "id": "Q247",
@@ -3572,7 +3572,7 @@
       "Roofing nail"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 11: Concrete Flatwork — Section: Fasteners"
+    "source": "Carpentry, Chapter 11: Fasteners — Section: Nails and staples"
   },
   {
     "id": "Q276",
@@ -3585,7 +3585,7 @@
       "A mistake in cutting"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Rafter layout and cutting"
   },
   {
     "id": "Q277",
@@ -3728,7 +3728,7 @@
       "The best side for painting"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 15: Floor Framing"
+    "source": "Carpentry, Chapter 15: Floor Framing — Section: Floor joist installation"
   },
   {
     "id": "Q288",
@@ -4378,7 +4378,7 @@
       "7 inches"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 21: Residential Doors — Section: Roofing"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: Asphalt shingle installation"
   },
   {
     "id": "Q338",
@@ -5197,7 +5197,7 @@
       "Steel studs"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Framing methods"
   },
   {
     "id": "Q401",
@@ -6536,7 +6536,7 @@
       "Supports the floor"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 17: Basic Roof Framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing"
   },
   {
     "id": "Q504",
@@ -6549,7 +6549,7 @@
       "The wall stud"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 17: Basic Roof Framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing"
   },
   {
     "id": "Q505",
@@ -7212,7 +7212,7 @@
       "It uses metal studs"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Framing methods"
   },
   {
     "id": "Q556",
@@ -7459,7 +7459,7 @@
       "Attic floor only"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency — Section: 502.5 Moisture control; IRC, Chapter 7: Wall covering — Section: R702.7 Vapor retarders; Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: Vapor retarders"
+    "source": "IECC 2009, Chapter \n\n5: Commercial energy efficiency — Section: 502.5 Moisture control; IRC, Chapter 7: Wall covering — Section: R702.7 Vapor retarders; Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: Vapor retarders"
   },
   {
     "id": "Q575",
@@ -8057,7 +8057,7 @@
       "Covers the top half only"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: Hand-held power saws; Carpentry, Chapter 5: Power Saws"
+    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: Hand-held power saws; Carpentry, Chapter 5: Power Saws — Section: Portable power tools"
   },
   {
     "id": "Q621",
@@ -8408,7 +8408,7 @@
       "Wood"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: Powder-actuated tools; Carpentry, Chapter 6: Other Power & Pneumatic Tools"
+    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: Powder-actuated tools; Carpentry, Chapter 6: Other Power & Pneumatic Tools — Section: Pneumatic and powder-actuated tools"
   },
   {
     "id": "Q648",
@@ -8486,7 +8486,7 @@
       "Use in water"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: Hand-held power saws; Carpentry, Chapter 5: Power Saws"
+    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: Hand-held power saws; Carpentry, Chapter 5: Power Saws — Section: Portable power tools"
   },
   {
     "id": "Q654",
@@ -8707,7 +8707,7 @@
       "A plastic blade"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: Hand-held power saws; Carpentry, Chapter 5: Power Saws"
+    "source": "OSHA, Subpart I: Tools (Hand/Power) — Section: Hand-held power saws; Carpentry, Chapter 5: Power Saws — Section: Portable power tools"
   },
   {
     "id": "Q671",
@@ -8915,7 +8915,7 @@
       "Orange"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart K: Electrical — Section: Grounding requirements; Carpentry, Chapter 6: Other Power & Pneumatic Tools"
+    "source": "OSHA, Subpart K: Electrical — Section: Grounding requirements; Carpentry, Chapter 6: Other Power & Pneumatic Tools — Section: Temporary power"
   },
   {
     "id": "Q687",
@@ -9058,7 +9058,7 @@
       "30 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart X: Stairways/Ladders — Section: Fixed ladders; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "OSHA, Subpart X: Stairways/Ladders — Section: Fixed ladders; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support — Section: Ladders"
   },
   {
     "id": "Q698",
@@ -9318,7 +9318,7 @@
       "30%"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 5: Floors — Section: R502.1.1 Sawn lumber; Carpentry, Chapter 6: Other Power & Pneumatic Tools — Section: Building Materials"
+    "source": "IRC, Chapter 5: Floors — Section: R502.1.1 Sawn lumber; Carpentry, Chapter 12: Wood as a Building Material — Section: Lumber characteristics"
   },
   {
     "id": "Q718",
@@ -9838,7 +9838,7 @@
       "30%"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 5: Floors — Section: R502.1.1 Sawn lumber; Carpentry, Chapter 6: Other Power & Pneumatic Tools — Section: Building Materials"
+    "source": "IRC, Chapter 5: Floors — Section: R502.1.1 Sawn lumber; Carpentry, Chapter 12: Wood as a Building Material — Section: Lumber characteristics"
   },
   {
     "id": "Q758",
@@ -11814,7 +11814,7 @@
       "4:12"
     ],
     "correct": 3,
-    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.2.2 Slope; Carpentry, Chapter 22: Roofing & Gutters — Section: Strip Shingles and Underlayment"
+    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.2.2 Slope; Carpentry, Chapter 22: Roofing & Gutters — Section: Strip Shingles"
   },
   {
     "id": "Q910",
@@ -11853,7 +11853,7 @@
       "More than 40 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart H: Materials Handling; Carpentry, Chapter 3: Construction Safety & Health"
+    "source": "OSHA, Subpart H: Materials Handling; Carpentry, Chapter 3: Construction Safety & Health — Section: Job Site Safety"
   },
   {
     "id": "Q913",
@@ -11866,7 +11866,7 @@
       "Not required if rigid foam is used"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R806.5 Ventilation of enclosed rafter spaces; Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: Thermal and Moisture Protection"
+    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R806.5 Ventilation of enclosed rafter spaces; Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: Thermal Insulation"
   },
   {
     "id": "Q914",
@@ -11970,7 +11970,7 @@
       "No protection needed"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 14: Exterior walls — Section: 1404.3 Water-resistive barrier; Carpentry, Chapter 33: Exterior & Interior Paint — Section: Exterior Finish"
+    "source": "IBC, Chapter 14: Exterior walls — Section: 1404.3 Water-resistive barrier; Carpentry, Chapter 33: Exterior & Interior Paint — Section: Exterior Painting"
   },
   {
     "id": "Q922",
@@ -12009,7 +12009,7 @@
       "16 feet"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R802.4.1 Ceiling joist and rafter framing; Carpentry, Chapter 17: Basic Roof Framing — Section: Installing Ceiling Joists"
+    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R802.4.1 Ceiling joist and rafter framing; Carpentry, Chapter 17: Basic Roof Framing — Section: Ceiling Framing"
   },
   {
     "id": "Q925",
@@ -12061,7 +12061,7 @@
       "40 inches"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 19: Special appliances — Section: M1901.1 Clearances; Carpentry, Chapter 27: Cabinets & Countertops"
+    "source": "IRC, Chapter 19: Special appliances — Section: M1901.1 Clearances; Carpentry, Chapter 27: Cabinets & Countertops — Section: Choosing & Installing Cabinets"
   },
   {
     "id": "Q929",
@@ -12074,7 +12074,7 @@
       "50 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart J: Welding and Cutting; Carpentry, Chapter 3: Construction Safety & Health"
+    "source": "OSHA, Subpart J: Welding and Cutting; Carpentry, Chapter 3: Construction Safety & Health — Section: Job Site Safety"
   },
   {
     "id": "Q930",
@@ -12152,7 +12152,7 @@
       "24 inches o.c."
     ],
     "correct": 1,
-    "source": "IBC, Chapter 23: Wood — Section: 2306.2 Wood-frame shear walls; IRC, Chapter 6: Wall construction — Section: Table R602.3(3) Fastener schedule for structural sheathing; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Shear walls"
+    "source": "IBC, Chapter 23: Wood — Section: 2306.2 Wood-frame shear walls; IRC, Chapter 6: Wall construction — Section: Table R602.3(3) Fastener schedule for structural sheathing; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Shear Walls"
   },
   {
     "id": "Q936",
@@ -12308,7 +12308,7 @@
       "25 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart L: Scaffolds; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support — Section: 7.1 Using Ladders & Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support — Section: Using Ladders & Scaffolds"
   },
   {
     "id": "Q948",
@@ -12373,7 +12373,7 @@
       "48 inches"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.1.2 Ice barriers; Carpentry, Chapter 22: Roofing & Gutters — Section: Ice and water shield"
+    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.1.2 Ice barriers; Carpentry, Chapter 22: Roofing & Gutters — Section: Roofing Basics"
   },
   {
     "id": "Q953",
@@ -12490,7 +12490,7 @@
       "3 inches"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: Asphalt shingles; IRC, Chapter 9: Roof assemblies — Section: R905.2.8.5 Drip edge"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: Strip Shingles; IRC, Chapter 9: Roof assemblies — Section: R905.2.8.5 Drip edge"
   },
   {
     "id": "Q962",
@@ -12516,7 +12516,7 @@
       "3/4 inch"
     ],
     "correct": 0,
-    "source": "IRC, Chapter 5: Floors — Section: R503.2.2 Structural panels; Carpentry, Chapter 15: Floor Framing — Section: Underlayment"
+    "source": "IRC, Chapter 5: Floors — Section: R503.2.2 Structural panels; Carpentry, Chapter 15: Floor Framing — Section: Subfloors"
   },
   {
     "id": "Q964",
@@ -12542,7 +12542,7 @@
       "24 inches"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart L: Scaffolds; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "OSHA, Subpart L: Scaffolds — Section: 1926.451(b)(5) Platforms and walkways; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support — Section: Scaffold Platforms"
   },
   {
     "id": "Q966",
@@ -12568,7 +12568,7 @@
       "32 inches"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 6: Wall construction — Section: R602.3 Design and construction; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Partition walls"
+    "source": "IRC, Chapter 6: Wall construction — Section: R602.3 Design and construction; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Partition Walls"
   },
   {
     "id": "Q968",
@@ -12685,7 +12685,7 @@
       "12 inches"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart L: Scaffolds; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "OSHA, Subpart L: Scaffolds — Section: 1926.451(h)(4) Falling object protection; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support — Section: Scaffold Safety"
   },
   {
     "id": "Q977",
@@ -12711,7 +12711,7 @@
       "75% of the width"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 6: Wall construction — Section: R602.6 Drilling and notching of studs; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Load-bearing walls"
+    "source": "IRC, Chapter 6: Wall construction — Section: R602.6 Drilling and notching of studs; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Load-Bearing Walls"
   },
   {
     "id": "Q979",
@@ -12789,7 +12789,7 @@
       "Overhead"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart K: Electrical; Carpentry, Chapter 3: Construction Safety & Health"
+    "source": "OSHA, Subpart K: Electrical — Section: 1926.404(b)(1) Ground-fault protection; Carpentry, Chapter 3: Construction Safety & Health — Section: Electrical Safety"
   },
   {
     "id": "Q985",
@@ -12893,7 +12893,7 @@
       "It is aluminum"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart K: Electrical; Carpentry, Chapter 33: Exterior & Interior Paint — Section: Exterior Finish"
+    "source": "OSHA, Subpart K: Electrical — Section: 1926.404(b)(1) Grounding; Carpentry, Chapter 33: Exterior & Interior Paint — Section: Exterior Finish"
   },
   {
     "id": "Q993",
@@ -12958,7 +12958,7 @@
       "45 degrees"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart M: Fall Protection — Section: Training requirements (fall protection); Carpentry, Chapter 3: Construction Safety & Health"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.502(d)(17) Personal fall arrest systems; Carpentry, Chapter 3: Construction Safety & Health — Section: Fall Protection"
   },
   {
     "id": "Q998",
@@ -12971,7 +12971,7 @@
       "Under the window"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Trimmer or jack studs; IRC, Chapter 6: Wall construction — Section: R602.7 Headers"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Trimmer or Jack Studs; IRC, Chapter 6: Wall construction — Section: R602.7 Headers"
   },
   {
     "id": "Q999",
@@ -13777,7 +13777,7 @@
       "The material supplier"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 1: The Construction Industry"
+    "source": "Carpentry, Chapter 1: The Construction Industry — Section: 1.1 Careers in Construction"
   },
   {
     "id": "Q1061",
@@ -13790,7 +13790,7 @@
       "Performing only the finish carpentry work"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 1: The Construction Industry"
+    "source": "Carpentry, Chapter 1: The Construction Industry — Section: 1.1 Careers in Construction"
   },
   {
     "id": "Q1062",
@@ -13803,7 +13803,7 @@
       "The mortgage lender"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 1: The Construction Industry"
+    "source": "Carpentry, Chapter 1: The Construction Industry — Section: 1.1 Careers in Construction"
   },
   {
     "id": "Q1063",
@@ -13816,7 +13816,7 @@
       "List only the project's construction schedule"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 1: The Construction Industry"
+    "source": "Carpentry, Chapter 1: The Construction Industry — Section: 1.1 Careers in Construction"
   },
   {
     "id": "Q1064",
@@ -13829,7 +13829,7 @@
       "The architect"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 1: The Construction Industry"
+    "source": "Carpentry, Chapter 2: Building Codes & Planning — Section: 2.1 Codes & Zoning"
   },
   {
     "id": "Q1065",
@@ -13842,7 +13842,7 @@
       "Flooring installers"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 1: The Construction Industry"
+    "source": "Carpentry, Chapter 1: The Construction Industry — Section: 1.1 Careers in Construction"
   },
   {
     "id": "Q1066",
@@ -13855,7 +13855,7 @@
       "A union labor agreement"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 2: Building Codes & Planning"
+    "source": "Carpentry, Chapter 2: Building Codes & Planning — Section: 2.1 Codes & Zoning"
   },
   {
     "id": "Q1067",
@@ -13868,7 +13868,7 @@
       "The location of nearby buildings only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 2: Building Codes & Planning"
+    "source": "Carpentry, Chapter 2: Building Codes & Planning — Section: 2.2 Architectural Drawing"
   },
   {
     "id": "Q1068",
@@ -13881,7 +13881,7 @@
       "Replace the need for dimensions on the plan"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 2: Building Codes & Planning"
+    "source": "Carpentry, Chapter 2: Building Codes & Planning — Section: 2.3 Reading Architectural Plans"
   },
   {
     "id": "Q1069",
@@ -13894,7 +13894,7 @@
       "The paint colors for each room"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 2: Building Codes & Planning"
+    "source": "Carpentry, Chapter 2: Building Codes & Planning — Section: 2.3 Reading Architectural Plans"
   },
   {
     "id": "Q1070",
@@ -13907,7 +13907,7 @@
       "Always follow the specifications and ignore the drawings"
     ],
     "correct": 2,
-    "source": "Carpentry, Chapter 2: Building Codes & Planning"
+    "source": "Carpentry, Chapter 2: Building Codes & Planning — Section: 2.3 Reading Architectural Plans"
   },
   {
     "id": "Q1071",
@@ -13920,7 +13920,7 @@
       "List the manufacturer's warranty terms"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 3: Construction Safety & Health"
+    "source": "Carpentry, Chapter 3: Construction Safety & Health — Section: 3.1 Job Site Safety"
   },
   {
     "id": "Q1072",
@@ -13933,7 +13933,7 @@
       "Class D"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 3: Construction Safety & Health"
+    "source": "Carpentry, Chapter 3: Construction Safety & Health — Section: 3.1 Job Site Safety"
   },
   {
     "id": "Q1073",
@@ -13946,7 +13946,7 @@
       "20 decibels"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 3: Construction Safety & Health"
+    "source": "Carpentry, Chapter 3: Construction Safety & Health — Section: 3.2 Personal Safety & Health"
   },
   {
     "id": "Q1074",
@@ -13959,7 +13959,7 @@
       "Only needs to hold a valid driver's license"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 3: Construction Safety & Health"
+    "source": "Carpentry, Chapter 3: Construction Safety & Health — Section: 3.1 Job Site Safety"
   },
   {
     "id": "Q1075",
@@ -13972,7 +13972,7 @@
       "Measure paint thickness"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 4: Hand Tools"
+    "source": "Carpentry, Chapter 4: Hand Tools — Section: 4.1 Measuring & Layout Tools"
   },
   {
     "id": "Q1076",
@@ -13985,7 +13985,7 @@
       "The maximum board width the saw can cut"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 4: Hand Tools"
+    "source": "Carpentry, Chapter 4: Hand Tools — Section: 4.2 Cutting & Shaping Tools"
   },
   {
     "id": "Q1077",
@@ -13998,7 +13998,7 @@
       "Driving fasteners"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 4: Hand Tools"
+    "source": "Carpentry, Chapter 4: Hand Tools — Section: 4.2 Cutting & Shaping Tools"
   },
   {
     "id": "Q1078",
@@ -14011,7 +14011,7 @@
       "Score chalk lines"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 4: Hand Tools"
+    "source": "Carpentry, Chapter 4: Hand Tools — Section: 4.3 Tools for Assembling & Disassembling"
   },
   {
     "id": "Q1079",
@@ -14024,7 +14024,7 @@
       "Measure angles"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 4: Hand Tools"
+    "source": "Carpentry, Chapter 4: Hand Tools — Section: 4.1 Measuring & Layout Tools"
   },
   {
     "id": "Q1080",
@@ -14037,7 +14037,7 @@
       "Electrical voltage"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 4: Hand Tools"
+    "source": "Carpentry, Chapter 4: Hand Tools — Section: 4.1 Measuring & Layout Tools"
   },
   {
     "id": "Q1081",
@@ -14050,7 +14050,7 @@
       "Curved cuts in plywood"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 5: Power Saws"
+    "source": "Carpentry, Chapter 5: Power Saws — Section: Miter Saws"
   },
   {
     "id": "Q1082",
@@ -14063,7 +14063,7 @@
       "Measure board thickness"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 5: Power Saws"
+    "source": "Carpentry, Chapter 5: Power Saws — Section: Table Saws"
   },
   {
     "id": "Q1083",
@@ -14076,7 +14076,7 @@
       "Ripping plywood sheets to width"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 5: Power Saws"
+    "source": "Carpentry, Chapter 5: Power Saws — Section: Reciprocating Saws"
   },
   {
     "id": "Q1084",
@@ -14089,7 +14089,7 @@
       "Tilt the base plate to 45 degrees"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 5: Power Saws"
+    "source": "Carpentry, Chapter 5: Power Saws — Section: Circular Saws"
   },
   {
     "id": "Q1085",
@@ -14102,7 +14102,7 @@
       "Battery power exclusively"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 6: Other Power & Pneumatic Tools"
+    "source": "Carpentry, Chapter 6: Other Power & Pneumatic Tools — Section: Pneumatic Tools"
   },
   {
     "id": "Q1086",
@@ -14115,7 +14115,7 @@
       "Mix concrete"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 6: Other Power & Pneumatic Tools"
+    "source": "Carpentry, Chapter 6: Other Power & Pneumatic Tools — Section: Routers"
   },
   {
     "id": "Q1087",
@@ -14128,7 +14128,7 @@
       "Remove the air compressor's belt guard"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 6: Other Power & Pneumatic Tools"
+    "source": "Carpentry, Chapter 6: Other Power & Pneumatic Tools — Section: Pneumatic Tools"
   },
   {
     "id": "Q1088",
@@ -14141,7 +14141,7 @@
       "Has no clutch settings"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 6: Other Power & Pneumatic Tools"
+    "source": "Carpentry, Chapter 6: Other Power & Pneumatic Tools — Section: Drills, Drivers & Impact Drivers"
   },
   {
     "id": "Q1089",
@@ -14154,7 +14154,7 @@
       "Sand large flat surfaces"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 6: Other Power & Pneumatic Tools"
+    "source": "Carpentry, Chapter 6: Other Power & Pneumatic Tools — Section: Biscuit Joiners"
   },
   {
     "id": "Q1090",
@@ -14167,7 +14167,7 @@
       "It has no feet"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "Carpentry, Chapter 7: Ladders, Scaffolds & Other Support — Section: Stepladders"
   },
   {
     "id": "Q1091",
@@ -14180,7 +14180,7 @@
       "There is no standard ratio"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "Carpentry, Chapter 7: Ladders, Scaffolds & Other Support — Section: Extension Ladders"
   },
   {
     "id": "Q1092",
@@ -14193,7 +14193,7 @@
       "30 feet"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "Carpentry, Chapter 7: Ladders, Scaffolds & Other Support — Section: Sawhorse Scaffolds"
   },
   {
     "id": "Q1093",
@@ -14206,7 +14206,7 @@
       "Stucco only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 8: Concrete as a Building Material"
+    "source": "Carpentry, Chapter 8: Concrete as a Building Material — Section: Cement and Concrete"
   },
   {
     "id": "Q1094",
@@ -14219,7 +14219,7 @@
       "The color of the finished concrete"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 8: Concrete as a Building Material"
+    "source": "Carpentry, Chapter 8: Concrete as a Building Material — Section: Testing Concrete"
   },
   {
     "id": "Q1095",
@@ -14232,7 +14232,7 @@
       "Eliminate the need for curing"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 8: Concrete as a Building Material"
+    "source": "Carpentry, Chapter 8: Concrete as a Building Material — Section: Concrete Mixes"
   },
   {
     "id": "Q1096",
@@ -14245,7 +14245,7 @@
       "Carbonation only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 8: Concrete as a Building Material"
+    "source": "Carpentry, Chapter 8: Concrete as a Building Material — Section: Cement and Concrete"
   },
   {
     "id": "Q1097",
@@ -14258,7 +14258,7 @@
       "Sanding the surface smooth"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 8: Concrete as a Building Material"
+    "source": "Carpentry, Chapter 8: Concrete as a Building Material — Section: Curing Concrete"
   },
   {
     "id": "Q1098",
@@ -14271,7 +14271,7 @@
       "Color consistency"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 8: Concrete as a Building Material"
+    "source": "Carpentry, Chapter 8: Concrete as a Building Material — Section: Reinforcing Concrete"
   },
   {
     "id": "Q1099",
@@ -14284,7 +14284,7 @@
       "Measure soil compaction"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 9: Locating the House on the Building Site"
+    "source": "Carpentry, Chapter 9: Locating the House on the Building Site — Section: Batter Boards"
   },
   {
     "id": "Q1100",
@@ -14297,7 +14297,7 @@
       "Cabinet elevation drawings"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 9: Locating the House on the Building Site"
+    "source": "Carpentry, Chapter 9: Locating the House on the Building Site — Section: Site Layout"
   },
   {
     "id": "Q1101",
@@ -14310,7 +14310,7 @@
       "The depth of the footing trench"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 9: Locating the House on the Building Site"
+    "source": "Carpentry, Chapter 9: Locating the House on the Building Site — Section: Section 9.2 Establishing Lines & Grades"
   },
   {
     "id": "Q1102",
@@ -14323,7 +14323,7 @@
       "The concrete mix design"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 9: Locating the House on the Building Site"
+    "source": "Carpentry, Chapter 9: Locating the House on the Building Site — Section: Section 9.2 Establishing Lines & Grades"
   },
   {
     "id": "Q1103",
@@ -14336,7 +14336,7 @@
       "Properly compacted"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 9: Locating the House on the Building Site"
+    "source": "Carpentry, Chapter 9: Locating the House on the Building Site — Section: Section 9.2 Establishing Lines & Grades"
   },
   {
     "id": "Q1104",
@@ -14349,7 +14349,7 @@
       "Mix concrete"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 9: Locating the House on the Building Site"
+    "source": "Carpentry, Chapter 9: Locating the House on the Building Site — Section: Section 9.1 Establishing the Building Location"
   },
   {
     "id": "Q1105",
@@ -14362,7 +14362,7 @@
       "Anchor the roof trusses"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 10: Foundation Walls"
+    "source": "Carpentry, Chapter 10: Foundation Walls — Section: Section 10.1 Footings"
   },
   {
     "id": "Q1106",
@@ -14375,7 +14375,7 @@
       "Vinyl siding"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 10: Foundation Walls"
+    "source": "Carpentry, Chapter 10: Foundation Walls — Section: Section 10.2 Concrete Foundation Walls / Section 10.3 Concrete Block Walls"
   },
   {
     "id": "Q1107",
@@ -14401,7 +14401,7 @@
       "Reduce the wall's thickness requirement"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 10: Foundation Walls"
+    "source": "Carpentry, Chapter 10: Foundation Walls — Section: Section 10.2 Concrete Foundation Walls"
   },
   {
     "id": "Q1109",
@@ -14414,7 +14414,7 @@
       "The interior partition wall"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 10: Foundation Walls"
+    "source": "Carpentry, Chapter 10: Foundation Walls — Section: Section 10.2 Concrete Foundation Walls"
   },
   {
     "id": "Q1110",
@@ -14427,7 +14427,7 @@
       "Attach exterior siding"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 10: Foundation Walls"
+    "source": "Carpentry, Chapter 10: Foundation Walls — Section: Section 10.2 Concrete Foundation Walls"
   },
   {
     "id": "Q1111",
@@ -14440,7 +14440,7 @@
       "An attached garage only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 10: Foundation Walls"
+    "source": "Carpentry, Chapter 10: Foundation Walls — Section: Section 10.2 Concrete Foundation Walls"
   },
   {
     "id": "Q1112",
@@ -14453,7 +14453,7 @@
       "Vapor barrier sheeting only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 10: Foundation Walls"
+    "source": "Carpentry, Chapter 10: Foundation Walls — Section: Section 10.3 Concrete Block Walls"
   },
   {
     "id": "Q1113",
@@ -14466,7 +14466,7 @@
       "Provide a decorative pattern only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 11: Concrete Flatwork"
+    "source": "Carpentry, Chapter 11: Concrete Flatwork — Section: Control Joints"
   },
   {
     "id": "Q1114",
@@ -14479,7 +14479,7 @@
       "Curing the slab with a sealant"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 11: Concrete Flatwork"
+    "source": "Carpentry, Chapter 11: Concrete Flatwork — Section: Screeding"
   },
   {
     "id": "Q1115",
@@ -14492,7 +14492,7 @@
       "Mix the concrete"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 11: Concrete Flatwork"
+    "source": "Carpentry, Chapter 11: Concrete Flatwork — Section: Floating"
   },
   {
     "id": "Q1116",
@@ -14505,7 +14505,7 @@
       "Speed up curing time"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 11: Concrete Flatwork"
+    "source": "Carpentry, Chapter 11: Concrete Flatwork — Section: Reinforcing Concrete"
   },
   {
     "id": "Q1117",
@@ -14518,7 +14518,7 @@
       "Replace the need for control joints"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 11: Concrete Flatwork"
+    "source": "Carpentry, Chapter 11: Concrete Flatwork — Section: Slabs-on-Grade"
   },
   {
     "id": "Q1118",
@@ -14531,7 +14531,7 @@
       "Cut expansion joints in hardened concrete"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 11: Concrete Flatwork"
+    "source": "Carpentry, Chapter 11: Concrete Flatwork — Section: Edging"
   },
   {
     "id": "Q1119",
@@ -14544,7 +14544,7 @@
       "No relevance to structural design"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 12: Wood as a Building Material"
+    "source": "Carpentry, Chapter 12: Wood as a Building Material — Section: Lumber Grades"
   },
   {
     "id": "Q1120",
@@ -14557,7 +14557,7 @@
       "Its grade stamp"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 12: Wood as a Building Material"
+    "source": "Carpentry, Chapter 12: Wood as a Building Material — Section: Sizes and Grades of Lumber"
   },
   {
     "id": "Q1121",
@@ -14570,7 +14570,7 @@
       "Cannot be measured"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 12: Wood as a Building Material"
+    "source": "Carpentry, Chapter 12: Wood as a Building Material — Section: Properties of Wood"
   },
   {
     "id": "Q1122",
@@ -14583,7 +14583,7 @@
       "Pitch pocket"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 12: Wood as a Building Material"
+    "source": "Carpentry, Chapter 12: Wood as a Building Material — Section: Common Lumber Defects"
   },
   {
     "id": "Q1123",
@@ -14596,7 +14596,7 @@
       "A curved warp along the length"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 12: Wood as a Building Material"
+    "source": "Carpentry, Chapter 12: Wood as a Building Material — Section: Common Lumber Defects"
   },
   {
     "id": "Q1124",
@@ -14609,7 +14609,7 @@
       "A single piece of dimensional lumber milled into an I-shape"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 13: Engineered Wood"
+    "source": "Carpentry, Chapter 13: Engineered Wood — Section: I-Joists"
   },
   {
     "id": "Q1125",
@@ -14622,7 +14622,7 @@
       "Laminating fiberglass sheets"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 13: Engineered Wood"
+    "source": "Carpentry, Chapter 13: Engineered Wood — Section: Laminated Veneer Lumber (LVL)"
   },
   {
     "id": "Q1126",
@@ -14635,7 +14635,7 @@
       "No advantage in span capability"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 13: Engineered Wood"
+    "source": "Carpentry, Chapter 13: Engineered Wood — Section: I-Joists"
   },
   {
     "id": "Q1127",
@@ -14648,7 +14648,7 @@
       "Steel mesh"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 13: Engineered Wood"
+    "source": "Carpentry, Chapter 13: Engineered Wood — Section: Oriented Strand Board (OSB)"
   },
   {
     "id": "Q1128",
@@ -14661,7 +14661,7 @@
       "Only affect appearance, not strength"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 13: Engineered Wood"
+    "source": "Carpentry, Chapter 13: Engineered Wood — Section: I-Joists"
   },
   {
     "id": "Q1129",
@@ -14674,7 +14674,7 @@
       "Extruding wood pulp into a beam shape"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 13: Engineered Wood"
+    "source": "Carpentry, Chapter 13: Engineered Wood — Section: Glued Laminated Timber (Glulam)"
   },
   {
     "id": "Q1130",
@@ -14687,7 +14687,7 @@
       "Interior trim only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 13: Engineered Wood"
+    "source": "Carpentry, Chapter 13: Engineered Wood — Section: Parallel Strand Lumber (PSL)"
   },
   {
     "id": "Q1131",
@@ -14700,7 +14700,7 @@
       "Built without any subfloor"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 14: Structural Systems"
+    "source": "Carpentry, Chapter 14: Structural Systems — Section: Platform Framing"
   },
   {
     "id": "Q1132",
@@ -14713,7 +14713,7 @@
       "Diagonally across the wall"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 14: Structural Systems"
+    "source": "Carpentry, Chapter 14: Structural Systems — Section: Balloon Framing"
   },
   {
     "id": "Q1133",
@@ -14726,7 +14726,7 @@
       "The plumbing supply line route"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 14: Structural Systems"
+    "source": "Carpentry, Chapter 14: Structural Systems — Section: Structural Load Paths"
   },
   {
     "id": "Q1134",
@@ -14739,7 +14739,7 @@
       "Sound transmission only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 14: Structural Systems"
+    "source": "Carpentry, Chapter 14: Structural Systems — Section: Shear Walls"
   },
   {
     "id": "Q1135",
@@ -14752,7 +14752,7 @@
       "Can be removed without any structural concern"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 14: Structural Systems"
+    "source": "Carpentry, Chapter 14: Structural Systems — Section: Bearing Walls"
   },
   {
     "id": "Q1136",
@@ -14765,7 +14765,7 @@
       "The flexibility of a truss"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 14: Structural Systems"
+    "source": "Carpentry, Chapter 14: Structural Systems — Section: Diaphragm Action"
   },
   {
     "id": "Q1137",
@@ -14778,7 +14778,7 @@
       "It eliminates the need for a foundation"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 14: Structural Systems"
+    "source": "Carpentry, Chapter 14: Structural Systems — Section: Balloon Framing"
   },
   {
     "id": "Q1138",
@@ -14791,7 +14791,7 @@
       "Purlin"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 15: Floor Framing"
+    "source": "Carpentry, Chapter 15: Floor Framing — Section: Floor Joists"
   },
   {
     "id": "Q1139",
@@ -14804,7 +14804,7 @@
       "Serve as a vapor barrier"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 15: Floor Framing"
+    "source": "Carpentry, Chapter 15: Floor Framing — Section: Bridging and Blocking"
   },
   {
     "id": "Q1140",
@@ -14817,7 +14817,7 @@
       "A type of subfloor fastener"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 15: Floor Framing"
+    "source": "Carpentry, Chapter 15: Floor Framing — Section: Girders"
   },
   {
     "id": "Q1141",
@@ -14830,7 +14830,7 @@
       "Diagonal at exactly 22.5 degrees only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 15: Floor Framing"
+    "source": "Carpentry, Chapter 15: Floor Framing — Section: Subflooring"
   },
   {
     "id": "Q1142",
@@ -14843,7 +14843,7 @@
       "Is placed only at wall corners"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Framing Wall Openings"
   },
   {
     "id": "Q1143",
@@ -14856,7 +14856,7 @@
       "Reduce the number of studs required"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Wall Bracing"
   },
   {
     "id": "Q1144",
@@ -14869,7 +14869,7 @@
       "Eliminate the need for a top plate"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Framing Corners"
   },
   {
     "id": "Q1145",
@@ -14882,7 +14882,7 @@
       "The wall will require fewer studs"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Laying Out Studs"
   },
   {
     "id": "Q1146",
@@ -14895,7 +14895,7 @@
       "The overhang length only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 17: Basic Roof Framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Rafter Terminology"
   },
   {
     "id": "Q1147",
@@ -14908,7 +14908,7 @@
       "Diagonally across the rafter's width"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 17: Basic Roof Framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Rafter Cuts"
   },
   {
     "id": "Q1148",
@@ -14921,7 +14921,7 @@
       "Is only used on valley rafters"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 17: Basic Roof Framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Bird's-Mouth Cut"
   },
   {
     "id": "Q1149",
@@ -14934,7 +14934,7 @@
       "Reduce the amount of roof sheathing required"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 17: Basic Roof Framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Rafter Overhangs"
   },
   {
     "id": "Q1150",
@@ -14947,7 +14947,7 @@
       "Replaces the ridge board entirely"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters"
+    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters — Section: Hip Rafters"
   },
   {
     "id": "Q1151",
@@ -14960,7 +14960,7 @@
       "The rafter overhangs the eave"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters"
+    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters — Section: Valley Rafters"
   },
   {
     "id": "Q1152",
@@ -14973,7 +14973,7 @@
       "Replace collar ties"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters"
+    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters — Section: Jack Rafters"
   },
   {
     "id": "Q1153",
@@ -14986,7 +14986,7 @@
       "8 inches"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters"
+    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters — Section: Hip Rafter Layout"
   },
   {
     "id": "Q1154",
@@ -14999,7 +14999,7 @@
       "Being framed without any common rafters"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters"
+    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters — Section: Hip Roofs"
   },
   {
     "id": "Q1155",
@@ -15012,7 +15012,7 @@
       "Only a level cut, never a plumb cut"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters"
+    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters — Section: Jack Rafter Cuts"
   },
   {
     "id": "Q1156",
@@ -15025,7 +15025,7 @@
       "Twice the spacing of common rafters"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters"
+    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters — Section: Jack Rafters"
   },
   {
     "id": "Q1157",
@@ -15038,7 +15038,7 @@
       "Never requires a cheek cut"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters"
+    "source": "Carpentry, Chapter 18: Hip, Valley, & Jack Rafters — Section: Jack Rafters"
   },
   {
     "id": "Q1158",
@@ -15051,7 +15051,7 @@
       "Improve nailing accuracy"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing"
+    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing — Section: Roof Sheathing"
   },
   {
     "id": "Q1159",
@@ -15064,7 +15064,7 @@
       "Attach shingles directly"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing"
+    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing — Section: Roof Sheathing"
   },
   {
     "id": "Q1160",
@@ -15077,7 +15077,7 @@
       "Eliminate the need for H-clips"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing"
+    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing — Section: Roof Sheathing"
   },
   {
     "id": "Q1161",
@@ -15090,7 +15090,7 @@
       "Sheathing to be omitted entirely"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing"
+    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing — Section: Roof Sheathing"
   },
   {
     "id": "Q1162",
@@ -15103,7 +15103,7 @@
       "The pitch of the roof only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing"
+    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing — Section: Roof Sheathing"
   },
   {
     "id": "Q1163",
@@ -15116,7 +15116,7 @@
       "Replace the need for roof sheathing"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing"
+    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing — Section: Roof Sheathing"
   },
   {
     "id": "Q1164",
@@ -15129,7 +15129,7 @@
       "The window's energy rating"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 20: Windows & Skylights"
+    "source": "Carpentry, Chapter 20: Windows & Skylights — Section: Window Installation"
   },
   {
     "id": "Q1165",
@@ -15142,7 +15142,7 @@
       "Replace the need for caulking entirely"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 20: Windows & Skylights"
+    "source": "Carpentry, Chapter 20: Windows & Skylights — Section: Window Flashing"
   },
   {
     "id": "Q1166",
@@ -15155,7 +15155,7 @@
       "The tint color of the glass"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 20: Windows & Skylights"
+    "source": "Carpentry, Chapter 20: Windows & Skylights — Section: Window Energy Efficiency"
   },
   {
     "id": "Q1167",
@@ -15168,7 +15168,7 @@
       "With the sash permanently locked shut"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 20: Windows & Skylights"
+    "source": "Carpentry, Chapter 20: Windows & Skylights — Section: Window Installation"
   },
   {
     "id": "Q1168",
@@ -15181,7 +15181,7 @@
       "Installation only on north-facing roof slopes"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 20: Windows & Skylights"
+    "source": "Carpentry, Chapter 20: Windows & Skylights — Section: Skylights"
   },
   {
     "id": "Q1169",
@@ -15194,7 +15194,7 @@
       "Interior trim profile"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 20: Windows & Skylights"
+    "source": "Carpentry, Chapter 20: Windows & Skylights — Section: Egress Windows"
   },
   {
     "id": "Q1170",
@@ -15207,7 +15207,7 @@
       "Without any rough opening requirement"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 21: Residential Doors"
+    "source": "Carpentry, Chapter 21: Residential Doors — Section: Prehung Doors"
   },
   {
     "id": "Q1171",
@@ -15220,7 +15220,7 @@
       "6 inches"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 21: Residential Doors"
+    "source": "Carpentry, Chapter 21: Residential Doors — Section: Door Rough Openings"
   },
   {
     "id": "Q1172",
@@ -15233,7 +15233,7 @@
       "Replace the need for a door sweep"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 21: Residential Doors"
+    "source": "Carpentry, Chapter 21: Residential Doors — Section: Exterior Doors"
   },
   {
     "id": "Q1173",
@@ -15246,7 +15246,7 @@
       "Being used exclusively as an interior closet door"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 21: Residential Doors"
+    "source": "Carpentry, Chapter 21: Residential Doors — Section: Types of Doors"
   },
   {
     "id": "Q1174",
@@ -15259,7 +15259,7 @@
       "Reduce the number of hinges required"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 21: Residential Doors"
+    "source": "Carpentry, Chapter 21: Residential Doors — Section: Door Hardware"
   },
   {
     "id": "Q1175",
@@ -15272,7 +15272,7 @@
       "60 inches"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 21: Residential Doors"
+    "source": "Carpentry, Chapter 21: Residential Doors — Section: Door Requirements"
   },
   {
     "id": "Q1176",
@@ -15285,7 +15285,7 @@
       "Serve as the primary fire-resistance layer only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: Roofing Underlayment"
   },
   {
     "id": "Q1177",
@@ -15298,7 +15298,7 @@
       "Serve only a decorative function"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: Roof Flashing"
   },
   {
     "id": "Q1178",
@@ -15311,7 +15311,7 @@
       "Reduce the number of hangers required"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: Gutters and Downspouts"
   },
   {
     "id": "Q1179",
@@ -15324,7 +15324,7 @@
       "Serve as the gutter attachment point"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: Step Flashing"
   },
   {
     "id": "Q1180",
@@ -15337,7 +15337,7 @@
       "Serve as the vapor barrier on the interior side of the wall"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 23: Siding"
+    "source": "Carpentry, Chapter 23: Siding — Section: Weather-Resistive Barriers"
   },
   {
     "id": "Q1181",
@@ -15350,7 +15350,7 @@
       "Corners only, leaving the field for last"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 23: Siding"
+    "source": "Carpentry, Chapter 23: Siding — Section: Horizontal Lap Siding"
   },
   {
     "id": "Q1182",
@@ -15363,7 +15363,7 @@
       "About 12 inches"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 23: Siding"
+    "source": "Carpentry, Chapter 23: Siding — Section: Horizontal Lap Siding"
   },
   {
     "id": "Q1183",
@@ -15376,7 +15376,7 @@
       "Installed only at the panel's top edge"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 23: Siding"
+    "source": "Carpentry, Chapter 23: Siding — Section: Vinyl Siding"
   },
   {
     "id": "Q1184",
@@ -15389,7 +15389,7 @@
       "Serve as the primary structural header"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 23: Siding"
+    "source": "Carpentry, Chapter 23: Siding — Section: Flashing"
   },
   {
     "id": "Q1185",
@@ -15402,7 +15402,7 @@
       "Provide ventilation to the attic"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 23: Siding"
+    "source": "Carpentry, Chapter 23: Siding — Section: Flashing"
   },
   {
     "id": "Q1186",
@@ -15415,7 +15415,7 @@
       "Being installed without any weather barrier"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 23: Siding"
+    "source": "Carpentry, Chapter 23: Siding — Section: Fiber-Cement Siding"
   },
   {
     "id": "Q1187",
@@ -15428,7 +15428,7 @@
       "Provide the finished sill for windows"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 23: Siding"
+    "source": "Carpentry, Chapter 23: Siding — Section: Siding Installation"
   },
   {
     "id": "Q1188",
@@ -15441,7 +15441,7 @@
       "Serve as an inspection port only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 24: Brick Masonry & Siding"
+    "source": "Carpentry, Chapter 24: Brick Masonry & Siding — Section: Brick Veneer"
   },
   {
     "id": "Q1189",
@@ -15454,7 +15454,7 @@
       "Nothing; it is self-supporting at any height"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 24: Brick Masonry & Siding"
+    "source": "Carpentry, Chapter 24: Brick Masonry & Siding — Section: Brick Veneer"
   },
   {
     "id": "Q1190",
@@ -15467,7 +15467,7 @@
       "Support the roof load"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 24: Brick Masonry & Siding"
+    "source": "Carpentry, Chapter 24: Brick Masonry & Siding — Section: Brick Veneer"
   },
   {
     "id": "Q1191",
@@ -15480,7 +15480,7 @@
       "Eliminate the need for weep holes"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 24: Brick Masonry & Siding"
+    "source": "Carpentry, Chapter 24: Brick Masonry & Siding — Section: Brick Veneer"
   },
   {
     "id": "Q1192",
@@ -15493,7 +15493,7 @@
       "Applying paint to masonry"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 24: Brick Masonry & Siding"
+    "source": "Carpentry, Chapter 24: Brick Masonry & Siding — Section: Mortar Joints and Tuckpointing"
   },
   {
     "id": "Q1193",
@@ -15506,7 +15506,7 @@
       "A tread with no riser beneath it"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 25: Stairways"
+    "source": "Carpentry, Chapter 25: Stairways — Section: Winder Stairs"
   },
   {
     "id": "Q1194",
@@ -15519,7 +15519,7 @@
       "The handrail's bottom edge"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 25: Stairways"
+    "source": "Carpentry, Chapter 25: Stairways — Section: Stair Treads"
   },
   {
     "id": "Q1195",
@@ -15532,7 +15532,7 @@
       "Requiring no risers at all"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 25: Stairways"
+    "source": "Carpentry, Chapter 25: Stairways — Section: Stair Stringers"
   },
   {
     "id": "Q1196",
@@ -15545,7 +15545,7 @@
       "A requirement that applies only to spiral stairs"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 25: Stairways"
+    "source": "Carpentry, Chapter 25: Stairways — Section: Stairway Design"
   },
   {
     "id": "Q1197",
@@ -15558,7 +15558,7 @@
       "Replace the need for door casing"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 26: Molding & Trim"
+    "source": "Carpentry, Chapter 26: Molding & Trim — Section: Base Molding"
   },
   {
     "id": "Q1198",
@@ -15571,7 +15571,7 @@
       "Bottom of a window sill only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 26: Molding & Trim"
+    "source": "Carpentry, Chapter 26: Molding & Trim — Section: Crown Molding"
   },
   {
     "id": "Q1199",
@@ -15584,7 +15584,7 @@
       "Only apply to outside corners"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 26: Molding & Trim"
+    "source": "Carpentry, Chapter 26: Molding & Trim — Section: Coping Joints"
   },
   {
     "id": "Q1200",
@@ -15597,7 +15597,7 @@
       "Is only used on exterior doors"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 26: Molding & Trim"
+    "source": "Carpentry, Chapter 26: Molding & Trim — Section: Door and Window Casing"
   },
   {
     "id": "Q1201",
@@ -15610,7 +15610,7 @@
       "Only on exterior walls"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 26: Molding & Trim"
+    "source": "Carpentry, Chapter 26: Molding & Trim — Section: Wall Trim"
   },
   {
     "id": "Q1202",
@@ -15623,7 +15623,7 @@
       "Casting from a synthetic resin only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 26: Molding & Trim"
+    "source": "Carpentry, Chapter 26: Molding & Trim — Section: Manufactured Trim"
   },
   {
     "id": "Q1203",
@@ -15636,7 +15636,7 @@
       "Replace the need for a jamb"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 26: Molding & Trim"
+    "source": "Carpentry, Chapter 26: Molding & Trim — Section: Door and Window Trim"
   },
   {
     "id": "Q1204",
@@ -15649,7 +15649,7 @@
       "Eliminating the need for cabinet hinges"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 27: Cabinets & Countertops"
+    "source": "Carpentry, Chapter 27: Cabinets & Countertops — Section: Cabinet Construction"
   },
   {
     "id": "Q1205",
@@ -15662,7 +15662,7 @@
       "No hinges of any kind"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 27: Cabinets & Countertops"
+    "source": "Carpentry, Chapter 27: Cabinets & Countertops — Section: Frameless Cabinets"
   },
   {
     "id": "Q1206",
@@ -15675,7 +15675,7 @@
       "Provide the finished cabinet toe-kick"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 27: Cabinets & Countertops"
+    "source": "Carpentry, Chapter 27: Cabinets & Countertops — Section: Installing Cabinets"
   },
   {
     "id": "Q1207",
@@ -15688,7 +15688,7 @@
       "Serve as ventilation for a dishwasher"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 27: Cabinets & Countertops"
+    "source": "Carpentry, Chapter 27: Cabinets & Countertops — Section: Base Cabinets"
   },
   {
     "id": "Q1208",
@@ -15701,7 +15701,7 @@
       "Without any allowance for expansion"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 28: Wall Paneling"
+    "source": "Carpentry, Chapter 28: Wall Paneling — Section: Sheet Paneling"
   },
   {
     "id": "Q1209",
@@ -15714,7 +15714,7 @@
       "The electrical wiring behind the panels"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 28: Wall Paneling"
+    "source": "Carpentry, Chapter 28: Wall Paneling — Section: Board Paneling"
   },
   {
     "id": "Q1210",
@@ -15727,7 +15727,7 @@
       "At the exact center of every wall"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 28: Wall Paneling"
+    "source": "Carpentry, Chapter 28: Wall Paneling — Section: Sheet Paneling"
   },
   {
     "id": "Q1211",
@@ -15740,7 +15740,7 @@
       "Ceramic tile set in a grid pattern"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 28: Wall Paneling"
+    "source": "Carpentry, Chapter 28: Wall Paneling — Section: Board-and-Batten Paneling"
   },
   {
     "id": "Q1212",
@@ -15753,7 +15753,7 @@
       "Wallpapered first"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 28: Wall Paneling"
+    "source": "Carpentry, Chapter 28: Wall Paneling — Section: Preparing the Wall"
   },
   {
     "id": "Q1213",
@@ -15766,7 +15766,7 @@
       "As a full liquid coating over the entire wall, not the panel"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 28: Wall Paneling"
+    "source": "Carpentry, Chapter 28: Wall Paneling — Section: Adhesive Installation"
   },
   {
     "id": "Q1214",
@@ -15779,7 +15779,7 @@
       "I-beam cross-section identical to structural steel beams"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 29: Steel Framing Basics"
+    "source": "Carpentry, Chapter 29: Steel Framing Basics — Section: Steel Studs"
   },
   {
     "id": "Q1215",
@@ -15792,7 +15792,7 @@
       "Wood glue"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 29: Steel Framing Basics"
+    "source": "Carpentry, Chapter 29: Steel Framing Basics — Section: Fastening Steel Framing"
   },
   {
     "id": "Q1216",
@@ -15805,7 +15805,7 @@
       "Grade stamp only, as with lumber"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 29: Steel Framing Basics"
+    "source": "Carpentry, Chapter 29: Steel Framing Basics — Section: Steel Stud and Track Sizes"
   },
   {
     "id": "Q1217",
@@ -15818,7 +15818,7 @@
       "Requires no corrosion protection ever"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 29: Steel Framing Basics"
+    "source": "Carpentry, Chapter 29: Steel Framing Basics — Section: Advantages of Steel Framing"
   },
   {
     "id": "Q1218",
@@ -15831,7 +15831,7 @@
       "A masonry saw blade exclusively"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 29: Steel Framing Basics"
+    "source": "Carpentry, Chapter 29: Steel Framing Basics — Section: Cutting Steel Framing"
   },
   {
     "id": "Q1219",
@@ -15844,7 +15844,7 @@
       "Insulation is never used in steel-framed walls"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 29: Steel Framing Basics"
+    "source": "Carpentry, Chapter 29: Steel Framing Basics — Section: Insulation and Thermal Bridging"
   },
   {
     "id": "Q1220",
@@ -15857,7 +15857,7 @@
       "Serve as fireblocking"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 29: Steel Framing Basics"
+    "source": "Carpentry, Chapter 29: Steel Framing Basics — Section: Steel Track Installation"
   },
   {
     "id": "Q1221",
@@ -15870,7 +15870,7 @@
       "Non-load-bearing wall only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 30: Mechanicals"
+    "source": "Carpentry, Chapter 30: Mechanicals — Section: 30.1 The Plumbing System"
   },
   {
     "id": "Q1222",
@@ -15883,7 +15883,7 @@
       "Anywhere, since studs have no limits on boring"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 30: Mechanicals"
+    "source": "Carpentry, Chapter 30: Mechanicals — Section: 30.2 The Electrical System"
   },
   {
     "id": "Q1223",
@@ -15896,7 +15896,7 @@
       "Replace the need for proper hole placement"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 30: Mechanicals"
+    "source": "Carpentry, Chapter 30: Mechanicals — Section: 30.2 The Electrical System"
   },
   {
     "id": "Q1224",
@@ -15909,7 +15909,7 @@
       "Serve as access panels for finished spaces only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 30: Mechanicals"
+    "source": "Carpentry, Chapter 30: Mechanicals — Section: 30.1 The Plumbing System / Section: 30.3 HVAC Systems"
   },
   {
     "id": "Q1225",
@@ -15922,7 +15922,7 @@
       "Mechanical rough-in has no impact on framing decisions"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 30: Mechanicals"
+    "source": "Carpentry, Chapter 30: Mechanicals — Section: 30.1 The Plumbing System / Section: 30.3 HVAC Systems"
   },
   {
     "id": "Q1226",
@@ -15935,7 +15935,7 @@
       "Its water absorption rate"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 31: Thermal & Acoustical Insulation"
+    "source": "Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: 31.1 Thermal Insulation"
   },
   {
     "id": "Q1227",
@@ -15948,7 +15948,7 @@
       "Installed only in exterior walls, never in ceilings"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 31: Thermal & Acoustical Insulation"
+    "source": "Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: 31.1 Thermal Insulation"
   },
   {
     "id": "Q1228",
@@ -15961,7 +15961,7 @@
       "Is never used in any wall assembly"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 31: Thermal & Acoustical Insulation"
+    "source": "Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: 31.1 Thermal Insulation"
   },
   {
     "id": "Q1229",
@@ -15974,7 +15974,7 @@
       "Moisture vapor permeability"
     ],
     "correct": 0,
-    "source": "Carpentry, Chapter 31: Thermal & Acoustical Insulation"
+    "source": "Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: 31.2 Acoustical Insulation"
   },
   {
     "id": "Q1230",
@@ -15987,7 +15987,7 @@
       "Provide the primary air barrier only, with no thermal benefit"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 31: Thermal & Acoustical Insulation"
+    "source": "Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: 31.1 Thermal Insulation"
   },
   {
     "id": "Q1231",
@@ -16000,7 +16000,7 @@
       "Use only in exterior applications, never indoors"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 31: Thermal & Acoustical Insulation"
+    "source": "Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: 31.1 Thermal Insulation"
   },
   {
     "id": "Q1232",
@@ -16013,7 +16013,7 @@
       "Randomly with no regard to framing orientation"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 32: Wall & Ceiling Surfaces"
+    "source": "Carpentry, Chapter 32: Wall & Ceiling Surfaces — Section: 32.1 Drywall"
   },
   {
     "id": "Q1233",
@@ -16026,7 +16026,7 @@
       "Replace the need for joint tape"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 32: Wall & Ceiling Surfaces"
+    "source": "Carpentry, Chapter 32: Wall & Ceiling Surfaces — Section: Drywall Finishing"
   },
   {
     "id": "Q1234",
@@ -16039,7 +16039,7 @@
       "Prevent the drywall from expanding"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 32: Wall & Ceiling Surfaces"
+    "source": "Carpentry, Chapter 32: Wall & Ceiling Surfaces — Section: Drywall Finishing"
   },
   {
     "id": "Q1235",
@@ -16052,7 +16052,7 @@
       "Solid wood paneling exclusively, by code"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 32: Wall & Ceiling Surfaces"
+    "source": "Carpentry, Chapter 32: Wall & Ceiling Surfaces — Section: Special-Purpose Gypsum Board"
   },
   {
     "id": "Q1236",
@@ -16065,7 +16065,7 @@
       "Replace the need for framing entirely"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 32: Wall & Ceiling Surfaces"
+    "source": "Carpentry, Chapter 32: Wall & Ceiling Surfaces — Section: Sound Control"
   },
   {
     "id": "Q1237",
@@ -16078,7 +16078,7 @@
       "Reduce the total number of coats required to zero"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 33: Exterior & Interior Paint"
+    "source": "Carpentry, Chapter 33: Exterior & Interior Paint — Section: Primers"
   },
   {
     "id": "Q1238",
@@ -16091,7 +16091,7 @@
       "Whether the paint is oil- or water-based"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 33: Exterior & Interior Paint"
+    "source": "Carpentry, Chapter 33: Exterior & Interior Paint — Section: Paint Finishes"
   },
   {
     "id": "Q1239",
@@ -16104,7 +16104,7 @@
       "Painting only in mild, dry weather"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 33: Exterior & Interior Paint"
+    "source": "Carpentry, Chapter 33: Exterior & Interior Paint — Section: Paint Failure"
   },
   {
     "id": "Q1240",
@@ -16117,7 +16117,7 @@
       "Eliminate the need for primer"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 33: Exterior & Interior Paint"
+    "source": "Carpentry, Chapter 33: Exterior & Interior Paint — Section: Caulking"
   },
   {
     "id": "Q1241",
@@ -16130,7 +16130,7 @@
       "Change its finish color"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 34: Finish Flooring"
+    "source": "Carpentry, Chapter 34: Finish Flooring — Section: Acclimating Wood Flooring"
   },
   {
     "id": "Q1242",
@@ -16143,7 +16143,7 @@
       "No fasteners; friction fit only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 34: Finish Flooring"
+    "source": "Carpentry, Chapter 34: Finish Flooring — Section: Installing Strip Flooring"
   },
   {
     "id": "Q1243",
@@ -16156,7 +16156,7 @@
       "Meet fire code requirements"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 34: Finish Flooring"
+    "source": "Carpentry, Chapter 34: Finish Flooring — Section: Installing Strip Flooring"
   },
   {
     "id": "Q1244",
@@ -16169,7 +16169,7 @@
       "Is only available unfinished"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 34: Finish Flooring"
+    "source": "Carpentry, Chapter 34: Finish Flooring — Section: Engineered Wood Flooring"
   },
   {
     "id": "Q1245",
@@ -16182,7 +16182,7 @@
       "Left with the old flooring in place in every case"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 34: Finish Flooring"
+    "source": "Carpentry, Chapter 34: Finish Flooring — Section: Preparing the Subfloor"
   },
   {
     "id": "Q1246",
@@ -16195,7 +16195,7 @@
       "Reduce the number of boards required"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 34: Finish Flooring"
+    "source": "Carpentry, Chapter 34: Finish Flooring — Section: Installing Hardwood Flooring"
   },
   {
     "id": "Q1247",
@@ -16208,7 +16208,7 @@
       "No fasteners; it rests by gravity only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 35: Decks & Porches"
+    "source": "Carpentry, Chapter 35: Decks & Porches — Section: Attaching the Ledger"
   },
   {
     "id": "Q1248",
@@ -16221,7 +16221,7 @@
       "Replace the need for lag screws or bolts"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 35: Decks & Porches"
+    "source": "Carpentry, Chapter 35: Decks & Porches — Section: Ledger Flashing"
   },
   {
     "id": "Q1249",
@@ -16234,7 +16234,7 @@
       "Guardrails are never required on residential decks"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 35: Decks & Porches"
+    "source": "Carpentry, Chapter 35: Decks & Porches — Section: Deck Railings"
   },
   {
     "id": "Q1250",
@@ -16247,7 +16247,7 @@
       "The deck ledger height only"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 35: Decks & Porches"
+    "source": "Carpentry, Chapter 35: Decks & Porches — Section: Deck Footings"
   },
   {
     "id": "Q1251",
@@ -16260,7 +16260,7 @@
       "Standard finish nails"
     ],
     "correct": 1,
-    "source": "Carpentry, Chapter 35: Decks & Porches"
+    "source": "Carpentry, Chapter 35: Decks & Porches — Section: Joist Hangers"
   },
   {
     "id": "Q1252",
