@@ -309,7 +309,7 @@
       "L x W x D / 12"
     ],
     "correct": 2,
-    "source": "Pipe&Excavation, Chapter 2: Crew & Equipment Productivity"
+    "source": "Pipe&Excavation, Chapter 2: Crew & Equipment Productivity — Section: Trench Excavation Quantities (Volume)"
   },
   {
     "id": "Q25",
@@ -491,7 +491,7 @@
       "Slump test"
     ],
     "correct": 3,
-    "source": "Pipe&Excavation, Chapter 6: Soil Compaction"
+    "source": "Pipe&Excavation, Chapter 6: Soil Compaction — Section: Determining Soil Density"
   },
   {
     "id": "Q39",
@@ -764,7 +764,7 @@
       "Unstable"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 6: Soil Compaction"
+    "source": "Pipe&Excavation, Chapter 6: Soil Compaction — Section: Soil Structure"
   },
   {
     "id": "Q60",
@@ -1115,7 +1115,7 @@
       "To estimate concrete shrinkage"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 2: Crew & Equipment Productivity"
+    "source": "Pipe&Excavation, Chapter 2: Crew & Equipment Productivity — Section: Equipment Performance"
   },
   {
     "id": "Q87",
@@ -1154,7 +1154,7 @@
       "Measuring moisture content"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 9: Estimating Surface Excavation"
+    "source": "Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Estimating Cut and Fill Quantities with the Cross Section Method"
   },
   {
     "id": "Q90",
@@ -1323,7 +1323,7 @@
       "A scaffold plank"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 3: Reading Plans & Surveying — Section: Project Layout"
+    "source": "Pipe&Excavation, Chapter 3: Reading Plans & Surveying — Section: Surveying"
   },
   {
     "id": "Q103",
@@ -1622,7 +1622,7 @@
       "6 inches only"
     ],
     "correct": 1,
-    "source": "SteelDeck, Unverified: (Composite Floor Deck)"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Composite Floor Deck"
   },
   {
     "id": "Q126",
@@ -1869,7 +1869,7 @@
       "They are measuring terms for concrete"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 2: Crew & Equipment Productivity"
+    "source": "Pipe&Excavation, Chapter 2: Crew & Equipment Productivity — Section: Trench Excavation Quantities (Volume)"
   },
   {
     "id": "Q145",
@@ -2155,7 +2155,7 @@
       "16, 24, 32, 48, 60 inches"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 1: Product descriptions"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Deck Profiles"
   },
   {
     "id": "Q167",
@@ -2480,7 +2480,7 @@
       "The water fill method"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 9: Estimating Surface Excavation"
+    "source": "Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: The Average End Area Method"
   },
   {
     "id": "Q192",
@@ -3663,7 +3663,7 @@
       "Cutting asphalt"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Equipment Production"
+    "source": "Pipe&Excavation, Chapter 6: Soil Compaction — Section: Compaction Methods"
   },
   {
     "id": "Q283",
@@ -3793,7 +3793,7 @@
       "To aerate the soil"
     ],
     "correct": 0,
-    "source": "Pipe&Excavation, Chapter 6: Soil Compaction"
+    "source": "Pipe&Excavation, Chapter 6: Soil Compaction — Section: Compaction Equipment Productivity"
   },
   {
     "id": "Q293",
@@ -3845,7 +3845,7 @@
       "Gauge"
     ],
     "correct": 0,
-    "source": "SteelDeck, Chapter 1: Product descriptions"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Deck Profiles"
   },
   {
     "id": "Q297",
@@ -4170,7 +4170,7 @@
       "The final bill"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 3: Reading Plans & Surveying"
+    "source": "Pipe&Excavation, Chapter 3: Reading Plans & Surveying — Section: Reading Plans"
   },
   {
     "id": "Q322",
@@ -4183,7 +4183,7 @@
       "The lunch break angle"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 2: Crew & Equipment Productivity — Section: Soil Characteristics"
+    "source": "Pipe&Excavation, Chapter 5: Operating a Backhoe — Section: Working Around Crosslines"
   },
   {
     "id": "Q323",
@@ -4196,7 +4196,7 @@
       "Removing soil from the site"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 6: Soil Compaction"
+    "source": "Pipe&Excavation, Chapter 6: Soil Compaction — Section: Compaction Methods"
   },
   {
     "id": "Q324",
@@ -4443,7 +4443,7 @@
       "60 inches"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 1: Product descriptions"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Deck Profiles"
   },
   {
     "id": "Q343",
@@ -4976,7 +4976,7 @@
       "Connect two pipes together"
     ],
     "correct": 0,
-    "source": "Pipe&Excavation, Chapter 11: Pipe Materials — Section: Pipe Installation"
+    "source": "Pipe&Excavation, Chapter 7: Installing Water Systems — Section: Water Pressure and Thrust"
   },
   {
     "id": "Q384",
@@ -5002,7 +5002,7 @@
       "X-ray"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 11: Pipe Materials — Section: Pipe Installation"
+    "source": "Pipe&Excavation, Chapter 3: Reading Plans & Surveying — Section: Lasers"
   },
   {
     "id": "Q386",
@@ -5015,7 +5015,7 @@
       "A specialized shovel"
     ],
     "correct": 0,
-    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Ground Water Control"
+    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Groundwater Control"
   },
   {
     "id": "Q387",
@@ -5249,7 +5249,7 @@
       "Deck used for phones"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 1: Product descriptions"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Deck Profiles"
   },
   {
     "id": "Q405",
@@ -5600,7 +5600,7 @@
       "Sewer lines"
     ],
     "correct": 2,
-    "source": "Pipe&Excavation, Chapter 3: Reading Plans & Surveying"
+    "source": "Pipe&Excavation, Chapter 3: Reading Plans & Surveying — Section: Reading Plans"
   },
   {
     "id": "Q432",
@@ -5613,7 +5613,7 @@
       "GPS signal"
     ],
     "correct": 0,
-    "source": "Pipe&Excavation, Chapter 11: Pipe Materials — Section: Pipe Installation"
+    "source": "Pipe&Excavation, Chapter 3: Reading Plans & Surveying — Section: Lasers"
   },
   {
     "id": "Q433",
@@ -5626,7 +5626,7 @@
       "Debris"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 11: Pipe Materials — Section: Pipe Installation"
+    "source": "Pipe&Excavation, Chapter 8: Installing Sewer & Stormwater Systems — Section: Pipe Installation"
   },
   {
     "id": "Q434",
@@ -5899,7 +5899,7 @@
       "Asphalt"
     ],
     "correct": 2,
-    "source": "Pipe&Excavation, Chapter 6: Soil Compaction"
+    "source": "Pipe&Excavation, Chapter 6: Soil Compaction — Section: Compaction Methods"
   },
   {
     "id": "Q455",
@@ -5964,7 +5964,7 @@
       "Inspect the bottom of the slab"
     ],
     "correct": 0,
-    "source": "SteelDeck, Chapter 1: Product descriptions"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: General Information"
   },
   {
     "id": "Q460",
@@ -6211,7 +6211,7 @@
       "Around the valve handle"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 11: Pipe Materials — Section: Pipe Installation"
+    "source": "Pipe&Excavation, Chapter 7: Installing Water Systems — Section: Water Pressure and Thrust"
   },
   {
     "id": "Q479",
@@ -6224,7 +6224,7 @@
       "911"
     ],
     "correct": 2,
-    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
+    "source": "Pipe&Excavation, Chapter 5: Operating a Backhoe — Section: Working Around Crosslines"
   },
   {
     "id": "Q480",
@@ -6237,7 +6237,7 @@
       "Exactly 4 feet"
     ],
     "correct": 2,
-    "source": "Pipe&Excavation, Chapter 11: Pipe Materials — Section: Pipe Installation"
+    "source": "Pipe&Excavation, Chapter 8: Installing Sewer & Stormwater Systems — Section: Installing Pipe"
   },
   {
     "id": "Q481",
@@ -6471,7 +6471,7 @@
       "Random locations"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 8: Installing Sewer & Stormwater Systems — Section: Manholes"
+    "source": "Pipe&Excavation, Chapter 8: Installing Sewer & Stormwater Systems — Section: Installing Manholes"
   },
   {
     "id": "Q499",
@@ -6640,7 +6640,7 @@
       "Acoustical dampening only"
     ],
     "correct": 0,
-    "source": "SteelDeck, Chapter 1: Product descriptions"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Deck Profiles"
   },
   {
     "id": "Q512",
@@ -6861,7 +6861,7 @@
       "Bending around a corner"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 11: Pipe Materials"
+    "source": "Pipe&Excavation, Chapter 8: Installing Sewer & Stormwater Systems — Section: The Mandrel Test"
   },
   {
     "id": "Q529",
@@ -6874,7 +6874,7 @@
       "A survey stake"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Ground Water Control"
+    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Working in Groundwater"
   },
   {
     "id": "Q530",
@@ -6887,7 +6887,7 @@
       "Cleaning the trench"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 11: Pipe Materials — Section: Pipe Installation"
+    "source": "Pipe&Excavation, Chapter 8: Installing Sewer & Stormwater Systems — Section: Backfill, Compaction and Surface Restoration"
   },
   {
     "id": "Q531",
@@ -7147,7 +7147,7 @@
       "Sand bags"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Ground Water Control"
+    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Working in Groundwater"
   },
   {
     "id": "Q551",
@@ -7576,7 +7576,7 @@
       "Trench Box"
     ],
     "correct": 2,
-    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation; OSHA, Subpart P: Excavations — Section: 1926.652(b), Design of sloping and benching systems"
+    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Working in Groundwater; OSHA, Subpart P: Excavations — Section: 1926.652(b), Design of sloping and benching systems"
   },
   {
     "id": "Q584",
@@ -7693,7 +7693,7 @@
       "20 feet"
     ],
     "correct": 2,
-    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation; OSHA, Subpart P: Excavations — Section: 1926.650(b), Definitions"
+    "source": "Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Working in Groundwater; OSHA, Subpart P: Excavations — Section: 1926.650(b), Definitions"
   },
   {
     "id": "Q593",
@@ -7823,7 +7823,7 @@
       "It is lunchtime"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
+    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Working in Groundwater"
   },
   {
     "id": "Q603",
@@ -7927,7 +7927,7 @@
       "It must sit on the bottom"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.652(g), Shield systems; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Working in Groundwater"
   },
   {
     "id": "Q611",
@@ -8135,7 +8135,7 @@
       "Ever"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Shear connectors; SteelDeck, Chapter 4: Loading and shipping — Section: Installation"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Shear connectors; SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Shear Studs"
   },
   {
     "id": "Q627",
@@ -8174,7 +8174,7 @@
       "Only if someone faints"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart P: Excavations — Section: Testing of atmospheres; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Safety in Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: Testing of atmospheres; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Working in Groundwater"
   },
   {
     "id": "Q630",
@@ -8239,7 +8239,7 @@
       "Removed for speed"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection; OSHA, Subpart R: Steel Erection — Section: Hoisting and rigging"
+    "source": "SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Lifting; OSHA, Subpart R: Steel Erection — Section: Hoisting and rigging"
   },
   {
     "id": "Q635",
@@ -8317,7 +8317,7 @@
       "10 floors"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Structural steel assembly; SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Structural steel assembly; SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Lifting"
   },
   {
     "id": "Q641",
@@ -8538,7 +8538,7 @@
       "12 inches in their least dimension"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Falling object protection; SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Erection Stability"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Falling object protection; SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Safety Notes"
   },
   {
     "id": "Q658",
@@ -8785,7 +8785,7 @@
       "The ironworkers agree"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Multiple lift rigging procedure; SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Multiple lift rigging procedure; SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Lifting"
   },
   {
     "id": "Q677",
@@ -8889,7 +8889,7 @@
       "Welds only"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection; OSHA, Subpart R: Steel Erection — Section: Column anchorage"
+    "source": "SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Alertness; OSHA, Subpart R: Steel Erection — Section: Column anchorage"
   },
   {
     "id": "Q685",
@@ -8967,7 +8967,7 @@
       "50 feet"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Fall protection; SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Erection Stability"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Fall protection; SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Safe Working Platform"
   },
   {
     "id": "Q691",
@@ -10176,7 +10176,7 @@
       "Galvanized steel"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 11: Pipe Materials; IRC, Chapter 30: Sanitary drainage — Section: P3002.2 Building sewer pipe"
+    "source": "Pipe&Excavation, Chapter 11: Pipe Materials — Section: Plastic Pipe; IRC, Chapter 30: Sanitary drainage — Section: P3002.2 Building sewer pipe"
   },
   {
     "id": "Q784",
@@ -10293,7 +10293,7 @@
       "24 inches"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 11: Pipe Materials; IRC, Chapter 26: General plumbing requirements — Section: P2603.5 Freezing"
+    "source": "Pipe&Excavation, Chapter 11: Pipe Materials — Section: Water Service Pipe; IRC, Chapter 26: General plumbing requirements — Section: P2603.5 Freezing"
   },
   {
     "id": "Q793",
@@ -10345,7 +10345,7 @@
       "Square"
     ],
     "correct": 0,
-    "source": "Pipe&Excavation, Chapter 3: Reading Plans & Surveying — Section: Grade Establishment; Carpentry, Chapter 9: Locating the House on the Building Site — Section: leveling a transit head"
+    "source": "Pipe&Excavation, Chapter 3: Reading Plans & Surveying — Section: Grade Establishment; Carpentry, Chapter 9: Locating the House on the Building Site — Section: Leveling a Transit Head"
   },
   {
     "id": "Q797",
@@ -10618,7 +10618,7 @@
       "4 inches"
     ],
     "correct": 2,
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
+    "source": "SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Fastening and Installing; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
   },
   {
     "id": "Q818",
@@ -10852,7 +10852,7 @@
       "Clamps"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
+    "source": "SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Fastening and Installing; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
   },
   {
     "id": "Q836",
@@ -11190,7 +11190,7 @@
       "Concrete flow"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Floor Deck; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Cellular Deck; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
   },
   {
     "id": "Q862",
@@ -11346,7 +11346,7 @@
       "Magnetic properties"
     ],
     "correct": 0,
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Deck Materials; IBC, Chapter 22: Steel — Section: 2203 Identification and Protection"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: General — All Deck Products; IBC, Chapter 22: Steel — Section: 2203 Identification and Protection"
   },
   {
     "id": "Q874",
@@ -11528,7 +11528,7 @@
       "Acoustics"
     ],
     "correct": 0,
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Floor Deck Design; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Composite Floor Deck; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
   },
   {
     "id": "Q888",
@@ -11671,7 +11671,7 @@
       "Roof traffic"
     ],
     "correct": 1,
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Accessories; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
+    "source": "SteelDeck, Chapter 6: Erection of deck and job site safety — Section: Fastening and Installing; IBC, Chapter 22: Steel — Section: 2210 Steel Joists"
   },
   {
     "id": "Q899",
@@ -11957,7 +11957,7 @@
       "30 inches"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Safety and Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: Access and egress; Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Safety and Excavation"
   },
   {
     "id": "Q921",
@@ -12139,7 +12139,7 @@
       "Only if an odor is detected"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Confined Space Safety"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651(g), Hazardous atmospheres and conditions; Pipe&Excavation, Chapter 10: Dealing with Rock & Groundwater — Section: Working in Groundwater"
   },
   {
     "id": "Q935",
@@ -12217,7 +12217,7 @@
       "Sloped at 1/2:1"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart P: Excavations — Section: Sloping and benching; Pipe&Excavation, Chapter 5: Operating a Backhoe — Section: Soil Mechanics"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.652(b), Design of sloping and benching systems; Pipe&Excavation, Chapter 5: Operating a Backhoe — Section: Soil Mechanics"
   },
   {
     "id": "Q941",
@@ -12464,7 +12464,7 @@
       "Ramps"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Safety and Excavation"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651(e), Exposure to falling loads; Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Safety and Excavation"
   },
   {
     "id": "Q960",
@@ -12646,7 +12646,7 @@
       "It is night time"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart P: Excavations; Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Safety"
+    "source": "OSHA, Subpart P: Excavations — Section: 1926.651(j)(2), Protection from hazards associated with equipment and materials; Pipe&Excavation, Chapter 9: Estimating Surface Excavation — Section: Safety"
   },
   {
     "id": "Q974",
@@ -12919,7 +12919,7 @@
       "8 inches"
     ],
     "correct": 1,
-    "source": "Pipe&Excavation, Chapter 8: Installing Sewer & Stormwater Systems — Section: Excavation and Backfill; IRC, Chapter 26: General plumbing requirements — Section: P2604.3 Trenching"
+    "source": "Pipe&Excavation, Chapter 8: Installing Sewer & Stormwater Systems — Section: Backfill, Compaction and Surface Restoration; IRC, Chapter 26: General Plumbing Requirements — Section: P2604.3 Trenching"
   },
   {
     "id": "Q995",
