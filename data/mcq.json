@@ -10,7 +10,7 @@
       "6 inches"
     ],
     "correct": 2,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection of K-Series Joists"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q2",
@@ -400,7 +400,7 @@
       "3 inches"
     ],
     "correct": 2,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection of K-Series Joists"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q32",
@@ -582,7 +582,7 @@
       "4 inches"
     ],
     "correct": 2,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection of K-Series Joists"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q46",
@@ -1271,7 +1271,7 @@
       "Hanging from a crane"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 4: Receiving, Unloading and Storing — Section: Handling and Storage"
+    "source": "SteelJoists, Chapter 4: Receiving, Unloading and Storing — Section: Storing"
   },
   {
     "id": "Q99",
@@ -1687,7 +1687,7 @@
       "6 inches"
     ],
     "correct": 2,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection of K-Series Joists"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q131",
@@ -2389,7 +2389,7 @@
       "At the discretion of the welder"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads"
+    "source": "SteelJoists, Chapter 8: Bridging — Section: Bridging Requirements"
   },
   {
     "id": "Q185",
@@ -2792,7 +2792,7 @@
       "The bridging is fully installed"
     ],
     "correct": 2,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q216",
@@ -3169,7 +3169,7 @@
       "6 inches"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q245",
@@ -3546,7 +3546,7 @@
       "It does not matter"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q274",
@@ -3559,7 +3559,7 @@
       "End anchorage"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads"
+    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads — Section: Bridging Requirements"
   },
   {
     "id": "Q275",
@@ -4287,7 +4287,7 @@
       "They are not attached"
     ],
     "correct": 0,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q331",
@@ -4300,7 +4300,7 @@
       "A wood block"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q332",
@@ -4313,7 +4313,7 @@
       "The first truck load"
     ],
     "correct": 2,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q333",
@@ -5158,7 +5158,7 @@
       "Only on roof decks"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads"
+    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads — Section: Bridging Requirements"
   },
   {
     "id": "Q398",
@@ -5171,7 +5171,7 @@
       "The load capacity"
     ],
     "correct": 2,
-    "source": "SteelJoists, Chapter 1: Products — Section: General Information"
+    "source": "SteelJoists, Chapter 1: Products — Section: Products"
   },
   {
     "id": "Q399",
@@ -5184,7 +5184,7 @@
       "50°F"
     ],
     "correct": 0,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q400",
@@ -5743,7 +5743,7 @@
       "Residential joists"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Long Span Joists"
   },
   {
     "id": "Q443",
@@ -6302,7 +6302,7 @@
       "If the joist is over 100 feet long"
     ],
     "correct": 0,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q486",
@@ -6315,7 +6315,7 @@
       "The spacing of the webs"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 1: Products — Section: General Information"
+    "source": "SteelJoists, Chapter 9: Miscellaneous Topics — Section: Tolerances"
   },
   {
     "id": "Q487",
@@ -6523,7 +6523,7 @@
       "It is a floor joist"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads"
+    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads — Section: Bridging Requirements"
   },
   {
     "id": "Q503",
@@ -6978,7 +6978,7 @@
       "The bearing seat"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 1: Products — Section: General Information"
+    "source": "SteelJoists, Chapter 1: Products — Section: Products"
   },
   {
     "id": "Q538",
@@ -6991,7 +6991,7 @@
       "Bridging will fix it automatically"
     ],
     "correct": 0,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q539",
@@ -7199,7 +7199,7 @@
       "By the crane operator"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Long Span Joists"
   },
   {
     "id": "Q555",
@@ -7797,7 +7797,7 @@
       "Four"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products; OSHA, Subpart R: Steel Erection — Section: 1926.757(a)(1), Open web steel joists"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection; OSHA, Subpart R: Steel Erection — Section: 1926.757(a)(1), Open web steel joists"
   },
   {
     "id": "Q601",
@@ -7888,7 +7888,7 @@
       "24 inches"
     ],
     "correct": 0,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Falling object protection; SteelJoists, Chapter 6: Field Inspection — Section: Erection Stability"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Fall protection; SteelJoists, Chapter 6: Field Inspection — Section: Erection Stability"
   },
   {
     "id": "Q608",
@@ -8018,7 +8018,7 @@
       "Full design strength"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Site layout and concrete in steel erection; SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Site layout and concrete in steel erection; SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q618",
@@ -8434,7 +8434,7 @@
       "Welded later"
     ],
     "correct": 1,
-    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads; OSHA, Subpart R: Steel Erection — Section: Steel joists"
+    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads — Section: Bridging Requirements; OSHA, Subpart R: Steel Erection — Section: Open web steel joists"
   },
   {
     "id": "Q650",
@@ -8603,7 +8603,7 @@
       "Using nylon straps"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart R: Steel Erection — Section: Steel joists; SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Open web steel joists; SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection"
   },
   {
     "id": "Q663",
@@ -9084,7 +9084,7 @@
       "700 lbs"
     ],
     "correct": 3,
-    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads; OSHA, Subpart R: Steel Erection — Section: Steel joists"
+    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads — Section: Terminus Anchorage; OSHA, Subpart R: Steel Erection — Section: Open web steel joists"
   },
   {
     "id": "Q700",
@@ -9500,7 +9500,7 @@
       "6 inches"
     ],
     "correct": 2,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Masonry and Concrete"
   },
   {
     "id": "Q732",
@@ -12256,7 +12256,7 @@
       "10 feet"
     ],
     "correct": 2,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products; OSHA, Subpart R: Steel Erection"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Bridging"
   },
   {
     "id": "Q944",
@@ -12529,7 +12529,7 @@
       "Support the beam"
     ],
     "correct": 0,
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products; OSHA, Subpart R: Steel Erection — Section: Training (steel erection)"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection; OSHA, Subpart R: Steel Erection — Section: 1926.757(a)(1), Open web steel joists"
   },
   {
     "id": "Q965",
@@ -12620,7 +12620,7 @@
       "The jib"
     ],
     "correct": 1,
-    "source": "OSHA, Subpart CC: Cranes/Derricks; SteelJoists, Unverified: Chapter (Equipment)"
+    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: 1926.1404(q), Outriggers and Stabilizers; SteelJoists, Unverified: Chapter: Equipment"
   },
   {
     "id": "Q972",
