@@ -49,7 +49,7 @@
       "60 consecutive tests"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 3: The Concrete Specification"
+    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Concrete Mix Design and Strength Requirements"
   },
   {
     "id": "Q5",
@@ -75,7 +75,7 @@
       "6.0 inches"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Slab Thickness"
   },
   {
     "id": "Q7",
@@ -140,7 +140,7 @@
       "6 inches"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 3: The Concrete Specification"
+    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Slump and Consistency Requirements"
   },
   {
     "id": "Q12",
@@ -153,7 +153,7 @@
       "To create a non-slip texture"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Screeding"
   },
   {
     "id": "Q13",
@@ -361,7 +361,7 @@
       "It fluctuates randomly"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 5: Formwork"
+    "source": "Concrete, Chapter 5: Formwork — Section: Form Pressure and Rate of Placement"
   },
   {
     "id": "Q29",
@@ -426,7 +426,7 @@
       "Curing the concrete with water"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Screeding"
   },
   {
     "id": "Q34",
@@ -556,7 +556,7 @@
       "7 to 8 inches"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Recommended Slumps for Various Types of Construction"
   },
   {
     "id": "Q44",
@@ -725,7 +725,7 @@
       "6 inches"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Slab Thickness"
   },
   {
     "id": "Q57",
@@ -855,7 +855,7 @@
       "To change the color"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mixs"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Air-Entrained Concrete"
   },
   {
     "id": "Q67",
@@ -985,7 +985,7 @@
       "To apply the final finish"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Bull Floating"
   },
   {
     "id": "Q77",
@@ -1024,7 +1024,7 @@
       "105°F"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Curing and Protection"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Hot-Weather Concreting"
   },
   {
     "id": "Q80",
@@ -1037,7 +1037,7 @@
       "To create a decorative pattern"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork"
+    "source": "Concrete, Chapter 5: Formwork — Section: Form Details and Accessories"
   },
   {
     "id": "Q81",
@@ -1180,7 +1180,7 @@
       "Placing concrete too slowly"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Honeycombing"
   },
   {
     "id": "Q92",
@@ -1492,7 +1492,7 @@
       "Air bubbles escaping"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Bleeding"
   },
   {
     "id": "Q116",
@@ -1778,7 +1778,7 @@
       "A concrete additive"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Surface Defects"
   },
   {
     "id": "Q138",
@@ -2198,8 +2198,8 @@
   },
   {
     "id": "Q170",
-    "legacyKey": "According to IECC 2009, supply ducts located in attics must be insulated to a minimum of:",
-    "q": "According to IECC 2009, supply ducts located in attics must be insulated to a minimum of:",
+    "legacyKey": "According to IECC, supply ducts located in attics must be insulated to a minimum of:",
+    "q": "According to IECC, supply ducts located in attics must be insulated to a minimum of:",
     "options": [
       "R-4",
       "R-6",
@@ -2207,7 +2207,7 @@
       "R-13"
     ],
     "correct": 2,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 403.2.1 Insulation"
   },
   {
     "id": "Q171",
@@ -2220,7 +2220,7 @@
       "100%"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 404.1 Lighting equipment"
   },
   {
     "id": "Q172",
@@ -2233,7 +2233,7 @@
       "Final curing time"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 2: The Concrete Mixture"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Control Tests"
   },
   {
     "id": "Q173",
@@ -2246,7 +2246,7 @@
       "Applying dry sand"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Curing and Protection"
   },
   {
     "id": "Q174",
@@ -2467,7 +2467,7 @@
       "60°F"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Curing and Protection"
   },
   {
     "id": "Q191",
@@ -2571,7 +2571,7 @@
       "60%"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency — Section: Building envelope requirements"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 502.3 Fenestration (prescriptive)"
   },
   {
     "id": "Q199",
@@ -2584,7 +2584,7 @@
       "Installed without trim"
     ],
     "correct": 0,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.4.5 Recessed lighting"
   },
   {
     "id": "Q200",
@@ -2597,7 +2597,7 @@
       "After the concrete has fully cured"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Finishing"
   },
   {
     "id": "Q201",
@@ -2610,7 +2610,7 @@
       "It has no effect"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 2: The Concrete Mixture"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Water Content and Water-Cement Ratio"
   },
   {
     "id": "Q202",
@@ -2857,7 +2857,7 @@
       "A method of curing"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Honeycombing"
   },
   {
     "id": "Q221",
@@ -2948,7 +2948,7 @@
       "Ducts shorter than 10 feet"
     ],
     "correct": 2,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 403.2.2 Sealing"
   },
   {
     "id": "Q228",
@@ -2961,7 +2961,7 @@
       "Hot water radiant heat"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 403.1.1 Programmable thermostat"
   },
   {
     "id": "Q229",
@@ -2974,7 +2974,7 @@
       "To change the color"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Air-Entrained Concrete"
   },
   {
     "id": "Q230",
@@ -2987,7 +2987,7 @@
       "The full depth of the slab"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures"
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Contraction Joints"
   },
   {
     "id": "Q231",
@@ -3247,7 +3247,7 @@
       "Cutting the slab into sections"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Placing Concrete"
   },
   {
     "id": "Q251",
@@ -3338,7 +3338,7 @@
       "Basement walls"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 2: Definitions"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: 202 General Definitions"
   },
   {
     "id": "Q258",
@@ -3351,7 +3351,7 @@
       "R-38"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration requirements by component"
   },
   {
     "id": "Q259",
@@ -3364,7 +3364,7 @@
       "More shrinkage"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Water Content and Water-Cement Ratio"
   },
   {
     "id": "Q260",
@@ -3377,7 +3377,7 @@
       "4 hours"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Transportation and Delivery of Concrete"
   },
   {
     "id": "Q261",
@@ -3637,7 +3637,7 @@
       "To separate the aggregate"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Consolidation of Concrete"
   },
   {
     "id": "Q281",
@@ -3767,7 +3767,7 @@
       "Cracking due to heat"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Properties of Fresh Concrete"
   },
   {
     "id": "Q291",
@@ -3901,8 +3901,8 @@
   },
   {
     "id": "Q301",
-    "legacyKey": "According to IECC 2009, 'SHGC' stands for:",
-    "q": "According to IECC 2009, 'SHGC' stands for:",
+    "legacyKey": "According to IECC, 'SHGC' stands for:",
+    "q": "According to IECC, 'SHGC' stands for:",
     "options": [
       "Solar Heat Gain Coefficient",
       "Standard Heat Generation Code",
@@ -3910,7 +3910,7 @@
       "Systematic Heat Gain Control"
     ],
     "correct": 0,
-    "source": "IECC 2009, Chapter 2: Definitions"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: 202 General Definitions"
   },
   {
     "id": "Q302",
@@ -3923,7 +3923,7 @@
       "The outdoor temperature is above 70°F"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 404.5.3 Hot water system controls"
   },
   {
     "id": "Q303",
@@ -3936,7 +3936,7 @@
       "24 inches"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 3: Climate zones — Section: General Requirements"
+    "source": "IECC 2015, Chapter 3: Climate zones — Section: 303.2.1 Protection of exposed foundation insulation"
   },
   {
     "id": "Q304",
@@ -3949,7 +3949,7 @@
       "90%"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 404.1 Lighting equipment"
   },
   {
     "id": "Q305",
@@ -3962,7 +3962,7 @@
       "Curing too quickly"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Surface Scaling"
   },
   {
     "id": "Q306",
@@ -3988,7 +3988,7 @@
       "3 inches"
     ],
     "correct": 3,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Reinforcement"
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Reinforcement — Subsection: Concrete Cover"
   },
   {
     "id": "Q308",
@@ -4001,7 +4001,7 @@
       "Seal the form joints"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork"
+    "source": "Concrete, Chapter 5: Formwork — Section: Form Material and Hardware"
   },
   {
     "id": "Q309",
@@ -4417,7 +4417,7 @@
       "Using colored concrete"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Crazing (Hairline Cracking, Surface Checking)"
   },
   {
     "id": "Q341",
@@ -4547,7 +4547,7 @@
       "They are underground"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.2.3 Mass walls"
   },
   {
     "id": "Q351",
@@ -4560,7 +4560,7 @@
       "R-11"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 503.4.1.1 Protection of piping"
   },
   {
     "id": "Q352",
@@ -4573,7 +4573,7 @@
       "Bulb"
     ],
     "correct": 2,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.4.5 Recessed lighting"
   },
   {
     "id": "Q353",
@@ -4586,7 +4586,7 @@
       "The forms are removed too early"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures"
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Construction Joints in Walls"
   },
   {
     "id": "Q354",
@@ -4599,7 +4599,7 @@
       "It damages the truck"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 2: The Concrete Mixture"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Water"
   },
   {
     "id": "Q355",
@@ -4742,7 +4742,7 @@
       "60°F"
     ],
     "correct": 2,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency — Section: snow melt system controls"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 503.2.14 Snow- and ice-melting systems"
   },
   {
     "id": "Q366",
@@ -4755,7 +4755,7 @@
       "Air curtains"
     ],
     "correct": 2,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 502.4.7 Vestibules"
   },
   {
     "id": "Q367",
@@ -4768,7 +4768,7 @@
       "Underwater lighting"
     ],
     "correct": 0,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency — Section: Pool covers"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 504.7.1 Pool covers"
   },
   {
     "id": "Q368",
@@ -4781,7 +4781,7 @@
       "To retard the set"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork"
+    "source": "Concrete, Chapter 5: Formwork — Section: Form Material and Hardware"
   },
   {
     "id": "Q369",
@@ -4807,7 +4807,7 @@
       "Heat the concrete"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Placing Concrete"
   },
   {
     "id": "Q371",
@@ -5262,7 +5262,7 @@
       "R-11"
     ],
     "correct": 0,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 503.4.1.1 Protection of piping"
   },
   {
     "id": "Q406",
@@ -5275,7 +5275,7 @@
       "Polish the concrete"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Texturing"
   },
   {
     "id": "Q407",
@@ -5418,12 +5418,12 @@
       "Display signage"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency — Section: Air infiltration (requirements)"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 502.4.7 Vestibules"
   },
   {
     "id": "Q418",
-    "legacyKey": "According to IECC 2009, 'U-factor' describes:",
-    "q": "According to IECC 2009, 'U-factor' describes:",
+    "legacyKey": "According to IECC, 'U-factor' describes:",
+    "q": "According to IECC, 'U-factor' describes:",
     "options": [
       "The rate of heat loss (lower is better)",
       "The rate of heat gain",
@@ -5431,7 +5431,7 @@
       "The transparency of the window"
     ],
     "correct": 0,
-    "source": "IECC 2009, Chapter 2: Definitions"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: 202 General Definitions"
   },
   {
     "id": "Q419",
@@ -5444,7 +5444,7 @@
       "Pouring faster"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Honeycombing"
   },
   {
     "id": "Q420",
@@ -5457,7 +5457,7 @@
       "Washing the tools"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 1: Safety — Section: Concrete Basics"
+    "source": "Concrete, Chapter 1: Safety — Section: Concrete Basics — Subsection: Hydration"
   },
   {
     "id": "Q421",
@@ -5470,7 +5470,7 @@
       "1 week after finishing"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures"
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Sawed Joints"
   },
   {
     "id": "Q422",
@@ -5834,7 +5834,7 @@
       "10%"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 502.3.1 Maximum area"
   },
   {
     "id": "Q450",
@@ -5847,7 +5847,7 @@
       "The next day"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Bull Floating"
   },
   {
     "id": "Q451",
@@ -6029,7 +6029,7 @@
       "Water test"
     ],
     "correct": 2,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 403.2.2.1 Testing"
   },
   {
     "id": "Q465",
@@ -6042,7 +6042,7 @@
       "Electric resistance heat only"
     ],
     "correct": 0,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 403.9.3 Covers"
   },
   {
     "id": "Q466",
@@ -6081,7 +6081,7 @@
       "100 times"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures"
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Contraction Joints"
   },
   {
     "id": "Q469",
@@ -6094,7 +6094,7 @@
       "A defect"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Screeding"
   },
   {
     "id": "Q470",
@@ -6397,8 +6397,8 @@
   },
   {
     "id": "Q493",
-    "legacyKey": "According to IECC 2009, 'R-value' measures:",
-    "q": "According to IECC 2009, 'R-value' measures:",
+    "legacyKey": "According to IECC, 'R-value' measures:",
+    "q": "According to IECC, 'R-value' measures:",
     "options": [
       "Thermal resistance (ability to resist heat flow)",
       "Solar reflection",
@@ -6406,7 +6406,7 @@
       "Light transmission"
     ],
     "correct": 0,
-    "source": "IECC 2009, Chapter 2: Definitions"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: 202 General Definitions"
   },
   {
     "id": "Q494",
@@ -6419,7 +6419,7 @@
       "Increase weight"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Ingredients"
+    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Ingredients — Subsection: Fibers"
   },
   {
     "id": "Q495",
@@ -6579,8 +6579,8 @@
   },
   {
     "id": "Q507",
-    "legacyKey": "According to IECC 2009, 'continuous insulation' (c.i.) runs:",
-    "q": "According to IECC 2009, 'continuous insulation' (c.i.) runs:",
+    "legacyKey": "According to IECC, 'continuous insulation' (c.i.) runs:",
+    "q": "According to IECC, 'continuous insulation' (c.i.) runs:",
     "options": [
       "Inside the stud cavity",
       "Continuously across structural members without thermal bridges (usually exterior foam)",
@@ -6588,7 +6588,7 @@
       "In the basement only"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 2: Definitions"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: 202 General Definitions"
   },
   {
     "id": "Q508",
@@ -6601,7 +6601,7 @@
       "Too much aggregate is used"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Plastic Shrinkage Cracking"
   },
   {
     "id": "Q509",
@@ -6692,7 +6692,7 @@
       "Zone 8"
     ],
     "correct": 3,
-    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+    "source": "IECC 2015, Chapter 3: Climate zones — Section: 301.3 Climate zone definitions"
   },
   {
     "id": "Q516",
@@ -6705,7 +6705,7 @@
       "It is a commercial building"
     ],
     "correct": 2,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 403.2.1.2 Building cavities"
   },
   {
     "id": "Q517",
@@ -6718,7 +6718,7 @@
       "Using the wrong color"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Delamination"
   },
   {
     "id": "Q518",
@@ -6731,7 +6731,7 @@
       "To insulate the ground"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 2: The Concrete Mixture"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Water-Cement Ratio"
   },
   {
     "id": "Q519",
@@ -6744,7 +6744,7 @@
       "Only on the surface"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Consolidation"
   },
   {
     "id": "Q520",
@@ -7082,7 +7082,7 @@
       "Once a month"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 403.1.1 Programmable thermostat"
   },
   {
     "id": "Q546",
@@ -7095,7 +7095,7 @@
       "Using a cover"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Slump Loss"
   },
   {
     "id": "Q547",
@@ -7329,7 +7329,7 @@
       "Non-reinforced"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 2: The Concrete Mixture; IBC, Chapter 19: Concrete — Section: 1904.1 Durability Requirements"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Air; IBC, Chapter 19: Concrete — Section: 1904.1 Durability Requirements"
   },
   {
     "id": "Q565",
@@ -7459,7 +7459,7 @@
       "Attic floor only"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter \n\n5: Commercial energy efficiency — Section: 502.5 Moisture control; IRC, Chapter 7: Wall covering — Section: R702.7 Vapor retarders; Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: Vapor retarders"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 502.5 Moisture control; IRC, Chapter 7: Wall covering — Section: R702.7 Vapor retarders; Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: Vapor retarders"
   },
   {
     "id": "Q575",
@@ -7771,7 +7771,7 @@
       "R-38"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: 402.1.1 Insulation and fenestration criteria by component; IRC, Chapter 11: Energy conservation — Section: N1102.1.1 Insulation and fenestration criteria by component"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.1.1 Insulation and fenestration criteria by component; IRC, Chapter 11: Energy conservation — Section: N1102.1.1 Insulation and fenestration criteria by component"
   },
   {
     "id": "Q599",
@@ -8031,7 +8031,7 @@
       "The glass thickness"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 11: Energy conservation — Section: N1102.5.1 U-factor and SHGC; IECC 2009, Chapter 3: Climate zones — Section: 303.1.3 Fenestration product rating"
+    "source": "IRC, Chapter 11: Energy conservation — Section: N1102.5.1 U-factor and SHGC; IECC 2015, Chapter 3: Climate zones — Section: 303.1.3 Fenestration product rating"
   },
   {
     "id": "Q619",
@@ -8252,7 +8252,7 @@
       "R-49"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 11: Energy conservation — Section: N1102.1.2 R-value alternative; IECC 2009, Chapter 4: Residential energy efficiency — Section: 402.1.1 Insulation and fenestration criteria by component"
+    "source": "IRC, Chapter 11: Energy conservation — Section: N1102.1.2 R-value alternative; IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.1.1 Insulation and fenestration criteria by component"
   },
   {
     "id": "Q636",
@@ -8395,7 +8395,7 @@
       "30 x 30 inches"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R807.1 Attic access; IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R807.1 Attic access; IECC 2015, Chapter 4: Residential energy efficiency"
   },
   {
     "id": "Q647",
@@ -8681,7 +8681,7 @@
       "20 cfm"
     ],
     "correct": 0,
-    "source": "IRC, Chapter 11: Energy conservation — Section: N1102.4.5 Recessed lighting; IECC 2009, Chapter 4: Residential energy efficiency — Section: 402.4.5 Recessed lighting"
+    "source": "IRC, Chapter 11: Energy conservation — Section: N1102.4.5 Recessed lighting; IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.4.5 Recessed lighting"
   },
   {
     "id": "Q669",
@@ -8902,7 +8902,7 @@
       "1.0"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 11: Energy conservation — Section: N1102.1.2 R-value alternative; IECC 2009, Chapter 4: Residential energy efficiency — Section: 402.1.1 Insulation and fenestration criteria by component"
+    "source": "IRC, Chapter 11: Energy conservation — Section: N1102.1.2 R-value alternative; IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.1.1 Insulation and fenestration criteria by component"
   },
   {
     "id": "Q686",
@@ -9045,7 +9045,7 @@
       "10 feet"
     ],
     "correct": 3,
-    "source": "IRC, Chapter 11: Energy conservation — Section: N1101.10.1 Installation; IECC 2009, Chapter 3: Climate zones — Section: 303.1.1 Identification"
+    "source": "IRC, Chapter 11: Energy conservation — Section: N1101.10.1 Installation; IECC 2015, Chapter 3: Climate zones — Section: 303.1.1 Identification"
   },
   {
     "id": "Q697",
@@ -9409,7 +9409,7 @@
       "R-60"
     ],
     "correct": 2,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: 402.1.1 Insulation and fenestration criteria by component; IRC, Chapter 11: Energy conservation — Section: N1102.1.2 R-value alternative"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.1.1 Insulation and fenestration criteria by component; IRC, Chapter 11: Energy conservation — Section: N1102.1.2 R-value alternative"
   },
   {
     "id": "Q725",
@@ -9656,7 +9656,7 @@
       "It is not required"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 7: Wall covering — Section: R702.7 Vapor retarders; IECC 2009, Chapter 4: Residential energy efficiency — Section: 402.5 Moisture control; Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: Vapor retarders"
+    "source": "IRC, Chapter 7: Wall covering — Section: R702.7 Vapor retarders; IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.5 Moisture control; Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: Vapor retarders"
   },
   {
     "id": "Q744",
@@ -9916,7 +9916,7 @@
       "18 inches"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 4: Foundations — Section: R408.1 Ventilation; IECC 2009, Chapter 4: Residential energy efficiency — Section: 402.2.9 Crawl space walls"
+    "source": "IRC, Chapter 4: Foundations — Section: R408.3 Unvented crawl space; IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.2.9 Crawl space walls"
   },
   {
     "id": "Q764",
@@ -9994,7 +9994,7 @@
       "All zones"
     ],
     "correct": 2,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.1 Insulation and fenestration requirements"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.1 Insulation and fenestration requirements"
   },
   {
     "id": "Q770",
@@ -10189,7 +10189,7 @@
       "R-30"
     ],
     "correct": 2,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.1 Insulation and fenestration requirements"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.1 Insulation and fenestration requirements"
   },
   {
     "id": "Q785",
@@ -10397,7 +10397,7 @@
       "Under the floor"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: 402.2.1 Ceilings without attic spaces; IRC, Chapter 11: Energy conservation — Section: N1102.1.2 R-value alternative"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: 202 General Definitions; IRC, Chapter 11: Energy conservation — Section: N1102.1.2 R-value alternative"
   },
   {
     "id": "Q801",
@@ -10423,7 +10423,7 @@
       "The full slab thickness"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: 7.2 Contraction Joints; IBC, Chapter 19: Concrete — Section: 1907 Slabs-on-Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Contraction (Control) Joints; IBC, Chapter 19: Concrete — Section: 1907 Slabs-on-Ground"
   },
   {
     "id": "Q803",
@@ -10553,7 +10553,7 @@
       "18 inches"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 4: Foundations — Section: R408.1 Ventilation; IECC 2009, Chapter 4: Residential energy efficiency — Section: 402.2.9 Crawl space walls"
+    "source": "IRC, Chapter 4: Foundations — Section: R408.3 Unvented crawl space; IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.2.9 Crawl space walls"
   },
   {
     "id": "Q813",
@@ -10592,7 +10592,7 @@
       "4 inches"
     ],
     "correct": 2,
-    "source": "IBC, Chapter 19: Concrete — Section: 1901.3 ACI 318 References; Concrete, Chapter 5: Formwork — Section: 5.2 Reinforcement Cover"
+    "source": "IBC, Chapter 19: Concrete — Section: 1901.3 ACI 318 References; Concrete, Chapter 6: Reinforcement in Structures — Section: Concrete Cover"
   },
   {
     "id": "Q816",
@@ -10644,7 +10644,7 @@
       "R-30"
     ],
     "correct": 2,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.1 Insulation and fenestration requirements"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.1 Insulation and fenestration requirements"
   },
   {
     "id": "Q820",
@@ -10709,7 +10709,7 @@
       "Time"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Mix Proportioning and Testing; IBC, Chapter 19: Concrete — Section: 1903 Specifications for Tests and Materials"
+    "source": "Concrete, Chapter 2: The Concrete Mix — Section: Slump (ASTM C 143); IBC, Chapter 19: Concrete — Section: 1903 Specifications for Tests and Materials"
   },
   {
     "id": "Q825",
@@ -10865,7 +10865,7 @@
       "R-60"
     ],
     "correct": 2,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.1 Insulation and fenestration requirements"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.1 Insulation and fenestration requirements"
   },
   {
     "id": "Q837",
@@ -10904,7 +10904,7 @@
       "Under the slab"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: N1102.1.2 R-value alternative"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: N1102.1.2 R-value alternative"
   },
   {
     "id": "Q840",
@@ -11034,7 +11034,7 @@
       "6 inches"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Slump Test; IBC, Chapter 19: Concrete — Section: 1903 Specifications for Tests and Materials"
+    "source": "Concrete, Chapter 2: The Concrete Mix — Section: Slump (ASTM C 143); IBC, Chapter 19: Concrete — Section: 1903 Specifications for Tests and Materials"
   },
   {
     "id": "Q850",
@@ -11125,7 +11125,7 @@
       "Add color"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Mineral Admixtures; IBC, Chapter 19: Concrete — Section: 1903 Specifications for Tests and Materials"
+    "source": "Concrete, Chapter 2: The Concrete Mix — Section: Other Cementitious Materials — Fly Ash; IBC, Chapter 19: Concrete — Section: 1903 Specifications for Tests and Materials"
   },
   {
     "id": "Q857",
@@ -11151,7 +11151,7 @@
       "Chandeliers"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: 402.4.5 Recessed lighting; IRC, Chapter 11: Energy conservation — Section: N1102.4.5 Recessed lighting"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.4.5 Recessed lighting; IRC, Chapter 11: Energy conservation — Section: N1102.4.5 Recessed lighting"
   },
   {
     "id": "Q859",
@@ -11242,7 +11242,7 @@
       "The driver's discretion"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Mix Proportioning and Testing; IBC, Chapter 19: Concrete — Section: 1905 Modifications to ACI 318"
+    "source": "Concrete, Chapter 2: The Concrete Mix — Section: Water Addition at the Jobsite; IBC, Chapter 19: Concrete — Section: 1905 Modifications to ACI 318"
   },
   {
     "id": "Q866",
@@ -11255,7 +11255,7 @@
       "R-19"
     ],
     "correct": 1,
-    "source": "IRC, Chapter 11: Energy conservation — Section: N1103.3.1 Ducts; IECC 2009, Chapter 4: Residential energy efficiency — Section: 403.2.1 Duct insulation"
+    "source": "IRC, Chapter 11: Energy conservation — Section: N1103.3.1 Ducts; IECC 2015, Chapter 4: Residential energy efficiency — Section: 403.2.1 Duct insulation"
   },
   {
     "id": "Q867",
@@ -11359,7 +11359,7 @@
       "Randomly"
     ],
     "correct": 1,
-    "source": "IBC, Chapter 19: Concrete — Section: 1901.3 ACI 318 References; Concrete, Chapter 11: Concrete Placement and Finishing — Section: 11.2 Construction Joints"
+    "source": "IBC, Chapter 19: Concrete — Section: 1901.3 ACI 318 References; Concrete, Chapter 7: Joints and Embedments in Structures — Section: Construction Joints for Supported Beams and Slabs"
   },
   {
     "id": "Q875",
@@ -11398,7 +11398,7 @@
       "75°F"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: 403.1.1 Programmable thermostat; IRC, Chapter 11: Energy conservation — Section: N1103.1.1 Programmable thermostat"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 403.1.1 Programmable thermostat; IRC, Chapter 11: Energy conservation — Section: N1103.1.1 Programmable thermostat"
   },
   {
     "id": "Q878",
@@ -11463,7 +11463,7 @@
       "Before the bleed water appears"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 9: Planning for Quality — Section: Curing and Protection; IBC, Chapter 19: Concrete — Section: 1903 Specifications for Tests and Materials"
+    "source": "Concrete, Chapter 10: Concrete Placement and Finishing — Section: Curing to maintain proper moisture content; IBC, Chapter 19: Concrete — Section: 1903 Specifications for Tests and Materials"
   },
   {
     "id": "Q883",
@@ -11541,7 +11541,7 @@
       "A retaining wall in the yard"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 2: Definitions — Section: Building thermal envelope; IRC, Chapter 11: Energy conservation — Section: N1101.7 Building thermal envelope"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: Building thermal envelope; IRC, Chapter 11: Energy conservation — Section: N1101.7 Building thermal envelope"
   },
   {
     "id": "Q889",
@@ -11606,7 +11606,7 @@
       "Rusting rebar"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Problems and Repairs; IBC, Chapter 21: Masonry — Section: 2104 Construction"
+    "source": "Concrete, Chapter 11: Common Field Problems — Section: Cause and Prevention; IBC, Chapter 21: Masonry — Section: 2104 Construction"
   },
   {
     "id": "Q894",
@@ -11684,7 +11684,7 @@
       "Basements"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 2: Definitions — Section: Slab-on-grade floor; IRC, Chapter 11: Energy conservation — Section: N1102.2.10 Slab-on-grade floors"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: Slab-on-grade floor; IRC, Chapter 11: Energy conservation — Section: N1102.2.10 Slab-on-grade floors"
   },
   {
     "id": "Q900",
@@ -11879,7 +11879,7 @@
       "R-6"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: 504.4 Pipe insulation; IRC, Chapter 11: Energy conservation — Section: N1103.4.1 Insulation of pipe"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 504.4 Insulation of pipe; IRC, Chapter 11: Energy conservation — Section: N1103.4.1 Insulation of pipe"
   },
   {
     "id": "Q915",
@@ -12035,7 +12035,7 @@
       "R-19"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.1 Insulation and fenestration requirements"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.1 Insulation and fenestration requirements"
   },
   {
     "id": "Q927",
@@ -12438,7 +12438,7 @@
       "Painting it orange"
     ],
     "correct": 2,
-    "source": "OSHA, Subpart Q: Concrete/Masonry; Concrete, Chapter 1: Safety"
+    "source": "OSHA, Subpart Q: Concrete/Masonry — Section: Impalement protection; Concrete, Chapter 1: Safety"
   },
   {
     "id": "Q958",
@@ -12581,7 +12581,7 @@
       "1.0"
     ],
     "correct": 0,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.1 Insulation and fenestration requirements"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.1 Insulation and fenestration requirements"
   },
   {
     "id": "Q969",
@@ -12659,7 +12659,7 @@
       "R-20"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: Table 402.2.9 Slab-on-grade floors; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.2 R-value alternative"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: Table 402.2.9 Slab-on-grade floors; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.2 R-value alternative"
   },
   {
     "id": "Q975",
@@ -12698,7 +12698,7 @@
       "Using white cement"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Problems and Repairs; IBC, Chapter 19: Concrete — Section: 1905.6 Structural concrete"
+    "source": "Concrete, Chapter 11: Common Field Problems — Section: Honeycombing; IBC, Chapter 19: Concrete — Section: 1905.6 Structural concrete"
   },
   {
     "id": "Q978",
@@ -12932,7 +12932,7 @@
       "R-49"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.1 Insulation and fenestration requirements"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: Table 402.1.1 Insulation and fenestration criteria; IRC, Chapter 11: Energy conservation — Section: Table N1102.1.1 Insulation and fenestration requirements"
   },
   {
     "id": "Q996",
@@ -16273,7 +16273,7 @@
       "Applying sunscreen before contact"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 1: Safety"
+    "source": "Concrete, Chapter 1: Safety — Section: Concrete Construction"
   },
   {
     "id": "Q1253",
@@ -16286,7 +16286,7 @@
       "Ear protection only"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 1: Safety"
+    "source": "Concrete, Chapter 1: Safety — Section: Concrete Construction"
   },
   {
     "id": "Q1254",
@@ -16299,7 +16299,7 @@
       "The rebar storage area only"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 1: Safety"
+    "source": "Concrete, Chapter 1: Safety — Section: Concrete Construction"
   },
   {
     "id": "Q1255",
@@ -16312,7 +16312,7 @@
       "Only a temporary cosmetic stain"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 1: Safety"
+    "source": "Concrete, Chapter 1: Safety — Section: Concrete Construction"
   },
   {
     "id": "Q1256",
@@ -16325,7 +16325,7 @@
       "A back brace only"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 1: Safety"
+    "source": "Concrete, Chapter 1: Safety — Section: Concrete Construction"
   },
   {
     "id": "Q1257",
@@ -16338,7 +16338,7 @@
       "The rebar is already installed"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 1: Safety"
+    "source": "Concrete, Chapter 1: Safety — Section: Concrete Construction"
   },
   {
     "id": "Q1258",
@@ -16351,7 +16351,7 @@
       "Type V"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+    "source": "Concrete, Chapter 2: The Concrete Mix — Section: Basic Types of Portland Cement"
   },
   {
     "id": "Q1259",
@@ -16364,7 +16364,7 @@
       "Low alkali content"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+    "source": "Concrete, Chapter 2: The Concrete Mix — Section: Basic Types of Portland Cement"
   },
   {
     "id": "Q1260",
@@ -16377,7 +16377,7 @@
       "The ambient temperature only"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+    "source": "Concrete, Chapter 2: The Concrete Mix — Section: Aggregates"
   },
   {
     "id": "Q1261",
@@ -16390,7 +16390,7 @@
       "About 8,000 lbs"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture"
+    "source": "Concrete, Chapter 2: The Concrete Mix — Section: Density (Unit Weight) and Yield"
   },
   {
     "id": "Q1262",
@@ -16403,7 +16403,7 @@
       "Replace the need for cement"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+    "source": "Concrete, Chapter 2: The Concrete Mix — Section: High-Range Water Reducers"
   },
   {
     "id": "Q1263",
@@ -16416,7 +16416,7 @@
       "Reduce the cost of the mix"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+    "source": "Concrete, Chapter 2: The Concrete Mix — Section: Microsilica (Silica Fume)"
   },
   {
     "id": "Q1264",
@@ -16429,7 +16429,7 @@
       "Reduced workability"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Pozzolans and Other Cementitious Materials"
   },
   {
     "id": "Q1265",
@@ -16442,7 +16442,7 @@
       "Prevent the concrete from setting at all"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Concrete Mix"
+    "source": "Concrete, Chapter 2: The Concrete Mixture — Section: Chemical Admixtures"
   },
   {
     "id": "Q1266",
@@ -16455,7 +16455,7 @@
       "Specifying the color of the forms"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 3: The Concrete Specification"
+    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Types of Specifications"
   },
   {
     "id": "Q1267",
@@ -16468,7 +16468,7 @@
       "Only the delivery schedule"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 3: The Concrete Specification"
+    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Types of Specifications"
   },
   {
     "id": "Q1268",
@@ -16481,7 +16481,7 @@
       "90 days"
     ],
     "correct": 2,
-    "source": "Concrete, Chapter 3: The Concrete Specification"
+    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Strength Requirements"
   },
   {
     "id": "Q1269",
@@ -16533,7 +16533,7 @@
       "The homeowner's contact information"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 3: The Concrete Specification"
+    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Delivery Tickets"
   },
   {
     "id": "Q1273",
@@ -16546,7 +16546,7 @@
       "Lower material cost only"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 3: The Concrete Specification"
+    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Water-Cementitious Materials Ratio"
   },
   {
     "id": "Q1274",
@@ -16559,7 +16559,7 @@
       "Determine the color of the forms"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 3: The Concrete Specification"
+    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Durability Requirements"
   },
   {
     "id": "Q1275",
@@ -16572,7 +16572,7 @@
       "Be placed only in cold weather"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 3: The Concrete Specification"
+    "source": "Concrete, Chapter 3: The Concrete Specification — Section: Self-Consolidating Concrete"
   },
   {
     "id": "Q1276",
@@ -16585,7 +16585,7 @@
       "Anchor the roof framing directly"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 4: Foundations"
+    "source": "Concrete, Chapter 4: Foundations — Section: Footings"
   },
   {
     "id": "Q1277",
@@ -16598,7 +16598,7 @@
       "The height of the foundation wall only"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 4: Foundations"
+    "source": "Concrete, Chapter 4: Foundations — Section: Footing Depth"
   },
   {
     "id": "Q1278",
@@ -16611,7 +16611,7 @@
       "Placed only above grade"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 4: Foundations"
+    "source": "Concrete, Chapter 4: Foundations — Section: Spread Footings"
   },
   {
     "id": "Q1279",
@@ -16624,7 +16624,7 @@
       "The roof ridge beam directly"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 4: Foundations"
+    "source": "Concrete, Chapter 4: Foundations — Section: Continuous Footings"
   },
   {
     "id": "Q1280",
@@ -16637,7 +16637,7 @@
       "Increase the footing's exposed surface area"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 4: Foundations"
+    "source": "Concrete, Chapter 4: Foundations — Section: Stepped Footings"
   },
   {
     "id": "Q1281",
@@ -16650,7 +16650,7 @@
       "Serve as an expansion joint"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 4: Foundations"
+    "source": "Concrete, Chapter 4: Foundations — Section: Footing and Wall Construction"
   },
   {
     "id": "Q1282",
@@ -16663,7 +16663,7 @@
       "Provide a walking surface"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 4: Foundations"
+    "source": "Concrete, Chapter 4: Foundations — Section: Footing and Wall Construction"
   },
   {
     "id": "Q1283",
@@ -16676,7 +16676,7 @@
       "Has no reinforcing steel"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 4: Foundations"
+    "source": "Concrete, Chapter 4: Foundations — Section: Backfilling"
   },
   {
     "id": "Q1284",
@@ -16689,7 +16689,7 @@
       "How quickly soil compacts under vibration"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 4: Foundations"
+    "source": "Concrete, Chapter 4: Foundations — Section: Soil Bearing Capacity"
   },
   {
     "id": "Q1285",
@@ -16702,7 +16702,7 @@
       "Serve only a decorative function"
     ],
     "correct": 0,
-    "source": "Concrete, Chapter 4: Foundations"
+    "source": "Concrete, Chapter 4: Foundations — Section: Isolated Footings"
   },
   {
     "id": "Q1286",
@@ -16715,7 +16715,7 @@
       "Serve only as a curb for a driveway"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 4: Foundations"
+    "source": "Concrete, Chapter 4: Foundations — Section: Grade Beams"
   },
   {
     "id": "Q1287",
@@ -16728,7 +16728,7 @@
       "Only around the perimeter edges"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 4: Foundations"
+    "source": "Concrete, Chapter 4: Foundations — Section: Reinforcement in Footings"
   },
   {
     "id": "Q1288",
@@ -16741,7 +16741,7 @@
       "Provide the wall's primary structural reinforcement"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 4: Foundations"
+    "source": "Concrete, Chapter 4: Foundations — Section: Dampproofing"
   },
   {
     "id": "Q1289",
@@ -16754,7 +16754,7 @@
       "3 inches"
     ],
     "correct": 3,
-    "source": "Concrete, Chapter 4: Foundations"
+    "source": "Concrete, Chapter 4: Foundations — Section: Reinforcement"
   },
   {
     "id": "Q1290",
@@ -16767,7 +16767,7 @@
       "The time of day the pour begins"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork"
+    "source": "Concrete, Chapter 5: Formwork — Section: Lateral Pressure"
   },
   {
     "id": "Q1291",
@@ -16780,7 +16780,7 @@
       "Anchor the forms to the roof"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork"
+    "source": "Concrete, Chapter 5: Formwork — Section: Form Ties"
   },
   {
     "id": "Q1292",
@@ -16793,7 +16793,7 @@
       "Serve as the primary flexural reinforcement"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork"
+    "source": "Concrete, Chapter 5: Formwork — Section: Form Ties"
   },
   {
     "id": "Q1293",
@@ -16806,7 +16806,7 @@
       "It has no effect on stripping time"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork"
+    "source": "Concrete, Chapter 5: Formwork — Section: Removal of Forms"
   },
   {
     "id": "Q1294",
@@ -16819,7 +16819,7 @@
       "Reduce the amount of concrete required"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork"
+    "source": "Concrete, Chapter 5: Formwork — Section: Beam and Slab Forms"
   },
   {
     "id": "Q1295",
@@ -16832,7 +16832,7 @@
       "Thermal expansion of the rebar"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork"
+    "source": "Concrete, Chapter 5: Formwork — Section: Formwork Design"
   },
   {
     "id": "Q1296",
@@ -16845,7 +16845,7 @@
       "The ready-mix concrete supplier"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork"
+    "source": "Concrete, Chapter 5: Formwork — Section: Formwork Design"
   },
   {
     "id": "Q1297",
@@ -16858,7 +16858,7 @@
       "Using air-entrained concrete"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork"
+    "source": "Concrete, Chapter 5: Formwork — Section: Form Ties"
   },
   {
     "id": "Q1298",
@@ -16871,7 +16871,7 @@
       "Its resistance to termites"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 5: Formwork"
+    "source": "Concrete, Chapter 5: Formwork — Section: Plywood Forms"
   },
   {
     "id": "Q1299",
@@ -16884,7 +16884,7 @@
       "100,000 psi"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+    "source": "Concrete, Chapter 6: Reinforcement in Structures — Section: Reinforcing Bars"
   },
   {
     "id": "Q1300",
@@ -16897,7 +16897,7 @@
       "Reduce corrosion"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+    "source": "Concrete, Chapter 6: Reinforcement in Structures — Section: Deformed Reinforcing Bars"
   },
   {
     "id": "Q1301",
@@ -16910,7 +16910,7 @@
       "Eliminate the need for concrete cover"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+    "source": "Concrete, Chapter 6: Reinforcement in Structures — Section: Types of Reinforcement"
   },
   {
     "id": "Q1302",
@@ -16923,7 +16923,7 @@
       "Increase the slab's slump"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+    "source": "Concrete, Chapter 6: Reinforcement in Structures — Section: Types of Reinforcement — Subsection: Welded Wire Reinforcement"
   },
   {
     "id": "Q1303",
@@ -16936,7 +16936,7 @@
       "The concrete mix design"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+    "source": "Concrete, Chapter 6: Reinforcement in Structures — Section: Types of Reinforcement — Subsection: Bar Identification"
   },
   {
     "id": "Q1304",
@@ -16949,7 +16949,7 @@
       "Wood dowels"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+    "source": "Concrete, Chapter 6: Reinforcement in Structures — Section: Placing of Reinforcement"
   },
   {
     "id": "Q1305",
@@ -16962,7 +16962,7 @@
       "The ambient temperature at placement"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+    "source": "Concrete, Chapter 6: Reinforcement in Structures — Section: Placing of Reinforcement"
   },
   {
     "id": "Q1306",
@@ -16975,7 +16975,7 @@
       "The length of a construction joint"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+    "source": "Concrete, Chapter 6: Reinforcement in Structures — Section: Splicing Reinforcing Steel"
   },
   {
     "id": "Q1307",
@@ -16988,7 +16988,7 @@
       "No engineering approval is required"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+    "source": "Concrete, Chapter 6: Reinforcement in Structures — Section: Splicing Reinforcing Steel"
   },
   {
     "id": "Q1308",
@@ -17001,7 +17001,7 @@
       "Replace the need for control joints entirely"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+    "source": "Concrete, Chapter 6: Reinforcement in Structures — Section: Types of Reinforcement"
   },
   {
     "id": "Q1309",
@@ -17014,7 +17014,7 @@
       "Tie wire"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+    "source": "Concrete, Chapter 6: Reinforcement in Structures — Section: Placing of Reinforcement"
   },
   {
     "id": "Q1310",
@@ -17027,7 +17027,7 @@
       "Slab edge reinforcement exclusively"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+    "source": "Concrete, Chapter 6: Reinforcement in Structures — Section: Types of Reinforcement — Subsection: Other Types of Reinforced Concrete"
   },
   {
     "id": "Q1311",
@@ -17040,7 +17040,7 @@
       "Irrelevant to the bar's performance"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+    "source": "Concrete, Chapter 6: Reinforcement in Structures — Section: Reinforcing Bar Fabrication"
   },
   {
     "id": "Q1312",
@@ -17053,7 +17053,7 @@
       "Increase the concrete's workability"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 6: Reinforcement in Structures"
+    "source": "Concrete, Chapter 6: Reinforcement in Structures — Section: Why Use Steel Reinforcement?"
   },
   {
     "id": "Q1313",
@@ -17066,7 +17066,7 @@
       "Loose gravel"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures"
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Isolation Joints for Walls"
   },
   {
     "id": "Q1314",
@@ -17079,7 +17079,7 @@
       "Add color to the joint"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures"
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Types of Joints"
   },
   {
     "id": "Q1315",
@@ -17092,7 +17092,7 @@
       "Made of wood whenever possible"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures"
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Embedments—Conduits, Pipes, and Sleeves"
   },
   {
     "id": "Q1316",
@@ -17105,7 +17105,7 @@
       "Reduce the amount of concrete required"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures"
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Construction Joints for Supported Beams and Slabs"
   },
   {
     "id": "Q1317",
@@ -17118,7 +17118,7 @@
       "Filling the joint with unreinforced grout only"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures"
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Construction Joints for Supported Beams and Slabs"
   },
   {
     "id": "Q1318",
@@ -17131,7 +17131,7 @@
       "It is never used in slabs-on-ground"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Reinforcement in a Concrete Slab — Subsection: Welded Wire Reinforcement"
   },
   {
     "id": "Q1319",
@@ -17144,7 +17144,7 @@
       "Reduce the slab's required thickness"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Volume Changes"
   },
   {
     "id": "Q1320",
@@ -17157,7 +17157,7 @@
       "Serve as the finish flooring"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Volume Changes"
   },
   {
     "id": "Q1321",
@@ -17170,7 +17170,7 @@
       "Anchor the slab to the fixed element"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Isolation Joints (Expansion Joints)"
   },
   {
     "id": "Q1322",
@@ -17183,7 +17183,7 @@
       "Replace the need for a vapor retarder"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Reinforcement in a Concrete Slab"
   },
   {
     "id": "Q1323",
@@ -17196,7 +17196,7 @@
       "Distribute shrinkage stress over a wider area"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Reinforcement in a Concrete Slab"
   },
   {
     "id": "Q1324",
@@ -17209,7 +17209,7 @@
       "Speed up the finishing operation"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Volume Changes"
   },
   {
     "id": "Q1325",
@@ -17222,7 +17222,7 @@
       "A finishing technique used to create texture"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Volume Changes — Subsection: Curling"
   },
   {
     "id": "Q1326",
@@ -17235,7 +17235,7 @@
       "Excessive air entrainment"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Concrete Slabs on Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Volume Changes"
   },
   {
     "id": "Q1327",
@@ -17248,7 +17248,7 @@
       "Select the paint color for the finished structure"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 9: Planning for Quality"
+    "source": "Concrete, Chapter 9: Planning for Quality — Section: Preconstruction Conference"
   },
   {
     "id": "Q1328",
@@ -17261,7 +17261,7 @@
       "Quality control applies only to formwork"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 9: Planning for Quality"
+    "source": "Concrete, Chapter 9: Planning for Quality — Section: Quality Assurance and Quality Control"
   },
   {
     "id": "Q1329",
@@ -17313,7 +17313,7 @@
       "Replace the need for a quality control plan"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 9: Planning for Quality"
+    "source": "Concrete, Chapter 9: Planning for Quality — Section: Quality Assurance and Quality Control"
   },
   {
     "id": "Q1333",
@@ -17326,7 +17326,7 @@
       "Replace laboratory strength testing"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 9: Planning for Quality"
+    "source": "Concrete, Chapter 9: Planning for Quality — Section: Quality Assurance and Quality Control"
   },
   {
     "id": "Q1334",
@@ -17339,7 +17339,7 @@
       "Guarantee a fixed delivery price"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 9: Planning for Quality"
+    "source": "Concrete, Chapter 9: Planning for Quality — Section: Quality Assurance and Quality Control"
   },
   {
     "id": "Q1335",
@@ -17352,7 +17352,7 @@
       "Union members exclusively"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 9: Planning for Quality"
+    "source": "Concrete, Chapter 9: Planning for Quality — Section: Testing and Inspection"
   },
   {
     "id": "Q1336",
@@ -17365,7 +17365,7 @@
       "After the final inspection"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 9: Planning for Quality"
+    "source": "Concrete, Chapter 9: Planning for Quality — Section: Quality Planning"
   },
   {
     "id": "Q1337",
@@ -17378,7 +17378,7 @@
       "Not yet fully assembled"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting"
+    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Forms and Formwork"
   },
   {
     "id": "Q1338",
@@ -17391,7 +17391,7 @@
       "Painted to prevent corrosion"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting"
+    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Reinforcement"
   },
   {
     "id": "Q1339",
@@ -17404,7 +17404,7 @@
       "Only needed for exterior slabs"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting"
+    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Curing and Protection"
   },
   {
     "id": "Q1340",
@@ -17417,7 +17417,7 @@
       "Reducing the amount of admixtures used"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting"
+    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Hot-Weather Concreting"
   },
   {
     "id": "Q1341",
@@ -17430,7 +17430,7 @@
       "Nothing different from warm-weather placement"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting"
+    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Cold-Weather Concreting"
   },
   {
     "id": "Q1342",
@@ -17443,7 +17443,7 @@
       "Compacted only after the pour"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting"
+    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Preparing the Subgrade"
   },
   {
     "id": "Q1343",
@@ -17456,7 +17456,7 @@
       "Select the cement type"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting"
+    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Planning for Concrete Placement"
   },
   {
     "id": "Q1344",
@@ -17469,7 +17469,7 @@
       "Coated in release agent"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting"
+    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Embedded Items"
   },
   {
     "id": "Q1345",
@@ -17482,7 +17482,7 @@
       "Excessive slump loss during transport"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting"
+    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Planning for Concrete Placement"
   },
   {
     "id": "Q1346",
@@ -17495,7 +17495,7 @@
       "Optional for small placements"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting"
+    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Planning for Concrete Placement"
   },
   {
     "id": "Q1347",
@@ -17508,7 +17508,7 @@
       "Soaked in a curing compound"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting"
+    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Construction Joints"
   },
   {
     "id": "Q1348",
@@ -17521,7 +17521,7 @@
       "Excess air entrainment"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 10: Preparing for Concreting"
+    "source": "Concrete, Chapter 10: Preparing for Concreting — Section: Forms and Formwork"
   },
   {
     "id": "Q1349",
@@ -17534,7 +17534,7 @@
       "Cure, then screed, then finish"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Finishing Concrete"
   },
   {
     "id": "Q1350",
@@ -17547,7 +17547,7 @@
       "Remove excess water from the surface"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Joints in Slabs"
   },
   {
     "id": "Q1351",
@@ -17586,7 +17586,7 @@
       "High humidity and still air"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Placing Concrete in Hot Weather"
   },
   {
     "id": "Q1354",
@@ -17599,7 +17599,7 @@
       "Cure the pipeline"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Pumping Concrete"
   },
   {
     "id": "Q1355",
@@ -17612,7 +17612,7 @@
       "Filled to twice its rated capacity"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Placing Concrete by Crane and Bucket"
   },
   {
     "id": "Q1356",
@@ -17638,7 +17638,7 @@
       "Using too much cement"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Popouts"
   },
   {
     "id": "Q1358",
@@ -17651,7 +17651,7 @@
       "Efflorescence caused by groundwater"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Dusting"
   },
   {
     "id": "Q1359",
@@ -17664,7 +17664,7 @@
       "Placing concrete in cold weather"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Alkali-Silica Reaction"
   },
   {
     "id": "Q1360",
@@ -17677,7 +17677,7 @@
       "Corrosion has no effect on surrounding concrete"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Reinforcing Steel Corrosion"
   },
   {
     "id": "Q1361",
@@ -17690,7 +17690,7 @@
       "A crack that appeared within the first day of curing only"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Structural Cracks"
   },
   {
     "id": "Q1362",
@@ -17703,7 +17703,7 @@
       "Ignoring it since it will self-heal"
     ],
     "correct": 1,
-    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention"
+    "source": "Concrete, Chapter 12: Common Field Problems—Cause and Prevention — Section: Repair of Surface Defects"
   },
   {
     "id": "Q1363",
@@ -21451,8 +21451,8 @@
   },
   {
     "id": "Q1651",
-    "legacyKey": "The stated purpose of IECC 2009, as set out in its administrative chapter, is to:",
-    "q": "The stated purpose of IECC 2009, as set out in its administrative chapter, is to:",
+    "legacyKey": "The stated purpose of IECC, as set out in its administrative chapter, is to:",
+    "q": "The stated purpose of IECC, as set out in its administrative chapter, is to:",
     "options": [
       "Regulate only the aesthetic appearance of buildings",
       "Establish minimum requirements for energy-efficient design and construction of buildings",
@@ -21460,12 +21460,12 @@
       "Regulate only residential HVAC equipment brands"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 1: Administration"
+    "source": "IECC 2015, Chapter 1: Administration — Section: 101.3 Intent"
   },
   {
     "id": "Q1652",
-    "legacyKey": "Under IECC 2009, compliance with the code may generally be demonstrated using:",
-    "q": "Under IECC 2009, compliance with the code may generally be demonstrated using:",
+    "legacyKey": "compliance with the code may generally be demonstrated using:",
+    "q": "compliance with the code may generally be demonstrated using:",
     "options": [
       "Only a single mandatory prescriptive path with no alternatives",
       "Either the prescriptive compliance path or an approved performance-based (simulated energy analysis) compliance path",
@@ -21473,12 +21473,12 @@
       "Verbal assurance from the contractor, with no documentation"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 1: Administration"
+    "source": "IECC 2015, Chapter 1: Administration — Section: 101.5 Compliance"
   },
   {
     "id": "Q1653",
-    "legacyKey": "Under IECC 2009, construction documents submitted for a permit are generally required to show:",
-    "q": "Under IECC 2009, construction documents submitted for a permit are generally required to show:",
+    "legacyKey": "construction documents submitted for a permit are generally required to show:",
+    "q": "construction documents submitted for a permit are generally required to show:",
     "options": [
       "Only the exterior paint color",
       "Sufficient information to determine compliance with the code, such as insulation values, fenestration ratings, and mechanical system information",
@@ -21486,12 +21486,12 @@
       "Only the total project cost"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 1: Administration"
+    "source": "IECC 2015, Chapter 1: Administration — Section: 103.2 Information on construction documents"
   },
   {
     "id": "Q1654",
-    "legacyKey": "Under IECC 2009, an addition to an existing building is generally required to comply with the code by either:",
-    "q": "Under IECC 2009, an addition to an existing building is generally required to comply with the code by either:",
+    "legacyKey": "an addition to an existing building is generally required to comply with the code by either:",
+    "q": "an addition to an existing building is generally required to comply with the code by either:",
     "options": [
       "Being entirely exempt from the code",
       "Complying as if the addition were a separate building, or demonstrating that the existing building and addition together comply",
@@ -21499,12 +21499,12 @@
       "Requiring demolition of the existing building"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 1: Administration"
+    "source": "IECC 2015, Chapter 1: Administration — Section: 501.1.1 Existing buildings"
   },
   {
     "id": "Q1655",
-    "legacyKey": "Under IECC 2009, historic buildings that are officially designated by a legally constituted authority are generally:",
-    "q": "Under IECC 2009, historic buildings that are officially designated by a legally constituted authority are generally:",
+    "legacyKey": "historic buildings that are officially designated by a legally constituted authority are generally:",
+    "q": "historic buildings that are officially designated by a legally constituted authority are generally:",
     "options": [
       "Exempt from the code's energy-efficiency requirements",
       "Held to a stricter standard than new construction",
@@ -21512,12 +21512,12 @@
       "Prohibited from any alteration"
     ],
     "correct": 0,
-    "source": "IECC 2009, Chapter 1: Administration"
+    "source": "IECC 2015, Chapter 1: Administration — Section: 101.5.2 Historic buildings"
   },
   {
     "id": "Q1656",
-    "legacyKey": "Under IECC 2009, alternative materials, designs, or methods of construction not specifically prescribed by the code may generally be approved if:",
-    "q": "Under IECC 2009, alternative materials, designs, or methods of construction not specifically prescribed by the code may generally be approved if:",
+    "legacyKey": "alternative materials, designs, or methods of construction not specifically prescribed by the code may generally be approved if:",
+    "q": "alternative materials, designs, or methods of construction not specifically prescribed by the code may generally be approved if:",
     "options": [
       "They are never permitted under any circumstance",
       "The building official finds that the proposed alternative is satisfactory and complies with the intent of the code",
@@ -21525,12 +21525,12 @@
       "They are approved solely by the material manufacturer"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 1: Administration"
+    "source": "IECC 2015, Chapter 1: Administration — Section: 102.1 Alternative materials, design and methods of construction and equipment"
   },
   {
     "id": "Q1657",
-    "legacyKey": "Under IECC 2009 administrative provisions, low-energy buildings meeting specific limited criteria, such as buildings without conditioned space, are generally:",
-    "q": "Under IECC 2009 administrative provisions, low-energy buildings meeting specific limited criteria, such as buildings without conditioned space, are generally:",
+    "legacyKey": "Under IECC administrative provisions, low-energy buildings meeting specific limited criteria, such as buildings without conditioned space, are generally:",
+    "q": "Under IECC administrative provisions, low-energy buildings meeting specific limited criteria, such as buildings without conditioned space, are generally:",
     "options": [
       "Subject to the full prescriptive requirements with no exception",
       "Exempt from the code's energy-efficiency requirements",
@@ -21538,12 +21538,12 @@
       "Automatically classified as commercial buildings"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 1: Administration"
+    "source": "IECC 2015, Chapter 1: Administration — Section: 101.5.1 Low-energy buildings"
   },
   {
     "id": "Q1658",
-    "legacyKey": "Under IECC 2009, the code official responsible for enforcement of the code is generally authorized to:",
-    "q": "Under IECC 2009, the code official responsible for enforcement of the code is generally authorized to:",
+    "legacyKey": "the code official responsible for enforcement of the code is generally authorized to:",
+    "q": "the code official responsible for enforcement of the code is generally authorized to:",
     "options": [
       "Only issue permits, with no inspection authority",
       "Enforce the provisions of the code, including reviewing plans and performing inspections",
@@ -21551,12 +21551,12 @@
       "Waive all energy code requirements at their sole discretion"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 1: Administration"
+    "source": "IECC 2015, Chapter 1: Administration — Section: 104.1 Duties and powers of code official"
   },
   {
     "id": "Q1659",
-    "legacyKey": "Under IECC 2009, inspections related to energy code compliance are generally performed:",
-    "q": "Under IECC 2009, inspections related to energy code compliance are generally performed:",
+    "legacyKey": "inspections related to energy code compliance are generally performed:",
+    "q": "inspections related to energy code compliance are generally performed:",
     "options": [
       "Only after the certificate of occupancy is issued",
       "At appropriate stages of construction, such as insulation installation, prior to concealment by other building components",
@@ -21564,12 +21564,12 @@
       "Only if requested by the building owner in writing"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 1: Administration"
+    "source": "IECC 2015, Chapter 1: Administration — Section: 109.1 General"
   },
   {
     "id": "Q1660",
-    "legacyKey": "Under IECC 2009, a permanent certificate is generally required to be posted on or near the electrical distribution panel, documenting information such as:",
-    "q": "Under IECC 2009, a permanent certificate is generally required to be posted on or near the electrical distribution panel, documenting information such as:",
+    "legacyKey": "a permanent certificate is generally required to be posted on or near the electrical distribution panel, documenting information such as:",
+    "q": "a permanent certificate is generally required to be posted on or near the electrical distribution panel, documenting information such as:",
     "options": [
       "The contractor's marketing materials",
       "The predominant R-values of insulation installed and the type and efficiency of heating/cooling equipment",
@@ -21577,12 +21577,12 @@
       "The building's resale value"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 1: Administration"
+    "source": "IECC 2015, Chapter 1: Administration — Section: 103.3 Certificate"
   },
   {
     "id": "Q1661",
-    "legacyKey": "According to IECC 2009, 'conditioned space' is defined as a space that is:",
-    "q": "According to IECC 2009, 'conditioned space' is defined as a space that is:",
+    "legacyKey": "According to IECC, 'conditioned space' is defined as a space that is:",
+    "q": "According to IECC, 'conditioned space' is defined as a space that is:",
     "options": [
       "Always located outdoors",
       "Directly or indirectly heated or cooled space, meeting specific criteria for connection to or capacity to condition the space",
@@ -21590,12 +21590,12 @@
       "Only a space used for storage"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 2: Definitions"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: 202 General Definitions"
   },
   {
     "id": "Q1662",
-    "legacyKey": "According to IECC 2009, 'infiltration' refers to:",
-    "q": "According to IECC 2009, 'infiltration' refers to:",
+    "legacyKey": "According to IECC, 'infiltration' refers to:",
+    "q": "According to IECC, 'infiltration' refers to:",
     "options": [
       "The controlled supply of outdoor air by a mechanical system",
       "The uncontrolled inward air leakage into a building through cracks and openings in the building envelope",
@@ -21603,12 +21603,12 @@
       "The discharge of exhaust air from a bathroom fan"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 2: Definitions"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: 202 General Definitions"
   },
   {
     "id": "Q1663",
-    "legacyKey": "According to IECC 2009, 'thermal isolation' refers to a condition where a space is:",
-    "q": "According to IECC 2009, 'thermal isolation' refers to a condition where a space is:",
+    "legacyKey": "According to IECC, 'thermal isolation' refers to a condition where a space is:",
+    "q": "According to IECC, 'thermal isolation' refers to a condition where a space is:",
     "options": [
       "Directly connected to the primary conditioned space with no separation",
       "Physically separated from conditioned spaces by unconditioned space, or otherwise not directly heated or cooled",
@@ -21616,12 +21616,12 @@
       "Always below grade"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 2: Definitions"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: 202 General Definitions"
   },
   {
     "id": "Q1664",
-    "legacyKey": "According to IECC 2009, the 'standard reference design' is a concept used primarily in which compliance path?",
-    "q": "According to IECC 2009, the 'standard reference design' is a concept used primarily in which compliance path?",
+    "legacyKey": "According to IECC, the 'standard reference design' is a concept used primarily in which compliance path?",
+    "q": "According to IECC, the 'standard reference design' is a concept used primarily in which compliance path?",
     "options": [
       "The prescriptive compliance path",
       "The performance-based (Simulated Performance Alternative) compliance path, as the baseline building against which the proposed design is compared",
@@ -21629,12 +21629,12 @@
       "It is not used in any compliance path"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 2: Definitions"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: 202 General Definitions"
   },
   {
     "id": "Q1665",
-    "legacyKey": "According to IECC 2009, a 'vestibule' is defined as:",
-    "q": "According to IECC 2009, a 'vestibule' is defined as:",
+    "legacyKey": "According to IECC, a 'vestibule' is defined as:",
+    "q": "According to IECC, a 'vestibule' is defined as:",
     "options": [
       "A skylight well",
       "A space between two sets of doors that is intended to reduce air infiltration when the exterior doors are opened",
@@ -21642,12 +21642,12 @@
       "A type of insulation material"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 2: Definitions"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: 202 General Definitions"
   },
   {
     "id": "Q1666",
-    "legacyKey": "According to IECC 2009, 'insulated siding' is defined as siding that:",
-    "q": "According to IECC 2009, 'insulated siding' is defined as siding that:",
+    "legacyKey": "According to IECC, 'insulated siding' is defined as siding that:",
+    "q": "According to IECC, 'insulated siding' is defined as siding that:",
     "options": [
       "Has no insulating value of any kind",
       "Includes a continuous layer of insulation attached directly to the exterior wall structure",
@@ -21655,12 +21655,12 @@
       "Is limited to vinyl products exclusively"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 2: Definitions"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: 202 General Definitions"
   },
   {
     "id": "Q1667",
-    "legacyKey": "According to IECC 2009, an 'air barrier' is a material or combination of materials that:",
-    "q": "According to IECC 2009, an 'air barrier' is a material or combination of materials that:",
+    "legacyKey": "According to IECC, an 'air barrier' is a material or combination of materials that:",
+    "q": "According to IECC, an 'air barrier' is a material or combination of materials that:",
     "options": [
       "Increases the R-value of cavity insulation only",
       "Restricts or prevents the passage of air through the building envelope assembly",
@@ -21668,12 +21668,12 @@
       "Serves the same function as a vapor retarder in every case"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 2: Definitions"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: 202 General Definitions"
   },
   {
     "id": "Q1668",
-    "legacyKey": "According to IECC 2009, 'proposed design' refers to:",
-    "q": "According to IECC 2009, 'proposed design' refers to:",
+    "legacyKey": "According to IECC, 'proposed design' refers to:",
+    "q": "According to IECC, 'proposed design' refers to:",
     "options": [
       "The as-built condition of a demolished building",
       "A description of the building's design used, in the performance compliance path, for the energy analysis to demonstrate compliance",
@@ -21681,12 +21681,12 @@
       "A design that has not yet been submitted for permit"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 2: Definitions"
+    "source": "IECC 2015, Chapter 2: Definitions — Section: 202 General Definitions"
   },
   {
     "id": "Q1669",
-    "legacyKey": "Under IECC 2009, a building's applicable climate zone is generally determined based on:",
-    "q": "Under IECC 2009, a building's applicable climate zone is generally determined based on:",
+    "legacyKey": "a building's applicable climate zone is generally determined based on:",
+    "q": "a building's applicable climate zone is generally determined based on:",
     "options": [
       "The building's occupancy classification",
       "The county in which the building is located, per the climate zone map/table in the code",
@@ -21694,12 +21694,12 @@
       "The contractor's personal preference"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+    "source": "IECC 2015, Chapter 3: Climate zones — Section: 301.3 Climate zone definitions"
   },
   {
     "id": "Q1670",
-    "legacyKey": "IECC 2009 climate zones are numbered 1 through 8, with the general trend that:",
-    "q": "IECC 2009 climate zones are numbered 1 through 8, with the general trend that:",
+    "legacyKey": "IECC climate zones are numbered 1 through 8, with the general trend that:",
+    "q": "IECC climate zones are numbered 1 through 8, with the general trend that:",
     "options": [
       "Insulation and energy-efficiency requirements become less stringent as the zone number increases",
       "Insulation and energy-efficiency requirements become more stringent as the zone number increases (colder climates)",
@@ -21707,12 +21707,12 @@
       "Only odd-numbered zones have any requirements"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+    "source": "IECC 2015, Chapter 3: Climate zones — Section: 301.1 General"
   },
   {
     "id": "Q1671",
-    "legacyKey": "Under the IECC 2009 climate zone system, most of the State of Georgia falls within:",
-    "q": "Under the IECC 2009 climate zone system, most of the State of Georgia falls within:",
+    "legacyKey": "Under the IECC climate zone system, most of the State of Georgia falls within:",
+    "q": "Under the IECC climate zone system, most of the State of Georgia falls within:",
     "options": [
       "Climate Zone 6",
       "Climate Zone 3A, with some southern counties in Zone 2A and a few northern counties in Zone 4A",
@@ -21720,12 +21720,12 @@
       "Climate Zone 1 statewide"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+    "source": "IECC 2015, Chapter 3: Climate zones — Section: 301.3 Climate zone definitions"
   },
   {
     "id": "Q1672",
-    "legacyKey": "In the IECC 2009 climate zone designation system, the letter suffix (A, B, or C) added to a zone number generally indicates:",
-    "q": "In the IECC 2009 climate zone designation system, the letter suffix (A, B, or C) added to a zone number generally indicates:",
+    "legacyKey": "In the IECC climate zone designation system, the letter suffix (A, B, or C) added to a zone number generally indicates:",
+    "q": "In the IECC climate zone designation system, the letter suffix (A, B, or C) added to a zone number generally indicates:",
     "options": [
       "The building's occupancy group",
       "The moisture regime (moist, dry, or marine)",
@@ -21733,12 +21733,12 @@
       "The applicable compliance path"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+    "source": "IECC 2015, Chapter 3: Climate zones — Section: 301.3 Climate zone definitions"
   },
   {
     "id": "Q1673",
-    "legacyKey": "A 'moist' climate zone designation (the 'A' suffix) under IECC 2009 generally indicates a region that:",
-    "q": "A 'moist' climate zone designation (the 'A' suffix) under IECC 2009 generally indicates a region that:",
+    "legacyKey": "A 'moist' climate zone designation (the 'A' suffix) under IECC generally indicates a region that:",
+    "q": "A 'moist' climate zone designation (the 'A' suffix) under IECC generally indicates a region that:",
     "options": [
       "Meets the specific criteria for the 'dry' moisture regime classification",
       "Does not meet the specific criteria for the 'dry' or 'marine' moisture regime classifications, generally receiving significant precipitation",
@@ -21746,12 +21746,12 @@
       "Is located only at high elevation"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+    "source": "IECC 2015, Chapter 3: Climate zones — Section: 301.3 Climate zone definitions"
   },
   {
     "id": "Q1674",
-    "legacyKey": "Under IECC 2009, climate zone determination is important primarily because it establishes:",
-    "q": "Under IECC 2009, climate zone determination is important primarily because it establishes:",
+    "legacyKey": "climate zone determination is important primarily because it establishes:",
+    "q": "climate zone determination is important primarily because it establishes:",
     "options": [
       "The building's required occupant load",
       "The applicable prescriptive insulation, fenestration, and other envelope requirements for a specific building location",
@@ -21759,12 +21759,12 @@
       "The building's fire-resistance rating"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+    "source": "IECC 2015, Chapter 3: Climate zones — Section: 301.3 Climate zone definitions"
   },
   {
     "id": "Q1675",
-    "legacyKey": "Under IECC 2009, counties officially designated as 'warm-humid' on the climate zone map may be subject to:",
-    "q": "Under IECC 2009, counties officially designated as 'warm-humid' on the climate zone map may be subject to:",
+    "legacyKey": "counties officially designated as 'warm-humid' on the climate zone map may be subject to:",
+    "q": "counties officially designated as 'warm-humid' on the climate zone map may be subject to:",
     "options": [
       "No additional provisions whatsoever",
       "Additional moisture-control-related provisions due to their humid conditions",
@@ -21772,12 +21772,12 @@
       "Requirements identical to Zone 8 in every respect"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+    "source": "IECC 2015, Chapter 3: Climate zones — Section: 301.3 Climate zone definitions"
   },
   {
     "id": "Q1676",
-    "legacyKey": "IECC 2009's climate zone map divides the United States and its territories primarily to:",
-    "q": "IECC 2009's climate zone map divides the United States and its territories primarily to:",
+    "legacyKey": "IECC's climate zone map divides the United States and its territories primarily to:",
+    "q": "IECC's climate zone map divides the United States and its territories primarily to:",
     "options": [
       "Establish political boundaries",
       "Provide a standardized basis for applying climate-appropriate prescriptive energy requirements across different regions",
@@ -21785,12 +21785,12 @@
       "Assign union jurisdiction boundaries"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 3: Climate zones — Section: Climate zones"
+    "source": "IECC 2015, Chapter 3: Climate zones — Section: 301.3 Climate zone definitions"
   },
   {
     "id": "Q1677",
-    "legacyKey": "Under IECC 2009, compliance with the building thermal envelope air leakage requirements may generally be demonstrated by:",
-    "q": "Under IECC 2009, compliance with the building thermal envelope air leakage requirements may generally be demonstrated by:",
+    "legacyKey": "compliance with the building thermal envelope air leakage requirements may generally be demonstrated by:",
+    "q": "compliance with the building thermal envelope air leakage requirements may generally be demonstrated by:",
     "options": [
       "Only a visual estimate by the homeowner",
       "Testing, such as a blower door test, or alternatively by visual inspection of listed air-sealing sites",
@@ -21798,12 +21798,12 @@
       "There is no air leakage requirement in IECC 2009"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.4.2 Air sealing and insulation"
   },
   {
     "id": "Q1678",
-    "legacyKey": "Under IECC 2009, wood-burning fireplaces installed in a residence are generally required to have:",
-    "q": "Under IECC 2009, wood-burning fireplaces installed in a residence are generally required to have:",
+    "legacyKey": "wood-burning fireplaces installed in a residence are generally required to have:",
+    "q": "wood-burning fireplaces installed in a residence are generally required to have:",
     "options": [
       "No enclosure of any kind",
       "Gasketed doors and a source of combustion air",
@@ -21811,12 +21811,12 @@
       "Only decorative (non-functional) doors"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.4.2.1 Air sealing and insulation"
   },
   {
     "id": "Q1679",
-    "legacyKey": "Under IECC 2009, an unvented crawlspace used as a means of complying with the residential envelope requirements is generally required to have:",
-    "q": "Under IECC 2009, an unvented crawlspace used as a means of complying with the residential envelope requirements is generally required to have:",
+    "legacyKey": "an unvented crawlspace used as a means of complying with the residential envelope requirements is generally required to have:",
+    "q": "an unvented crawlspace used as a means of complying with the residential envelope requirements is generally required to have:",
     "options": [
       "No insulation at all, since it is unvented",
       "Continuous insulation applied to the crawlspace walls, rather than insulating the floor above",
@@ -21824,12 +21824,12 @@
       "Insulation only on the exterior siding above grade"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.2.9 Crawl space walls"
   },
   {
     "id": "Q1680",
-    "legacyKey": "Under IECC 2009, at least one thermostat is generally required to be provided for:",
-    "q": "Under IECC 2009, at least one thermostat is generally required to be provided for:",
+    "legacyKey": "at least one thermostat is generally required to be provided for:",
+    "q": "at least one thermostat is generally required to be provided for:",
     "options": [
       "The entire building regardless of the number of systems",
       "Each separate heating and cooling system",
@@ -21837,12 +21837,12 @@
       "Only systems larger than 5 tons"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 403.1.2 Heat pump supplementary heat"
   },
   {
     "id": "Q1681",
-    "legacyKey": "Under IECC 2009, air leakage sites such as recessed lighting fixtures, plumbing/wiring penetrations, and attic access openings are generally required to be:",
-    "q": "Under IECC 2009, air leakage sites such as recessed lighting fixtures, plumbing/wiring penetrations, and attic access openings are generally required to be:",
+    "legacyKey": "air leakage sites such as recessed lighting fixtures, plumbing/wiring penetrations, and attic access openings are generally required to be:",
+    "q": "air leakage sites such as recessed lighting fixtures, plumbing/wiring penetrations, and attic access openings are generally required to be:",
     "options": [
       "Left open for ventilation purposes",
       "Sealed to limit air leakage into the building thermal envelope",
@@ -21850,12 +21850,12 @@
       "Insulated but not sealed"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.4 Air leakage"
   },
   {
     "id": "Q1682",
-    "legacyKey": "Under IECC 2009, the residential provisions of Chapter 4 generally apply to:",
-    "q": "Under IECC 2009, the residential provisions of Chapter 4 generally apply to:",
+    "legacyKey": "the residential provisions of Chapter 4 generally apply to:",
+    "q": "the residential provisions of Chapter 4 generally apply to:",
     "options": [
       "Only high-rise commercial buildings",
       "Detached one- and two-family dwellings and townhouses, as well as Group R-2, R-3, and R-4 buildings three stories or less",
@@ -21863,12 +21863,12 @@
       "Only buildings without any conditioned space"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 401.1 Scope"
   },
   {
     "id": "Q1683",
-    "legacyKey": "Under IECC 2009, the prescriptive compliance path for residential buildings generally requires the building to meet:",
-    "q": "Under IECC 2009, the prescriptive compliance path for residential buildings generally requires the building to meet:",
+    "legacyKey": "the prescriptive compliance path for residential buildings generally requires the building to meet:",
+    "q": "the prescriptive compliance path for residential buildings generally requires the building to meet:",
     "options": [
       "Only a single whole-building energy cost target with no component requirements",
       "The specific component-by-component requirements, such as fixed R-values and U-factors, listed in the applicable climate zone table",
@@ -21876,12 +21876,12 @@
       "Requirements set entirely by the local utility company"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 402.1.1 Insulation and fenestration criteria by component"
   },
   {
     "id": "Q1684",
-    "legacyKey": "Under IECC 2009, as an alternative to the prescriptive path, a residential building may generally comply using:",
-    "q": "Under IECC 2009, as an alternative to the prescriptive path, a residential building may generally comply using:",
+    "legacyKey": "as an alternative to the prescriptive path, a residential building may generally comply using:",
+    "q": "as an alternative to the prescriptive path, a residential building may generally comply using:",
     "options": [
       "A completely unregulated custom design with no analysis",
       "The Simulated Performance Alternative, demonstrating an annual energy cost no greater than a standard reference design",
@@ -21889,12 +21889,12 @@
       "Compliance is only possible via the prescriptive path"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2015, Chapter 4: Residential energy efficiency — Section: 405.2 Performance-based compliance"
   },
   {
     "id": "Q1685",
-    "legacyKey": "Under IECC 2009, commercial building envelope compliance may generally be demonstrated using:",
-    "q": "Under IECC 2009, commercial building envelope compliance may generally be demonstrated using:",
+    "legacyKey": "commercial building envelope compliance may generally be demonstrated using:",
+    "q": "commercial building envelope compliance may generally be demonstrated using:",
     "options": [
       "Only a single mandatory prescriptive table with no alternative",
       "A prescriptive compliance path or a performance-based (simulated whole-building) compliance path",
@@ -21902,12 +21902,12 @@
       "Only compliance with a local zoning ordinance"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency — Section: Building envelope requirements"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 502.1 General"
   },
   {
     "id": "Q1686",
-    "legacyKey": "Under IECC 2009, 'interior lighting power density' provisions are used to:",
-    "q": "Under IECC 2009, 'interior lighting power density' provisions are used to:",
+    "legacyKey": "'interior lighting power density' provisions are used to:",
+    "q": "'interior lighting power density' provisions are used to:",
     "options": [
       "Increase energy use for marketing purposes",
       "Limit the total connected lighting power allowed per square foot of building area, based on building or space type",
@@ -21915,12 +21915,12 @@
       "Set the required number of light fixtures in every room"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 505.5 Interior lighting power requirements"
   },
   {
     "id": "Q1687",
-    "legacyKey": "Under IECC 2009, exterior lighting power allowances are generally based on:",
-    "q": "Under IECC 2009, exterior lighting power allowances are generally based on:",
+    "legacyKey": "exterior lighting power allowances are generally based on:",
+    "q": "exterior lighting power allowances are generally based on:",
     "options": [
       "The building's interior finish materials",
       "The specific exterior application, such as building facades, parking areas, or walkways, and the applicable lighting zone",
@@ -21928,12 +21928,12 @@
       "The contractor's personal preference"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 505.6 Exterior lighting"
   },
   {
     "id": "Q1688",
-    "legacyKey": "Under IECC 2009, certain air economizers are required on HVAC cooling systems primarily to:",
-    "q": "Under IECC 2009, certain air economizers are required on HVAC cooling systems primarily to:",
+    "legacyKey": "certain air economizers are required on HVAC cooling systems primarily to:",
+    "q": "certain air economizers are required on HVAC cooling systems primarily to:",
     "options": [
       "Increase mechanical cooling energy use",
       "Allow the use of outside air for 'free cooling' when weather conditions permit, reducing mechanical cooling energy use",
@@ -21941,12 +21941,12 @@
       "Eliminate the need for any thermostat"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 503.4.1 Economizers"
   },
   {
     "id": "Q1689",
-    "legacyKey": "Under IECC 2009, commercial roof insulation is generally required to be installed:",
-    "q": "Under IECC 2009, commercial roof insulation is generally required to be installed:",
+    "legacyKey": "commercial roof insulation is generally required to be installed:",
+    "q": "commercial roof insulation is generally required to be installed:",
     "options": [
       "Only on the interior ceiling finish, never at the roof deck",
       "Above the roof deck as continuous insulation, or as specified for the applicable roof assembly type",
@@ -21954,12 +21954,12 @@
       "Only over mechanical equipment"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency — Section: Building envelope requirements"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 502.2.1 Roof assembly"
   },
   {
     "id": "Q1690",
-    "legacyKey": "Under IECC 2009, HVAC equipment installed in commercial buildings is generally required to meet minimum efficiency levels established by:",
-    "q": "Under IECC 2009, HVAC equipment installed in commercial buildings is generally required to meet minimum efficiency levels established by:",
+    "legacyKey": "HVAC equipment installed in commercial buildings is generally required to meet minimum efficiency levels established by:",
+    "q": "HVAC equipment installed in commercial buildings is generally required to meet minimum efficiency levels established by:",
     "options": [
       "The manufacturer's own internal marketing standard",
       "The applicable referenced equipment efficiency standard, such as ASHRAE 90.1 equipment tables incorporated by reference",
@@ -21967,12 +21967,12 @@
       "Only local utility company recommendations"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 503.2.3 HVAC equipment performance requirements"
   },
   {
     "id": "Q1691",
-    "legacyKey": "Under IECC 2009, commercial building 'total building performance' (performance path) compliance requires demonstrating that:",
-    "q": "Under IECC 2009, commercial building 'total building performance' (performance path) compliance requires demonstrating that:",
+    "legacyKey": "commercial building 'total building performance' (performance path) compliance requires demonstrating that:",
+    "q": "commercial building 'total building performance' (performance path) compliance requires demonstrating that:",
     "options": [
       "The building has no mechanical system",
       "The proposed design's annual energy cost is no greater than that of a standard reference design",
@@ -21980,12 +21980,12 @@
       "The building's construction cost is minimized regardless of energy use"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 506.2 Mandatory requirements"
   },
   {
     "id": "Q1692",
-    "legacyKey": "Under IECC 2009, service water heating equipment installed in commercial buildings is generally required to meet:",
-    "q": "Under IECC 2009, service water heating equipment installed in commercial buildings is generally required to meet:",
+    "legacyKey": "service water heating equipment installed in commercial buildings is generally required to meet:",
+    "q": "service water heating equipment installed in commercial buildings is generally required to meet:",
     "options": [
       "No efficiency requirement at all",
       "Minimum efficiency requirements established by the applicable referenced standard",
@@ -21993,12 +21993,12 @@
       "Requirements identical to residential equipment regardless of size"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 504.2 Service water-heating equipment performance"
   },
   {
     "id": "Q1693",
-    "legacyKey": "Under IECC 2009, mechanical ventilation systems serving commercial buildings are generally required to include controls that:",
-    "q": "Under IECC 2009, mechanical ventilation systems serving commercial buildings are generally required to include controls that:",
+    "legacyKey": "mechanical ventilation systems serving commercial buildings are generally required to include controls that:",
+    "q": "mechanical ventilation systems serving commercial buildings are generally required to include controls that:",
     "options": [
       "Operate continuously at maximum capacity at all times",
       "Allow for reduced ventilation rates or system shutoff when spaces are unoccupied, where permitted",
@@ -22006,12 +22006,12 @@
       "Only operate during business hours regardless of occupancy"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 503.2.6 Ventilation"
   },
   {
     "id": "Q1694",
-    "legacyKey": "Under IECC 2009, commercial building envelope fenestration (windows/doors) is generally subject to maximum requirements for:",
-    "q": "Under IECC 2009, commercial building envelope fenestration (windows/doors) is generally subject to maximum requirements for:",
+    "legacyKey": "commercial building envelope fenestration (windows/doors) is generally subject to maximum requirements for:",
+    "q": "commercial building envelope fenestration (windows/doors) is generally subject to maximum requirements for:",
     "options": [
       "Only the frame color",
       "U-factor and solar heat gain coefficient (SHGC), based on climate zone and orientation",
@@ -22019,12 +22019,12 @@
       "Only the door hardware finish"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency — Section: Building envelope requirements"
+    "source": "IECC 2015, Chapter 5: Commercial energy efficiency — Section: 502.3 Fenestration"
   },
   {
     "id": "Q1695",
-    "legacyKey": "IECC 2009 Chapter 6 (Referenced Standards) serves primarily to:",
-    "q": "IECC 2009 Chapter 6 (Referenced Standards) serves primarily to:",
+    "legacyKey": "IECC Chapter 6 (Referenced Standards) serves primarily to:",
+    "q": "IECC Chapter 6 (Referenced Standards) serves primarily to:",
     "options": [
       "Provide the complete text of every referenced standard",
       "List the standards referenced throughout the code, along with the promulgating organization, for the reader's reference",
@@ -22032,12 +22032,12 @@
       "List only standards related to plumbing fixtures"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 6: Referenced standards"
+    "source": "IECC 2015, Chapter 6: Referenced standards — Section: 601 General"
   },
   {
     "id": "Q1696",
-    "legacyKey": "Under IECC 2009, compliance with the commercial provisions of the code may generally be demonstrated as an alternative by complying with:",
-    "q": "Under IECC 2009, compliance with the commercial provisions of the code may generally be demonstrated as an alternative by complying with:",
+    "legacyKey": "compliance with the commercial provisions of the code may generally be demonstrated as an alternative by complying with:",
+    "q": "compliance with the commercial provisions of the code may generally be demonstrated as an alternative by complying with:",
     "options": [
       "The residential provisions of IECC 2009 instead",
       "ASHRAE/IESNA Standard 90.1, as permitted by the code",
@@ -22045,12 +22045,12 @@
       "No alternative standard is permitted"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 6: Referenced standards"
+    "source": "IECC 2015, Chapter 6: Referenced standards — Section: 501.2 Application to existing buildings"
   },
   {
     "id": "Q1697",
-    "legacyKey": "When a standard is referenced by IECC 2009, that standard generally:",
-    "q": "When a standard is referenced by IECC 2009, that standard generally:",
+    "legacyKey": "When a standard is referenced by IECC, that standard generally:",
+    "q": "When a standard is referenced by IECC, that standard generally:",
     "options": [
       "Has no legal or enforceable effect",
       "Becomes part of the requirements of the code to the prescribed extent of each reference",
@@ -22058,12 +22058,12 @@
       "Applies only in jurisdictions outside the United States"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 6: Referenced standards"
+    "source": "IECC 2015, Chapter 6: Referenced standards — Section: 602 Referenced standards"
   },
   {
     "id": "Q1698",
-    "legacyKey": "If a conflict exists between the text of IECC 2009 and a referenced standard, the general rule is that:",
-    "q": "If a conflict exists between the text of IECC 2009 and a referenced standard, the general rule is that:",
+    "legacyKey": "If a conflict exists between the text of IECC and a referenced standard, the general rule is that:",
+    "q": "If a conflict exists between the text of IECC and a referenced standard, the general rule is that:",
     "options": [
       "The referenced standard always governs over the code text",
       "The text of the IECC itself governs over the referenced standard",
@@ -22071,12 +22071,12 @@
       "The most expensive compliance option always governs"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 6: Referenced standards"
+    "source": "IECC 2015, Chapter 6: Referenced standards — Section: 602 Referenced standards"
   },
   {
     "id": "Q1699",
-    "legacyKey": "Referenced standards listed in IECC 2009 Chapter 6 are generally organized by:",
-    "q": "Referenced standards listed in IECC 2009 Chapter 6 are generally organized by:",
+    "legacyKey": "Referenced standards listed in IECC Chapter 6 are generally organized by:",
+    "q": "Referenced standards listed in IECC Chapter 6 are generally organized by:",
     "options": [
       "Random order with no organizing principle",
       "The standard-issuing organization and/or the section(s) of the code in which each standard is referenced",
@@ -22084,12 +22084,12 @@
       "The date the building was constructed"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 6: Referenced standards"
+    "source": "IECC 2015, Chapter 6: Referenced standards — Section: 601 General"
   },
   {
     "id": "Q1700",
-    "legacyKey": "Referenced standards are incorporated into IECC 2009 primarily to:",
-    "q": "Referenced standards are incorporated into IECC 2009 primarily to:",
+    "legacyKey": "Referenced standards are incorporated into IECC primarily to:",
+    "q": "Referenced standards are incorporated into IECC primarily to:",
     "options": [
       "Duplicate detailed technical requirements already stated elsewhere in the code",
       "Avoid duplicating detailed technical requirements already established by nationally recognized standards organizations, while giving them code-enforceable status",
@@ -22097,7 +22097,7 @@
       "Replace the need for any prescriptive tables"
     ],
     "correct": 1,
-    "source": "IECC 2009, Chapter 6: Referenced standards"
+    "source": "IECC 2015, Chapter 6: Referenced standards — Section: 602 Referenced standards"
   },
   {
     "id": "Q1701",
