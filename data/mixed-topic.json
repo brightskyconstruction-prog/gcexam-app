@@ -11,7 +11,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies"
+    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.1.1 — Underlayment"
   },
   {
     "id": "M2",
@@ -25,7 +25,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IRC, Chapter 31: Vents"
+    "source": "IRC, Chapter 31: Vents — Section: P3103.5 — Roof Termination"
   },
   {
     "id": "M3",
@@ -39,7 +39,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies"
+    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.2.2 — Slope"
   },
   {
     "id": "M4",
@@ -53,7 +53,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "IRC, Chapter 10: Chimneys and fireplaces"
+    "source": "IRC, Chapter 10: Chimneys and fireplaces — Section: R1003.9 — Termination"
   },
   {
     "id": "M5",
@@ -67,7 +67,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IBC, Chapter 12: Interior environment; IRC, Chapter 8: Roof-ceiling construction"
+    "source": "IBC, Chapter 12: Interior environment; IRC, Chapter 8: Roof-ceiling construction — Section: R806.2 / IBC 1202.2.1 — Minimum Ventilation Area"
   },
   {
     "id": "M6",
@@ -81,7 +81,7 @@
     ],
     "correct": 0,
     "topic": "Roofing",
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures — Section: 1507.4.1 — Slope"
   },
   {
     "id": "M7",
@@ -95,7 +95,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures — Section: 1507.2.3 — Slope"
   },
   {
     "id": "M8",
@@ -109,7 +109,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing — Section: Roof Sheathing"
+    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing — Section: Roof Sheathing — Panel Edge Support"
   },
   {
     "id": "M9",
@@ -123,7 +123,7 @@
     ],
     "correct": 0,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing — Rafter layout"
   },
   {
     "id": "M10",
@@ -137,7 +137,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing — Birdsmouth"
   },
   {
     "id": "M11",
@@ -151,7 +151,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing — Collar ties"
   },
   {
     "id": "M12",
@@ -165,7 +165,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: Strip Shingles and Underlayment"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: Strip Shingles and Underlayment — Shingle exposure"
   },
   {
     "id": "M13",
@@ -179,7 +179,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IBC, Chapter 23: Wood; IRC, Chapter 8: Roof-ceiling construction; Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "IBC, Chapter 23: Wood; IRC, Chapter 8: Roof-ceiling construction; Carpentry, Chapter 22: Roofing & Gutters — Section: R803.2.3.1 / R602.3 — Wood structural panel fastening"
   },
   {
     "id": "M14",
@@ -193,7 +193,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies"
+    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.1.2 — Ice Barriers"
   },
   {
     "id": "M15",
@@ -207,7 +207,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 22: Roofing & Gutters; IRC, Chapter 9: Roof assemblies"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters; IRC, Chapter 9: Roof assemblies — Section: Strip Shingles and Underlayment — Eave overhang"
   },
   {
     "id": "M16",
@@ -221,7 +221,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures; Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures; Carpentry, Chapter 22: Roofing & Gutters — Section: 1507.8 — Wood Shingles and Shakes"
   },
   {
     "id": "M17",
@@ -235,7 +235,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "IBC, Chapter 16: Structural design — Section: Live loads"
+    "source": "IBC, Chapter 16: Structural design — Section: 1607.12 — Roof Live Loads"
   },
   {
     "id": "M18",
@@ -249,7 +249,7 @@
     ],
     "correct": 0,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing — Purlins"
   },
   {
     "id": "M19",
@@ -263,7 +263,7 @@
     ],
     "correct": 0,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing — Fascia"
   },
   {
     "id": "M20",
@@ -277,7 +277,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing — Valley rafters"
   },
   {
     "id": "M21",
@@ -291,7 +291,7 @@
     ],
     "correct": 0,
     "topic": "Roofing",
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Accessories; IBC, Chapter 15: Roof assemblies and rooftop structures"
+    "source": "SteelDeck, Chapter 7: Safety notes; IBC, Chapter 15: Roof assemblies and rooftop structures — Section: Accessories — Cant Strips"
   },
   {
     "id": "M22",
@@ -305,7 +305,7 @@
     ],
     "correct": 0,
     "topic": "Roofing",
-    "source": "IBC, Chapter 12: Interior environment; Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "IBC, Chapter 12: Interior environment; Carpentry, Chapter 22: Roofing & Gutters — Section: 1202.2 / R806 — Roof ventilation"
   },
   {
     "id": "M23",
@@ -319,7 +319,7 @@
     ],
     "correct": 0,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing — Valley rafters"
   },
   {
     "id": "M24",
@@ -333,7 +333,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "IRC, Chapter 10: Chimneys and fireplaces"
+    "source": "IRC, Chapter 10: Chimneys and fireplaces — Section: R1003.9 — Termination"
   },
   {
     "id": "M25",
@@ -347,7 +347,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: General Information; IBC, Chapter 16: Structural design — Section: Wind loads"
+    "source": "SteelDeck, Chapter 1: Product descriptions; IBC, Chapter 16: Structural design — Section: Wind loads — Uplift"
   },
   {
     "id": "M26",
@@ -361,7 +361,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 22: Roofing & Gutters; IRC, Chapter 9: Roof assemblies"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters; IRC, Chapter 9: Roof assemblies — Section: R905.2.5 — Fasteners"
   },
   {
     "id": "M27",
@@ -375,7 +375,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "OSHA, Subpart X: Stairways/Ladders — Section: General requirements (stairways and ladders); Carpentry, Chapter 7: Ladders, Scaffolds & Other Support"
+    "source": "OSHA, Subpart X: Stairways/Ladders; Carpentry, Chapter 7: Ladders, Scaffolds & Other Support — Section: 1926.1053(b)(1) — Ladder access"
   },
   {
     "id": "M28",
@@ -389,7 +389,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IRC, Chapter 8: Roof-ceiling construction; Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: Thermal and Moisture Protection"
+    "source": "IRC, Chapter 8: Roof-ceiling construction; Carpentry, Chapter 31: Thermal & Acoustical Insulation — Section: R806.3 — Vent and insulation clearance"
   },
   {
     "id": "M29",
@@ -403,7 +403,7 @@
     ],
     "correct": 3,
     "topic": "Roofing",
-    "source": "SteelDeck, Chapter 4: Loading and shipping — Section: Roof Deck Design; IBC, Chapter 22: Steel"
+    "source": "SteelDeck, Chapter 4: Loading and shipping; IBC, Chapter 22: Steel — Section: Roof Deck Design — Cantilever"
   },
   {
     "id": "M30",
@@ -417,7 +417,7 @@
     ],
     "correct": 3,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies; Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "IRC, Chapter 9: Roof assemblies; Carpentry, Chapter 22: Roofing & Gutters — Section: R905.2.2 — Slope"
   },
   {
     "id": "M31",
@@ -431,7 +431,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IECC 2009, Chapter 5: Commercial energy efficiency"
+    "source": "IECC 2009, Chapter 5: Commercial energy efficiency — Section: 502.3.2 — Skylights"
   },
   {
     "id": "M32",
@@ -445,7 +445,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing — Ridge boards"
   },
   {
     "id": "M33",
@@ -459,7 +459,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures — Section: Reroofing; IRC, Chapter 9: Roof assemblies"
+    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures; IRC, Chapter 9: Roof assemblies — Section: Reroofing — 1501.1 / R907.3"
   },
   {
     "id": "M34",
@@ -473,7 +473,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies; IBC, Chapter 15: Roof assemblies and rooftop structures"
+    "source": "IRC, Chapter 9: Roof assemblies; IBC, Chapter 15: Roof assemblies and rooftop structures — Section: R903.2.1 / 1503.2 — Crickets and Saddles"
   },
   {
     "id": "M35",
@@ -487,7 +487,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies"
+    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.2.8.2 — Drip Edge"
   },
   {
     "id": "M36",
@@ -501,7 +501,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies"
+    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.6.3 — Valley Flashing"
   },
   {
     "id": "M37",
@@ -515,7 +515,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies; Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "IRC, Chapter 9: Roof assemblies; Carpentry, Chapter 22: Roofing & Gutters — Section: R905.8.2 — Wood Shingles and Shakes"
   },
   {
     "id": "M38",
@@ -529,7 +529,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies"
+    "source": "IRC, Chapter 9: Roof assemblies — Section: R903.2.1.3 — Kick-Out Flashing"
   },
   {
     "id": "M39",
@@ -543,7 +543,7 @@
     ],
     "correct": 0,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies"
+    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.6.1 — Roll Roofing Slope"
   },
   {
     "id": "M40",
@@ -557,7 +557,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.502(f) — Warning Line Systems"
   },
   {
     "id": "M41",
@@ -571,7 +571,7 @@
     ],
     "correct": 3,
     "topic": "Roofing",
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures — Section: Roof drainage"
+    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures — Section: 1502.3 — Roof Drainage"
   },
   {
     "id": "M42",
@@ -585,7 +585,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: Closed-Cut Valleys"
   },
   {
     "id": "M43",
@@ -599,7 +599,7 @@
     ],
     "correct": 0,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies"
+    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.8 — Wood Shingles and Shakes"
   },
   {
     "id": "M44",
@@ -613,7 +613,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures — Section: 1502.3 / 1502.4 — Scuppers"
   },
   {
     "id": "M45",
@@ -627,7 +627,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies; Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "IRC, Chapter 9: Roof assemblies; Carpentry, Chapter 22: Roofing & Gutters — Section: R905.2.8.3 — Sidewall Flashing"
   },
   {
     "id": "M46",
@@ -641,7 +641,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies"
+    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.2.5 — Fasteners"
   },
   {
     "id": "M47",
@@ -655,7 +655,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.502(j) — Protection from Falling Objects"
   },
   {
     "id": "M48",
@@ -669,7 +669,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: Counterflashing/Reglet Flashing"
   },
   {
     "id": "M49",
@@ -683,7 +683,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures"
+    "source": "IBC, Chapter 15: Roof assemblies and rooftop structures — Section: 1505.1 — Roof Assemblies, Fire Classification"
   },
   {
     "id": "M50",
@@ -697,7 +697,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "IRC, Chapter 39: Power and lighting distribution"
+    "source": "IRC, Chapter 39: Power and lighting distribution — Section: Rooftop Receptacle for HVAC Equipment"
   },
   {
     "id": "M51",
@@ -711,7 +711,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.502(h) — Safety Monitoring System"
   },
   {
     "id": "M52",
@@ -725,7 +725,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: Modified Bitumen Roofing"
   },
   {
     "id": "M53",
@@ -739,7 +739,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies"
+    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.3.7 — Clay and Concrete Tile Headlap"
   },
   {
     "id": "M54",
@@ -753,7 +753,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IRC, Chapter 8: Roof-ceiling construction"
+    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R807.1 — Attic Access"
   },
   {
     "id": "M55",
@@ -767,7 +767,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: TPO/PVC Membrane Seams"
   },
   {
     "id": "M56",
@@ -781,7 +781,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: Roof Hatch Access"
   },
   {
     "id": "M57",
@@ -795,7 +795,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies"
+    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.4.2 — Metal Roof Shingles"
   },
   {
     "id": "M58",
@@ -809,7 +809,7 @@
     ],
     "correct": 2,
     "topic": "Roofing",
-    "source": "OSHA, Subpart F: Fire Protection"
+    "source": "OSHA, Subpart F: Fire Protection — Section: 1926.150(c) — Fire Extinguishers"
   },
   {
     "id": "M59",
@@ -823,7 +823,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "IRC, Chapter 9: Roof assemblies"
+    "source": "IRC, Chapter 9: Roof assemblies — Section: R905.6.5 — Slate Shingles"
   },
   {
     "id": "M60",
@@ -837,7 +837,7 @@
     ],
     "correct": 0,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: Roll Roofing"
   },
   {
     "id": "M61",
@@ -851,7 +851,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing — Section: Roof Sheathing"
+    "source": "Carpentry, Chapter 19: Roof Assembly & Sheathing — Section: Roof Sheathing — Panel Spacing"
   },
   {
     "id": "M62",
@@ -865,7 +865,7 @@
     ],
     "correct": 1,
     "topic": "Roofing",
-    "source": "Carpentry, Chapter 22: Roofing & Gutters"
+    "source": "Carpentry, Chapter 22: Roofing & Gutters — Section: Ice Dams"
   },
   {
     "id": "M63",
@@ -893,7 +893,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R403.1.1 / R403.1.3 — Footing Projection and Thickness"
   },
   {
     "id": "M65",
@@ -907,7 +907,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R403.1.6 — Foundation Anchorage"
   },
   {
     "id": "M66",
@@ -921,7 +921,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R403.1.6 — Foundation Anchorage"
   },
   {
     "id": "M67",
@@ -935,7 +935,7 @@
     ],
     "correct": 2,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R403.1.6 — Anchor Bolt Embedment"
   },
   {
     "id": "M68",
@@ -949,7 +949,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R403.1.1 — Minimum Footing Size"
   },
   {
     "id": "M69",
@@ -963,7 +963,7 @@
     ],
     "correct": 0,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R403.1.1 — Footing Thickness"
   },
   {
     "id": "M70",
@@ -977,7 +977,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R403.1.6 — Sill Anchorage"
   },
   {
     "id": "M71",
@@ -991,7 +991,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R405.1 — Foundation Drainage"
   },
   {
     "id": "M72",
@@ -1005,7 +1005,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IBC, Chapter 18: Soils and foundations"
+    "source": "IBC, Chapter 18: Soils and foundations — Section: 1809.5 / 1809.6 — Frost Protection"
   },
   {
     "id": "M73",
@@ -1019,7 +1019,7 @@
     ],
     "correct": 2,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R402.2.1 / Table R402.2 — Concrete Minimum Compressive Strength"
   },
   {
     "id": "M74",
@@ -1033,7 +1033,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IECC 2009, Chapter 4: Residential energy efficiency — Section: 402.2.3 — Below-Grade Foundation Insulation Protection"
   },
   {
     "id": "M75",
@@ -1047,7 +1047,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations; Masonry, Chapter 16: Wall Systems"
+    "source": "IRC, Chapter 4: Foundations; Masonry, Chapter 16: Wall Systems — Section: R404.1 — Foundation Wall Design"
   },
   {
     "id": "M76",
@@ -1061,7 +1061,7 @@
     ],
     "correct": 2,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations; Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Reinforced Masonry"
+    "source": "IRC, Chapter 4: Foundations; Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Reinforced Masonry / Table R404.1(1)"
   },
   {
     "id": "M77",
@@ -1075,7 +1075,7 @@
     ],
     "correct": 2,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations; IBC, Chapter 18: Soils and foundations"
+    "source": "IRC, Chapter 4: Foundations; IBC, Chapter 18: Soils and foundations — Section: R403.1.1 — Footing Projection"
   },
   {
     "id": "M78",
@@ -1089,7 +1089,7 @@
     ],
     "correct": 0,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations; IBC, Chapter 18: Soils and foundations"
+    "source": "IRC, Chapter 4: Foundations; IBC, Chapter 18: Soils and foundations — Section: Table R403.1(1) — Footing Widths"
   },
   {
     "id": "M79",
@@ -1103,7 +1103,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IBC, Chapter 18: Soils and foundations; IRC, Chapter 4: Foundations"
+    "source": "IBC, Chapter 18: Soils and foundations; IRC, Chapter 4: Foundations — Section: Table 1809.4 / R402.2 — Concrete Strength"
   },
   {
     "id": "M80",
@@ -1117,7 +1117,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations; IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IRC, Chapter 4: Foundations; IECC 2009, Chapter 4: Residential energy efficiency — Section: R408.1 / R408.2 — Vapor Retarder"
   },
   {
     "id": "M81",
@@ -1131,7 +1131,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IBC, Chapter 18: Soils and foundations; Pipe&Excavation, Chapter 5: Operating a Backhoe — Section: Site Work"
+    "source": "IBC, Chapter 18: Soils and foundations; Pipe&Excavation, Chapter 5: Operating a Backhoe — Section: 1807 / Site Work"
   },
   {
     "id": "M82",
@@ -1145,7 +1145,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IBC, Chapter 18: Soils and foundations; Pipe&Excavation, Chapter 1: Estimating, Bidding, Bonding — Section: Introduction to Pipe and Excavation"
+    "source": "IBC, Chapter 18: Soils and foundations; Pipe&Excavation, Chapter 1: Estimating, Bidding, Bonding — Section: 1804.4 / Introduction to Pipe and Excavation"
   },
   {
     "id": "M83",
@@ -1173,7 +1173,7 @@
     ],
     "correct": 2,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations; Carpentry, Chapter 15: Floor Framing"
+    "source": "IRC, Chapter 4: Foundations; Carpentry, Chapter 15: Floor Framing — Section: R403.1.6 — Sill Anchorage"
   },
   {
     "id": "M85",
@@ -1201,7 +1201,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IBC, Chapter 19: Concrete — Section: Minimum slab provisions; IRC, Chapter 5: Floors"
+    "source": "IBC, Chapter 19: Concrete; IRC, Chapter 5: Floors — Section: 1907 / R506.2 — Minimum Slab Thickness"
   },
   {
     "id": "M87",
@@ -1215,7 +1215,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IBC, Chapter 23: Wood; IRC, Chapter 4: Foundations"
+    "source": "IBC, Chapter 23: Wood; IRC, Chapter 4: Foundations — Section: 2308 / R403.1.6 — Foundation Anchorage"
   },
   {
     "id": "M88",
@@ -1229,7 +1229,7 @@
     ],
     "correct": 0,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations; IBC, Chapter 18: Soils and foundations"
+    "source": "IRC, Chapter 4: Foundations; IBC, Chapter 18: Soils and foundations — Section: R403.1.4.1 — Footings on Stepped Grades"
   },
   {
     "id": "M89",
@@ -1243,7 +1243,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R408.4 — Under-Floor Access"
   },
   {
     "id": "M90",
@@ -1257,7 +1257,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R406.2 — Foundation Waterproofing"
   },
   {
     "id": "M91",
@@ -1271,7 +1271,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IRC, Appendix F: Radon Control Methods"
+    "source": "IRC, Appendix F: Radon Control Methods — Section: Gas-Permeable Layer"
   },
   {
     "id": "M92",
@@ -1285,7 +1285,7 @@
     ],
     "correct": 2,
     "topic": "Foundation",
-    "source": "IRC, Chapter 3: Building planning — Section: R318"
+    "source": "IRC, Chapter 3: Building planning — Section: R318.1 — Protection from Termites"
   },
   {
     "id": "M93",
@@ -1299,7 +1299,7 @@
     ],
     "correct": 3,
     "topic": "Bearing",
-    "source": "IBC, Chapter 18: Soils and foundations — Section: Table 1806.2"
+    "source": "IBC, Chapter 18: Soils and foundations — Section: Table 1806.2 — Presumptive Load-Bearing Values"
   },
   {
     "id": "M94",
@@ -1313,7 +1313,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "Pipe&Excavation, Chapter 6: Soil Compaction"
+    "source": "Pipe&Excavation, Chapter 6: Soil Compaction — Section: Lift Thickness"
   },
   {
     "id": "M95",
@@ -1327,7 +1327,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Reinforcement"
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Reinforcement — Standard Hooks"
   },
   {
     "id": "M96",
@@ -1341,7 +1341,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IBC, Chapter 18: Soils and foundations"
+    "source": "IBC, Chapter 18: Soils and foundations — Section: 1807.2.3 — Stability Against Overturning"
   },
   {
     "id": "M97",
@@ -1349,13 +1349,13 @@
     "q": "Isolation joints (expansion joints) in slabs-on-grade are used to:",
     "options": [
       "Connect the slab to the wall",
-      "Prevent bonding and allow independent movement between the slab and fixed structure",
+      "Allow movement between the slab and adjoining structural elements",
       "Stop water penetration",
       "Increase the strength of the slab"
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Isolation Joints"
   },
   {
     "id": "M98",
@@ -1363,13 +1363,13 @@
     "q": "What is the primary purpose of 'consolidating' concrete (vibration) during placement?",
     "options": [
       "To mix the ingredients",
-      "To remove entrapped air voids and ensure rebar bond",
+      "Remove entrapped air and ensure complete contact with forms and reinforcement",
       "To increase the slump",
       "To heat the concrete"
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Consolidation"
   },
   {
     "id": "M99",
@@ -1377,13 +1377,13 @@
     "q": "A 'Cold Joint' in a concrete foundation occurs when:",
     "options": [
       "The weather is below freezing",
-      "A pour is delayed, and the first layer sets before the next layer is placed",
+      "Fresh concrete is placed against concrete that has already set",
       "Ice is added to the mix",
       "The concrete is refrigerated"
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Cold Joints"
   },
   {
     "id": "M100",
@@ -1391,13 +1391,13 @@
     "q": "In high seismic zones (SDC D0, D1, D2), plate washers used on anchor bolts must be a minimum size of:",
     "options": [
       "2 inch x 2 inch",
-      "3 inch x 3 inch x 0.229 inch",
+      "3 inches by 3 inches by 1/4 inch",
       "Standard round washer",
       "Not required"
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IRC, Chapter 6: Wall construction — Section: R602.11.1"
+    "source": "IRC, Chapter 6: Wall construction — Section: R602.11.1 — Seismic Anchorage"
   },
   {
     "id": "M101",
@@ -1411,7 +1411,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "IRC, Chapter 5: Floors — Section: R506.2.2"
+    "source": "IRC, Chapter 5: Floors — Section: R506.2.1 — Base Course"
   },
   {
     "id": "M102",
@@ -1439,7 +1439,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "Concrete, Chapter 11: Concrete Placement and Finishing"
+    "source": "Concrete, Chapter 11: Concrete Placement and Finishing — Section: Underwater Placement"
   },
   {
     "id": "M104",
@@ -1453,7 +1453,7 @@
     ],
     "correct": 2,
     "topic": "Foundation",
-    "source": "Carpentry, Chapter 10: Foundation Walls"
+    "source": "Carpentry, Chapter 10: Foundation Walls — Section: Layout and Batter Boards"
   },
   {
     "id": "M105",
@@ -1467,7 +1467,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "Pipe&Excavation, Chapter 6: Soil Compaction"
+    "source": "Pipe&Excavation, Chapter 6: Soil Compaction — Section: Field Density Testing"
   },
   {
     "id": "M106",
@@ -1481,7 +1481,7 @@
     ],
     "correct": 2,
     "topic": "Foundation",
-    "source": "IBC, Chapter 18: Soils and foundations"
+    "source": "IBC, Chapter 18: Soils and foundations — Section: 1806.5 — Expansive Soils"
   },
   {
     "id": "M107",
@@ -1509,7 +1509,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "Carpentry, Chapter 10: Foundation Walls"
+    "source": "Carpentry, Chapter 10: Foundation Walls — Section: Underpinning"
   },
   {
     "id": "M109",
@@ -1551,7 +1551,7 @@
     ],
     "correct": 2,
     "topic": "Foundation",
-    "source": "IBC, Chapter 18: Soils and foundations"
+    "source": "IBC, Chapter 18: Soils and foundations — Section: 1809.7 — Footings on Slopes"
   },
   {
     "id": "M112",
@@ -1565,7 +1565,7 @@
     ],
     "correct": 2,
     "topic": "Foundation",
-    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Reinforcement"
+    "source": "Concrete, Chapter 7: Joints and Embedments in Structures — Section: Reinforcement — Reinforcement Supports"
   },
   {
     "id": "M113",
@@ -1607,7 +1607,7 @@
     ],
     "correct": 0,
     "topic": "Foundation",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R408.4 — Under-Floor Access"
   },
   {
     "id": "M116",
@@ -1621,7 +1621,7 @@
     ],
     "correct": 2,
     "topic": "Foundation",
-    "source": "IRC, Chapter 6: Wall construction — Section: R606"
+    "source": "IRC, Chapter 6: Wall construction — Section: R606 — Piers and Columns"
   },
   {
     "id": "M117",
@@ -1635,7 +1635,7 @@
     ],
     "correct": 1,
     "topic": "Foundation",
-    "source": "Masonry, Chapter 15: Foundation Systems"
+    "source": "Masonry, Chapter 15: Foundation Systems — Section: Drainage and Weep Holes"
   },
   {
     "id": "M118",
@@ -1677,7 +1677,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IRC, Chapter 5: Floors"
+    "source": "IRC, Chapter 5: Floors — Section: R502.6 — Bearing"
   },
   {
     "id": "M121",
@@ -1691,7 +1691,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Floor Deck"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Floor Deck — Composite Floor Deck Profiles"
   },
   {
     "id": "M122",
@@ -1705,7 +1705,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IRC, Chapter 3: Building planning"
+    "source": "IRC, Chapter 3: Building planning — Section: R309.5 — Garage Floor Slope"
   },
   {
     "id": "M123",
@@ -1719,7 +1719,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation"
+    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation — Floor Deck Bearing"
   },
   {
     "id": "M124",
@@ -1733,7 +1733,7 @@
     ],
     "correct": 2,
     "topic": "Floor",
-    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing"
+    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing — Section: Table R502.3.1(1) — Joist Span"
   },
   {
     "id": "M125",
@@ -1747,7 +1747,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IRC, Chapter 11: Energy conservation, Energy efficiency; IECC 2009, Chapter 4: Residential energy efficiency"
+    "source": "IRC, Chapter 11: Energy conservation, Energy efficiency; IECC 2009, Chapter 4: Residential energy efficiency — Section: R402.2.8 / Table N1102.1.2 — Floor Insulation"
   },
   {
     "id": "M126",
@@ -1761,7 +1761,7 @@
     ],
     "correct": 0,
     "topic": "Floor",
-    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing"
+    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing — Section: R503.3 — Underlayment"
   },
   {
     "id": "M127",
@@ -1775,7 +1775,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing"
+    "source": "IRC, Chapter 5: Floors — Section: R502.8.1 — Bored Holes"
   },
   {
     "id": "M128",
@@ -1789,7 +1789,7 @@
     ],
     "correct": 3,
     "topic": "Floor",
-    "source": "IRC, Chapter 5: Floors"
+    "source": "IRC, Chapter 5: Floors — Section: R502.8 — Notches"
   },
   {
     "id": "M129",
@@ -1803,7 +1803,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.501(b) — Floor Holes"
   },
   {
     "id": "M130",
@@ -1817,7 +1817,7 @@
     ],
     "correct": 0,
     "topic": "Floor",
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Floor Deck Design; IBC, Chapter 22: Steel"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Floor Deck Design — Strength and Capacity; IBC, Chapter 22: Steel"
   },
   {
     "id": "M131",
@@ -1831,7 +1831,7 @@
     ],
     "correct": 2,
     "topic": "Floor",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R402.2.1 / Table R402.2 — Concrete Strength"
   },
   {
     "id": "M132",
@@ -1845,7 +1845,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IECC 2009, Chapter 2: Definitions; IRC, Chapter 11: Energy conservation, Energy efficiency"
+    "source": "IECC 2009, Chapter 2: Definitions; IRC, Chapter 11: Energy conservation, Energy efficiency — Section: Slab-on-Grade Definitions"
   },
   {
     "id": "M133",
@@ -1859,7 +1859,7 @@
     ],
     "correct": 2,
     "topic": "Floor",
-    "source": "IRC, Chapter 5: Floors — Section: R502.6.1"
+    "source": "IRC, Chapter 5: Floors — Section: R502.6.1 — Joist Lap"
   },
   {
     "id": "M134",
@@ -1873,7 +1873,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IRC, Chapter 5: Floors — Section: R502.8"
+    "source": "IRC, Chapter 5: Floors — Section: R502.8 — Notches"
   },
   {
     "id": "M135",
@@ -1887,7 +1887,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IRC, Chapter 3: Building planning — Section: Table R301.5"
+    "source": "IRC, Chapter 3: Building planning — Section: Table R301.5 — Sleeping Room Live Load"
   },
   {
     "id": "M136",
@@ -1901,7 +1901,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IRC, Chapter 3: Building planning — Section: Table R301.5"
+    "source": "IRC, Chapter 3: Building planning — Section: Table R301.5 — Living Rooms and Hallways"
   },
   {
     "id": "M137",
@@ -1915,7 +1915,7 @@
     ],
     "correct": 2,
     "topic": "Floor",
-    "source": "IRC, Chapter 5: Floors — Section: R502.7"
+    "source": "IRC, Chapter 5: Floors — Section: R502.7 — Lateral Support"
   },
   {
     "id": "M138",
@@ -1929,7 +1929,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IRC, Chapter 3: Building planning — Section: Fire-resistant construction (R302.12)"
+    "source": "IRC, Chapter 3: Building planning — Section: R302.12 — Draftstopping"
   },
   {
     "id": "M139",
@@ -1943,7 +1943,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IRC, Chapter 5: Floors — Section: R506.2.3"
+    "source": "IRC, Chapter 5: Floors — Section: R506.2.3 — Vapor Retarder"
   },
   {
     "id": "M140",
@@ -1957,7 +1957,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Control Joints"
   },
   {
     "id": "M141",
@@ -1971,7 +1971,7 @@
     ],
     "correct": 2,
     "topic": "Floor",
-    "source": "IRC, Chapter 5: Floors — Section: R502.10"
+    "source": "IRC, Chapter 5: Floors — Section: R502.10 — Stairway Openings"
   },
   {
     "id": "M142",
@@ -1985,7 +1985,7 @@
     ],
     "correct": 3,
     "topic": "Floor",
-    "source": "Carpentry, Chapter 13: Engineered Wood; IRC, Chapter 5: Floors — Section: R502.8.2"
+    "source": "Carpentry, Chapter 13: Engineered Wood; IRC, Chapter 5: Floors — Section: R502.8.2 — Engineered Wood I-Joists"
   },
   {
     "id": "M143",
@@ -1999,7 +1999,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Accessories"
+    "source": "SteelDeck, Chapter 7: Safety notes — Section: Accessories — Pour Stops"
   },
   {
     "id": "M144",
@@ -2013,7 +2013,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.502(a) — Covers and Marking"
   },
   {
     "id": "M145",
@@ -2027,7 +2027,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "OSHA, Subpart M: Fall Protection"
+    "source": "OSHA, Subpart M: Fall Protection — Section: 1926.502(i) — Hole Covers"
   },
   {
     "id": "M146",
@@ -2041,7 +2041,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Floor Deck Design"
+    "source": "SteelDeck, Chapter 1: Product descriptions — Section: Floor Deck Design — Shear Connectors"
   },
   {
     "id": "M147",
@@ -2055,7 +2055,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IRC, Chapter 5: Floors — Section: R502.6.2"
+    "source": "IRC, Chapter 5: Floors — Section: R502.6 / R502.11 — Joist Support"
   },
   {
     "id": "M148",
@@ -2069,7 +2069,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground"
+    "source": "Concrete, Chapter 8: Joints and Reinforcement for Slabs-on-Ground — Section: Isolation Joints"
   },
   {
     "id": "M149",
@@ -2083,7 +2083,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IRC, Chapter 6: Wall construction — Section: Table R602.3(1)"
+    "source": "IRC, Chapter 6: Wall construction — Section: Table R602.3(1) — Subfloor Sheathing Fastening"
   },
   {
     "id": "M150",
@@ -2097,7 +2097,7 @@
     ],
     "correct": 2,
     "topic": "Floor",
-    "source": "IRC, Chapter 6: Wall construction — Section: Table R602.3(1)"
+    "source": "IRC, Chapter 6: Wall construction — Section: Table R602.3(1) — Field Nailing"
   },
   {
     "id": "M151",
@@ -2111,7 +2111,7 @@
     ],
     "correct": 3,
     "topic": "Floor",
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation"
+    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation — Welding Washers"
   },
   {
     "id": "M152",
@@ -2139,7 +2139,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IRC, Chapter 3: Building planning — Section: Protection of Wood (R317.1)"
+    "source": "IRC, Chapter 3: Building planning — Section: R317.1.3 — Girder Clearances"
   },
   {
     "id": "M154",
@@ -2153,7 +2153,7 @@
     ],
     "correct": 2,
     "topic": "Floor",
-    "source": "IRC, Chapter 3: Building planning — Section: Table R301.7"
+    "source": "IRC, Chapter 3: Building planning — Section: Table R301.7 — Deflection"
   },
   {
     "id": "M155",
@@ -2167,7 +2167,7 @@
     ],
     "correct": 2,
     "topic": "Floor",
-    "source": "IBC, Chapter 16: Structural design"
+    "source": "IBC, Chapter 16: Structural design — Section: 1604.3 — Deflection Limits"
   },
   {
     "id": "M156",
@@ -2181,7 +2181,7 @@
     ],
     "correct": 2,
     "topic": "Floor",
-    "source": "IRC, Chapter 5: Floors — Section: R506.2.3"
+    "source": "IRC, Chapter 5: Floors — Section: R506.2.3 — Vapor Retarder"
   },
   {
     "id": "M157",
@@ -2195,7 +2195,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation"
+    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation — Button Punching"
   },
   {
     "id": "M158",
@@ -2209,7 +2209,7 @@
     ],
     "correct": 0,
     "topic": "Floor",
-    "source": "Carpentry, Chapter 15: Floor Framing"
+    "source": "Carpentry, Chapter 15: Floor Framing — Section: Strongbacks"
   },
   {
     "id": "M159",
@@ -2223,7 +2223,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IRC, Chapter 4: Foundations — Section: R408.4"
+    "source": "IRC, Chapter 4: Foundations — Section: R408.4 — Under-Floor Access"
   },
   {
     "id": "M160",
@@ -2237,7 +2237,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "Carpentry, Chapter 15: Floor Framing"
+    "source": "Carpentry, Chapter 15: Floor Framing — Section: Glued Subfloor"
   },
   {
     "id": "M161",
@@ -2251,7 +2251,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "IRC, Chapter 3: Building planning — Section: Fire-resistant construction (R302.11)"
+    "source": "IRC, Chapter 3: Building planning — Section: R302.11 — Fireblocking"
   },
   {
     "id": "M162",
@@ -2265,7 +2265,7 @@
     ],
     "correct": 0,
     "topic": "Floor",
-    "source": "Carpentry, Chapter 15: Floor Framing"
+    "source": "Carpentry, Chapter 15: Floor Framing — Section: Underlayment Installation"
   },
   {
     "id": "M163",
@@ -2279,7 +2279,7 @@
     ],
     "correct": 2,
     "topic": "Bearing",
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection of K-Series Joists"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Bearing on Masonry"
   },
   {
     "id": "M164",
@@ -2293,7 +2293,7 @@
     ],
     "correct": 2,
     "topic": "Bearing",
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection of K-Series Joists"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Bearing on Steel"
   },
   {
     "id": "M165",
@@ -2307,7 +2307,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "IRC, Chapter 5: Floors"
+    "source": "IRC, Chapter 5: Floors — Section: R502.6 — Bearing"
   },
   {
     "id": "M166",
@@ -2321,7 +2321,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation"
+    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation — Floor Deck Bearing"
   },
   {
     "id": "M167",
@@ -2335,7 +2335,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "Carpentry, Chapter 15: Floor Framing; IRC, Chapter 5: Floors"
+    "source": "Carpentry, Chapter 15: Floor Framing; IRC, Chapter 5: Floors — Section: R502.6 — Joist Bearing"
   },
   {
     "id": "M168",
@@ -2349,7 +2349,7 @@
     ],
     "correct": 3,
     "topic": "Bearing",
-    "source": "Pipe&Excavation, Chapter 6: Soil Compaction"
+    "source": "Pipe&Excavation, Chapter 6: Soil Compaction — Section: Bearing Capacity Testing"
   },
   {
     "id": "M169",
@@ -2363,7 +2363,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "IBC, Chapter 21: Masonry; IBC, Chapter 23: Wood"
+    "source": "IBC, Chapter 21: Masonry; IBC, Chapter 23: Wood — Section: Beam Bearing"
   },
   {
     "id": "M170",
@@ -2377,7 +2377,7 @@
     ],
     "correct": 2,
     "topic": "Bearing",
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection of K-Series Joists"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Erection of K-Series Joists — Masonry Bearing"
   },
   {
     "id": "M171",
@@ -2391,7 +2391,7 @@
     ],
     "correct": 2,
     "topic": "Bearing",
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation"
+    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation — Deck Bearing on Concrete/Masonry"
   },
   {
     "id": "M172",
@@ -2405,7 +2405,7 @@
     ],
     "correct": 2,
     "topic": "Bearing",
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Bearing on Masonry"
   },
   {
     "id": "M173",
@@ -2419,7 +2419,7 @@
     ],
     "correct": 2,
     "topic": "Bearing",
-    "source": "OSHA, Subpart R: Steel Erection — Section: Beams and columns"
+    "source": "OSHA, Subpart R: Steel Erection — Section: Beams and Columns"
   },
   {
     "id": "M174",
@@ -2433,7 +2433,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing"
+    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing — Section: R502.6 — Beam/Girder Bearing"
   },
   {
     "id": "M175",
@@ -2447,7 +2447,7 @@
     ],
     "correct": 3,
     "topic": "Bearing",
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation; IBC, Chapter 22: Steel"
+    "source": "SteelDeck, Chapter 7: Safety notes; IBC, Chapter 22: Steel — Section: Installation — Deck Bearing"
   },
   {
     "id": "M176",
@@ -2461,7 +2461,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "IRC, Chapter 5: Floors; IBC, Chapter 23: Wood; Carpentry, Chapter 15: Floor Framing"
+    "source": "IRC, Chapter 5: Floors; IBC, Chapter 23: Wood; Carpentry, Chapter 15: Floor Framing — Section: R502.6 — Beam Bearing"
   },
   {
     "id": "M177",
@@ -2475,7 +2475,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R403.1.1 / Table R403.1(1) — Footing Width"
   },
   {
     "id": "M178",
@@ -2489,7 +2489,7 @@
     ],
     "correct": 2,
     "topic": "Bearing",
-    "source": "IRC, Chapter 6: Wall construction"
+    "source": "IRC, Chapter 6: Wall construction — Section: R602.6.1 — Nonbearing Stud Holes"
   },
   {
     "id": "M179",
@@ -2503,7 +2503,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "IRC, Chapter 6: Wall construction; Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "IRC, Chapter 6: Wall construction; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: R602.6.1 — Stud Hole Limits"
   },
   {
     "id": "M180",
@@ -2517,7 +2517,7 @@
     ],
     "correct": 0,
     "topic": "Bearing",
-    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing"
+    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing — Section: R502.6 — Bearing Partitions"
   },
   {
     "id": "M181",
@@ -2531,7 +2531,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "SteelDeck, Chapter 4: Loading and shipping — Section: Installation"
+    "source": "SteelDeck, Chapter 4: Loading and shipping — Section: Installation — Deck Bearing on Steel"
   },
   {
     "id": "M182",
@@ -2545,7 +2545,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: LH-Series Bearing on Masonry"
   },
   {
     "id": "M183",
@@ -2559,7 +2559,7 @@
     ],
     "correct": 2,
     "topic": "Bearing",
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: LH-Series Bearing on Steel"
   },
   {
     "id": "M184",
@@ -2573,7 +2573,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "IRC, Chapter 5: Floors — Section: R502.6.1"
+    "source": "IRC, Chapter 5: Floors — Section: R502.6.1 — Joist Lapping"
   },
   {
     "id": "M185",
@@ -2587,7 +2587,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "IRC, Chapter 6: Wall construction — Section: R606.10"
+    "source": "IRC, Chapter 6: Wall construction — Section: R606.10 — Masonry Lintel Bearing"
   },
   {
     "id": "M186",
@@ -2601,7 +2601,7 @@
     ],
     "correct": 2,
     "topic": "Bearing",
-    "source": "IBC, Chapter 18: Soils and foundations — Section: Table 1806.2"
+    "source": "IBC, Chapter 18: Soils and foundations — Section: Table 1806.2 — Presumptive Load-Bearing Values"
   },
   {
     "id": "M187",
@@ -2615,7 +2615,7 @@
     ],
     "correct": 0,
     "topic": "Bearing",
-    "source": "IBC, Chapter 18: Soils and foundations — Section: Table 1806.2"
+    "source": "IBC, Chapter 18: Soils and foundations — Section: Table 1806.2 — Presumptive Load-Bearing Values"
   },
   {
     "id": "M188",
@@ -2629,7 +2629,7 @@
     ],
     "correct": 2,
     "topic": "Bearing",
-    "source": "OSHA, Subpart P: Excavations — Section: Soil Classification"
+    "source": "OSHA, Subpart P: Excavations — Section: Soil Classification — 1926.653"
   },
   {
     "id": "M189",
@@ -2643,7 +2643,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "Carpentry, Chapter 15: Floor Framing"
+    "source": "Carpentry, Chapter 15: Floor Framing — Section: Fire-Cut Beam Ends"
   },
   {
     "id": "M190",
@@ -2657,7 +2657,7 @@
     ],
     "correct": 0,
     "topic": "Bearing",
-    "source": "Carpentry, Chapter 13: Engineered Wood"
+    "source": "Carpentry, Chapter 13: Engineered Wood — Section: Bearing Reinforcement"
   },
   {
     "id": "M191",
@@ -2671,7 +2671,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 5: Floors — Section: R502.8"
+    "source": "IRC, Chapter 5: Floors — Section: R802.5 / R802.7 — Ceiling Joist Notches"
   },
   {
     "id": "M192",
@@ -2685,7 +2685,7 @@
     ],
     "correct": 0,
     "topic": "Bearing",
-    "source": "IRC, Chapter 6: Wall construction — Section: R602.6"
+    "source": "IRC, Chapter 6: Wall construction — Section: R602.6 — Notches in Studs"
   },
   {
     "id": "M193",
@@ -2699,7 +2699,7 @@
     ],
     "correct": 2,
     "topic": "Bearing",
-    "source": "BCSI, B2 — Section: Truss Installation & Temporary Restraint/Bracing"
+    "source": "BCSI, B2 — Section: Truss Installation & Temporary Restraint/Bracing — Bearing/Shimming"
   },
   {
     "id": "M194",
@@ -2713,7 +2713,7 @@
     ],
     "correct": 2,
     "topic": "Bearing",
-    "source": "OSHA, Subpart L: Scaffolds"
+    "source": "OSHA, Subpart L: Scaffolds — Section: 1926.451(c) — Scaffold Foundations"
   },
   {
     "id": "M195",
@@ -2727,7 +2727,7 @@
     ],
     "correct": 0,
     "topic": "Bearing",
-    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement — Section: Reinforced Masonry; IBC, Chapter 21: Masonry — Section: Strength design of masonry"
+    "source": "Masonry, Chapter 11: Anchors, Ties, and Reinforcement; IBC, Chapter 21: Masonry — Section: Reinforced Masonry / Strength Design of Masonry"
   },
   {
     "id": "M196",
@@ -2741,7 +2741,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "OSHA, Subpart CC: Cranes/Derricks"
+    "source": "OSHA, Subpart CC: Cranes/Derricks — Section: 1926.1402 / 1926.1415 — Ground Conditions and Outriggers"
   },
   {
     "id": "M197",
@@ -2755,7 +2755,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "IRC, Chapter 6: Wall construction — Section: Table R602.7(1)"
+    "source": "IRC, Chapter 6: Wall construction — Section: Table R602.7(1) — Headers"
   },
   {
     "id": "M198",
@@ -2769,7 +2769,7 @@
     ],
     "correct": 2,
     "topic": "Bearing",
-    "source": "IRC, Chapter 6: Wall construction"
+    "source": "IRC, Chapter 6: Wall construction — Section: R602.3.2 — Bottom Plate"
   },
   {
     "id": "M199",
@@ -2783,7 +2783,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing — Birdsmouth"
   },
   {
     "id": "M200",
@@ -2797,7 +2797,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "IRC, Chapter 4: Foundations"
+    "source": "IRC, Chapter 4: Foundations — Section: R403.1 — Foundation Support"
   },
   {
     "id": "M201",
@@ -2811,7 +2811,7 @@
     ],
     "correct": 1,
     "topic": "Floor",
-    "source": "OSHA, Subpart H: Materials Handling"
+    "source": "OSHA, Subpart H: Materials Handling — Section: 1926.250(b) — Material Storage"
   },
   {
     "id": "M202",
@@ -2825,7 +2825,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "Carpentry, Chapter 10: Foundation Walls"
+    "source": "Carpentry, Chapter 10: Foundation Walls — Section: Bearing Area"
   },
   {
     "id": "M203",
@@ -2839,7 +2839,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Platform Framing"
   },
   {
     "id": "M204",
@@ -2853,7 +2853,7 @@
     ],
     "correct": 0,
     "topic": "Bearing",
-    "source": "OSHA, Subpart R: Steel Erection"
+    "source": "OSHA, Subpart R: Steel Erection — Section: 1926.754(b) — Column Base Plates"
   },
   {
     "id": "M205",
@@ -2867,7 +2867,7 @@
     ],
     "correct": 0,
     "topic": "Bearing",
-    "source": "BCSI, B1 — Section: Summary Sheet; IRC, Chapter 8: Roof-ceiling construction — Section: R802.6"
+    "source": "BCSI, B1 — Section: Summary Sheet; IRC, Chapter 8: Roof-ceiling construction — Section: R802.6 — Truss Bearing"
   },
   {
     "id": "M206",
@@ -2881,7 +2881,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Joist Girders"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Joist Girders — Bearing on Steel"
   },
   {
     "id": "M207",
@@ -2895,7 +2895,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Joist Girders"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Joist Girders — Bearing on Masonry"
   },
   {
     "id": "M208",
@@ -2923,7 +2923,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "OSHA, Subpart P: Excavations — Section: Soil Classification"
+    "source": "OSHA, Subpart P: Excavations — Section: Soil Classification — 1926.653"
   },
   {
     "id": "M210",
@@ -2937,7 +2937,7 @@
     ],
     "correct": 1,
     "topic": "Bearing",
-    "source": "IRC, Chapter 6: Wall construction — Section: R602.3.2"
+    "source": "IRC, Chapter 6: Wall construction — Section: R602.3.2 — Top Plate Splices"
   },
   {
     "id": "M211",
@@ -2951,7 +2951,7 @@
     ],
     "correct": 0,
     "topic": "Bearing",
-    "source": "IRC, Chapter 6: Wall construction — Section: R602.9"
+    "source": "IRC, Chapter 6: Wall construction — Section: R602.9 — Cripple Walls"
   },
   {
     "id": "M212",
@@ -2965,7 +2965,7 @@
     ],
     "correct": 2,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 12: Wood as a Building Material"
+    "source": "Carpentry, Chapter 12: Wood as a Building Material — Section: Moisture Content"
   },
   {
     "id": "M213",
@@ -2979,7 +2979,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing; IRC, Chapter 6: Wall construction"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: King Studs"
   },
   {
     "id": "M214",
@@ -2993,7 +2993,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Trimmer/Jack Studs"
   },
   {
     "id": "M215",
@@ -3007,7 +3007,7 @@
     ],
     "correct": 2,
     "topic": "Framing",
-    "source": "IRC, Chapter 6: Wall construction"
+    "source": "IRC, Chapter 6: Wall construction — Section: R602.6.1 — Nonbearing Stud Holes"
   },
   {
     "id": "M216",
@@ -3021,7 +3021,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 6: Wall construction; Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "IRC, Chapter 6: Wall construction; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Stud Spacing"
   },
   {
     "id": "M217",
@@ -3035,7 +3035,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 6: Wall construction; Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "IRC, Chapter 6: Wall construction; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: R602.6.1 — Stud Hole Limits"
   },
   {
     "id": "M218",
@@ -3049,7 +3049,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 6: Wall construction; Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "IRC, Chapter 6: Wall construction; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Stud Spacing"
   },
   {
     "id": "M219",
@@ -3063,7 +3063,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 6: Wall construction; Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "IRC, Chapter 6: Wall construction; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Header Support"
   },
   {
     "id": "M220",
@@ -3077,7 +3077,7 @@
     ],
     "correct": 0,
     "topic": "Framing",
-    "source": "IRC, Chapter 6: Wall construction; Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "IRC, Chapter 6: Wall construction; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Sole Plate Fastening"
   },
   {
     "id": "M221",
@@ -3105,7 +3105,7 @@
     ],
     "correct": 2,
     "topic": "Framing",
-    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing"
+    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing — Section: Table R502.3.1(1) — Joist Span"
   },
   {
     "id": "M223",
@@ -3119,7 +3119,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 8: Roof-ceiling construction; Carpentry, Chapter 17: Basic Roof Framing — Section: Installing Ceiling Joists"
+    "source": "IRC, Chapter 8: Roof-ceiling construction; Carpentry, Chapter 17: Basic Roof Framing — Section: Installing Ceiling Joists — Span"
   },
   {
     "id": "M224",
@@ -3133,7 +3133,7 @@
     ],
     "correct": 3,
     "topic": "Framing",
-    "source": "IRC, Chapter 5: Floors"
+    "source": "IRC, Chapter 5: Floors — Section: R502.8 — Notches"
   },
   {
     "id": "M225",
@@ -3147,7 +3147,7 @@
     ],
     "correct": 0,
     "topic": "Framing",
-    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing"
+    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing — Section: R502.8 — Notches"
   },
   {
     "id": "M226",
@@ -3161,7 +3161,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing"
+    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing — Section: R502.8.1 — Bored Holes"
   },
   {
     "id": "M227",
@@ -3175,7 +3175,7 @@
     ],
     "correct": 0,
     "topic": "Framing",
-    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing"
+    "source": "IRC, Chapter 5: Floors; Carpentry, Chapter 15: Floor Framing — Section: R502.6 — Bearing Partitions"
   },
   {
     "id": "M228",
@@ -3189,7 +3189,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 8: Roof-ceiling construction"
+    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R802.11 — Rafter Ties/Anchorage"
   },
   {
     "id": "M229",
@@ -3203,7 +3203,7 @@
     ],
     "correct": 0,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Balloon Framing"
   },
   {
     "id": "M230",
@@ -3231,7 +3231,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 15: Floor Framing"
+    "source": "Carpentry, Chapter 15: Floor Framing — Section: Crown of Lumber"
   },
   {
     "id": "M232",
@@ -3245,7 +3245,7 @@
     ],
     "correct": 0,
     "topic": "Framing",
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products; OSHA, Subpart R: Steel Erection"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products; OSHA, Subpart R: Steel Erection — Section: Stabilizer Plates"
   },
   {
     "id": "M233",
@@ -3259,7 +3259,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads; OSHA, Subpart R: Steel Erection"
+    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads; OSHA, Subpart R: Steel Erection — Section: Long-Span Joists and Bridging"
   },
   {
     "id": "M234",
@@ -3273,7 +3273,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Joist Orientation and Camber"
   },
   {
     "id": "M235",
@@ -3287,7 +3287,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "SteelJoists, Chapter 3: Loading and Shipping — Section: Delivery, Unloading and Storage"
+    "source": "SteelJoists, Chapter 3: Loading and Shipping — Section: Delivery, Unloading and Storage — Sweep"
   },
   {
     "id": "M236",
@@ -3301,7 +3301,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads"
+    "source": "SteelJoists, Chapter 8: Bridging and Placing of Construction Loads — Section: Uplift Bracing"
   },
   {
     "id": "M237",
@@ -3315,7 +3315,7 @@
     ],
     "correct": 0,
     "topic": "Framing",
-    "source": "BCSI, B1 — Section: Summary Sheet; OSHA, Subpart R: Steel Erection"
+    "source": "BCSI, B1 — Section: Summary Sheet; OSHA, Subpart R: Steel Erection — Section: Truss Placement Diagram"
   },
   {
     "id": "M238",
@@ -3343,7 +3343,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "BCSI, Introduction"
+    "source": "BCSI, Introduction — Section: Terminology"
   },
   {
     "id": "M240",
@@ -3371,7 +3371,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "BCSI, B1 — Section: Summary Sheet; OSHA, Subpart R: Steel Erection"
+    "source": "BCSI, B1 — Section: Summary Sheet / Temporary Bracing"
   },
   {
     "id": "M242",
@@ -3385,7 +3385,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "OSHA, Subpart R: Steel Erection; SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection"
+    "source": "OSHA, Subpart R: Steel Erection; SteelDeck, Chapter 5: Receiving, unloading, storage and protection — Section: Erection — Beam-Column Connection"
   },
   {
     "id": "M243",
@@ -3399,7 +3399,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation; IBC, Chapter 22: Steel"
+    "source": "SteelDeck, Chapter 7: Safety notes; IBC, Chapter 22: Steel — Section: Installation — Support Fasteners"
   },
   {
     "id": "M244",
@@ -3413,7 +3413,7 @@
     ],
     "correct": 2,
     "topic": "Framing",
-    "source": "SteelDeck, Chapter 4: Loading and shipping — Section: Installation; IBC, Chapter 22: Steel"
+    "source": "SteelDeck, Chapter 4: Loading and shipping; IBC, Chapter 22: Steel — Section: Installation — Sidelap Fasteners"
   },
   {
     "id": "M245",
@@ -3427,7 +3427,7 @@
     ],
     "correct": 3,
     "topic": "Framing",
-    "source": "SteelDeck, Chapter 4: Loading and shipping — Section: Roof Deck Design; IBC, Chapter 22: Steel"
+    "source": "SteelDeck, Chapter 4: Loading and shipping; IBC, Chapter 22: Steel — Section: Roof Deck Design — Cantilever"
   },
   {
     "id": "M246",
@@ -3441,7 +3441,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 6: Wall construction — Section: R602.3.2"
+    "source": "IRC, Chapter 6: Wall construction — Section: R602.3.2 — Top Plate Splices"
   },
   {
     "id": "M247",
@@ -3455,7 +3455,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R802.4.6"
+    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R802.3.1 / R802.3.2 — Collar Ties"
   },
   {
     "id": "M248",
@@ -3469,7 +3469,7 @@
     ],
     "correct": 2,
     "topic": "Framing",
-    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R802.3.1"
+    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R802.3.1 — Rafter Ties"
   },
   {
     "id": "M249",
@@ -3483,7 +3483,7 @@
     ],
     "correct": 0,
     "topic": "Framing",
-    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R802.3"
+    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R802.3 — Ridge Boards"
   },
   {
     "id": "M250",
@@ -3497,7 +3497,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 3: Building planning — Section: Fire-resistant construction (R302.11)"
+    "source": "IRC, Chapter 3: Building planning — Section: R302.11 — Fireblocking"
   },
   {
     "id": "M251",
@@ -3511,7 +3511,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 6: Wall construction — Section: R602.6.1"
+    "source": "IRC, Chapter 6: Wall construction — Section: R602.6.1 — Top Plate Penetration Protection"
   },
   {
     "id": "M252",
@@ -3525,7 +3525,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Window Rough Openings"
   },
   {
     "id": "M253",
@@ -3539,7 +3539,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R802.5.1"
+    "source": "IRC, Chapter 8: Roof-ceiling construction — Section: R802.5.1 — Purlin Struts"
   },
   {
     "id": "M254",
@@ -3553,7 +3553,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 6: Wall construction — Section: Table R602.3(1)"
+    "source": "IRC, Chapter 6: Wall construction — Section: Table R602.3(1) — Sheathing Fastening"
   },
   {
     "id": "M255",
@@ -3567,7 +3567,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "SteelJoists, Chapter 5: Erecting Joist Products"
+    "source": "SteelJoists, Chapter 5: Erecting Joist Products — Section: Welded Seat Connection"
   },
   {
     "id": "M256",
@@ -3581,7 +3581,7 @@
     ],
     "correct": 2,
     "topic": "Framing",
-    "source": "BCSI, B1 — Section: Summary Sheet"
+    "source": "BCSI, B1 — Section: Summary Sheet — Truss Alignment"
   },
   {
     "id": "M257",
@@ -3595,7 +3595,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 13: Engineered Wood"
+    "source": "Carpentry, Chapter 13: Engineered Wood — Section: Bearing Reinforcement"
   },
   {
     "id": "M258",
@@ -3609,7 +3609,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing; IRC, Chapter 6: Wall construction — Section: R602.10"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing; IRC, Chapter 6: Wall construction — Section: R602.10 — Let-In Bracing"
   },
   {
     "id": "M259",
@@ -3623,7 +3623,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 6: Wall construction — Section: R602.3.2"
+    "source": "IRC, Chapter 6: Wall construction — Section: R602.3.2 — Top Plate Splices"
   },
   {
     "id": "M260",
@@ -3637,7 +3637,7 @@
     ],
     "correct": 2,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing; IRC, Chapter 8: Roof-ceiling construction — Section: R802.3"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing; IRC, Chapter 8: Roof-ceiling construction — Section: Roof framing / R802.3 — Hip and Valley Rafters"
   },
   {
     "id": "M261",
@@ -3651,7 +3651,7 @@
     ],
     "correct": 2,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Rough Openings"
   },
   {
     "id": "M262",
@@ -3665,7 +3665,7 @@
     ],
     "correct": 3,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Advanced Framing"
   },
   {
     "id": "M263",
@@ -3679,7 +3679,7 @@
     ],
     "correct": 2,
     "topic": "Framing",
-    "source": "IRC, Chapter 6: Wall construction — Section: Table R602.3(1)"
+    "source": "IRC, Chapter 6: Wall construction — Section: Table R602.3(1) — Built-Up Posts"
   },
   {
     "id": "M264",
@@ -3693,7 +3693,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 17: Basic Roof Framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof Framing — Truss Web Members"
   },
   {
     "id": "M265",
@@ -3707,7 +3707,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 6: Wall construction"
+    "source": "IRC, Chapter 6: Wall construction — Section: R602.10 / Table R602.3(3) — Wall Bracing Panels"
   },
   {
     "id": "M266",
@@ -3721,7 +3721,7 @@
     ],
     "correct": 2,
     "topic": "Framing",
-    "source": "IRC, Chapter 5: Floors — Section: R502.3.3"
+    "source": "IRC, Chapter 5: Floors — Section: R502.3.3 — Cantilevered Joists"
   },
   {
     "id": "M267",
@@ -3735,7 +3735,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing"
+    "source": "Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Layout/Story Pole"
   },
   {
     "id": "M268",
@@ -3749,7 +3749,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing — Lookouts"
   },
   {
     "id": "M269",
@@ -3763,7 +3763,7 @@
     ],
     "correct": 0,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 29: Steel Framing Basics"
+    "source": "Carpentry, Chapter 29: Steel Framing Basics — Section: Web Stiffeners"
   },
   {
     "id": "M270",
@@ -3777,7 +3777,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 6: Wall construction — Section: Table R602.3(1)"
+    "source": "IRC, Chapter 6: Wall construction — Section: Table R602.3(1) — Ceiling Joist Fastening"
   },
   {
     "id": "M271",
@@ -3791,7 +3791,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IBC, Chapter 16: Structural design; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Shear walls"
+    "source": "IBC, Chapter 16: Structural design; Carpentry, Chapter 16: Wall Framing & Sheathing — Section: Shear Walls"
   },
   {
     "id": "M272",
@@ -3805,7 +3805,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 17: Basic Roof Framing"
+    "source": "Carpentry, Chapter 17: Basic Roof Framing — Section: Roof framing — Heel"
   },
   {
     "id": "M273",
@@ -3819,7 +3819,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "Carpentry, Chapter 13: Engineered Wood"
+    "source": "Carpentry, Chapter 13: Engineered Wood — Section: Rim Board"
   },
   {
     "id": "M274",
@@ -3833,7 +3833,7 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation"
+    "source": "SteelDeck, Chapter 7: Safety notes — Section: Installation — Puddle Welds"
   },
   {
     "id": "M275",
@@ -3847,6 +3847,6 @@
     ],
     "correct": 1,
     "topic": "Framing",
-    "source": "IRC, Chapter 6: Wall construction"
+    "source": "IRC, Chapter 6: Wall construction — Section: R602.10 — Let-In Bracing"
   }
 ]
