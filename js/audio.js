@@ -492,7 +492,13 @@ export function jumpToNumber(rawValue) {
   if (!items || items.length === 0) { toast('Nothing to jump to.', 'error'); return; }
 
   const value = String(rawValue || '').trim().toUpperCase();
-  if (!value) return;
+  if (!value) {
+    // Task requirement: empty input gets clear feedback instead of silently
+    // doing nothing (the printed placeholder already shows the valid range,
+    // e.g. "1-2133" or "T1-T348").
+    toast(`Enter a question number (${items[0].displayId}-${items[items.length - 1].displayId}).`, 'error');
+    return;
+  }
 
   let target = items.findIndex((item) => String(item.displayId).toUpperCase() === value);
   if (target < 0) {
@@ -500,7 +506,10 @@ export function jumpToNumber(rawValue) {
     if (Number.isFinite(asNumber) && asNumber >= 1 && asNumber <= items.length) target = asNumber - 1;
   }
   if (target < 0) {
-    toast(`Question ${value} is not in the current list.`, 'error');
+    // Covers both "not a number at all" and "a number outside this list's
+    // range" (e.g. filters are active and narrowed the list) with the same
+    // clear, non-throwing feedback rather than guessing a nearby question.
+    toast(`Question ${value} is not in the current list (${items[0].displayId}-${items[items.length - 1].displayId}).`, 'error');
     return;
   }
 

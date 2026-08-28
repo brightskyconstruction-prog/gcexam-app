@@ -437,6 +437,84 @@ async function copyCard(card) {
 }
 
 /* ==========================================================================
+   Share
+   ========================================================================== */
+
+function shareData() {
+  return {
+    title: 'GC Exam Master',
+    text: 'GC Exam Master — Georgia General Contractor Exam Study App',
+    url: window.location.href
+  };
+}
+
+/* Native Web Share API first (the OS-level sheet on mobile browsers and most
+   modern desktop browsers); a small in-app modal with Copy Link / WhatsApp /
+   Email covers everywhere else. No extra libraries either way. */
+async function shareApp() {
+  playSound('click');
+  const data = shareData();
+
+  if (navigator.share) {
+    try {
+      await navigator.share(data);
+    } catch (err) {
+      // AbortError just means the user closed the native sheet — not a
+      // failure worth reporting.
+      if (err && err.name !== 'AbortError') {
+        console.warn('share failed, falling back', err);
+        openShareFallback();
+      }
+    }
+    return;
+  }
+
+  openShareFallback();
+}
+
+function openShareFallback() {
+  const { text, url } = shareData();
+  if (els.shareWhatsapp) els.shareWhatsapp.href = `https://wa.me/?text=${encodeURIComponent(`${text} ${url}`)}`;
+  if (els.shareEmail) els.shareEmail.href = `mailto:?subject=${encodeURIComponent('GC Exam Master')}&body=${encodeURIComponent(`${text}\n${url}`)}`;
+  openModal(els.shareModal, els.shareModal.querySelector('.icon-btn'));
+}
+
+async function copyShareLink() {
+  const { url } = shareData();
+  try {
+    if (navigator.clipboard && window.isSecureContext) {
+      await navigator.clipboard.writeText(url);
+    } else {
+      const area = document.createElement('textarea');
+      area.value = url;
+      area.setAttribute('readonly', '');
+      area.className = 'visually-hidden';
+      document.body.appendChild(area);
+      area.select();
+      document.execCommand('copy');
+      area.remove();
+    }
+    toast('Link copied!', 'success');
+  } catch (err) {
+    console.error('copy link failed', err);
+    toast('Could not copy the link.', 'error');
+  }
+}
+
+/* Clicks are delegated through a single listener that always calls
+   event.preventDefault() for anything carrying data-action (see wireEvents
+   below) — including these two real <a href> elements. Their native
+   navigation is replaced here with the equivalent explicit action so the
+   share links still work exactly like tapping a normal WhatsApp/mailto link. */
+function openWhatsAppShare(node) {
+  window.open(node.href, '_blank', 'noopener,noreferrer');
+}
+
+function openEmailShare(node) {
+  window.location.href = node.href;
+}
+
+/* ==========================================================================
    Expand / collapse
    ========================================================================== */
 
@@ -711,6 +789,13 @@ const CLICK_ACTIONS = {
   'clear-diagram': (node) => clearMediaField(node, 'diagrams', 'img'),
   'clear-media': (node) => clearMediaField(node, 'updates', 'media'),
 
+  // Share
+  'share-app': () => shareApp(),
+  'share-copy': () => copyShareLink(),
+  'share-whatsapp': (node) => openWhatsAppShare(node),
+  'share-email': (node) => openEmailShare(node),
+  'close-share-modal': () => closeModal(els.shareModal),
+
   // Study material
   'create-folder': () => createNewFolder(),
   'open-folder': (node) => openFolder(node.dataset.folder),
@@ -858,6 +943,7 @@ function wireEvents() {
       if (!event.target.closest('.menu-wrapper')) closeAllMenus();
       if (event.target === els.fsModal) closeFullScreen();          // backdrop click
       if (event.target === els.noteModal) closeAddNoteModal();
+      if (event.target === els.shareModal) closeModal(els.shareModal);
       return;
     }
 
@@ -898,6 +984,7 @@ function wireEvents() {
       const modal = topModal();
       if (modal === els.fsModal) { closeFullScreen(); return; }
       if (modal === els.noteModal) { closeAddNoteModal(); return; }
+      if (modal === els.shareModal) { closeModal(els.shareModal); return; }
       if (modal === els.confirmModal) { resolveConfirm(false); return; }
       if (document.querySelector('.menu-dropdown.show')) { closeAllMenus(); return; }
     }

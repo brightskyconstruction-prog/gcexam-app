@@ -313,8 +313,20 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   /* Bug #43/#47: no blanket `will-change`, and only the first painted chunk
      animates (`.card--enter`), not all 1001 cards at once.                  */
   content-visibility: auto;
-  contain-intrinsic-size: auto 120px;
+  /* Laptop scroll-jank fix, part 3: a single 120px estimate was used for
+     every card regardless of state. A collapsed card and a revealed one
+     (question + full answer + citation, sometimes a chapter/diagram editor)
+     differ by several hundred pixels, so scrolling a long list constantly
+     hit the worst case for `content-visibility: auto` — the browser paints
+     an off-screen card at the guessed height, then has to immediately
+     re-layout everything below it the instant that guess turns out wrong as
+     the card scrolls into view. Splitting the estimate by state keeps each
+     one close to reality, which is what actually removes the stutter (this
+     is a companion fix to the two above, not a replacement for them).       */
+  contain-intrinsic-size: auto 96px;
+  scroll-margin-top: var(--sp-7);
 }
+.card.revealed { contain-intrinsic-size: auto 340px; }
 .card--enter { animation: fadeInUp var(--dur-slow) ease-out both; }
 
 /* Bug #64: keep the lift off touch devices, where :hover sticks. */
@@ -984,6 +996,17 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
 .confirm-actions .btn { flex: 1; }
 .btn.danger { background: var(--danger); color: #fff; border-color: var(--danger); }
 
+/* --- Share fallback (native Web Share API is used first when available) - */
+.share-box { max-width: 420px; margin: 0 auto; }
+.share-options { display: flex; flex-direction: column; gap: var(--sp-3); }
+.share-option {
+  width: 100%;
+  justify-content: flex-start;
+  text-decoration: none;
+  font-size: var(--fs-md);
+  padding: var(--sp-4) var(--sp-5);
+}
+
 /* ==========================================================================
    10. AUDIO PLAYER
    ========================================================================== */
@@ -1207,15 +1230,31 @@ option { background-color: var(--input-bg); color: var(--text-main); padding: va
   }
 }
 
-/* --- Desktop ------------------------------------------------------------- */
+/* --- Desktop --------------------------------------------------------------
+   Bug (laptop layout): --container-max used to freeze at 1080px past 1024px,
+   so anything from a 1366px laptop up to a 27" monitor rendered the exact
+   same narrow column with huge idle margins on both sides. Widened in three
+   steps that track real laptop/desktop resolutions (1280/1366 -> 1440/1536 ->
+   1920+) instead of one flat number, and capped well short of "full bleed"
+   on very large monitors so line lengths and control rows stay comfortable. */
 @media (min-width: 1024px) {
-  :root { --container-max: 1080px; }
+  :root { --container-max: 1180px; }
   .card-header { padding: var(--sp-7); }
   .q-text { font-size: 1.1rem; }
-  .audio-player { max-width: 520px; }
+  .audio-player { max-width: 640px; }
   .control-row--modes { grid-template-columns: repeat(7, 1fr) auto; }
   .control-row--modes .btn.sfx { grid-row: auto; grid-column: auto; }
   .folder-grid { grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); }
+}
+
+@media (min-width: 1440px) {
+  :root { --container-max: 1320px; }
+  .audio-player { max-width: 720px; }
+}
+
+@media (min-width: 1920px) {
+  :root { --container-max: 1480px; }
+  .audio-player { max-width: 800px; }
 }
 
 /* --- Landscape phones: the player must not eat the whole viewport --------- */

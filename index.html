@@ -27,6 +27,9 @@
 
 <div class="container">
   <header>
+    <button type="button" class="share-btn" id="btn-share" data-action="share-app" aria-label="Share GC Exam Master">
+      <span aria-hidden="true">🔗</span><span class="share-btn-label">Share</span>
+    </button>
     <h1>GC Exam Master</h1>
     <p class="subtitle">S2 Edition</p>
     <p class="sync-status" id="syncStatus" data-state="connecting" role="status" aria-live="polite">⏳ Connecting…</p>
@@ -186,6 +189,21 @@
     <div class="confirm-actions">
       <button type="button" class="btn" id="confirmCancel" data-action="confirm-cancel">Cancel</button>
       <button type="button" class="btn primary" id="confirmOk" data-action="confirm-ok">Confirm</button>
+    </div>
+  </div>
+</div>
+
+<!-- ============ Share fallback (native Web Share API used when available) ============ -->
+<div id="shareModal" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="shareModalTitle" aria-hidden="true">
+  <div class="modal-content share-box">
+    <div class="modal-header">
+      <h2 id="shareModalTitle">Share GC Exam Master</h2>
+      <button type="button" class="icon-btn" data-action="close-share-modal" aria-label="Close share menu">✕</button>
+    </div>
+    <div class="share-options">
+      <button type="button" class="btn share-option" data-action="share-copy">🔗 Copy Link</button>
+      <a class="btn share-option" id="shareWhatsapp" data-action="share-whatsapp" href="https://wa.me/" target="_blank" rel="noopener noreferrer">💬 WhatsApp</a>
+      <a class="btn share-option" id="shareEmail" data-action="share-email" href="mailto:">✉️ Email</a>
     </div>
   </div>
 </div>

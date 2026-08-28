@@ -25,7 +25,7 @@ export function cacheEls() {
     'statusDisplay', 'jumpInput', 'btn-sfx', 'fsModal', 'fsImage', 'noteModal', 'modalTitle',
     'modalNoteText', 'modalNoteLink', 'modalNoteImgUrl', 'modalNoteImg', 'modalImgPreview',
     'toastHost', 'confirmModal', 'confirmText', 'confirmInput', 'confirmOk', 'confirmCancel',
-    'syncStatus'
+    'syncStatus', 'btn-share', 'shareModal', 'shareWhatsapp', 'shareEmail'
   ];
   for (const id of ids) els[id] = document.getElementById(id);
   return els;
@@ -573,25 +573,52 @@ export function clearHighlight() {
   }
 }
 
-export function highlightIndex(index) {
+/* Live-site bug (Go-to-question / TTS auto-scroll landing in the wrong
+   place): this used to call scrollIntoView() with `block: 'center'` BEFORE
+   revealing the card. The reveal toggles `.answer-box` from a 0fr to a 1fr
+   CSS grid row over --dur-slow (300ms), which can add several hundred pixels
+   below the card's header — so the browser calculated "center" against the
+   short, still-collapsed box, and then the card kept growing underneath the
+   already-settled scroll position. The user was left exactly where the bug
+   report described: "scrolls approximately toward the location... must
+   manually scroll further."
+
+   Fixed two ways together: (1) the card is revealed FIRST, so its DOM state
+   is final before any scroll math runs, and (2) alignment switched to
+   `block: 'start'` — anchoring the TOP edge is immune to the card growing
+   taller below that edge, so it no longer matters whether the browser
+   samples the layout before or after the reveal transition finishes. The
+   remaining offset work (top breathing room, keeping clear of the fixed
+   audio player at the bottom) is handled declaratively by `scroll-margin-top`
+   on .card and `scroll-padding-top`/`scroll-padding-bottom` on <html> in
+   base.css, rather than a hand-computed pixel offset here. */
+export function highlightIndex(index, attempt = 0) {
   clearHighlight();
   const container = isStudyView() ? els['quiz-list'] : els['mcq-view'];
   const card = container.children[index];
-  if (!card || !card.classList.contains('card')) return;
 
-  card.classList.add('active-reading');
-  highlighted = card;
-  card.scrollIntoView({
-    behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth',
-    block: 'center'
-  });
+  if (!card || !card.classList.contains('card')) {
+    // The chunked renderer (CHUNK_SIZE cards per animation frame) may not
+    // have reached this index yet on a very large filtered list. Retry for a
+    // few frames instead of silently landing nowhere.
+    if (attempt < 30) requestAnimationFrame(() => highlightIndex(index, attempt + 1));
+    return;
+  }
 
   /* Bug #298 in the audit (19209): auto-revealed cards used to collapse on the
-     next re-render because they were never recorded as expanded. */
+     next re-render because they were never recorded as expanded. Now applied
+     before the scroll (see comment above) instead of after it. */
   if (isStudyView()) {
     card.classList.add('revealed');
     const trigger = card.querySelector('[data-action="toggle-card"]');
     if (trigger) trigger.setAttribute('aria-expanded', 'true');
     if (card.dataset.id) expandedSet().add(card.dataset.id);
   }
+
+  card.classList.add('active-reading');
+  highlighted = card;
+  card.scrollIntoView({
+    behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth',
+    block: 'start'
+  });
 }
