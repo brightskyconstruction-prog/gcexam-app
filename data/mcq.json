@@ -5093,7 +5093,7 @@
       "Installing wall ties"
     ],
     "correct": 1,
-    "source": "Masonry, Chapter 13: Laying Block — Section: Cleaning and Maintenance"
+    "source": "Masonry, Chapter 13: Laying Block — Section: Pointing and Tuckpointing"
   },
   {
     "id": "Q393",
@@ -8468,7 +8468,7 @@
     "q": "Grading around a building should slope away from the foundation at a minimum of: ",
     "options": [
       "2% (1/4 inch per foot)",
-      "5% (6 inches in the first 10 feet)",
+      "5% (1 unit vertical in 20 units horizontal)",
       "10%",
       "Flat"
     ],
@@ -11470,7 +11470,7 @@
     "legacyKey": "Fastening of the sole plate (bottom plate) to wood floor joists typically requires:",
     "q": "Fastening of the sole plate (bottom plate) to wood floor joists typically requires:",
     "options": [
-      "16d nails at 16\" o.c.",
+      "16d nails at 16 in. o.c.",
       "10d nails at 24\" o.c.",
       "screws only",
       "Glue only"
